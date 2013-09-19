@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>ดีใจ</item>
+        <item>เศร้า</item>
+        <item>ขยิบตา</item>
+        <item>แลบลิ้น</item>
+        <item>ประหลาดใจ</item>
+        <item>จุมพิต</item>
+        <item>ตะโกน</item>
+        <item>น่าสนใจ</item>
+        <item>เงินปิดปาก</item>
+        <item>เท้าปิดปาก</item>
+        <item>อาย</item>
+        <item>เทพ</item>
+        <item>ไม่แน่ใจ</item>
+        <item>ร้องไห้</item>
+        <item>รูดซิปปาก</item>
+        <item>หัวเราะ</item>
+        <item>สับสน</item>
+        <item>หัวใจ</item>
+        <item>โกรธ</item>
+        <item>แสยะยิ้ม</item>
+        <item>หน้าโป๊กเกอร์</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>ไม่มีหัวเรื่อง</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>คุณอยู่ที่ไหน?</item>
+        <item>คุณกำลังทำอะไร?</item>
+        <item>โทรกลับ! ได้โปรด!</item>
+        <item>ขออภัย ขณะนี้ฉันมีประชุม</item>
+        <item>เดี๋ยวโทรกลับ</item>
+        <item>ไม่ต้องกังวล! ฉันสบายดี</item>
+        <item>กำลังกลับบ้าน</item>
+        <item>ถึงในไม่ช้า</item>
+        <item>ไปให้ได้ ทุกคนมาหมด!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>โหมดจำกัด</item>
+        <item>โหมดการเตือน</item>
+        <item>โหมดอิสระ</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>สูง</item>
+        <item>ปกติ</item>
+        <item>ต่ำ</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>ตัวอักษร GSM</item>
+        <item>ยูนิโคด</item>
+        <item>อัตโนมัติ</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>โทรศัพท์</item>
+        <item>SIM การ์ด</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>อุปกรณ์</item>
+        <item>SIM การ์ด</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>ปรับตามขนาดแบบอักษรของระบบ</item>
+        <item>ขนาดเล็ก</item>
+        <item>ปานกลาง</item>
+        <item>ใหญ่</item>
+        <item>ใหญ่พิเศษ</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 วินาที</item>
+        <item>2 วินาที</item>
+        <item>3 วินาที</item>
+        <item>4 วินาที</item>
+        <item>5 วินาที</item>
+        <item>6 วินาที</item>
+        <item>7 วินาที</item>
+        <item>8 วินาที</item>
+        <item>9 วินาที</item>
+        <item>10 วินาที</item>
+        <item>อื่นๆ…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>ทุกครั้ง</item>
+        <item>เฉพาะเมื่อปิดเสียง</item>
+        <item>ไม่ต้องเลย</item>
+    </string-array>
+</resources>

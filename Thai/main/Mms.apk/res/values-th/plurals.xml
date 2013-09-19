@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">กำลังส่ง %d รายงานการอ่าน</item>
+        <item quantity="one">กำลังส่ง %d รายงานการอ่าน</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">เลือกไว้แล้ว%d รายการ</item>
+        <item quantity="one">เลือกไว้แล้ว%d รายการ</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">%1$s บทสนทนาถูกลบออกแล้ว</item>
+        <item quantity="one">หนึ่งบทสนทนาถูกลบออกแล้ว</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">ผลลัพธ์ %1$s รายการสำหรับ \"%2$s\"</item>
+        <item quantity="one">ผลลัพธ์ %1$s รายการสำหรับ \"%2$s\"</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s วินาที</item>
+        <item quantity="one">%sวินาที</item>
+        <item quantity="few">%s วินาที</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s การสนทนาจะถูกลบ</item>
+        <item quantity="one">การสนทนาหนึ่งจะถูกลบ</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d ข้อความที่ยังไม่อ่าน</item>
+        <item quantity="one">%d ข้อความที่ไม่ได้อ่าน</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">อีก %1$s ข้อความ</item>
+        <item quantity="one">อีก %1$s ข้อความ</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s คน</item>
+    </plurals>
+</resources>

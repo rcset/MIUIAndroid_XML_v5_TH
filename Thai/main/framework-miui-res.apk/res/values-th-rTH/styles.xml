@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="V5.TextAppearance.List" parent="@style/V5.TextAppearance">
+        <item name="android:textSize">@dimen/v5_text_font_size_list_primary</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?v5_list_text_color</item>
+    </style>
+    <style name="V5.TextAppearance.PreferenceCategory" parent="@style/V5.TextAppearance">
+        <item name="android:textSize">@dimen/v5_text_font_size_preference_category</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?v5_secondary_text_color</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="V5.TextAppearance.PreferenceList" parent="@style/V5.TextAppearance">
+        <item name="android:textSize">@dimen/v5_text_font_size_primary</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?v5_checkable_list_item_text_color</item>
+    </style>
+</resources>
