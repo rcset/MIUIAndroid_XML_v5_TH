@@ -69,8 +69,8 @@
     <string name="screen_bright_wake_summary">หน้าจอจะไม่ดับในขณะเล่นเพลง</string>
     <string name="keep_quit_position_settings">จำหน้าจอล่าสุด</string>
     <string name="keep_quit_position_summary">ไปที่หน้าจอสุดท้ายที่คุณดูเมื่อเปิดเพลงโดยอัตโนมัติ</string>
-    <string name="fade_effect_settings">Crossfade</string>
-    <string name="fade_effect_summary">Crossfade volume between song transitions</string>
+    <string name="fade_effect_settings">ลดระดับเสียง</string>
+    <string name="fade_effect_summary">ลดระดับเสียงระหว่างเปลี่ยนเพลง</string>
     <string name="filter_notification">แทร็คที่เลือกถูกลบออกโดยตัวกรอง</string>
     <string name="delete_item">ลบ</string>
     <string name="remove_item">เอาออก</string>
