@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="equalizer_presents">
-        <item>Normal</item>
-        <item>Classic</item>
-        <item>Dance</item>
-        <item>Folk</item>
-        <item>Heavy Metal</item>
-        <item>Hip-Hop</item>
-        <item>Jazz</item>
-        <item>Pop</item>
-        <item>Rock</item>
+        <item>ปกติ</item>
+        <item>คลาสสิค</item>
+        <item>แดนซ์</item>
+        <item>โฟค</item>
+        <item>เฮฟวี่ เมทัล</item>
+        <item>ฮิป-ฮอป</item>
+        <item>แจ๊ส</item>
+        <item>ป๊อบ</item>
+        <item>ร็อก</item>
     </string-array>
     <string-array name="weeklist">
         <item>1 สัปดาห์</item>
