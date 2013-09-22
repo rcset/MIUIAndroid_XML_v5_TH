@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_video_continuous_focus_entryvalues">
+        <item>caf-off</item>
+        <item>caf-on</item>
+    </string-array>
+    <string-array name="pref_camera_jpegquality_entryvalues">
+        <item>superfine</item>
+        <item>fine</item>
+        <item>normal</item>
+    </string-array>
+    <string-array name="pref_camera_focusmode_entryvalues">
+        <item>auto</item>
+        <item>normal</item>
+        <item>infinity</item>
+        <item>macro</item>
+        <item>continuous-picture</item>
+    </string-array>
+    <string-array name="pref_camera_flashmode_entryvalues">
+        <item>auto</item>
+        <item>on</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="pref_camera_skin_beautify_entryvalues">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="pref_camera_video_flashmode_entryvalues">
+        <item>torch</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="pref_camera_recordlocation_entryvalues">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="pref_camera_whitebalance_entryvalues">
+        <item>auto</item>
+        <item>incandescent</item>
+        <item>daylight</item>
+        <item>fluorescent</item>
+        <item>cloudy-daylight</item>
+    </string-array>
+    <string-array name="pref_camera_coloreffect_entryvalues">
+        <item>none</item>
+        <item>mono</item>
+        <item>sepia</item>
+        <item>negative</item>
+        <item>posterize</item>
+        <item>aqua</item>
+        <item>blackboard</item>
+        <item>whiteboard</item>
+        <item>sepiablue</item>
+    </string-array>
+    <string-array name="pref_camera_face_detect_entries">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="pref_camera_touchafaec_entryvalues">
+        <item>touch-off</item>
+        <item>touch-on</item>
+    </string-array>
+    <string-array name="pref_camera_referenceline_entryvalues">
+        <item>referenceline-off</item>
+        <item>referenceline-on</item>
+    </string-array>
+    <string-array name="pref_camera_multilevel_sharpness_entryvalues">
+        <item>low</item>
+        <item>middle</item>
+        <item>high</item>
+    </string-array>
+    <string-array name="pref_camera_multilevel_entryvalues">
+        <item>low</item>
+        <item>middle</item>
+        <item>high</item>
+    </string-array>
+    <string-array name="pref_camera_scenemode_entryvalues">
+        <item>off</item>
+        <item>auto</item>
+        <item>portrait</item>
+        <item>landscape</item>
+        <item>sports</item>
+        <item>night</item>
+        <item>night-portrait</item>
+        <item>beach</item>
+        <item>snow</item>
+        <item>sunset</item>
+        <item>fireworks</item>
+        <item>backlight</item>
+        <item>flowers</item>
+    </string-array>
+    <string-array name="pref_camera_antibanding_entryvalues">
+        <item>off</item>
+        <item>50hz</item>
+        <item>60hz</item>
+        <item>auto</item>
+    </string-array>
+    <string-array name="pref_camera_volumekey_function_entryvalues">
+        <item>shutter</item>
+        <item>zoom</item>
+    </string-array>
+    <string-array name="pref_camera_redeyereduction_entryvalues">
+        <item>auto</item>
+        <item>enable</item>
+        <item>disable</item>
+    </string-array>
+    <string-array name="pref_camera_auto_focus_entryvalues">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="pref_camera_facedetection_entryvalues">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="pref_camera_burst_shooting_entryvalues">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="pref_camera_focusmode_default_array">
+        <item>auto</item>
+        <item>continuous-picture</item>
+    </string-array>
+</resources>
