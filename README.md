@@ -1,4 +1,4 @@
-MIUI V5 - THAI LANGUAGE
+#MIUI V5 - THAI LANGUAGE#
  
 Based on MIUI v5 3.9.13 MTK Chipset
  
