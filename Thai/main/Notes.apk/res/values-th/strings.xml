@@ -94,7 +94,7 @@
     <string name="pref_desc_alarm_when_silent">การเตือนจะส่งเสียงในโหมดเงียบ</string>
     <string name="pref_title_data_export_to_sdcard">ส่งออกบันทึกไปยังการ์ด SD</string>
     <string name="dlg_title_confirm_alarm_silent">คุณต้องการเงียบเสียงสัญญาณเตือนในโหมดเงียบ?</string>
-    <string name="dlg_desc_confirm_alarm_silent">นาฬิกาปลุกและบันทึกจะไม่ส่งเสียงในโหมดเงียบเมื่อปิด</string>
+    <string name="dlg_desc_confirm_alarm_silent">นาฬิกาปลุกและบันทึกจะไม่ส่งเสียงในโหมดเงียบ</string>
     <string name="close">ปิด</string>
     <string name="alert_title_delete">ลบบันทึกที่เลือก</string>
     <string name="alert_title_discard">ยกเลิกการเปลี่ยนแปลงหรือไม่</string>
