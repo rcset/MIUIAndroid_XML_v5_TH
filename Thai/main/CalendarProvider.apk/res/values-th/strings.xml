@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="calendar_storage">Calendar Storage</string>
-    <string name="upgrade_msg">Upgrading Calendar database.</string>
-    <string name="calendar_default_name">Default</string>
-    <string name="calendar_info">Calendar info</string>
-    <string name="calendar_info_error">Error</string>
-    <string name="calendar_info_no_calendars">No calendars</string>
-    <string name="calendar_info_events">Events: %1$d</string>
-    <string name="calendar_info_events_dirty">Events: %1$d, Unsaved: %2$d</string>
-    <string name="provider_label">Calendar</string>
-    <string name="debug_tool_delete_button">Delete now</string>
-    <string name="debug_tool_start_button">Start</string>
-    <string name="debug_tool_message">You are about to 1) make a copy of your calendar database to the SD card/USB storage, which is readable by any app, and 2) email it. Remember to delete the copy as soon as you have successfully copied it off the device or the email is received.</string>
-    <string name="debug_tool_email_sender_picker">Choose a program to send your file</string>
-    <string name="debug_tool_email_subject">Calendar Db attached</string>
-    <string name="debug_tool_email_body">Attached is my Calendar database with all my appointments and personal information. Handle with care.</string>
-    <string name="holiday_update_title">Work days data need connect network and update</string>
-    <string name="holiday_update_summary">Click check updates</string>
-    <string name="holiday_data_updating">Updating...</string>
-    <string name="holiday_data_update_failed">Check for update errors and please try again later.</string>
-    <string name="holiday_data_update_succeed">Check for completed update</string>
-    <string name="holiday_data_no_network">No network, please try again later</string>
+    <string name="calendar_storage">ที่เก็บข้อมูลปฏิทิน</string>
+    <string name="upgrade_msg">กำลังอัพเกรดฐานข้อมูลปฏิทิน</string>
+    <string name="calendar_default_name">(ค่าเริ่มต้น)</string>
+    <string name="calendar_info">ข้อมูลปฏิทิน</string>
+    <string name="calendar_info_error">ผิดพลาด</string>
+    <string name="calendar_info_no_calendars">ไม่มีปฏิทิน</string>
+    <string name="calendar_info_events">กิจกรรม: %1$d</string>
+    <string name="calendar_info_events_dirty">กิจกรรม: %1$d , ไม่ได้บันทึก: %2$d</string>
+    <string name="provider_label">ปฏิทิน</string>
+    <string name="debug_tool_delete_button">ลบตอนนี้</string>
+    <string name="debug_tool_start_button">เริ่มต้น</string>
+    <string name="debug_tool_message">คุณกำลังจะ 1) ทำสำเนาของฐานข้อมูลปฏิทินของคุณจัดเก็บในการ์ด SD/USB ซึ่งสามารถอ่านได้โดยแอปใด ๆ และ 2) อีเมล์มัน จำได้ว่าลบสำเนาทันทีที่คุณได้คัดลอกสำเร็จ มันปิดอุปกรณ์หรืออีเมลที่ได้รับ</string>
+    <string name="debug_tool_email_sender_picker">เลือกโปรแกรมที่จะส่งไฟล์ของคุณ</string>
+    <string name="debug_tool_email_subject">ปฏิทิน Db แนบ</string>
+    <string name="debug_tool_email_body">ที่แนบมาเป็นฐานข้อมูลปฏิทินการนัดหมายของฉันและข้อมูลส่วนบุคคล จัดการด้วยความระมัดระวัง</string>
+    <string name="holiday_update_title">ข้อมูลวันทำงานต้องปรับปรุงผ่านการเชื่อมต่อเครือข่าย</string>
+    <string name="holiday_update_summary">คลิกที่ตรวจสอบการปรับปรุง</string>
+    <string name="holiday_data_updating">กำลังอัปเดต ...</string>
+    <string name="holiday_data_update_failed">การตรวจสอบและปรับปรุงผิดพลาด โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="holiday_data_update_succeed">ตรวจสอบสำหรับการปรับปรุงเสร็จสมบูรณ์</string>
+    <string name="holiday_data_no_network">ไม่มีเครือข่าย โปรดลองอีกครั้งในภายหลัง</string>
 </resources>
