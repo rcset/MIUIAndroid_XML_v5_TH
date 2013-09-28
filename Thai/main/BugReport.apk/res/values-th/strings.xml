@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Feedback</string>
-    <string name="user_feedback">User Feedback</string>
-    <string name="report_miui">Report to MIUI</string>
-    <string name="menu_send">Send report</string>
-    <string name="menu_copy">Copy</string>
+    <string name="app_label">ข้อเสนอแนะ</string>
+    <string name="user_feedback">ข้อเสนอแนะผู้ใช้</string>
+    <string name="report_miui">รายงาน</string>
+    <string name="menu_send">ส่งรายงาน</string>
+    <string name="menu_copy">คัดลอก</string>
     <string name="menu_attach_screenshot">Attach screenshot</string>
     <string name="menu_discard">Discard</string>
     <string name="description">Description (required)</string>
-    <string name="btn_send">Send</string>
-    <string name="err_type">Feedback type</string>
+    <string name="btn_send">ส่ง</string>
+    <string name="err_type">ประเภทข้อเสนอแนะ</string>
     <string name="err_type_reboot">System reboots</string>
     <string name="err_type_force_close">Force close</string>
     <string name="err_type_network">Network issues</string>
@@ -20,11 +20,11 @@
     <string name="err_type_data_lost">Data lost</string>
     <string name="status_msg_pending_upload">%d feedback is being uploaded...</string>
     <string name="status_msg_collecting_log">Collecting logs...</string>
-    <string name="action_submit">Submit</string>
-    <string name="section_err_type">Feedback type</string>
-    <string name="section_description">Description</string>
-    <string name="section_screenshot">Screenshot</string>
-    <string name="toast_report_sent_succeed">Report sent successfully!</string>
+    <string name="action_submit">ส่ง</string>
+    <string name="section_err_type">ประเภทข้อเสนอแนะ</string>
+    <string name="section_description">รายละเอียด</string>
+    <string name="section_screenshot">ภาพหน้าจอ</string>
+    <string name="toast_report_sent_succeed">ส่งรายงานเสร็จสมบูรณ์!</string>
     <string name="toast_report_sent_failed">Failed to send report!</string>
     <string name="toast_report_copied_to_clipboard">Report copied to clipboard</string>
     <string name="toast_description_required">Description is required before submitting</string>
@@ -33,8 +33,8 @@
     <string name="toast_feedback_pending_wlan">Feedback will be sent when Wi-Fi network is available</string>
     <string name="discard_draft_dialog_title">Discard draft</string>
     <string name="discard_draft_dialog_content">Report has been modified, click OK button to discard the draft.</string>
-    <string name="discard_draft_dialog_button_discard">OK</string>
-    <string name="discard_draft_dialog_button_cancel">Cancel</string>
+    <string name="discard_draft_dialog_button_discard">ตกลง</string>
+    <string name="discard_draft_dialog_button_cancel">ยกเลิก</string>
     <string name="network_unavailable_dialog_title">Network unavailable</string>
     <string name="network_unavailable_dialog_content">Feedback will be sent when mobile network is available</string>
     <string name="network_unavailable_dialog_button_ok">OK</string>
@@ -43,5 +43,5 @@
     <string name="wlan_unavailable_dialog_button_sent">Send now</string>
     <string name="wlan_unavailable_dialog_button_ok">OK</string>
     <string name="packaging_dialog_content">Report is being generated, please wait...</string>
-    <string name="bugreport_feedback_from">From: %s</string>
+    <string name="bugreport_feedback_from">จาก: %s</string>
 </resources>
