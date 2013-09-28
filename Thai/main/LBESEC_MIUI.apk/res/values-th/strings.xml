@@ -17,8 +17,8 @@
     <string name="Generic_InvalidInput">Invalid input</string>
     <string name="Generic_Service_Enabled">Service is active</string>
     <string name="Generic_Service_Disabled">Service is turned off</string>
-    <string name="Generic_Summary_Enabled">On</string>
-    <string name="Generic_Summary_Disabled">Off</string>
+    <string name="Generic_Summary_Enabled">เปิด</string>
+    <string name="Generic_Summary_Disabled">ปิด</string>
     <string name="Generic_Enable">ทำงาน</string>
     <string name="Generic_Disable">ไม่ทำงาน</string>
     <string name="Generic_Optimize">ปรับแต่ง</string>
@@ -80,7 +80,7 @@
     <string name="HIPS_Perm_Contact">Contacts</string>
     <string name="HIPS_Perm_Contact_Desc">Access your contact list</string>
     <string name="HIPS_Perm_Contact_Hint">%1$s apps have the permission to access your contact list</string>
-    <string name="HIPS_Perm_CallLog">Call Logs</string>
+    <string name="HIPS_Perm_CallLog">บันทึกการโทร</string>
     <string name="HIPS_Perm_CallLog_Desc">Access your call logs</string>
     <string name="HIPS_Perm_CallLog_Hint">%1$s apps have the permission to access your call logs</string>
     <string name="HIPS_Perm_ROOT">ROOT</string>
