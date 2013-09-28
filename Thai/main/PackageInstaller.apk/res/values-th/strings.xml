@@ -37,11 +37,11 @@
     <string name="app_not_found_dlg_title">Application not found</string>
     <string name="app_not_found_dlg_text">The application was not found in the list of installed applications.</string>
     <string name="uninstall_application_title">Uninstall Application</string>
-    <string name="uninstall_update_title">Uninstall Update</string>
+    <string name="uninstall_update_title">ถอนการติดตั้งอัพเดท</string>
     <string name="uninstall_activity_text">%1$s is part of the following application:</string>
-    <string name="uninstall_confirm_question">Do you want to uninstall the application?</string>
-    <string name="uninstall_application_text">This application will be uninstalled.</string>
-    <string name="uninstall_update_text">The application will be replaced with the factory version.</string>
+    <string name="uninstall_confirm_question">คุณต้องการถอนการติดตั้งแอพพลิเคชัน?</string>
+    <string name="uninstall_application_text">ถอนการติดตั้งอพพลิเคชันแล้ว</string>
+    <string name="uninstall_update_text">แอพพลิเคชันจะถูกแทนที่ด้วยแอพพลิเคชันรอมเดิม</string>
     <string name="uninstalling">กำลังถอนการติดตั้ง...</string>
     <string name="uninstall_done">ถอนการติดตั้งแล้ว</string>
     <string name="uninstall_failed">ถอนการติดตั้งไม่ได้</string>
@@ -63,13 +63,13 @@
     <string name="high_risk_perms">High-risk Permissions</string>
     <string name="perm_privacy_app_finish">เสร็จสิ้น</string>
     <string name="perm_privacy_app_launch">เปิด</string>
-    <string name="perm_privacy_app_installed">Installation successful!</string>
+    <string name="perm_privacy_app_installed">การติดตั้งเสร็จสมบูรณ์!</string>
     <string name="perm_sysopt_boost_auto_start">Autostart permissions</string>
     <string name="perm_sysopt_boost_auto_start_summary">App will start up automatically!</string>
     <string name="perm_privacy_app_trust">I trust this app</string>
     <string name="perm_privacy_app_trust_summary">MIUI will monitor this app</string>
-    <string name="perm_action_accept">Accept</string>
-    <string name="perm_action_prompt">Prompt</string>
-    <string name="perm_action_reject">Reject</string>
-    <string name="unknown_installer">Unknown installer</string>
+    <string name="perm_action_accept">อนุญาติ</string>
+    <string name="perm_action_prompt">ถามก่อน</string>
+    <string name="perm_action_reject">ปฎิเสธ</string>
+    <string name="unknown_installer">ตัวติดตั้งที่ไม่รู้จัก</string>
 </resources>
