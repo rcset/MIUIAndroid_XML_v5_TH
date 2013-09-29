@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="schedule_power_on_off_settings_title">กำหนดเวลาเปิด/ปิด</string>
+    <string name="schedule_power_on_off_time">เวลา</string>
+    <string name="schedule_power_on_off_repeat">ซ้ำ</string>
+    <string name="schedule_power_on_off_set">ตั้งการกำหนดเวลาเปิด/ปิด</string>
+    <string name="schedule_power_on_set">ตั้งตารางเวลาเปิดเครื่อง</string>
+    <string name="schedule_power_off_set">ตั้งค่าตารางเวลาปิดเครื่อง</string>
+    <string name="enable_schpwr">เปิดทำงาน</string>
+    <string name="disable_schpwr">ปิดทำงาน</string>
+    <string name="day">1 วัน</string>
+    <string name="days">" %s วัน"</string>
+    <string name="hour">1 ชั่วโมง</string>
+    <string name="hours">%s ชั่วโมง</string>
+    <string name="minute">1 นาที</string>
+    <string name="minutes">" %s นาที"</string>
+    <string name="every_day">ทุกวัน</string>
+    <string name="never">ไม่แม้แต่ครั้งเดียว</string>
+    <string name="done">เสร็จ</string>
+    <string name="revert">เปลี่ยนกลับ</string>
+    <string name="schpwr_shutdown_message">โทรศัพท์ของคุณจะปิดเครื่องใน %s วินาที</string>
+    <string name="schpwr_shutdown_message_second">โทรศัพท์ของคุณจะปิดเครื่องใน %s วินาที</string>
+</resources>
