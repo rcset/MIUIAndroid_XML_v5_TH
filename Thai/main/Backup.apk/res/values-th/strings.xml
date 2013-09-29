@@ -7,8 +7,8 @@
     <string name="start_backup">เริ่มสำรองข้อมูล</string>
     <string name="button_cancel">ยกเลิก</string>
     <string name="backup_empty">ไม่พบไฟล์สำรองข้อมูล</string>
-    <string name="backup_items_sysdata_tailer">" ข้อมูลไฟล์ระบบ"</string>
-    <string name="backup_items_app_tailer">" ข้อมูลไฟล์แอพ"</string>
+    <string name="backup_items_sysdata_tailer">" ไฟล์ข้อมูลระบบ"</string>
+    <string name="backup_items_app_tailer">" ไฟล์ข้อมูลแอพ"</string>
     <string name="backup_failed">สำรองข้อมูลล้มเหลว กรุณาลองใหม่</string>
     <string name="backup_recently">" (ล่าสุด)"</string>
     <string name="sdcard_unmounted">ไม่พบ SD card!</string>
