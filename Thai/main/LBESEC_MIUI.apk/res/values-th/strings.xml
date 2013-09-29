@@ -13,7 +13,7 @@
     <string name="Generic_HideSystemApp">ซ่อนแอพระบบ</string>
     <string name="Generic_Loading">กำลังโหลด...</string>
     <string name="Generic_Operating">กำลังดำเนินการ...</string>
-    <string name="Generic_Canceling"<กำลังยกเลิก...</string>
+    <string name="Generic_Canceling">กำลังยกเลิก...</string>
     <string name="Generic_InvalidInput">Invalid input</string>
     <string name="Generic_Service_Enabled">Service is active</string>
     <string name="Generic_Service_Disabled">Service is turned off</string>
