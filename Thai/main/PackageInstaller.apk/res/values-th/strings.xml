@@ -10,12 +10,12 @@
     <string name="install_done">ติดตั้งแอพพลิเคชันแล้ว</string>
     <string name="install_confirm_question">คุณต้องการติดตั้งแอพพลิเคชัน?</string>
     <string name="install_failed">แอพพลิเคชันไม่ได้ถูกติดตั้ง</string>
-    <string name="install_failed_invalid_apk">The package appears to be corrupt.</string>
+    <string name="install_failed_invalid_apk">แพคเก็จติดตั้งเสียหาย</string>
     <string name="install_failed_inconsistent_certificates">An existing package by the same name with a conflicting signature is already installed.</string>
     <string name="install_failed_older_sdk">แอพพลิเคชันนี้เหมือนกับแอนดรอยเวอร์ชันใหม่เท่านั้น</string>
     <string name="install_failed_cpu_abi_incompatible">"แอพพลิเคชันนี้ไม่สามารถใช้ได้กับเครื่องของคุณ"</string>
-    <string name="install_failed_file_not_found">The package specified was deleted before installation could be completed.</string>
-    <string name="install_failed_verify_failed">The package did not pass verification and cannot be installed.</string>
+    <string name="install_failed_file_not_found">แพคเก็จที่ระบุไว้ถูกลบก่อนการติดตั้งถึงจะเสร็จสมบูรณ์</string>
+    <string name="install_failed_verify_failed">แพคเก็จนี้ไม่ผ่านการตรวจสอบและไม่สามารถติดตั้งได้</string>
     <string name="install_failed_verify_timeout">A timeout occurred while trying to verify this package. Please try to install it again later.</string>
     <string name="install_failed_msg">%1$s ไม่สามารถติดตั้งบนเครื่องได้</string>
     <string name="launch">เปิด</string>
