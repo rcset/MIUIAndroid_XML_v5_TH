@@ -118,8 +118,8 @@
     <string name="progress_backup_hint">"กำลังสำรองข้อมูล: "</string>
     <string name="cancel_backup">ยกเลิกการสำรองข้อมูล</string>
     <string name="restore_contact">คืนค่ารายชื่อ</string>
-    <string name="restore_contact_content">"Restoring contacts may result in duplicates, are you sure you want to do this?.
- Note: You can merge duplicate contacts in contact list settings"</string>
+    <string name="restore_contact_content">"คืนค่ารายชื่ออาจะมีรายชื่อซ้ำกันได้ คุณต้องการทำต่อหรือไม่?
+ บันทึก: คุณสามารถรวมรายชื่อซ้ำได้ในการตั้งค่ารายชื่อ"</string>
     <string name="progress_restore_hint">"กำลังคืนค่า: "</string>
     <string name="cancel_restore">ยกเลิกการคืนค่า</string>
     <string name="restore_failed">คืนค่าล้มเหลว!</string>
@@ -173,8 +173,8 @@
     <string name="enable_encrypt_indicator">สำรองข้อมูไม่ได้เข้ารหัส คลิกเพื่อเปิดการเข้ารหัส</string>
     <string name="enable_encrypt">ทำงานเดี๋ยวนี้</string>
     <string name="already_enable_encrypt">ทำงานการเข้ารหัส</string>
-    <string name="enable_encrypt_summery1">"System will encrypt your local backup based on Xiaomi account, you need to log in to your Xiaomi account when removing data or using other devices to restore   the backup."</string>
-    <string name="enable_encrypt_summery2">The new backup will be automatically encrypted. You need to log into your Xiaomi account when removing data or using other devices to restore the backup.</string>
+    <string name="enable_encrypt_summery1">"ระบบจะทำสำรองข้อมูลภายในของบัญชี Xiaomi คุณต้องตำเป็นต้องเข้าระบบบัญชี Xiaomi  เมื่อคุณลบข้อมูลในโทรศัพท์หรือเปลี่ยนเครื่องจะทำการคืนค่าสำรองข้อมูล"</string>
+    <string name="enable_encrypt_summery2">สำรองข้อมูลใหม่จะถูกเข้ารหัสอัตโนมัติ คุณจำเป็นจะต้องเข้าระบบบัญชี Xiaomi เมื่อคุณลบข้อมูลในโทรศัพท์หรือเปลี่ยนเครื่องจะทำการคืนค่าข้อมูลอัตโนมัติ</string>
     <string name="enable_encrypt_xiaomi_account">สำรองไฟล์นี้สร้างโดย %1$s กรุณาลบบัญชีปัจจุบัน และเข้าระบบไปยัง %2$s เพื่อคืนค่าสำรองข้อมูล</string>
     <string name="enable_encrypt_ok">ตกลง</string>
     <string name="no_encrypt_password">ไม่มีรหัสผ่านการเข้ารหัส</string>
