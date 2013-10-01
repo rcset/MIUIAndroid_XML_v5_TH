@@ -74,7 +74,7 @@
     <string name="task_finished">เสร็จสิ้น</string>
     <string name="task_canceled">ยกเลิก</string>
     <string name="task_failed">ล้มเหลว</string>
-    <string name="task_canceled_local">The following %s task was cancelled</string>
+    <string name="task_canceled_local">%s ตารางงานถูกยกเลิก</string>
     <string name="task_canceled_all_local">ยกเลิกตารางงาน</string>
     <string name="task_failed_local">ตารางงาน %s ล้มเหลว</string>
     <string name="task_failed_all_local">ตารางงานล้มเหลว</string>
@@ -103,13 +103,13 @@
     <string name="service_stoped">บริการถูกหยุด</string>
     <string name="sc_network_unavailable">เชื่อมต่อกับเน็ตเวิร์คไม่ได้</string>
     <string name="sc_bad_request">คำขอไม่ดี</string>
-    <string name="sc_unaccess_password_file">"Don't store Wi-Fi password details"</string>
+    <string name="sc_unaccess_password_file">"อย่าเก็บข้อมูลรหัสผ่าน Wi-Fi"</string>
     <string name="sc_service_unavailable">บริการ Cloud ไม่สามารถใช้ได้</string>
     <string name="sc_unauthorized">ใบรับรองผิดพลาด</string>
     <string name="sc_request_timeout">รคำขอหมดเวลา</string>
-    <string name="sc_precondition_failed">Your Xiaomi account has not been associated with an E-mail address</string>
-    <string name="sc_internal_server_error">Internal server error</string>
-    <string name="sc_others">Program exception</string>
+    <string name="sc_precondition_failed">บัญชี Xiaomi ไม่ได้เชื่อมต่อกับอีเมลของคุณ</string>
+    <string name="sc_internal_server_error">เซิร์ฟเวอร์ภายในผิดพลาด</string>
+    <string name="sc_others">ข้อยกเว้นโปรแกรม</string>
     <string name="succeed">เสร็จสิ้น</string>
     <string name="fail">ล้มเหลว</string>
     <string name="button_return">กลับ</string>
@@ -175,7 +175,7 @@
     <string name="already_enable_encrypt">ทำงานการเข้ารหัส</string>
     <string name="enable_encrypt_summery1">"System will encrypt your local backup based on Xiaomi account, you need to log in to your Xiaomi account when removing data or using other devices to restore   the backup."</string>
     <string name="enable_encrypt_summery2">The new backup will be automatically encrypted. You need to log into your Xiaomi account when removing data or using other devices to restore the backup.</string>
-    <string name="enable_encrypt_xiaomi_account">This backup was created by %1$s, please delete the current account, and log in to %2$s in order to restore the data.</string>
+    <string name="enable_encrypt_xiaomi_account">สำรองไฟล์นี้สร้างโดย %1$s กรุณาลบบัญชีปัจจุบัน และเข้าระบบไปยัง %2$s เพื่อคืนค่าสำรองข้อมูล</string>
     <string name="enable_encrypt_ok">ตกลง</string>
     <string name="no_encrypt_password">ไม่มีรหัสผ่านการเข้ารหัส</string>
     <string name="enable_encrypt_fail">เปิดการทำงานการเข้ารหสล้มเหลว</string>
