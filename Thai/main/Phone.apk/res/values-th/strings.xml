@@ -1219,8 +1219,8 @@
     <string name="onscreen_send_flash_text_miui">Flash</string>
     <string name="onscreen_speaker_text_miui">เปิดลำโพง</string>
     <string name="onscreen_swap_calls_text_miui">Swap</string>
-    <string name="onscreen_tools_off_miui">Tools</string>
-    <string name="onscreen_tools_on_miui">Tools</string>
+    <string name="onscreen_tools_off_miui">เครื่องมือ</string>
+    <string name="onscreen_tools_on_miui">เครื่องมือ</string>
     <string name="other_settings_miui">Other</string>
     <string name="pin2_changed_miui">PIN2 changed.</string>
     <string name="pin2_invalid_or_name_is_too_long">You entered an invalid PIN or name is too long.</string>
@@ -1237,9 +1237,9 @@ Your phone will be locked automatically after another failed attempt."</string>
     <string name="pin_progress_set_icc_lock_miui">Setting icc lock state…</string>
     <string name="pin_progress_unlock_icc_miui">Unlocking SIM card…</string>
     <string name="pref_custom_location_summary_miui">Manage your saved area codes and other location settings</string>
-    <string name="pref_custom_location_title_miui">My locations</string>
+    <string name="pref_custom_location_title_miui">ที่ตั้งของฉัน</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G Preferred</string>
-    <string name="preferred_network_type_pref_entries_auto_miui">Automatic</string>
+    <string name="preferred_network_type_pref_entries_auto_miui">อัตโนมัติ</string>
     <string name="preferred_network_type_pref_entries_only_2g_miui">Use only 2G networks (saves battery)</string>
     <string name="preferred_network_type_pref_entries_only_3g_miui">Use only 3G networks</string>
     <string name="preferred_network_type_pref_entries_global_miui">Global</string>
@@ -1249,7 +1249,7 @@ Your phone will be locked automatically after another failed attempt."</string>
     <string name="preferred_network_type_title_miui">Mobile network settings</string>
     <string name="puk_lock_warning_miui">"
 Your SIM card will be erased after another failed attempt."</string>
-    <string name="remove_miui">Delete</string>
+    <string name="remove_miui">ลบ</string>
     <string name="reject_via_sms_miui">Quick responses</string>
     <string name="reject_via_sms_summary_miui">Edit text responses</string>
     <string name="reject_via_sms_title_miui">Quick responses</string>
@@ -1257,10 +1257,10 @@ Your SIM card will be erased after another failed attempt."</string>
     <string name="set_smsc_address_error_miui">Failed to set number.</string>
     <string name="set_smsc_address_timeout_miui">Connection timed out.</string>
     <string name="set_smsc_address_title_miui">Set SMS center number</string>
-    <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselect all</string>
-    <string name="sim_contact_dropdown_menu_select_all_miui">Select all</string>
-    <string name="sim_contact_name_miui">Name</string>
-    <string name="sim_contact_number_miui">Number</string>
+    <string name="sim_contact_dropdown_menu_deselect_all_miui">ไม่เลือกทั้งหมด</string>
+    <string name="sim_contact_dropdown_menu_select_all_miui">เลือกทั้งหมด</string>
+    <string name="sim_contact_name_miui">ชือ</string>
+    <string name="sim_contact_number_miui">หมายเลข</string>
     <string name="sim_lock_off_miui">Require PIN to use phone</string>
     <string name="sim_lock_on_miui">Require PIN to use phone</string>
     <string name="sim_lock_title_miui">SIM lock settings</string>
@@ -1271,10 +1271,10 @@ Your SIM card will be erased after another failed attempt."</string>
     <string name="sliding_down_hint_miui">Swipe down to answer</string>
     <string name="sliding_target_hint_miui">Swipe target</string>
     <string name="sliding_up_hint_miui">Swipe up to divert call</string>
-    <string name="telocation_setting_miui">Location settings</string>
-    <string name="telocation_show_settings_miui">Display settings</string>
-    <string name="telocation_setting_summary_teloc_on">Show my location</string>
-    <string name="telocation_setting_summary_teloc_off">Hide my location</string>
+    <string name="telocation_setting_miui">ตั้งค่าที่ตั้ง</string>
+    <string name="telocation_show_settings_miui">ตั้งค่าการแสดง</string>
+    <string name="telocation_setting_summary_teloc_on">แสดงที่ตั้ง</string>
+    <string name="telocation_setting_summary_teloc_off">ซ่อนที่ตั้ง</string>
     <string name="telocation_setting_summary_countrycode_on">Auto-dial country code</string>
     <string name="telocation_setting_summary_countrycode_off">"Don't add country code"</string>
     <string name="tty_mode_entries_full_miui">TTY Full</string>
@@ -1282,7 +1282,7 @@ Your SIM card will be erased after another failed attempt."</string>
     <string name="tty_mode_entries_off_miui">TTY Off</string>
     <string name="tty_mode_entries_vco_miui">TTY VCO</string>
     <string name="tty_mode_option_summary_miui">Set TTY mode</string>
-    <string name="tty_mode_option_title_miui">TTY mode</string>
+    <string name="tty_mode_option_title_miui">โหมด TTY</string>
     <string name="turnover_mute_title_miui">Flip to silence ring</string>
     <string name="turnover_mute_summary_miui">When phone rotated horizontally, flip it over to silence ring</string>
     <string name="voicemail_miui">Voicemail</string>
@@ -1326,9 +1326,9 @@ Your SIM card will be erased after another failed attempt."</string>
     <string name="sum_select_automatically_option_miui">Automatically select preferred network, %s</string>
     <string name="register_network_failed_title_miui">Failed to connect to network</string>
     <string name="register_network_failed_message_miui">"Can't connect to the network that you selected, connect to your preferred network instead?"</string>
-    <string name="next_miui">Next</string>
+    <string name="next_miui">ถัดไป</string>
     <string name="turn_off_miui">Turn-off</string>
-    <string name="back_miui">Back</string>
+    <string name="back_miui">กลับ</string>
     <string name="missed_call_notify_times_title_miui">Missed call reminders</string>
     <string name="missed_call_notify_times_summary_miui">Choose the number of times you want be reminded about missed calls (reminders are separated by five minute intervals)</string>
     <string name="missed_call_notify_none_miui">No reminder</string>
@@ -1363,10 +1363,10 @@ Your SIM card will be erased after another failed attempt."</string>
     <string name="description_direction_left">Left for %s.</string>
     <string name="description_direction_up">Up for %s.</string>
     <string name="card_itself_for_voice">Card</string>
-    <string name="in_calling">Calling</string>
-    <string name="unknown_num">Unknown number</string>
-    <string name="in_sms">Message</string>
-    <string name="sms_sender">From</string>
+    <string name="in_calling">กำลังโทร</string>
+    <string name="unknown_num">เบอร์ไม่รู้จัก</string>
+    <string name="in_sms">ข้อความ</string>
+    <string name="sms_sender">จาก</string>
     <string name="sms_content">Content:</string>
     <string name="readingSimContacts">Reading SIM card…</string>
     <string name="antispam_marked_title">%1$s</string>
@@ -1375,9 +1375,9 @@ Your SIM card will be erased after another failed attempt."</string>
     <string name="enable_antispam_strange_title">Mute unknown numbers</string>
     <string name="enable_antispam_strange_summary">Mute the first call from an unknown number</string>
     <string name="phone_info_divider">" ｜ "</string>
-    <string name="oldman_answer_call_button_text">answer</string>
-    <string name="oldman_reject_call_button_text">reject</string>
-    <string name="oldman_end_call_button_text">end</string>
-    <string name="oldman_dialpad_button_text">dialpad</string>
+    <string name="oldman_answer_call_button_text">รับสาย</string>
+    <string name="oldman_reject_call_button_text">ไม่รับสาย</string>
+    <string name="oldman_end_call_button_text">วางสาย</string>
+    <string name="oldman_dialpad_button_text">แป้นหมายเลข</string>
     <string name="oldman_speaker_button_text" />
 </resources>
