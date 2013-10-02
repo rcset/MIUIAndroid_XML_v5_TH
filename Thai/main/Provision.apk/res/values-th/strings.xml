@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="next">Next</string>
-    <string name="continues">Continue</string>
-    <string name="shutdown">Shutdown</string>
-    <string name="other_service_label">Other Services</string>
-    <string name="other_service_location">Location services</string>
+    <string name="next">ถัดไป</string>
+    <string name="continues">เริ่มต่อ</string>
+    <string name="shutdown">ปิดเครื่อง</string>
+    <string name="other_service_label">บริการอื่นๆ</string>
+    <string name="other_service_location">บริการที่ตั้ง</string>
     <string name="other_service_location_summary">Location services allows maps and other apps to retrieve your location details using GPS</string>
     <string name="other_service_google_location">Google Location service</string>
     <string name="other_service_google_location_use">Location &amp; Google search</string>
     <string name="other_service_google_location_use_summary">Let Google use your location to improve search results and other services</string>
     <string name="other_service_google_location_use_help">"Allow Google's location service to collect anonymous location data. Collection will occur even when no applications are running. To adjust this setting, go to Settings > Location services"</string>
-    <string name="other_service_permission_manager">Manage App Permissions</string>
+    <string name="other_service_permission_manager">จัดการสิทธิ์การใช้งานแอพ</string>
     <string name="other_service_permission_manager_summary">Monitoring apps for security and privacy</string>
     <string name="other_service_user_experience">Join user experience program</string>
     <string name="other_service_user_experience_summary0">We rely on you to use our product and features and hope you can help us by providing feedback.</string>
     <string name="other_service_user_experience_summary1">Thanks MIUI team</string>
-    <string name="sim_card_detection_dialog_message">Detecting SIM card, please wait...</string>
-    <string name="sim_card_detection_label">Detect SIM card</string>
+    <string name="sim_card_detection_dialog_message">กำลังค้นหา SIM card กรุณารอ...</string>
+    <string name="sim_card_detection_label">ค้นหา SIM card</string>
     <string name="sim_card_detection_info">Unable to setup Xiaomi account without a SIM card. You need a SIM card to use account synchronization, phone tracking etc.</string>
     <string name="sim_card_detection_status_absent">SIM card not detected!</string>
-    <string name="setup_complete_label">Setup complete</string>
+    <string name="setup_complete_label">ติดตั้งเสร็จสิ้น</string>
     <string name="setup_complete_info">After sales service will be activated the first time you use your phone</string>
     <string name="setup_complete_start">Start using your phone</string>
     <string name="setup_complete_summary">Setup complete! Enjoy using MIUI!</string>
