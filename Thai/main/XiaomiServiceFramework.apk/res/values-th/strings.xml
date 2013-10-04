@@ -144,7 +144,6 @@
     <string name="button_pay">จ่ายเงิน"</string>
     <string name="button_recharge">เติมเงิน"</string>
     <string name="balance">ยอดคงเหลือ: %1$s Mi เครดิต"</string>
-    <string name="giftcard_value">( %1$s บัตรของขวัญ Mi เครดิต)"</string>
     <string name="frozen">(ถูกล็อค)"</string>
     <string name="mili_center">Mi เครดิต"</string>
     <string name="memu_refresh">รีเฟรช"</string>

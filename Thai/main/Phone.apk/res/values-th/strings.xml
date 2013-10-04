@@ -1293,10 +1293,6 @@ Your SIM card will be erased after another failed attempt."</string>
     <string name="voicemail_settings_number_title_miui">Voicemail number</string>
     <string name="voice_privacy_miui">Voice privacy</string>
     <string name="voice_privacy_summary_miui">Enable enhanced privacy mode</string>
-    <string name="voice_quality_ui_values_bright_miui">Bright</string>
-    <string name="voice_quality_ui_values_clear_miui">Clear</string>
-    <string name="voice_quality_ui_values_crisp_miui">Crisp</string>
-    <string name="voice_quality_ui_values_normal_miui">Normal</string>
     <string name="sim_contacts_title_miui">Contacts on SIM card</string>
     <string name="delete_sim_entry_miui">Delete</string>
     <string name="confirm_delete_sim_entry_miui">Delete %d contacts on SIM card?</string>

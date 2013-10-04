@@ -265,11 +265,6 @@
         <item>ระยะหมดเวลา</item>
         <item>ไม่สำเร็จ</item>
     </string-array>
-    <string-array name="security_settings_premium_sms_values">
-        <item>ถาม</item>
-        <item>ไม่อนุญาตเลย</item>
-        <item>อนุญาตเสมอ</item>
-    </string-array>
     <string-array name="gemini_sim_info_number_display_format_entries">
         <item>4 หลักแรก</item>
         <item>4 หลักสุดท้าย</item>
