@@ -8,7 +8,7 @@
     <string name="button_cancel">ยกเลิก</string>
     <string name="backup_empty">ไม่พบไฟล์สำรองข้อมูล</string>
     <string name="backup_items_sysdata_tailer">" ไฟล์ข้อมูลระบบ"</string>
-    <string name="backup_items_app_tailer">" ไฟล์ข้อมูลแอพ"</string>
+    <string name="backup_items_app_tailer">" ไฟล์ข้อมูลแอป"</string>
     <string name="backup_failed">สำรองข้อมูลล้มเหลว กรุณาลองใหม่</string>
     <string name="backup_recently">" (ล่าสุด)"</string>
     <string name="sdcard_unmounted">ไม่พบ SD card!</string>
@@ -33,17 +33,17 @@
     <string name="restore_report">รายงานคืนค่าข้อมูล</string>
     <string name="restore_progress">กำลังคืนค่าข้อมูล...</string>
     <string name="restore_contacts_hit">(บันทึก: คุณจำเป็นต้องคืนค่ารายชื่อด้วยตัวเองก่อน)</string>
-    <string name="restore_telephony_hit">(บันทึก: การคืนค่าจะทำการรีสาร์ตแอพพลิเคชันโทรศัพท์ใหม่)</string>
+    <string name="restore_telephony_hit">(บันทึก: การคืนค่าจะทำการรีสาร์ตแอปพลิเคชันโทรศัพท์ใหม่)</string>
     <string name="restore_launcher_layout_hit">(บันทึก: คืนค่าการตั้งค่าเดสท็อบ)</string>
     <string name="settings_summary">สำรองข้อมูลการตั้งค่าโทรศัพท์และข้อความ</string>
     <string name="account_summary">สำรองข้อมูล Gmail, E-mail และ บัญชี Xiaomi</string>
     <string name="cloud_app_name">สำรองข้อมูล Cloud</string>
     <string name="cloud_home_title">Cloud</string>
     <string name="prompt_reading">กำลังอ่าน...</string>
-    <string name="prompt_sending">กำลังอัพโหลด...</string>
+    <string name="prompt_sending">กำลังอัปโหลด...</string>
     <string name="prompt_writing">กำลังบันทึก...</string>
     <string name="backup_new">ใหม่:</string>
-    <string name="backup_update">อัพเดท</string>
+    <string name="backup_update">อัปเดท</string>
     <string name="backup_delete">ลบ:</string>
     <string name="findlost_contact">คืนค่าการลบรายชื่อ</string>
     <string name="findlost_contact_online">คืนค่าการลบรายชื่อจาก cloud</string>
@@ -56,7 +56,7 @@
     <string name="local_restore_window_title">คืนค่าสำรองข้อมูลภายใน</string>
     <string name="account_login">เข้าสู่ระบบ</string>
     <string name="miliao_account_login">เข้าสู่ระบบ MiTalk</string>
-    <string name="miliao_account_guide">"บัญชี MiTalk อัพเกรดเป็น บัญชี Xiaomi"</string>
+    <string name="miliao_account_guide">"บัญชี MiTalk อัปเกรดเป็น บัญชี Xiaomi"</string>
     <string name="auto_backup">สำรองข้อมูลอัตโนมัติ</string>
     <string name="contact_title">รายชื่อ</string>
     <string name="call_title">บันทึกการโทร</string>
@@ -124,7 +124,7 @@
     <string name="cancel_restore">ยกเลิกการคืนค่า</string>
     <string name="restore_failed">คืนค่าล้มเหลว!</string>
     <string name="local_select_sysdata">ระบบ</string>
-    <string name="local_select_userapp">แอพพลิเคชัน</string>
+    <string name="local_select_userapp">แอปพลิเคชัน</string>
     <string name="local_select_account_contact">บัญชี / รายชื่อ</string>
     <string name="local_no_backup">ไม่มีสำรองข้อมูลภายใน</string>
     <string name="auto_backup_setting">สำรองข้อมูลการตั้งค่าอัตโนมัติ</string>
@@ -135,11 +135,11 @@
     <string name="auto_backup_choose_title">เลือกรายการสำรองข้อมูล</string>
     <string name="auto_backup_choose">สำรองข้อมูลอัตโนมัติ</string>
     <string name="auto_backup_choose_empty">ไม่มีสำรองข้อมูล</string>
-    <string name="auto_backup_all_user_apps">แอพทั้งหมด</string>
-    <string name="auto_backup_selected_user_apps">เลือกแอพ</string>
-    <string name="auto_backup_select_user_apps">เลือกแอพ</string>
+    <string name="auto_backup_all_user_apps">แอปทั้งหมด</string>
+    <string name="auto_backup_selected_user_apps">เลือกแอป</string>
+    <string name="auto_backup_select_user_apps">เลือกแอป</string>
     <string name="auto_backup_system_data">ระบบ</string>
-    <string name="auto_backup_user_data">แอพ</string>
+    <string name="auto_backup_user_data">แอป</string>
     <string name="auto_backup_progress">กำลังสำรองข้อมูลอัตโนมัติ กรุณารอ...</string>
     <string name="backup">สำรองข้อมูลเดี๋ยวนี้</string>
     <string name="restore">คืนค่า</string>
@@ -162,7 +162,7 @@
     <string name="import_from_xiaomi_account_hint1">"1.ติดตั้ง MiTalk และเข้าสู่ระบบ
  http://www.miliao.com
 
-3. ตั้งค่า MiTalak และเลือก สำรองข้อมูลรายชื่อไปยัง บัญชี Xiaomi ”"</string>
+3. ตั้งค่า MiTalk และเลือก สำรองข้อมูลรายชื่อไปยัง บัญชี Xiaomi ”"</string>
     <string name="import_from_xiaomi_account_hint2">บันทึก: ดำเนินการขั้นตอนต่อไปหากสำรองข้อมูลแล้ว</string>
     <string name="import_from_xiaomi_account_hint_title">ใช้ MiTalk เพือสำรองข้อมูลในยังเครื่องอื่นที่ไม่ใช่ MI-ONE</string>
     <string name="guarded_mode_dialog_title">โหมดป้องกัน</string>
@@ -182,9 +182,9 @@
     <string name="read_encrypt_fail">อ่านการเข้ารหัสล้มเหลว</string>
     <string name="exchange_account">เปลี่ยนบัญชี</string>
     <string name="system_backup">สำรองข้อมูล</string>
-    <string name="backup_empty_info">สำรองข้อมูลทั่วไป การตั้งค่า และแอพพลิเคชัน</string>
+    <string name="backup_empty_info">สำรองข้อมูลทั่วไป การตั้งค่า และแอปพลิเคชัน</string>
     <string name="system_backup_info">การตั้งค่าระบบ และเดสท็อบ</string>
-    <string name="software_backup_info">สำรองแอพพลิเคชัน และข้อมูลแอพพลิเคชัน</string>
+    <string name="software_backup_info">สำรองแอปพลิเคชัน และข้อมูลแอปพลิเคชัน</string>
     <string name="account_contact_backup_info">ข้อมูล (สำรองข้อมูล Xiaomi และ Gmail)</string>
     <string name="select_backup_item">เลือกรายการสำรองข้อมูล</string>
     <string name="restore_data">คืนค่าข้อมูล</string>
