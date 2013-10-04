@@ -54,12 +54,6 @@
     <string name="notification_to_account">ถึง %1$s</string>
     <string name="notification_multiple_new_messages_fmt">%1$d ข้อความใหม่</string>
     <string name="account_name_display_all">บัญชีทั้งหมด</string>
-    <string name="mailbox_name_server_inbox">กล่องจดหมด</string>
-    <string name="mailbox_name_server_outbox">กล่องจดหมายออก</string>
-    <string name="mailbox_name_server_drafts">ร่างจดหมาย</string>
-    <string name="mailbox_name_server_trash">ถังขยะ</string>
-    <string name="mailbox_name_server_sent">ส่งแล้ว</string>
-    <string name="mailbox_name_server_junk">ขยะ</string>
     <string name="mailbox_name_display_inbox">กล่องจดหมาย</string>
     <string name="mailbox_name_display_outbox">กล่องจดหมายออก</string>
     <string name="mailbox_name_display_drafts">ร่างจดหมาย</string>
