@@ -62,7 +62,7 @@
     <string name="tanDesc">tangent</string>
     <string name="sinDesc">sine</string>
     <string name="cosDesc">cosine</string>
-    <string name="eDesc">Euler's number</string>
+    <string name="eDesc">"Euler's number"</string>
     <string name="piDesc">pi</string>
     <string name="equalDesc">เท่ากับ</string>
     <string name="equal_on_history">=</string>
