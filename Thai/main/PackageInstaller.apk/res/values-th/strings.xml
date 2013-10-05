@@ -3,7 +3,7 @@
     <string name="app_name">ติดตั้งแอปพลิเคชัน</string>
     <string name="install">ติดตั้ง</string>
     <string name="done">เสร็จ</string>
-    <string name="security_settings_desc">อนุญาติแอปพลิเคชัน:</string>
+    <string name="security_settings_desc">อนุญาตแอปพลิเคชัน:</string>
     <string name="cancel">ยกเลิก</string>
     <string name="unknown">ไม่ทราบ</string>
     <string name="installing">กำลังติดตั้ง...</string>
@@ -20,7 +20,7 @@
     <string name="install_failed_msg">%1$s ไม่สามารถติดตั้งบนเครื่องได้</string>
     <string name="launch">เปิด</string>
     <string name="unknown_apps_dlg_title">การติดตั้งถูกปิดกั้น</string>
-    <string name="unknown_apps_dlg_text">For security reasons, your phone has been set to forbid installing applications obtained from unofficial channels.To lift the ban you can install applications from any channel,but your phone and personal data may be attacked by applications of unknown sources,and you shall assume full responsibility for the probable consequences. You may also modify it via Settings->Security->Unknown sources.</string>
+    <string name="unknown_apps_dlg_text">เพื่อความปลอดภัย โทรศัพท์ของคุณถูกตั้งค่าให้บล็อกการติดตั้งแอปพลิเคชันที่ได้มาจากแหล่งที่ไม่รู้จัก</string>
     <string name="ok">ตกลง</string>
     <string name="settings">ตั้งค่า</string>
     <string name="allow_source_dlg_title">อนุญาติข้อมูลใหม่?</string>
@@ -57,8 +57,8 @@
     <string name="privacy_relative">สิทธิ์การใช้งานส่วนตัว</string>
     <string name="other_relative">สิทธิ์การใช้งานอื่นๆ</string>
     <string name="perm_notice">เตือนความปลอดภัย</string>
-    <string name="trust_switch_dialog_msg">MIUI will not ask you for confirmation of any security and privacy related operations from this App. Trust this App？</string>
-    <string name="auto_startup_dialog_msg">MIUI will allow the app to start-up automatically without prompting. This may lead to consumption of power or data traffic. Allow Autostart?</string>
+    <string name="trust_switch_dialog_msg">MIUI จะไม่ขอให้คุณสยืนยันความปลอดภัย และการดำเนินงานที่เกี่ยวข้องกับความเป็นส่วนตัวจากแอปนี้ เชื่อถือแอปนี้หรือไม่?</string>
+    <string name="auto_startup_dialog_msg">MIUI จะอนุญาตให้แอปเริ่มต้นโดยอัตโนมัติโดยไม่ต้องแจ้ง วิธีนี้อาจนำไปสู่​​การใช้พลังงานหรือการรับส่งข้อมูล อนุญาตให้เริ่มต้นอัตโนมัติหรือไม่?</string>
     <string name="low_risk_perms">สิทธิ์การใช้งานความเสี่ยงต่ำ</string>
     <string name="high_risk_perms">สิทธ์การใช้งานความเสียงสูง</string>
     <string name="perm_privacy_app_finish">เสร็จสิ้น</string>
