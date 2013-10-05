@@ -1143,7 +1143,7 @@
     <string name="enable_proximity_summary_miui">Turn off screen during calls</string>
     <string name="enable_proximity_title_miui">Proximity sensor</string>
     <string name="enable_sim_pin_miui">Enable SIM PIN</string>
-    <string name="enable_telocation_title_miui">แสดงที่ตั้ง</string>
+    <string name="enable_telocation_title_miui">แสดงตำแหน่ง</string>
     <string name="enforce_proximity_summary_miui">Phone will lock automatically when placed in a pocket</string>
     <string name="enforce_proximity_title_miui">Prevent pocket dials</string>
     <string name="enter_pin2_text_miui">PIN2</string>
@@ -1237,7 +1237,7 @@ Your phone will be locked automatically after another failed attempt."</string>
     <string name="pin_progress_set_icc_lock_miui">Setting icc lock state…</string>
     <string name="pin_progress_unlock_icc_miui">Unlocking SIM card…</string>
     <string name="pref_custom_location_summary_miui">Manage your saved area codes and other location settings</string>
-    <string name="pref_custom_location_title_miui">ที่ตั้งของฉัน</string>
+    <string name="pref_custom_location_title_miui">ตำแหน่งของฉัน</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G Preferred</string>
     <string name="preferred_network_type_pref_entries_auto_miui">อัตโนมัติ</string>
     <string name="preferred_network_type_pref_entries_only_2g_miui">Use only 2G networks (saves battery)</string>
@@ -1271,10 +1271,10 @@ Your SIM card will be erased after another failed attempt."</string>
     <string name="sliding_down_hint_miui">Swipe down to answer</string>
     <string name="sliding_target_hint_miui">Swipe target</string>
     <string name="sliding_up_hint_miui">Swipe up to divert call</string>
-    <string name="telocation_setting_miui">ตั้งค่าที่ตั้ง</string>
+    <string name="telocation_setting_miui">ตั้งค่าตำแหน่ง</string>
     <string name="telocation_show_settings_miui">ตั้งค่าการแสดง</string>
-    <string name="telocation_setting_summary_teloc_on">แสดงที่ตั้ง</string>
-    <string name="telocation_setting_summary_teloc_off">ซ่อนที่ตั้ง</string>
+    <string name="telocation_setting_summary_teloc_on">แสดงตำแหน่ง</string>
+    <string name="telocation_setting_summary_teloc_off">ซ่อนตำแหน่ง</string>
     <string name="telocation_setting_summary_countrycode_on">Auto-dial country code</string>
     <string name="telocation_setting_summary_countrycode_off">"ไม่ต้องใส่รหัสประเทศ"</string>
     <string name="tty_mode_entries_full_miui">TTY Full</string>
