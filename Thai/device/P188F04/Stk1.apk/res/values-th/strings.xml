@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">เครื่องมือซิม 1</string>
+    <string name="app_name">เครื่องมือซิม</string>
+    <string name="appI_name">เครื่องมือซิม 1</string>
     <string name="appII_name">เครื่องมือซิม 2</string>
     <string name="lable_not_available">"แอปไม่ได้ติดตั้ง"</string>
     <string name="menu_end_session">จบเซสชัน</string>
