@@ -2057,7 +2057,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="back_key">ย้อนกลับ</string>
     <string name="screen_key_long_press_timeout">Define long press time</string>
     <string name="under_keyguard">ล็อคหน้าจอ</string>
-    <string name="enable_snapshot_screenlock">Long press Back for camera</string>
+    <string name="enable_snapshot_screenlock">กดปุ่มย้อนกลับยาวเพื่อเปิดกล้อง</string>
     <string name="disable_power_key_long_press_under_keyguard">Disable power button menu</string>
     <string name="trackball_wake_title">Trackball wake</string>
     <string name="pref_volume_wake_title">Wake with volume buttons</string>
@@ -2072,11 +2072,11 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="camera_key_action_shortcut_title">Shortcut</string>
     <string name="camera_key_action_toggle_title">Trigger toggle</string>
     <string name="camera_key_action_app_title">เปิดแอป</string>
-    <string name="camera_key_action_shortcut_home">Home screen</string>
+    <string name="camera_key_action_shortcut_home">หน้าจอหลัก</string>
     <string name="camera_key_action_shortcut_screenshot">ภาพหน้าจอ</string>
     <string name="camera_key_action_shortcut_search">ค้นหา</string>
-    <string name="camera_key_action_shortcut_call">Call</string>
-    <string name="camera_key_action_shortcut_wake">Lock device</string>
+    <string name="camera_key_action_shortcut_call">โทร</string>
+    <string name="camera_key_action_shortcut_wake">ล็อคเครื่อง</string>
     <string name="multi_touch_points_category_title">Multi-touch points</string>
     <string name="multi_touch_points_preference">Reboot to enable</string>
     <string name="trackball_settings">Trackball</string>
@@ -2107,7 +2107,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="notification_vibrate_abbreviation">"การแจ้งเตือน "</string>
     <string name="mms_vibrate_abbreviation">"ข้อความ "</string>
     <string name="breathing_light_color_title">สี LED</string>
-    <string name="breathing_light_color_summary">LED color when receiving new notification</string>
+    <string name="breathing_light_color_summary">สี LED เมื่อได้รับการเตือนใหม่</string>
     <string name="breathing_light_freq_title">LED flash frequency</string>
     <string name="breathing_light_freq_summary">Pulse when you have new notifications</string>
     <string name="led_settings">ไฟแจ้งเตือน</string>
@@ -2121,8 +2121,8 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="button_light_timeout">Button light settings</string>
     <string name="screen_button_key">Screen virtual keys</string>
     <string name="screen_button_custom">Customize screen key positions</string>
-    <string name="headset_settings">Headphones</string>
-    <string name="headset_function">Button function</string>
+    <string name="headset_settings">หูฟัง</string>
+    <string name="headset_function">ฟังก์ชันปุ่ม</string>
     <string name="headset_mode_volume">Adjust volume</string>
     <string name="headset_mode_music">Music playback</string>
     <string name="headset_calibrate">Assign buttons</string>
@@ -2133,9 +2133,9 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="headset_calibrate_volume_down">ลดเสียง</string>
     <string name="headset_calibrate_prev_track">เพลงที่แล้ว</string>
     <string name="headset_calibrate_next_track">เพลงถัดไป</string>
-    <string name="headset_calibrate_confirm">Apply new functions？</string>
+    <string name="headset_calibrate_confirm">ใช้งานฟังก์ชันใหม่？</string>
     <string name="headset_no_contected">ไม่พบหูฟัง</string>
-    <string name="headset_calibrate_wrong_key">Wrong button.</string>
+    <string name="headset_calibrate_wrong_key">ปุ่มผิดพลาด</string>
     <string name="sim_change_failed_enable_sim_lock">Enable SIM Lock to change PIN.</string>
     <string name="sim_lock_change_not_supported">"Unable to Change SIM Lock.
  SIM doesn't support it."</string>
@@ -2143,7 +2143,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="apn_save">บันทึก?</string>
     <string name="apn_save_msg">Save changes to APN?</string>
     <string name="activating">กำลังใช้งาน…</string>
-    <string name="wifi_enable_watchdog_service_summary">Avoid poor connections</string>
+    <string name="wifi_enable_watchdog_service_summary">หลีกเลี่ยงการเชื่อมต่อสัญญาณต่ำ</string>
     <string name="wifi_disabled_help">WLAN was disconnected due to poor connection.</string>
     <string name="wifi_wps_overlap_error">Another WLAN session was detected. Try again in a few minutes.</string>
     <string name="wifi_p2p_wps_setup">ตั้งค่า WPS</string>
@@ -2173,11 +2173,11 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">ใส่ชื่อไดเรกเทอรี่</string>
     <string name="wifi_wapi_cert_mgmt_subdir_exist">Please input another directory name. The one you entered already exists.</string>
     <string name="wifi_wapi_cert_mgmt_subdir_create_fail">สร้างไดเรกเทอรี่ผิดพลาด</string>
-    <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Please input AS certificate name</string>
+    <string name="wifi_wapi_cert_mgmt_as_name_is_empty">กรุณาใส่ชื่อใบรับรอง AS</string>
     <string name="wifi_wapi_cert_mgmt_as_dont_exist">The SD card does not have an AS certificate.</string>
     <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">The AS certificate format is incorrect.</string>
-    <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">The user certificate format is incorrect.</string>
-    <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Please input user certificate name</string>
+    <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">รูปแบบใบรับรองผู้ใช้ไม่ถูกต้อง</string>
+    <string name="wifi_wapi_cert_mgmt_user_name_is_empty">กรุณาใส่ชื่อใบรับรองผู้ใช้</string>
     <string name="wifi_wapi_cert_mgmt_user_dont_exist">กรุณาใส่ชื่อใบรับรองผู้ใช้</string>
     <string name="wifi_context_menu_connect">เชื่อมต่อ</string>
     <string name="wifi_context_menu_forget">ลืมค่า</string>
@@ -2186,7 +2186,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="search_label">การตั้งค่า</string>
     <string name="search_hint">ตั้งค่าค้นหา</string>
     <string name="search_description">ตั้งค่าค้นหา</string>
-    <string name="remove_from_frequently_fragment">Remove \"%s\" from Quick settings?</string>
+    <string name="remove_from_frequently_fragment">ลบ \"%s\" จากการตั้งค่าด่วน?</string>
     <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
     <string name="frequently_fragment_delete">ลบ</string>
     <string name="show_fc">บังคับปิดแอป</string>
@@ -2197,15 +2197,15 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="erase_personal_data_description">Erase your Xiaomi account, app data, and system settings</string>
     <string name="erase_optional">เนื้อหา</string>
     <string name="erase_application">ลบแอปพลิเคชัน</string>
-    <string name="erase_application_description">Erase downloaded apps</string>
+    <string name="erase_application_description">ลบแอปพลิเคชันดาวน์โหลด</string>
     <string name="confirm_erase">ลบออก</string>
     <string name="master_clear_personal_data">"Erase all your personal information? You can't reverse this action!"</string>
     <string name="master_clear_personal_data_application">"Erase your personal information and downloaded apps？ You can't reverse this action!"</string>
     <string name="master_clear_personal_data_sdcard">"Erase your personal information and content? You can't reverse this action!"</string>
     <string name="master_clear_all">"Erase all data from your phone's internal storage? You can't reverse this action!"</string>
-    <string name="master_clear_erase_application_progress">Erasing apps…</string>
+    <string name="master_clear_erase_application_progress">กำลังลบแอป…</string>
     <string name="erase_internal_storage">Erase stored content</string>
-    <string name="erase_internal_storage_description">Erase music, photos, videos, and other user data</string>
+    <string name="erase_internal_storage_description">ลบเพลง ภาพ วิดีโอ และข้อมูลผู้ใช้</string>
     <string name="storage_format">ฟอร์เมต</string>
     <string name="usage_log">App usage statistics</string>
     <string name="bluetooth_device_searchable">Discoverable</string>
@@ -2329,8 +2329,8 @@ Please select your computer’s operating system:"</string>
     <string name="msd_install_windows_xp_step_2_1">Follow the steps in Setup Wizard to complete installation.</string>
     <string name="msd_install_retry_windows_xp">"If the computer failed to detect your phone,
 Try the following:
-"<li>1) Reconnect the USB cable.</li>"
-"<li>2) Reinstall the driver.</li>" "</string>
+"<li>1) เชื่อมต่อสาย USB อีกครั้ง</li>"
+"<li>2) ติดตั้งไดร์เวอร์ใหม่</li>" "</string>
     <string name="msd_install_retry_windows_vista">"If the computer failed to detect your phone,
 Try reconnecting the USB cable."</string>
     <string name="msd_install_retry_mac">"If the computer failed to detect your phone,
@@ -2338,8 +2338,8 @@ Try the following:
 "<li>"Do a search for
 Android File Transfer,
 and run the software."</li>"
-"<li>Reconnect the USB cable.</li>"
-"<li>Reinstall the driver.</li>" "</string>
+"<li>เชื่อมต่อสาย USB อีกครั้ง</li>"
+"<li>ติดตั้งไดร์เวอร์ใหม่</li>" "</string>
     <string name="msd_install_retry_linux">"If the computer failed to detect your phone,
 Try the following:
 1) Use installation tools sudo aptitude install mtpfs libfuse-dev libmad0-dev
@@ -2350,8 +2350,8 @@ Try the following:
 6) Uninstall device fusermount -u /media/mtp
  Note: For ubuntu 8.04 environment"</string>
     <string name="msd_install_status_undo">ติดตั้งไดร์เวอร์</string>
-    <string name="msd_install_status_done">Driver installed.</string>
-    <string name="msd_driver_download">Download driver</string>
+    <string name="msd_install_status_done">ติดตั้งไดร์เวอร์แล้ว</string>
+    <string name="msd_driver_download">ดาวน์โหลดไดร์เวอร์</string>
     <string name="msd_driver_windows_xp_download">"For PCs, download the driver and click Setup.exe to install
 Get the driver at http://miui.com/win"</string>
     <string name="msd_driver_mac_download">"For Macs, download the driver and click AndroidFileTransfer.dmg to install
@@ -2433,12 +2433,12 @@ Are you sure you want to disable?"</string>
     <string name="next_button_label">ต่อไป</string>
     <string name="internal_media_format_final_desc">"Erase the Internal storage, deleting all files stored there? You can't reverse this action! Phone will restart after Internel storage is erased!"</string>
     <string name="internal_media_format_desc">Erase all Internal storage? You will lose <b>all</b> stored data, and then phone will restart!</string>
-    <string name="internal_media_format_button_text">Erase Internal storage</string>
-    <string name="internal_media_format_title">Erase Internal storage</string>
-    <string name="internal_format">Erase Internal storage</string>
-    <string name="internal_format_summary">Erases all data on the internal storage, such as music and photos</string>
-    <string name="bugreport_tool_log_toast_generate_bugreport">Generating bug report, takes about 1 minute</string>
-    <string name="bugreport_tool_log_toast">บันทึก Log ไปยัง %s</string>
+    <string name="internal_media_format_button_text">ลบหน่วยความจำภายใน</string>
+    <string name="internal_media_format_title">ลบหน่วยความจำภายใน</string>
+    <string name="internal_format">ลบหน่วยควาจำภายใน</string>
+    <string name="internal_format_summary">ลบข้อมูลทั้งหมดในหน่วบความจำภายใน เช่น ภาพ เพลง</string>
+    <string name="bugreport_tool_log_toast_generate_bugreport">กำลังสร้างรายงานข้อผิดพลาด</string>
+    <string name="bugreport_tool_log_toast">บันทึกบันทึกการใช้ไปยัง %s</string>
     <string name="wifi_tether_setting_title">การตั้งค่าเบื้องต้น</string>
     <string name="wifi_priority_settings_label">การตั้งค่าลำดับความสำคัญ</string>
     <string name="audio_profile_settings_title">โปรไฟล์เสียง</string>
