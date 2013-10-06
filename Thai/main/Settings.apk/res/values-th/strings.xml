@@ -1938,7 +1938,7 @@ Please switch to MIUI development version to enable ROOT permission."</string>
     <string name="perm_auto_start_desc">เปิดหรือปิดการใช้งานแอปอัตโนมัติ</string>
     <string name="perm_hips_disable_title">จัดการสิทธิ์การใช้งาน</string>
     <string name="perm_hips_disable_content">"Disabling it will stop MIUI from monitoring application requests and no longer ensure content's security and privacy. Continue?"</string>
-    <string name="perm_su_enable_title">สิทธ์การใช้งาน ROOT</string>
+    <string name="perm_su_enable_title">การอนุญาติ ROOT</string>
     <string name="perm_su_enable_content">"Enabling it will allow apps to request ROOT permission.
 Note: Apps with the permission may cause system instability, loss of personal data, and system or hardware damage. Continue to enable feature?"</string>
     <string name="perm_log_clear_title">ล้างบันทึกการใช้งาน</string>
@@ -1960,7 +1960,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="perm_sysopt_boost_boot">บูต</string>
     <string name="perm_sysopt_boost_receiver">พื้นหลัง</string>
     <string name="perm_sysopt_boost_auto_start_group">เปิดแอปอัตโนมัติ</string>
-    <string name="perm_sysopt_boost_auto_start">สิทธ์การใช้งานเปิดแอปอัตโนมัติ</string>
+    <string name="perm_sysopt_boost_auto_start">อนุญาติเปิดแอปอัตโนมัติ</string>
     <string name="perm_sysopt_boost_auto_start_summary">อนุญาติการใช้งานเปิดแอปอัตโนมัติ</string>
     <string name="perm_su_enable_dialog">%1$s is trying to get system ROOT permission which is disabled by default to ensure system security. If you need to enable it, please go to settings in Permission manager.</string>
     <string name="perm_notice">เตือนความปลอดภัย</string>
@@ -2387,12 +2387,12 @@ Get the driver at http://miui.com/mac"</string>
     <string name="drive_mode_auto_sms_reply_content_title">Quick response</string>
     <string name="clear_activities_summary">Use this app for some operations by default</string>
     <string name="permission_detail_info">รายละเอียดที่ได้รับอนุญาต</string>
-    <string name="permission_detail_info_summary">สิทธิ์การใข้งาน: ความปลอดภัย %1$d，ความเป็นส่วนตัว %2$d，อื่นๆ %3$d</string>
+    <string name="permission_detail_info_summary">อนุญาติ: ความปลอดภัย %1$d，ความเป็นส่วนตัว %2$d，อื่นๆ %3$d</string>
     <string name="permission_manage">จัดการอนุญาต</string>
     <string name="permission_manage_summary">เปิดแอปอัตโนมัติ ความเป็นส่วนตัว จัดการสิทธิ์การใช้งาน</string>
     <string name="security_relative">Security related</string>
     <string name="privacy_relative">Privacy related</string>
-    <string name="other_relative">สิทธิ์อื่น ๆ</string>
+    <string name="other_relative">อนุญาติอื่นๆ</string>
     <string name="permission_manage_title">%s รายละเอียดที่ได้รับอนุญาต</string>
     <string name="filter_apps_cached">แคช</string>
     <string name="screen">จอภาพ</string>
