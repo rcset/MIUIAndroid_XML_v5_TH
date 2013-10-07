@@ -2800,7 +2800,7 @@ Touch the Add contacts button to select the contacts you want to bind to this SI
     <string name="launch_activitie">เปิด</string>
     <string name="move_app_to_where">ย้ายไปยัง %s</string>
     <string name="wifi_no_cert_for_wapi">Could not find certification for current connecting AP</string>
-    <string name="sim_slot">ซ่องซิมการ์ด</string>
+    <string name="sim_slot">ช่องซิมการ์ด</string>
     <string name="eap_sim_slot_0">ช่องซิมการ์ด 1</string>
     <string name="eap_sim_slot_1">ช่องซิมการ์ด 2</string>
     <string name="eap_sim_aka_airplanemode">กรุณาปิดโหมดเครื่องบินเพื่อใช้งาน EAP-SIM/AKA</string>
@@ -2827,7 +2827,7 @@ Touch the Add contacts button to select the contacts you want to bind to this SI
     <string name="data_enabler_waiting_message">กรุณารอสักครู่ ...</string>
     <string name="wifi_tether_fix_channel_width_text">20 MHz</string>
     <string name="wifi_tether_auto_channel_text">อัตโนมัติ</string>
-    <string name="wifi_tether_auto_channel_width_text">Auto 20/40 MHz</string>
+    <string name="wifi_tether_auto_channel_width_text">อัตโนมติ 20/40 MHz</string>
     <string name="wifi_channel">Preferred Channel</string>
     <string name="wifi_channel_width">Channel Width</string>
     <string name="pch_toggle_title">GPRS transfer prefer mode</string>
