@@ -2455,7 +2455,7 @@ Are you sure you want to disable?"</string>
     <string name="wifi_share_show_network">แสดงเครือข่าย</string>
     <string name="wifi_share_current_network">เครือข่ายล่าสุด</string>
     <string name="wifi_share_other_network">เครือข่ายอื่น</string>
-    <string name="wifi_share_know">I Know</string>
+    <string name="wifi_share_know">ฉันรู้</string>
     <string name="wifi_share_summary1">MIUI users can share passwords to public WLAN with each other.</string>
     <string name="wifi_share_summary2">If another MIUI user shares a network, you can connect directly to that network without using a password.</string>
     <string name="wifi_share_summary3">Give back by sharing your public WLAN networks with other MIUI users.</string>
@@ -2470,8 +2470,8 @@ Are you sure you want to disable?"</string>
     <string name="wifi_share_connected_summary">"You're connected to a public WLAN network that has been shared by another user"</string>
     <string name="wifi_share_action_turn_on">Share public WLAN</string>
     <string name="wifi_share_action_turn_on_summary">Please log in with your Xiaomi username and password</string>
-    <string name="wifi_share_action_turn_off">Stop sharing networks</string>
-    <string name="wifi_share_list_empty">No shared networks found.</string>
+    <string name="wifi_share_action_turn_off">กำลังหยุดแบ่งปันเครือข่าย</string>
+    <string name="wifi_share_list_empty">ไม่พบแชร์เครือข่าย</string>
     <string name="wifi_share_connect">เชื่อมต่อ</string>
     <string name="wifi_share_qrcode_title">แบ่งปัน WLAN</string>
     <string name="wifi_share_qrcode_summary">ใช้กล้องเพื่อแสกน QR Code</string>
@@ -2492,10 +2492,10 @@ Are you sure you want to disable?"</string>
     <string name="adjust_3d_depth_title">"Adjust games' 3D depth"</string>
     <string name="hdmi_3d_stereo_separation_label">3D</string>
     <string name="hdmi_3d_help_title">About HDMI 3D Stereoscopic support</string>
-    <string name="power_mode_balanced_title">Enable Balanced Power</string>
-    <string name="usb_host_mode_text">Enable USB host mode</string>
+    <string name="power_mode_balanced_title">เปิดทำงานพลังงานสมดุล</string>
+    <string name="usb_host_mode_text">เปิดทำงานโหมด USB host</string>
     <string name="usb_host_mode_subtext">For using game controllers and other peripherals on USB port, may decrease battery life</string>
-    <string name="power_settings_title">System Performance</string>
+    <string name="power_settings_title">ประสิทธิภาพระบบ</string>
     <string name="title_color_calibration">Color Correction preset</string>
     <string name="dialog_title_color_calibration">Color Correction preset</string>
     <string name="color_calibration_srgb">sRGB</string>
@@ -2504,8 +2504,8 @@ Are you sure you want to disable?"</string>
     <string name="dialog_title_hdmi_color_calibration">Color Correction preset</string>
     <string name="hdmi_color_calibration_srgb">sRGB</string>
     <string name="hdmi_color_calibration_none">Native</string>
-    <string name="hdmi_3d_display_enable_title">3D Display</string>
-    <string name="hdmi_3d_display_enable_summary">Enable to support 3D game</string>
+    <string name="hdmi_3d_display_enable_title">แสดงผล 3D</string>
+    <string name="hdmi_3d_display_enable_summary">เปิดทำงานเพื่อแสดงผลเกม 3D</string>
     <string name="noise_suppression">Noise suppression</string>
     <string name="phone_call_noise_suppression">Phone call noise suppression</string>
     <string name="lock_settings_common_title">ตั้งค่าการล็อค</string>
