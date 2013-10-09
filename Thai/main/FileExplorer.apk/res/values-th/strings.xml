@@ -37,7 +37,7 @@
     <string name="category_picture">รูปภาพ</string>
     <string name="category_theme">ธีม</string>
     <string name="category_document">เอกสาร</string>
-    <string name="category_zip">จดหมายเหตุ</string>
+    <string name="category_zip">บีบอัด</string>
     <string name="category_apk">แอป</string>
     <string name="category_other">อื่น ๆ</string>
     <string name="category_favorite">ให้คะแนน</string>
