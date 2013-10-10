@@ -6,12 +6,6 @@
         <item>ทางซ้าย</item>
         <item>ทางขวา</item>
     </string-array>
-    <string-array name="wallpaper_scroll_values">
-        <item>โดยธีม</item>
-        <item>กึ่งกลาง</item>
-        <item>ทางซ้าย</item>
-        <item>ทางขวา</item>
-    </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>ค่าเริ่มต้น</item>
         <item>คลาสสิค</item>
