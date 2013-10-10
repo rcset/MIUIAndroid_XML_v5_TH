@@ -48,7 +48,6 @@
     <string name="fm_record_smaple_prefix_miui">FMRecording</string>
     <string name="fools_day">"April Fool's Day"</string>
     <string name="force_exit_message">ปิด %1$s เรียบร้อยแล้ว</string>
-    <string name="format_time_in_12_hours">%1$s %2$s</string>
     <string name="global_action_privacy_mode_dialog_message">อยู่ในโหมดป้องกัน จะไม่แสดง ข้อมูลการโทร โน้ต แกลเลอรี่ และข้อความ คุณจะไม่สามารถเข้าสู่โหมดการแก้ไขข้อมูลได้ คุณสามารถตั้งรหัสผ่านสำหรับการเข้าถึงโหมดป้องกันได้ ผ่านทางการตั้งค่า Access Control</string>
     <string name="global_action_toggle_privacy_mode">ป้องกัน</string>
     <string name="grain_buds" />
