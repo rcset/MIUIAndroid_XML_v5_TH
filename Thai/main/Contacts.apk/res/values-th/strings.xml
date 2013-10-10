@@ -161,10 +161,10 @@
     <string name="listTotalAllContactsZeroStarred">ไม่มีรายการโปรด</string>
     <string name="listTotalAllContactsZeroGroup">ไม่มีรายชื่อติดต่อใน %s</string>
     <string name="listSingleContact">รายชื่อเดียว</string>
-    <string name="listCustomView">ที่อยู่ติดต่อในมุมมองที่กำหนดเอง</string>
+    <string name="listCustomView">ดูรายชื่อผู้ติดต่อแบบกำหนดเอง</string>
     <string name="foundTooManyContacts">พบมากกว่า %d รายการ</string>
     <string name="listFoundAllContactsZero">ไม่มีรายชื่อติดต่อ</string>
-    <string name="contactsAllLabel">ที่อยู่ติดต่อทั้งหมด</string>
+    <string name="contactsAllLabel">รายชื่อผู้ติดต่อทั้งหมด</string>
     <string name="contactsGroupsLabel">กลุ่ม</string>
     <string name="contactsFavoritesLabel">รายการโปรด</string>
     <string name="dialerIconLabel">โทรศัพท์</string>
@@ -481,9 +481,9 @@
     <string name="take_new_photo">ถ่ายภาพใหม่</string>
     <string name="pick_photo">เลือกรูปภาพจากแกลเลอรี</string>
     <string name="pick_new_photo">เลือกภาพใหม่จากแกลเลอรี</string>
-    <string name="locale_change_in_progress">กำลังอัปเดตรายการที่อยู่ติดต่อตามการเปลี่ยนภาษา</string>
-    <string name="upgrade_in_progress">กำลังอัปเดตรายการที่อยู่ติดต่อ</string>
-    <string name="upgrade_out_of_memory">"กำลังดำเนินการอัปเกรดสมุดโทรศัพท์
+    <string name="locale_change_in_progress">กำลังอัปเดตรายการรายชื่อผู้ติดต่อตามการเปลี่ยนภาษา</string>
+    <string name="upgrade_in_progress">กำลังอัปเดตรายการรายชื่อผู้ติดต่อ</string>
+    <string name="upgrade_out_of_memory">"กำลังดำเนินการอัปเกรดรายชื่อผู้ติดต่อ
 
 กระบวนการอัปเกรดจำเป็นต้องใช้พื้นที่ประมาณ %s MB ของที่จัดเก็บข้อมูลภายใน
 
@@ -537,9 +537,9 @@
     <string name="date_year_toggle">ระบุปี</string>
     <string name="social_widget_label">รายชื่อติดต่อ</string>
     <string name="social_widget_loading">กำลังโหลด...</string>
-    <string name="contacts_unavailable_create_contact">สร้างที่อยู่ติดต่อใหม่</string>
+    <string name="contacts_unavailable_create_contact">สร้างรายชื่อผู้ติดต่อใหม่</string>
     <string name="contacts_unavailable_add_account">ลงชื่อเข้าใช้บัญชี</string>
-    <string name="contacts_unavailable_import_contacts">นำเข้าสมุดโทรศัพท์</string>
+    <string name="contacts_unavailable_import_contacts">นำเข้ารายชื่อผู้ติดต่อจากไฟล์</string>
     <string name="create_group_dialog_title">สร้างกลุ่มใหม่</string>
     <string name="create_group_item_label">สร้างกลุ่มใหม่</string>
     <string name="delete_group_dialog_title">ลบกลุ่ม</string>
@@ -598,7 +598,7 @@
     <string name="user_profile_contacts_list_header">ฉัน</string>
     <string name="local_profile_title">โปรไฟล์ในอุปกรณ์ของฉัน</string>
     <string name="external_profile_title">โปรไฟล์ %1$s ของฉัน</string>
-    <string name="toast_displaying_all_contacts">แสดงที่อยู่ติดต่อทั้งหมด</string>
+    <string name="toast_displaying_all_contacts">แสดงรายชื่อผู้ติดต่อทั้งหมด</string>
     <string name="no_account_prompt">"People ทำงานได้ดีกว่าหากมีบัญชี Google
 
 •เข้าถึงจากทุกเว็บเบราว์เซอร์

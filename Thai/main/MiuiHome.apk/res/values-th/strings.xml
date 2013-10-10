@@ -6,7 +6,7 @@
     <string name="process" />
     <string name="application_name">MiuiHome</string>
     <string name="folder_name">โฟลเดอร์</string>
-    <string name="unnamed_folder_name">Untitled</string>
+    <string name="unnamed_folder_name">โฟลเดอร์ไม่มีชื่อ</string>
     <string name="chooser_wallpaper">เลือกวอลล์เปเปอร์จาก</string>
     <string name="activity_not_found">แอปพลิเคชันไม่ได้ติดตั้งในโทรศัพท์ของคุณ</string>
     <string name="cancel_action">ยกเลิก</string>
