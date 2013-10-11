@@ -2340,7 +2340,7 @@ Get the driver at http://miui.com/win"</string>
 Get the driver at http://miui.com/mac"</string>
     <string name="vpn_settings_password">VPN</string>
     <string name="vpn_safe">ความปลอดภัย</string>
-    <string name="vpn_configure">Configuration</string>
+    <string name="vpn_configure">แสดงความยินดี</string>
     <string name="vpn_dns_servers_hint">e.g. 8.8.8.8</string>
     <string name="vpn_routes_hint">e.g. 10.0.0.0/8</string>
     <string name="sync_wifi_label">การตั้งค่า Wi-Fi</string>
@@ -2365,15 +2365,15 @@ Get the driver at http://miui.com/mac"</string>
     <string name="drive_mode_calling_auto_sms_reply">ตอบรับโทรศัพท์</string>
     <string name="drive_mode_sms_auto_sms_reply">ตอบกลับทาง SMS</string>
     <string name="drive_mode_only_contact_reply">ตอบกลับไปยังรายชื่อ</string>
-    <string name="drive_mode_auto_sms_reply_content">"Can't talk right now... I'll call you later"</string>
-    <string name="drive_mode_auto_sms_reply_content_title">Quick response</string>
+    <string name="drive_mode_auto_sms_reply_content">"ไม่สามารถคุยได้ในตอนนี้... จะติดต่อกลับภายหลัง"</string>
+    <string name="drive_mode_auto_sms_reply_content_title">ตอบกลับด่วน</string>
     <string name="clear_activities_summary">Use this app for some operations by default</string>
     <string name="permission_detail_info">รายละเอียดที่ได้รับอนุญาต</string>
     <string name="permission_detail_info_summary">อนุญาติ: ความปลอดภัย %1$d，ความเป็นส่วนตัว %2$d，อื่นๆ %3$d</string>
     <string name="permission_manage">จัดการอนุญาต</string>
     <string name="permission_manage_summary">เปิดแอปอัตโนมัติ ความเป็นส่วนตัว จัดการสิทธิ์การใช้งาน</string>
-    <string name="security_relative">Security related</string>
-    <string name="privacy_relative">Privacy related</string>
+    <string name="security_relative">เกี่ยวข้องกับความปลอดภัย</string>
+    <string name="privacy_relative">เกี่ยวข้องกับความเป็นส่วนตัว</string>
     <string name="other_relative">อนุญาติอื่นๆ</string>
     <string name="permission_manage_title">%s รายละเอียดที่ได้รับอนุญาต</string>
     <string name="filter_apps_cached">แคช</string>
