@@ -2,15 +2,15 @@
 <resources>
     <string name="app_name">LBE Guard</string>
     <string name="Generic_Copyright">สนับสนุนโดย Xiaomi</string>
-    <string name="Generic_Version">เวอร์ชั่น: %1$s</string>
+    <string name="Generic_Version">เวอร์ชัน: %1$s</string>
     <string name="Generic_Configuration">ตั้งค่า</string>
-    <string name="Generic_UserApp">ดาวน์โหลดแอพ (%d)</string>
-    <string name="Generic_SystemApp">แอพระบบ (%d)</string>
-    <string name="Generic_SystemApp_Label">[แอพระบบ]</string>
+    <string name="Generic_UserApp">ดาวน์โหลดแอป (%d)</string>
+    <string name="Generic_SystemApp">แอประบบ (%d)</string>
+    <string name="Generic_SystemApp_Label">[แอประบบ]</string>
     <string name="Generic_MonitoredApp">แอปตรวจสอบ (%1$d)</string>
     <string name="Generic_TrustedApp">แอปน่าเชื่อถือ (%1$d)</string>
-    <string name="Generic_ShowSystemApp">แสดงแอพระบบ</string>
-    <string name="Generic_HideSystemApp">ซ่อนแอพระบบ</string>
+    <string name="Generic_ShowSystemApp">แสดงแอประบบ</string>
+    <string name="Generic_HideSystemApp">ซ่อนแอประบบ</string>
     <string name="Generic_Loading">กำลังโหลด...</string>
     <string name="Generic_Operating">กำลังดำเนินการ...</string>
     <string name="Generic_Canceling">กำลังยกเลิก...</string>
@@ -25,7 +25,7 @@
     <string name="Generic_Check">เลือก</string>
     <string name="Generic_Clean">Clean</string>
     <string name="Generic_Good">ดี</string>
-    <string name="Generic_Update">อัพเกรดซอฟแวร์</string>
+    <string name="Generic_Update">อัปเกรดซอฟแวร์</string>
     <string name="Generic_Shortcut">Contextual menu</string>
     <string name="HIPS_Action_Accept">อนุญาติ</string>
     <string name="HIPS_Action_Prompt">ถามก่อน</string>
@@ -137,7 +137,7 @@
     <string name="HIPS_SecurityPrompt_ROOT_Step5">Use with caution!</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step6">Are your sure to allow %1$s to get ROOT permission?</string>
     <string name="Dashboard_Perm">การอนุญาติ</string>
-    <string name="Dashboard_App">แอพ</string>
+    <string name="Dashboard_App">แอป</string>
     <string name="Dashboard_Log">บันทึกการใช้งาน</string>
     <string name="Dashboard_Perm_Header">กำลังตรวจสอบ %1$d แอป</string>
     <string name="Dashboard_Perm_Header_Disabled">Permission monitor is disabled</string>
@@ -157,7 +157,7 @@
     <string name="Dashboard_Perm_HIPS_Risky">Risky Permissions (%1$d)</string>
     <string name="Dashboard_Perm_HIPS_Safe">Normal Permissions (%1$d)</string>
     <string name="Dashboard_Perm_AutoStart_Switch">Autostart Manager</string>
-    <string name="Dashboard_Perm_AutoStart">ควบคุมแอพ</string>
+    <string name="Dashboard_Perm_AutoStart">ควบคุมแอป</string>
     <string name="Dashboard_Perm_AutoStart_Desc">Enable or disable app autostart feature</string>
     <string name="Dashboard_HIPS_Disable_Title">LBE Guard</string>
     <string name="Dashboard_HIPS_Disable_Content">MIUI will stop monitoring application requests and will no longer protect your security and privacy. Are you sure you wish to disable it?</string>
