@@ -1911,9 +1911,9 @@ Please switch to MIUI development version to enable ROOT permission."</string>
     <string name="perm_su_disabled_in_stable_download">ดาวน์โหลด MIUI</string>
     <string name="perm_hips_switch">จัดการสิทธิ์การใช้งาน</string>
     <string name="perm_hips">จัดการสิทธิ์การใช้งานแอป</string>
-    <string name="perm_hips_desc">Monitoring %1$d apps for security and privacy</string>
-    <string name="perm_hips_desc1">Monitoring apps for security and privacy</string>
-    <string name="perm_hips_desc2">Monitoring %1$d apps for security and privacy</string>
+    <string name="perm_hips_desc">กำลังตรวจสอบแอป %1$d เพื่อความปลอดภัยและความเป็นส่วนตัว</string>
+    <string name="perm_hips_desc1">กำลังตรวจสอบแอปเพื่อความปลอดภัยและความเป็นส่วนตัว</string>
+    <string name="perm_hips_desc2">กำลังตรวจสอบแอป %1$d เพื่อความปลอดภัยและความเป</string>
     <string name="perm_hips_risky">สิทธิ์การใช้งานเสี่ยง (%1$d)</string>
     <string name="perm_hips_safe">สิทธิ์การใช้งานปกติ (%1$d)</string>
     <string name="perm_auto_start">จัดการเปิดแอปอัตโนมัติ</string>
