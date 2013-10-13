@@ -7,16 +7,16 @@
     <string name="Generic_UserApp">ดาวน์โหลดแอพ (%d)</string>
     <string name="Generic_SystemApp">แอพระบบ (%d)</string>
     <string name="Generic_SystemApp_Label">[แอพระบบ]</string>
-    <string name="Generic_MonitoredApp">Monitored Apps (%1$d)</string>
-    <string name="Generic_TrustedApp">Trusted Apps (%1$d)</string>
+    <string name="Generic_MonitoredApp">แอปตรวจสอบ (%1$d)</string>
+    <string name="Generic_TrustedApp">แอปน่าเชื่อถือ (%1$d)</string>
     <string name="Generic_ShowSystemApp">แสดงแอพระบบ</string>
     <string name="Generic_HideSystemApp">ซ่อนแอพระบบ</string>
     <string name="Generic_Loading">กำลังโหลด...</string>
     <string name="Generic_Operating">กำลังดำเนินการ...</string>
     <string name="Generic_Canceling">กำลังยกเลิก...</string>
     <string name="Generic_InvalidInput">Invalid input</string>
-    <string name="Generic_Service_Enabled">Service is active</string>
-    <string name="Generic_Service_Disabled">Service is turned off</string>
+    <string name="Generic_Service_Enabled">บริการทำงาน</string>
+    <string name="Generic_Service_Disabled">บริการถูกปิด</string>
     <string name="Generic_Summary_Enabled">เปิด</string>
     <string name="Generic_Summary_Disabled">ปิด</string>
     <string name="Generic_Enable">ทำงาน</string>
@@ -30,9 +30,9 @@
     <string name="HIPS_Action_Accept">อนุญาติ</string>
     <string name="HIPS_Action_Prompt">ถามก่อน</string>
     <string name="HIPS_Action_Reject">ปฎิเสธ</string>
-    <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>Allow&lt;/font></string>
-    <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00>Ask&lt;/font></string>
-    <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000>Deny&lt;/font></string>
+    <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>อนุญาติ&lt;/font></string>
+    <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00>ถามก่อน&lt;/font></string>
+    <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000>ปฎิเสษ&lt;/font></string>
     <string name="HIPS_Action_Accept_Count">อนุญาติ: %1$d</string>
     <string name="HIPS_Action_Reject_Count">ปฎิเสษ: %1$d</string>
     <string name="HIPS_Group_Expense">ความปลอดภัย</string>
@@ -72,12 +72,12 @@
     <string name="HIPS_Perm_Network_Accept">Allow connection from %1$s</string>
     <string name="HIPS_Perm_Network_Connect">Connect to %1$s</string>
     <string name="HIPS_Perm_Network_Listen">Listen on port %1$s</string>
-    <string name="HIPS_Perm_Network_Recv">Receive data</string>
-    <string name="HIPS_Perm_Network_Send">Send data</string>
+    <string name="HIPS_Perm_Network_Recv">รับข้อมูล</string>
+    <string name="HIPS_Perm_Network_Send">ส่งข้อมูล</string>
     <string name="HIPS_Perm_SMS">SMS</string>
     <string name="HIPS_Perm_SMS_Desc">Access your SMS inbox</string>
     <string name="HIPS_Perm_SMS_Hint">%1$s apps have the permission to access your SMS inbox</string>
-    <string name="HIPS_Perm_Contact">Contacts</string>
+    <string name="HIPS_Perm_Contact">รายชื่อ</string>
     <string name="HIPS_Perm_Contact_Desc">Access your contact list</string>
     <string name="HIPS_Perm_Contact_Hint">%1$s apps have the permission to access your contact list</string>
     <string name="HIPS_Perm_CallLog">บันทึกการโทร</string>
@@ -136,23 +136,23 @@
     <string name="HIPS_SecurityPrompt_ROOT_Step4">Permanent hardware damage is also possible</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step5">Use with caution!</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step6">Are your sure to allow %1$s to get ROOT permission?</string>
-    <string name="Dashboard_Perm">Permissions</string>
+    <string name="Dashboard_Perm">การอนุญาติ</string>
     <string name="Dashboard_App">แอพ</string>
     <string name="Dashboard_Log">บันทึกการใช้งาน</string>
-    <string name="Dashboard_Perm_Header">Monitoring %1$d apps</string>
+    <string name="Dashboard_Perm_Header">กำลังตรวจสอบ %1$d แอป</string>
     <string name="Dashboard_Perm_Header_Disabled">Permission monitor is disabled</string>
-    <string name="Dashboard_Perm_SU_Switch">ROOT Permission</string>
-    <string name="Dashboard_Perm_SU">Manage ROOT Permission</string>
+    <string name="Dashboard_Perm_SU_Switch">การอนุญาติ ROOT</string>
+    <string name="Dashboard_Perm_SU">จัดการอนุญาติ ROOT</string>
     <string name="Dashboard_Perm_SU_Desc">Monitoring %1$d apps for ROOT Permission</string>
-    <string name="Dashboard_Perm_SU_Disabled">ROOT Permission is disabled</string>
+    <string name="Dashboard_Perm_SU_Disabled">การอนุญาติ ROOT ถูกปิด</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT is not available in Stable MIUI versions</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Grant ROOT permission to 3rd party apps may cause system instability, or loss of personal data, system or hardware damage. Please switch to a development version of MIUI to enable ROOT permissions.</string>
-    <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Download MIUI</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">ดาวน์โหลด MIUI</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuiandroid.com/community/</string>
     <string name="Dashboard_Perm_HIPS_Switch">Permissions Monitor</string>
     <string name="Dashboard_Perm_HIPS">Manage App Permissions</string>
-    <string name="Dashboard_Perm_HIPS_Desc">Monitoring %1$d apps</string>
-    <string name="Dashboard_Perm_HIPS_Desc2">Monitoring %1$d apps</string>
+    <string name="Dashboard_Perm_HIPS_Desc">กำลังตรวจสอบ %1$d แอป</string>
+    <string name="Dashboard_Perm_HIPS_Desc2">กำลังตรวจสอบ %1$d แอป</string>
     <string name="Dashboard_Perm_HIPS_Disabled">Permissions Monitor is disabled</string>
     <string name="Dashboard_Perm_HIPS_Risky">Risky Permissions (%1$d)</string>
     <string name="Dashboard_Perm_HIPS_Safe">Normal Permissions (%1$d)</string>
@@ -161,14 +161,14 @@
     <string name="Dashboard_Perm_AutoStart_Desc">Enable or disable app autostart feature</string>
     <string name="Dashboard_HIPS_Disable_Title">LBE Guard</string>
     <string name="Dashboard_HIPS_Disable_Content">MIUI will stop monitoring application requests and will no longer protect your security and privacy. Are you sure you wish to disable it?</string>
-    <string name="Dashboard_Su_Enable_Title">ROOT Permission</string>
+    <string name="Dashboard_Su_Enable_Title">การอนุญาติ ROOT</string>
     <string name="Dashboard_Su_Enable_Content">Enabling it will allow apps to request ROOT permission. Note: Apps with the permission may cause system instability, even loss of personal data, system or hardware damage, please be cautions. Are you sure you wish to enable it?</string>
     <string name="Dashboard_Log_Clear_Title">ล้างบันทึกการใช้งาน</string>
     <string name="Dashboard_Log_Clear_Content">All logs will be erased. Are you sure you wish to continue?</string>
-    <string name="Privacy_Perm_Count">Allowed: %1$d Denied: %2$d</string>
-    <string name="Privacy_AppPerm_Count">%1$d permissions</string>
-    <string name="Privacy_AppPerm_Count_Trust">%1$d permissions - &lt;font color=#478800>Trusted&lt;/font></string>
-    <string name="Privacy_App_Trust">I trust this App</string>
+    <string name="Privacy_Perm_Count">อนุญาติ: %1$d ปฎิเสษ: %2$d</string>
+    <string name="Privacy_AppPerm_Count">%1$d การอนุญาติ</string>
+    <string name="Privacy_AppPerm_Count_Trust">%1$d การอนุญาติ - &lt;font color=#478800>เชื่อถือ&lt;/font></string>
+    <string name="Privacy_App_Trust">เชื่อถือแอปนี้</string>
     <string name="Privacy_App_Trust_Summary_Off">MIUI will not monitor this App</string>
     <string name="Privacy_App_Trust_Summary_On">MIUI will trust this App</string>
     <string name="Privacy_App_Manage">รายละเอียด</string>
@@ -177,7 +177,7 @@
     <string name="Privacy_App_Installed">Configure permission</string>
     <string name="Privacy_App_Finish">เสร็จสิ้น</string>
     <string name="Privacy_App_Launch">เปิด</string>
-    <string name="Privacy_App_TrustDialog_Title">Trust this App</string>
+    <string name="Privacy_App_TrustDialog_Title">เชื่อถือแอปนี้</string>
     <string name="Privacy_App_TrustDialog_Content">MIUI will not ask your for confirmation of any security and privacy related operations from this App.</string>
     <string name="SysOpt_Boost_Boot">Boot</string>
     <string name="SysOpt_Boost_Receiver">Background</string>
