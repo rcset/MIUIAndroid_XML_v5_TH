@@ -2221,12 +2221,12 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="virus_scanner_select_OK">ตกลง</string>
     <string name="virus_scanner_select_Cancel">ยกเลิก</string>
     <string name="virus_scanner_provider">Definitions provided by %s</string>
-    <string name="virus_scanner_auto_update">อัปเดทอัตโนมัติ</string>
+    <string name="virus_scanner_auto_update">อัปเดตอัตโนมัติ</string>
     <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
-    <string name="virus_scanner_manual_update">อัปเดท %s</string>
+    <string name="virus_scanner_manual_update">อัปเดต %s</string>
     <string name="virus_scanner_lib_updating">Updating definitions…</string>
     <string name="virus_scanner_lib_already_latest">You are currently using the latest definitions. :)</string>
-    <string name="virus_scanner_lib_update_failed">อัปเดทล้มเหลว</string>
+    <string name="virus_scanner_lib_update_failed">อัปเดตล้มเหลว</string>
     <string name="virus_scan_app_safe_scanning">กำลังสแกน…</string>
     <string name="virus_scan_app_multi_engines">You’re using more than one set of definitions. The scan may take longer.</string>
     <string name="virus_scan_app_scanning">กำลังสแกน…</string>
@@ -2661,8 +2661,8 @@ Are you sure you want to disable?"</string>
     <string name="slot_status_summary">ข้อมูลที่เกี่ยวข้องกับ IMEI</string>
     <string name="custom_build_version">เวอร์ชั่นบิลด์แบบกำหนดเอง</string>
     <string name="software_update">บริการอัปเดตซอฟต์แวร์</string>
-    <string name="mota_system_update_summary">เช็คการอัปเดทระบบบนเซิร์ฟเวอร์</string>
-    <string name="software_updates_more_title">การอัปเดทซอฟท์แวร์</string>
+    <string name="mota_system_update_summary">เช็คการอัปเดตระบบบนเซิร์ฟเวอร์</string>
+    <string name="software_updates_more_title">การอัปเดตซอฟท์แวร์</string>
     <string name="software_updates_more_summary">ค้นหาซอฟต์แวร์เวอร์ชั่นใหม่</string>
     <string name="software_updates_scomo_summary">ค้นหาซอฟต์แวร์เวอร์ชั่นใหม่สำหรับแอปพลิเคชั่น</string>
     <string name="scomo_settings_title">บริการอัปเดตซอฟต์แวร์</string>
@@ -2880,7 +2880,7 @@ Are you sure you want to disable?"</string>
     <string name="wifi_ipv4_address">ที่อยู่ IPv4</string>
     <string name="wifi_ipv6_address">ที่อยู่ IPv6</string>
     <string name="mtk_datausage_show_on_lockscreen">แสดงบนหน้าจอล็อคสกรีน</string>
-    <string name="mtk_datausage_update">อัปเดทการใช้ข้อมูล</string>
+    <string name="mtk_datausage_update">อัปเดตการใช้ข้อมูล</string>
     <string name="mtk_datausage_update_set">อัปเดต</string>
     <string name="mtk_datausage_amount_editor_title">ปริมาณข้อมูลที่ใช้</string>
     <string name="mtk_datausage_usage_list">การใช้ข้อมูลของแอป</string>
