@@ -178,7 +178,7 @@
     <string name="enable_encrypt_xiaomi_account">สำรองไฟล์นี้สร้างโดย %1$s กรุณาลบบัญชีปัจจุบัน และเข้าระบบไปยัง %2$s เพื่อคืนค่าสำรองข้อมูล</string>
     <string name="enable_encrypt_ok">ตกลง</string>
     <string name="no_encrypt_password">ไม่มีรหัสผ่านการเข้ารหัส</string>
-    <string name="enable_encrypt_fail">เปิดการทำงานการเข้ารหสล้มเหลว</string>
+    <string name="enable_encrypt_fail">เปิดการทำงานการเข้ารหัสสล้มเหลว</string>
     <string name="read_encrypt_fail">อ่านการเข้ารหัสล้มเหลว</string>
     <string name="exchange_account">เปลี่ยนบัญชี</string>
     <string name="system_backup">สำรองข้อมูล</string>
