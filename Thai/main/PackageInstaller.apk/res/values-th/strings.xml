@@ -27,9 +27,9 @@
     <string name="allow_source_dlg_text">%1$s ต้องการจะติดตั้งแอปพลิเคชัน อนุญาติตอนนี้และครั้งต่อไป?</string>
     <string name="manage_applications">จัดการแอปพลิเคชัน</string>
     <string name="dlg_app_replacement_title">แทนที่แอปพลิเคชัน</string>
-    <string name="dlg_app_replacement_statement">แอปพลิเคชั้นที่กำลังติดตัั้งจะถูกแทนที่แอปพลิเคชั้นอื่น แต่ข้อมูลแอปพลิเคชันจะไม่สูญหาย</string>
+    <string name="dlg_app_replacement_statement">แอปพลิเคชันที่กำลังติดตัั้งจะถูกแทนที่แอปพลิเคชันอื่น แต่ข้อมูลแอปพลิเคชันจะไม่สูญหาย</string>
     <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) จะถูกแทนที่โดยเวอร์ชันปัจจุบัน (%3$s). ข้อมูลผู้ใช้ตะยังคงอยู่ คุณต้องการติดตั้งหรือไม่?</string>
-    <string name="dlg_sys_app_replacement_statement">นี่คือแอปพลิเคชันระบบ คุณต้องการแทนที่? แต่ข้อมูลแอปพลิเคชนจะไม่สูญหาย</string>
+    <string name="dlg_sys_app_replacement_statement">นี่คือแอปพลิเคชันระบบ คุณต้องการแทนที่? แต่ข้อมูลแอปพลิเคชันจะไม่สูญหาย</string>
     <string name="lift_ban">ยกเว้น</string>
     <string name="out_of_space_dlg_title">ไม่มีพิ้นที่</string>
     <string name="out_of_space_dlg_text">%1$s ไม่สามารถติดตั้งได้ เนื่องจากมีพื้นที่ไม่เพียงพอ</string>
@@ -37,7 +37,7 @@
     <string name="app_not_found_dlg_title">ไม่พบแอปพลิเคชัน</string>
     <string name="app_not_found_dlg_text">ไม่พบแอปพลิเคชันในรายการแอปพลิเคชัน</string>
     <string name="uninstall_application_title">ถอนการติดตั้งแอปพลิเคชัน</string>
-    <string name="uninstall_update_title">ถอนการติดตั้งอัพเดท</string>
+    <string name="uninstall_update_title">ถอนการติดตั้งอัปเดต</string>
     <string name="uninstall_activity_text">%1$s เป็นส่วนที่กำลังติดตามแอปพลิเคชัน:</string>
     <string name="uninstall_confirm_question">คุณต้องการถอนการติดตั้งแอปพลิเคชัน?</string>
     <string name="uninstall_application_text">ถอนการติดตั้งแอปพลิเคชันแล้ว</string>
