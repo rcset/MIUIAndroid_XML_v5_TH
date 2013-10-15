@@ -17,9 +17,9 @@
     <string name="confirm_save_info_saved">สิ่งที่บันทึกถูกจัดเก็บแล้ว</string>
     <string name="sim_toolkit">ชุดเครื่องมือ SIM</string>
     <string name="activity_not_found">ไม่ได้ติดตั้งแอพพลิเคชั่นบนโทรศัพท์ของคุณ</string>
-    <string name="no_sim_card_inserted">Please insert SIM to launch SIM Toolkit.</string>
-    <string name="airplane_mode_on">Unable to launch SIM Toolkit since airplane mode is on.</string>
-    <string name="lable_sim_not_ready">SIM Toolkit is not ready or unsupported</string>
+    <string name="no_sim_card_inserted">กรุณาใส่ซิมการ์ดเพื่อเรียกใช้เครื่องมือซิม</string>
+    <string name="airplane_mode_on">ไม่สามารถเรียกใช้เครื่องมือซิมได้หากเปิดโหมดเครื่องบิน</string>
+    <string name="lable_sim_not_ready">เครื่องมือซิมไม่พร้อมหรือไม่รองรับ</string>
     <string name="gemini_3g_indic">3G</string>
     <string name="callFailed_dsac_vt_incompatible_destination">ไม่สามารถตั้งค่าสายวิดีโอ โทรศัพท์วิดีโอไม่ได้รับการสนับสนุนบนโทรศัพท์ที่คุณกำลังโทรไป โทรด้วยสายสนทนาหรือไม่?</string>
     <string name="callFailed_dsac_vt_resource_unavailable">ไม่สามารถตั้งค่าสายวิดีโอ โทรศัพท์ที่คุณโทรหาอยู่นอกพื้นที่บริการ 3G โทรด้วยสายสนทนาหรือไม่?</string>
@@ -161,8 +161,8 @@
     <string name="dualtalk_tip_accept_disconnect_voice">การรับสายนี้ จะวางสายสนทนา</string>
     <string name="dualtalk_tip_accept_disconnect_outgoing_reject_incoming">การรับสายนี้ จะวางสายโทรออก และปฏิเสธสายเรียกเข้าอื่น</string>
     <string name="dualtalk_tip_accept_disconnect_current_reject_incoming">การรับสายนี้ จะวางสายปัจจุบัน และปฏิเสธสายเรียกเข้าอื่น</string>
-    <string name="onscreenCdmaManageCallext">Manage call</string>
-    <string name="onscreenCdmaMergeCallext">Merge call</string>
+    <string name="onscreenCdmaManageCallext">จัดการสาย</string>
+    <string name="onscreenCdmaMergeCallext">ประชุมสาย</string>
     <string name="end_call_because_can_not_hold">"End current call, because it can't be hold."</string>
     <string name="ring_only_once_title">Ring only once</string>
     <string name="ring_only_once_summary">Ring only once when choosing to accept a video call by voice call mode</string>
@@ -1018,9 +1018,9 @@
     <string name="auto_ip_exception_miui">"Numbers that don't need IP prefix"</string>
     <string name="auto_ip_no_exceptions_miui">"Add numbers that don't require an IP prefix"</string>
     <string name="auto_ip_add_exception_numbers_miui">เพิ่มหมายเลข</string>
-    <string name="auto_ip_remove_exception_numbers_confirm_miui">Delete %d numbers?</string>
-    <string name="auto_ip_exception_summary_miui">%d total</string>
-    <string name="auto_ip_exception_summary_more_miui">,... %d total</string>
+    <string name="auto_ip_remove_exception_numbers_confirm_miui">ลบ %d หมายเลข?</string>
+    <string name="auto_ip_exception_summary_miui">%d ทั้งหมด</string>
+    <string name="auto_ip_exception_summary_more_miui">,... %d ทั้งหมด</string>
     <string name="auto_ip_support_local_numbers">Support local numbers</string>
     <string name="auto_record_call_summary_miui">All recorded calls will be saved to the file MIUI/sound_recorder/call_rec</string>
     <string name="auto_record_call_title_miui">บันทึกเสียงอัตโนมัติ</string>
@@ -1140,7 +1140,7 @@
     <string name="emergency_call_area_code_edit_dialog_button_miui">Call</string>
     <string name="emergency_call_area_code_edit_dialog_hint_miui">Enter area code</string>
     <string name="enable_miui">ทำงาน</string>
-    <string name="enable_proximity_summary_miui">Turn off screen during calls</string>
+    <string name="enable_proximity_summary_miui">ปิดหน้าจอเมื่อมีสาย</string>
     <string name="enable_proximity_title_miui">Proximity sensor</string>
     <string name="enable_sim_pin_miui">Enable SIM PIN</string>
     <string name="enable_telocation_title_miui">แสดงตำแหน่ง</string>
@@ -1150,7 +1150,7 @@
     <string name="fdn_change_pin_sum_miui">Change PIN for FDN access</string>
     <string name="fdn_disabled_miui">FDNs disabled</string>
     <string name="fdn_enabled_miui">FDNs enabled</string>
-    <string name="fdn_enable_puk2_requested_miui">PIN2 is locked.</string>
+    <string name="fdn_enable_puk2_requested_miui">PIN2 ถูกล็อค</string>
     <string name="fdn_miui">Fixed Dialing Numbers</string>
     <string name="fdn_summary_miui">FDNs restrict outgoing calls to only numbers listed, or to numbers with certain prefixes</string>
     <string name="get_smsc_address_error_miui">Failed to connect to network.</string>
@@ -1184,7 +1184,7 @@
     <string name="label_puk_code_miui">พิมพ์รหัส PUK</string>
     <string name="manage_fdn_list_miui">FDN list</string>
     <string name="manage_fdn_list_sum_miui">Manage your Fixed Dialing Numbers list</string>
-    <string name="menu_select_title">%d selected</string>
+    <string name="menu_select_title">%d ที่เลือก</string>
     <string name="menu_select_all">เลือกทั้งหมด</string>
     <string name="menu_deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="mismatch_pin2_miui">"PIN2s don't match."</string>
@@ -1251,12 +1251,12 @@ Your phone will be locked automatically after another failed attempt."</string>
 Your SIM card will be erased after another failed attempt."</string>
     <string name="remove_miui">ลบ</string>
     <string name="reject_via_sms_miui">ตอบด่วน</string>
-    <string name="reject_via_sms_summary_miui">Edit text responses</string>
+    <string name="reject_via_sms_summary_miui">แก้ไขข้อความด่วน</string>
     <string name="reject_via_sms_title_miui">ตอบด่วน</string>
     <string name="separate_from_conference_miui">แยกสาย</string>
     <string name="set_smsc_address_error_miui">Failed to set number.</string>
     <string name="set_smsc_address_timeout_miui">หมดเวลาการเชื่อมต่อ</string>
-    <string name="set_smsc_address_title_miui">Set SMS center number</string>
+    <string name="set_smsc_address_title_miui">ตั้งหมายเลขศูนย์ข้อความ SMS</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">ไม่เลือกทั้งหมด</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">เลือกทั้งหมด</string>
     <string name="sim_contact_name_miui">ชือ</string>
@@ -1289,13 +1289,13 @@ Your SIM card will be erased after another failed attempt."</string>
     <string name="voicemail_provider_miui">บริการวอยเมล</string>
     <string name="voicemail_provider_sum_miui">เลือกบริการวอยเมล</string>
     <string name="voicemail_settings_miui">ตั้งค่าวอยเมล</string>
-    <string name="voicemail_settings_number_hint_miui">Enter voice mailbox number</string>
+    <string name="voicemail_settings_number_hint_miui">ใส่หมายเลขวอยเมล</string>
     <string name="voicemail_settings_number_title_miui">หมายเลขวอยเมล</string>
     <string name="voice_privacy_miui">Voice privacy</string>
     <string name="voice_privacy_summary_miui">Enable enhanced privacy mode</string>
     <string name="sim_contacts_title_miui">รายชื่อในซิมการ์ด</string>
     <string name="delete_sim_entry_miui">ลบ</string>
-    <string name="confirm_delete_sim_entry_miui">Delete %d contacts on SIM card?</string>
+    <string name="confirm_delete_sim_entry_miui">ลบ %d รายชื่อบนซิมการ์ด?</string>
     <string name="deleting_sim_entry_miui">กำลังลบ…</string>
     <string name="delete_selected_sim_entry_miui">ลบรายชื่อที่เลือก</string>
     <string name="import_all_sim_entry_miui">นำเข้าทั้งหมด</string>
@@ -1323,7 +1323,7 @@ Your SIM card will be erased after another failed attempt."</string>
     <string name="register_network_failed_title_miui">Failed to connect to network</string>
     <string name="register_network_failed_message_miui">"Can't connect to the network that you selected, connect to your preferred network instead?"</string>
     <string name="next_miui">ถัดไป</string>
-    <string name="turn_off_miui">Turn-off</string>
+    <string name="turn_off_miui">ปิดเครื่อง</string>
     <string name="back_miui">กลับ</string>
     <string name="missed_call_notify_times_title_miui">เตือนสายไม่ได้รับ</string>
     <string name="missed_call_notify_times_summary_miui">Choose the number of times you want be reminded about missed calls (reminders are separated by five minute intervals)</string>
