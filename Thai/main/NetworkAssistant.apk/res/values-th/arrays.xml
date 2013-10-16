@@ -16,21 +16,21 @@
         <item>9s</item>
     </string-array>
     <string-array name="date_of_traffic">
-        <item>Traffic yesterday</item>
-        <item>Traffic today</item>
-        <item>Traffic this month</item>
+        <item>ทราฟฟิกเมื่อวาน</item>
+        <item>ทราฟฟิกวันนี้</item>
+        <item>ทราฟฟิกเดือนนี้</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Yesterday on 2G/3G</item>
-        <item>Today on 2G/3G</item>
-        <item>This month on 2G/3G</item>
-        <item>Yesterday on Wi-Fi</item>
-        <item>Today on Wi-fi</item>
-        <item>This month on Wi-Fi</item>
+        <item>เมื่อวาน 2G/3G</item>
+        <item>วันนี้ 2G/3G</item>
+        <item>เดือนนี้ 2G/3G</item>
+        <item>เมื่อวาน Wi-Fi</item>
+        <item>วันนี้ Wi-fi</item>
+        <item>เดือนนี้ Wi-Fi</item>
     </string-array>
     <string-array name="date_of_app">
-        <item>Yesterday 2G/3G</item>
-        <item>Today 2G/3G</item>
-        <item>This month 2G/3G</item>
+        <item>เมื่อวาน 2G/3G</item>
+        <item>วันนี้ 2G/3G</item>
+        <item>เดือนนี้ 2G/3G</item>
     </string-array>
 </resources>
