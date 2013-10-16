@@ -13,8 +13,8 @@
     <string name="widget_color_uesd_none_exceed_warn">\#579D00</string>
     <string name="widget_color_used_all">\#C00203</string>
     <string name="app_name">Monitor</string>
-    <string name="used_flux">Traffic Usage</string>
-    <string name="sorted_flux">Traffic Stats</string>
+    <string name="used_flux">ทราฟฟิกที่ใช้</string>
+    <string name="sorted_flux">สถิติทราฟฟิก</string>
     <string name="menu_settings">ตั้งค่าเครือข่าย</string>
     <string name="menu_traffic_adjust">Adjust Traffic</string>
     <string name="menu_traffic_settings">ตั้งค่าทราฟฟิก</string>
@@ -23,10 +23,10 @@
     <string name="pref_traffic_adjust_title">Adjust traffic data</string>
     <string name="pref_traffic_daily_limit_settings">Daily limit Settings</string>
     <string name="pref_connect_settings_title">ตั้งค่าตรวจสอบทราฟฟิก</string>
-    <string name="pref_connect_settings_notify_in_statusbar">Display in notification bar</string>
+    <string name="pref_connect_settings_notify_in_statusbar">แสดงในแถบแจ้งเตือน</string>
     <string name="pref_connect_settings_exceed_limit">ปิดใช้งานข้อมูล</string>
     <string name="pref_connect_settings_exceed_limit_hint">Notify and disconnect Internet when monthly traffic limit is exceeded</string>
-    <string name="pref_connect_settings_enable_backgroung">Enable background services</string>
+    <string name="pref_connect_settings_enable_backgroung">เปิดใช้งานบริการพื้นหลัง</string>
     <string name="pref_connect_settings_enable_backgroung_hint">Allow auto connecting to Network when app is running in the background</string>
     <string name="warning_title">Warning</string>
     <string name="close_txt">ปิด</string>
