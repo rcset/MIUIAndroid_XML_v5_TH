@@ -1326,7 +1326,7 @@ Your SIM card will be erased after another failed attempt."</string>
     <string name="turn_off_miui">ปิดเครื่อง</string>
     <string name="back_miui">กลับ</string>
     <string name="missed_call_notify_times_title_miui">เตือนสายไม่ได้รับ</string>
-    <string name="missed_call_notify_times_summary_miui">Choose the number of times you want be reminded about missed calls (reminders are separated by five minute intervals)</string>
+    <string name="missed_call_notify_times_summary_miui">เลือกจำนวนครั้งที่คุณต้องการให้แจ้งเตือนสายไม่ได้รับ</string>
     <string name="missed_call_notify_none_miui">ไม่เตือน</string>
     <string name="missed_call_notify_once_miui">1 ครั้ง</string>
     <string name="missed_call_notify_twice_miui">2 ครั้ง</string>
