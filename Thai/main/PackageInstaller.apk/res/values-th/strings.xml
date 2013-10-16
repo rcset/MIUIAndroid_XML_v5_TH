@@ -46,7 +46,7 @@
     <string name="uninstall_done">ถอนการติดตั้งแล้ว</string>
     <string name="uninstall_failed">ถอนการติดตั้งไม่ได้</string>
     <string name="uninstall_failed_device_policy_manager">ไม่สามารถติดตั้ง: แพคเก็จนี้ทำงานในระบบจัดการเครื่อง</string>
-    <string name="manage_device_administrators">จัดการรระบบจัดการเครื่อง</string>
+    <string name="manage_device_administrators">จัดการระบบจัดการเครื่อง</string>
     <string name="uninstall_failed_msg">%1$s ไม่สามารถถอนการติดตั้ง</string>
     <string name="uninstall_failed_retained_app_msg">แอปพลิเคชันนี้ปรับแต่งโดยผู้ให้บริการไม่สามารถติดตั้งได้</string>
     <string name="Parse_error_dlg_title">แยกไฟล์ผิดพลาด</string>
