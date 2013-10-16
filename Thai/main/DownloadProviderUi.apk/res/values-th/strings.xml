@@ -71,9 +71,9 @@
     <string name="editmode_menu_delete">ลบ</string>
     <string name="all_downloads">ดาวน์โหลดทั้งหมด</string>
     <string name="app_downloads">%s ดาวน์โหลด</string>
-    <string name="cancel_download_notice">Dismiss download notice</string>
+    <string name="cancel_download_notice">ยกเลิกการแจ้งดาวน์โหลด</string>
     <string name="confirm_disable_download_only_in_wifi_message">Turning off “Download via Wi-Fi only” will likely generate additional data charges. Are you sure you wish to turn it off?</string>
-    <string name="disable_download_only_in_wifi_title">Turning off “Download via Wi-Fi only”</string>
+    <string name="disable_download_only_in_wifi_title">กำลังปิด “ดาวน์โหลดด้วย Wi-Fi เท่านั้น”</string>
     <string name="might_lead_to_mobile_charge">After cancelling, there will be no download prompt from your device. This may lead to traffic increased data charges.</string>
     <string name="pause_download_when_wifi_disconnected">ดาวน์โหลดโดย Wi-Fi เท่านั้น</string>
 </resources>
