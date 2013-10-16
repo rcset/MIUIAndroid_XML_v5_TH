@@ -8,7 +8,7 @@
     <string name="app_name">ค้นหา</string>
     <string name="search_widget">ค้นหา</string>
     <string name="remove_from_history">ลบประวัติการค้นหา</string>
-    <string name="remove_from_history_failed">"Couldn't remove item from history"</string>
+    <string name="remove_from_history_failed">"ไม่สามารถลบรายการจากประวัติ"</string>
     <string name="corpus_selection_heading">ค้นหา</string>
     <string name="corpus_label_global">ทั้งหมด</string>
     <string name="corpus_label_web">เว็บ</string>
@@ -21,19 +21,19 @@
     <string name="google_settings_category_title">ค้นหา Google</string>
     <string name="device_settings_category_title">ล้างช็อตคัต</string>
     <string name="system_search_category_title">โทรศัพท์</string>
-    <string name="search_sources">Searchable items</string>
-    <string name="search_sources_summary">Choose what to search on the phone</string>
+    <string name="search_sources">รายการที่ค้นหา</string>
+    <string name="search_sources_summary">เลือกสิ่งที่ต้องการค้นหาบนโทรศัพท์</string>
     <string name="clear_shortcuts">ล้างช็อต</string>
-    <string name="clear_shortcuts_summary">Clear shortcuts and recently chosen search suggestions</string>
-    <string name="clear_shortcuts_prompt">"This will clear all shortcuts and recently chosen search suggestions. (To clear your Browser history, use the Browser's settings.)"</string>
+    <string name="clear_shortcuts_summary">ล้างช็อตคัตและคำค้นหาล่าสุด</string>
+    <string name="clear_shortcuts_prompt">"ล้างช็อตคัตและคำค้นหาล่าสุด (เพื่อล้างประวัติเบราเซอร์)"</string>
     <string name="clear_shortcuts_agree">ล้างช็อต</string>
     <string name="clear_shortcuts_disagree">"ห้ามล้างช็อตคัต"</string>
     <string name="menu_help">ช่วยเหลือ</string>
     <string name="google_search_label">Google</string>
     <string name="google_app_label">ค้นหา Google</string>
     <string name="google_search_hint">ค้นหา Google</string>
-    <string name="google_search_description">Google Search suggestions</string>
-    <string name="voice_search_hint_title">Try saying:</string>
+    <string name="google_search_description">คำค้นหา Google</string>
+    <string name="voice_search_hint_title">ลองพูด:</string>
     <string name="voice_search_hint_quotation_start">“</string>
     <string name="voice_search_hint_quotation_end">”</string>
 </resources>
