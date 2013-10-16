@@ -1086,7 +1086,6 @@
     <string name="command_error_no_subscription_miui">Failed to find CDMA subscription from specified location.</string>
     <string name="command_error_op_denied_before_reg_miui">Operation denied: device needs to be registered to a network.</string>
     <string name="command_error_op_denied_during_call_miui">Operation is not allowed during voice call.</string>
-    <string name="command_error_password_incorrect_miui">ลองใหม่: รหัสผ่านที่คุณใส่ไม่ถูกต้อง</string></string>
     <string name="command_error_radio_not_available_miui">Radio ไม่ว่าง</string>
     <string name="command_error_sim_absent_miui">ไม่พบ ICC การ์ด</string>
     <string name="command_error_sim_pin2_miui">PIN2 จำเป็นต้องใช้เพื่อกระบวนการนี้</string>
