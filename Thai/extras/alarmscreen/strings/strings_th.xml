@@ -1,4 +1,4 @@
 <strings>
-    <string name="slider_text" value="slide right to close" />
-    <string name="snooze_message" value="Snooze for %d min." />
+    <string name="slider_text" value="เลื่อนไปทางขวาเพื่อปิด" />
+    <string name="snooze_message" value="ปลุกอีกครั้งใน %d นาที" />
 </strings>
