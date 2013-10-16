@@ -1254,7 +1254,7 @@ Your SIM card will be erased after another failed attempt."</string>
     <string name="reject_via_sms_summary_miui">แก้ไขข้อความด่วน</string>
     <string name="reject_via_sms_title_miui">ตอบด่วน</string>
     <string name="separate_from_conference_miui">แยกสาย</string>
-    <string name="set_smsc_address_error_miui">Failed to set number.</string>
+    <string name="set_smsc_address_error_miui">ตั้งหมายเลขล้มเหลว</string>
     <string name="set_smsc_address_timeout_miui">หมดเวลาการเชื่อมต่อ</string>
     <string name="set_smsc_address_title_miui">ตั้งหมายเลขศูนย์ข้อความ SMS</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">ไม่เลือกทั้งหมด</string>
