@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">โปรแกรมติดตั้งใบรับรอง</string>
+    <string name="app_name">ติดตั้งใบรับรอง</string>
     <string name="pick_file_title">เลือกใบรับรอง</string>
     <string name="pkcs12_password_dialog_title">แยกข้อมูลใบรับรอง</string>
     <string name="extracting_pkcs12">กำลังคลายข้อมูล...</string>
