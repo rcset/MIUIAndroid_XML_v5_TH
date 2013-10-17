@@ -21,7 +21,7 @@
     <string-array name="preferred_network_mode_choices">
         <item>LTE/CDMA</item>
         <item>EvDo เท่านั้น</item>
-        <item>CDMA w/o EvDo</item>
+        <item>CDMA ไม่มี EvDo</item>
         <item>CDMA/EvDo อัตโนมัติ</item>
         <item>GSM/WCDMA อัตโนมัติ</item>
         <item>WCDMA เท่านั้น</item>
@@ -39,7 +39,7 @@
         <item>ญี่ปุ่น</item>
         <item>เกาหลี</item>
         <item>จีน</item>
-        <item>ฮีบรู</item>
+        <item>ฮิบรู</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
         <item>โทรกลับบ้านเท่านั้น</item>
