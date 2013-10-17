@@ -1012,7 +1012,6 @@
     <string name="auto_country_code_miui">เพิ่มรหัสประเทศ</string>
     <string name="auto_country_code_sum_miui">เพิ่มรหัสประเทศอัตโนมัติก่อนการโทรไปยังผู้ติดต่อที่รู้จัก</string>
     <string name="autoip_miui">การโทรออกเลขหมาย IP อัตโนมัติ</string>
-    <string name="auto_ip_summary_not_enabled">ไม่ได้เปิดใช้งาน/string>
     <string name="auto_ip_setting_miui">การตั้ง่ค่า IP อัตโนมัติ</string>
     <string name="autoip_sum_miui">เพิ่มหมายเลขหน้า IP สำหรับหมายเลขต่างประเทศ</string>
     <string name="auto_ip_exception_miui">"เลขหมายไม่ต้องการเลขหน้า IP"</string>
