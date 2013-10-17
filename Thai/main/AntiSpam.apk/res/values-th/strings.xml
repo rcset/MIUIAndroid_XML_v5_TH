@@ -114,7 +114,7 @@
     <string name="st_block_unknown_sms">บล็อคข้อความที่ไม่รู้จักทั้งหมด</string>
     <string name="st_other_setting_group">ตั้งค่าอื่นๆ</string>
     <string name="st_show_block_notification">แสดงการเตือนที่ถูกบล็อค</string>
-    <string name="qm_other_settings">ชั้นสูง</string>
+    <string name="qm_other_settings">ขั้นสูง</string>
     <string name="qm_other_settings_group">ตั้งค่าอื่นๆ</string>
     <string name="qm_other_settings_info">ปรับแต่งสำหรับเบอร์โทรและข้อความเมื่อโหมดปิดเสียงเปิดใช้งานอยู่</string>
     <string name="qm_vip_sms_setting_button">ปิดเสียงข้อความที่หมายตา</string>
