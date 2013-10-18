@@ -16,20 +16,20 @@
     <string name="other_service_user_experience_summary0">We rely on you to use our product and features and hope you can help us by providing feedback.</string>
     <string name="other_service_user_experience_summary1">ขอบคุณทีมงาน MIUI</string>
     <string name="sim_card_detection_dialog_message">กำลังค้นหา SIM card กรุณารอ...</string>
-    <string name="sim_card_detection_label">ค้นหา SIM card</string>
+    <string name="sim_card_detection_label">ค้นหาซิมการ์ด</string>
     <string name="sim_card_detection_info">Unable to setup Xiaomi account without a SIM card. You need a SIM card to use account synchronization, phone tracking etc.</string>
     <string name="sim_card_detection_status_absent">ไม่พบซิมการ์ด!</string>
     <string name="setup_complete_label">ติดตั้งเสร็จสิ้น</string>
     <string name="setup_complete_info">After sales service will be activated the first time you use your phone</string>
     <string name="setup_complete_start">เริ่มใช้งานโทรศัพท์</string>
     <string name="setup_complete_summary">ติดตั้งเสร็จสิ้น! สนุกสนานกับการใข้งาน MIUI!</string>
-    <string name="traffic_protection_label">Data traffic monitoring</string>
+    <string name="traffic_protection_label">กำลงัตรวจสอบทราฟฟิกข้อมูล</string>
     <string name="traffic_protection_summary">Data traffic monitoring will remind you when your data plan has reached its limit.</string>
-    <string name="traffic_protection_unknown">"I don't know. Will input later."</string>
+    <string name="traffic_protection_unknown">"ฉันไม่ทราบ จะใส่ข้อมูลภายหลัง"</string>
     <string name="traffic_protection_text_hint">Please input your data plan limit.</string>
     <string name="data_usage_summary">If you have not applied for a data plan, it is recommended to turn off mobile data. Otherwise, your carrier may charge you additional fees.</string>
     <string name="use_data">เปิดใช้งานข้อมูล</string>
-    <string name="input_method_category">Select Default Input Method</string>
-    <string name="input_method">Input Method</string>
+    <string name="input_method_category">เลือกวิธีการป้อนข้อมูลเริ่มต้น</string>
+    <string name="input_method">วิธีการป้อนข้อมูล</string>
     <string name="default_gprs_sim_name">กรุณาใส่ \"%s\" data plan limits</string>
 </resources>
