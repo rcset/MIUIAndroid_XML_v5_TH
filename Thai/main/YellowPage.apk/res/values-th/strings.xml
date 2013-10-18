@@ -5,8 +5,8 @@
     <string name="check_network">การตั้งค่าเครือข่าย</string>
     <string name="try_again">ลองอีกครั้ง</string>
     <string name="network_unavaliable">"ไม่สามารถเชื่อมต่อเครือข่ายได้"</string>
-    <string name="service_unavailiable">ไม่สามารถให้บริการได้.</string>
-    <string name="data_error">ไม่สามารถให้บริการได้.</string>
+    <string name="service_unavailiable">ไม่สามารถให้บริการได้</string>
+    <string name="data_error">ไม่สามารถให้บริการได้</string>
     <string name="yellow_page_detail_title">เกี่ยวกับ</string>
     <string name="yellow_page_call_log_title">บันทึกการโทร</string>
     <string name="yellow_page_website">เวบไซต์หลัก</string>
@@ -26,7 +26,7 @@
     <string name="callrecordview_item_op_time_rejected">ปฏิเสธการรับสาย</string>
     <string name="voicemail">ข้อความเสียง</string>
     <string name="menu_delete_one">ลบออกจากบันทึกการโทร</string>
-    <string name="toast_finish_delete_call_log">ลบบันทึกการโทรแล้ว.</string>
+    <string name="toast_finish_delete_call_log">ลบบันทึกการโทรแล้ว</string>
     <string name="confirm_delete_call_log_title">ลบบันทึกการโทรหรือไม่?</string>
     <string name="confirm_delete_all_call_log_title">ลบบันทึกการโทรทั้งหมดหรือไม่?</string>
     <string name="contact_detail_calllog_call_record_tips">บันทึกการสนทนา</string>
@@ -55,7 +55,7 @@
     <string name="payment_back">ย้อนกลับ</string>
     <string name="payment_failed_common_problems">เกิดปัญหาในระหว่างทำการชำระเงิน</string>
     <string name="payment_unknown_status_title">"ไม่สามารถยืนยันสถานะการชำระเงิน"</string>
-    <string name="payment_unknown_status_summary">ตรวจสอบการเชื่อมต่อเครือข่ายและลองอีกครั้ง.</string>
+    <string name="payment_unknown_status_summary">ตรวจสอบการเชื่อมต่อเครือข่ายและลองอีกครั้ง</string>
     <string name="recharge_input_phone_title">ป้อนหมายเลขโทรศัพท์(ไชน่าโมบายล์, ไชน่ายูนิคอม, หรือ ไชน่าเทเลคอม)</string>
     <string name="recharge_select_money_title">กรุณาเลือกจำนวนเงินที่จะทำการเติม</string>
     <string name="recharge_charge_range">ราคา:¥%1$s-%2$s</string>
@@ -66,7 +66,7 @@
     <string name="recharge_pay_hint_license">คำชี้แจงการเติมเงิน</string>
     <string name="recharge_title">การเติมเงิน</string>
     <string name="recharge_payment_result_ok_title">เติม %s หยวน.</string>
-    <string name="recharge_payment_result_ok_summary">ยืนยันว่ายอดเงินนี้ได้ทำการเติมเช้าระบบแล้ว.</string>
+    <string name="recharge_payment_result_ok_summary">ยืนยันว่ายอดเงินนี้ได้ทำการเติมเข้าระบบแล้ว</string>
     <string name="recharge_payment_result_failed_title">การเติมเงินล้มเหลว</string>
     <string name="recharge_payment_result_failed_summary">โปรดลองอีกครั้ง</string>
     <string name="recharge_payment_result_progress_summary">กำลังตรวจสอบผลการชำระเงิน…</string>
@@ -76,7 +76,7 @@
 
 จำนวนเงินรวมทั้งสิ้น: %3$s หยวน"</string>
     <string name="module_sms_sent">ข้อความถูกส่ง.</string>
-    <string name="sms_send_failed">การส่งข้อความล้มเหลว.</string>
+    <string name="sms_send_failed">การส่งข้อความล้มเหลว</string>
     <string name="sms_sending">กำลังส่ง…</string>
     <string name="login_ok">เข้าสู่ระบบ</string>
     <string name="login_before_recharging">คุณต้องเข้าสู่ระบบก่อนทำการเติมเงิน</string>
