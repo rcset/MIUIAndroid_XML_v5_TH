@@ -507,7 +507,7 @@
     <string name="preference_summary_need_wifi">Upload only when Wi-Fi is available.</string>
     <string name="preference_category_title_photos">รูปภาพ</string>
     <string name="preference_title_photos_account">บัญชี</string>
-    <string name="preference_title_photos_upload_connectivity">อัปโหดลรูปภาพ</string>
+    <string name="preference_title_photos_upload_connectivity">อัปโหลดรูปภาพ</string>
     <string name="preference_title_photo_size">ขนาดรูป</string>
     <string name="preference_category_title_videos">วิดีโอ</string>
     <string name="preference_title_videos_account">บัญชี</string>
