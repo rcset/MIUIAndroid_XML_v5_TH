@@ -716,7 +716,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="sim_enter_ok">ตกลง</string>
     <string name="sim_enter_cancel">ยกเลิก</string>
     <string name="device_info_settings">สถานะโทรศัพท์</string>
-    <string name="system_update_settings_list_item_title">การอัปเดตระบบ</string>
+    <string name="system_update_settings_list_item_title">อัปเดตระบบ</string>
     <string name="system_update_settings_list_item_summary" />
     <string name="firmware_version">เวอร์ชันของ Android</string>
     <string name="model_number">หมายเลขรุ่น</string>
@@ -1792,7 +1792,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="config_mass_storage_function_name">แหล่งข้อมูลภายนอก</string>
     <string name="perm_app_name">สิทธิ์</string>
     <string name="perm_copyright">Powered by LBE Privacy Guard</string>
-    <string name="perm_version">เวอร์ชั่น %1$s</string>
+    <string name="perm_version">เวอร์ชัน %1$s</string>
     <string name="perm_configuration">การตั้งค่า</string>
     <string name="perm_user_app">ดาวน์โหลดแอป (%d)</string>
     <string name="perm_system_app">แอประบบ (%d)</string>
@@ -1981,7 +1981,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="debug_log">User Experience Program</string>
     <string name="upload_debug_log_title">User Experience Program</string>
     <string name="upload_debug_log_summary">อัปโหลดแฟ้มบันทึกการดีบักเมื่อการเชื่อมต่อ Wi-fi ช่วย MIUI พัฒนา ROMดีขึ้น</string>
-    <string name="device_miui_version">เวอร์ชั่น MIUI</string>
+    <string name="device_miui_version">เวอร์ชัน MIUI</string>
     <string name="device_cpu">ซีพียู</string>
     <string name="device_memory">หน่วยความจำ</string>
     <string name="device_internal_memory">หน่วยความจำภายใน</string>
@@ -2501,7 +2501,7 @@ Are you sure you want to disable?"</string>
     <string name="bluetooth_ftp_profile_summary_connected">เชื่อมต่อไปยังการถ่ายโอนไฟล์</string>
     <string name="mtp_transfer_unmount_error_text">ไม่สามารถอันเมาท์ SD การ์ดได้ในระหว่างการถ่ายโอนไฟล์</string>
     <string name="mtp_transfer_erase_error_text">ไม่สามารถลบ SD การ์ดได้ในระหว่างการถ่ายโอนไฟล์</string>
-    <string name="launch_error">เปิดใช้แอพปลิเคชั่นไม่ได้!</string>
+    <string name="launch_error">เปิดใช้แอพปลิเคชันไม่ได้!</string>
     <string name="dlg_confirm_unmount_usb_title">อันเมาท์ที่เก็บ USB หรือไม่?</string>
     <string name="dlg_confirm_unmount_usb_text">ถ้าคุณอันเมาท์ที่เก็บข้อมูล USB แอปบางแอปที่คุณกำลังใช้อยู่จะหยุดการทำงาน และอาจใช้งานไม่ได้จนกกว่าคุณจะเมาท์ที่เก็บข้อมูล USB ใหม่อีกครั้ง</string>
     <string name="dlg_error_unmount_usb_title" />
@@ -2514,7 +2514,7 @@ Are you sure you want to disable?"</string>
     <string name="usb_ums_title">ที่เก็บข้อมูล USB</string>
     <string name="usb_ums_summary">แนะนำให้ใช้ XP ทำให้คุณสามารถถ่ายโอนไฟล์ระหว่างคอมพิวเตอร์กับที่เก็บข้อมูล USB ของ Android ของคุณ</string>
     <string name="usb_charge_title">ชาร์จเท่านั้น</string>
-    <string name="usb_charge_summary">หยุดฟังก์ชั่น USB ทั้งหมด ให้คุณเพิ่มความเร็วการชาร์จผ่าน USB และลดการใช้พลังงาน</string>
+    <string name="usb_charge_summary">หยุดฟังก์ชัน USB ทั้งหมด ให้คุณเพิ่มความเร็วการชาร์จผ่าน USB และลดการใช้พลังงาน</string>
     <string name="NI_Request_ID">ID ผู้ขอ</string>
     <string name="NI_Request_ClientName">ชื่อไคลเอ็นต์</string>
     <string name="agps_str_verify">การตรวจสอบ</string>
@@ -2531,7 +2531,7 @@ Are you sure you want to disable?"</string>
     <string name="AGPS_CAUSE_REQ_NOT_ACCEPTED">ไม่ยอมรับชุดที่ขอไป</string>
     <string name="AGPS_CAUSE_NO_RESOURCE">ไม่มีทรัพยากรเพื่อจัดการกระบวนการใหม่</string>
     <string name="AGPS_CAUSE_NETWORK_DISCONN">การเชื่อมต่อเครือข่ายใช้ไม่ได้</string>
-    <string name="AGPS_CAUSE_REMOTE_ABORT">ด้านที่อยู่ห่างไกลล้มเลิกเซสชั่น (ได้รับ SUPL END)</string>
+    <string name="AGPS_CAUSE_REMOTE_ABORT">ด้านที่อยู่ห่างไกลล้มเลิกเซสชัน (ได้รับ SUPL END)</string>
     <string name="AGPS_CAUSE_TIMER_EXPIRY">ข้อความที่คาดหมายไม่กลับมาระหว่างช่วงเวลาที่กำหนด</string>
     <string name="AGPS_CAUSE_REMOTE_MSG_ERROR">ได้รับเนื้อหาข้อความที่ไม่ถูกต้อง</string>
     <string name="AGPS_CAUSE_USER_AGREE">ผู้ใช้ยอมรับการยืนยัน</string>
@@ -2653,18 +2653,18 @@ Are you sure you want to disable?"</string>
     <string name="status_imei_slot2">IMEI(สล็อต2)</string>
     <string name="status_imei_sv_slot2">IMEI SV(สล็อต2)</string>
     <string name="status_min_number_slot1">MIN(สล็อต1)</string>
-    <string name="status_prl_version_slot1">เวอร์ชั่น PRL(สล็อต1)</string>
+    <string name="status_prl_version_slot1">เวอร์ชัน PRL(สล็อต1)</string>
     <string name="status_meid_number_slot1">MEID(สล็อต1)</string>
     <string name="status_min_number_slot2">MIN(สล็อต2)</string>
-    <string name="status_prl_version_slot2">เวอร์ชั่น PRL(สล็อต2)</string>
+    <string name="status_prl_version_slot2">เวอร์ชัน PRL(สล็อต2)</string>
     <string name="status_meid_number_slot2">MEID(สล็อต2)</string>
     <string name="slot_status_summary">ข้อมูลที่เกี่ยวข้องกับ IMEI</string>
-    <string name="custom_build_version">เวอร์ชั่นบิลด์แบบกำหนดเอง</string>
+    <string name="custom_build_version">เวอร์ชันบิลด์แบบกำหนดเอง</string>
     <string name="software_update">บริการอัปเดตซอฟต์แวร์</string>
     <string name="mota_system_update_summary">เช็คการอัปเดตระบบบนเซิร์ฟเวอร์</string>
     <string name="software_updates_more_title">การอัปเดตซอฟท์แวร์</string>
-    <string name="software_updates_more_summary">ค้นหาซอฟต์แวร์เวอร์ชั่นใหม่</string>
-    <string name="software_updates_scomo_summary">ค้นหาซอฟต์แวร์เวอร์ชั่นใหม่สำหรับแอปพลิเคชั่น</string>
+    <string name="software_updates_more_summary">ค้นหาซอฟต์แวร์เวอร์ชันใหม่</string>
+    <string name="software_updates_scomo_summary">ค้นหาซอฟต์แวร์เวอร์ชันใหม่สำหรับแอปพลิเคชัน</string>
     <string name="scomo_settings_title">บริการอัปเดตซอฟต์แวร์</string>
     <string name="battery_level">" %s%%"</string>
     <string name="screen_timeout_CU">เวลาไทม์เอาต์หน้าจอ</string>
@@ -2740,7 +2740,7 @@ Are you sure you want to disable?"</string>
     <string name="gemini_3g_modem_switch_confirm_message">นี่จะสลับบริการ 3G ไปยัง SIM นี้ด้วย ทำต่อหรือไม่? ให้แน่ใจว่า SIM ที่เลือกนี้สนับสนุนบริการ 3G</string>
     <string name="gemini_3g_disable_warning">SIM ที่เลือกนี้ไม่มีบริการ 3G การโหลดข้อมูลอาจช้าลง คุณสามารถเปลี่ยนการตั้งค่าบริการ 3G ได้ที่ การตั้งค่า > บริการไร้สาย &amp; เครือข่าย > เครือข่ายโทรศัพท์มือถือ</string>
     <string name="gemini_3g_disable_warning_cu">SIM ที่เลือกนี้ไม่มีบริการ 3G การโหลดข้อมูลอาจช้าลง คุณสามารถเปลี่ยนการตั้งค่าบริการ 3G ได้ที่ การตั้งค่า > การจัดการ SIM</string>
-    <string name="gemini_wap_push_permission_head">หลังการเปิดใช้งานบริการพุชอัตโนมัติ คุณสามารถรับข้อความแบบพุช รับแอปพลิเคชั่นที่กำลังทำงาน และทำการรับส่งข้อมูลได้ บริการพุชอัตโนมัติโดยทั่วไปจะรวมถึง การแจ้งเตือนทางอีเมล์ การจัดการอุปกรณ์ การระบุบริการ การโหลดบริการ และพุชเกี่ยวสิ่งที่มีในระบบ</string>
+    <string name="gemini_wap_push_permission_head">หลังการเปิดใช้งานบริการพุชอัตโนมัติ คุณสามารถรับข้อความแบบพุช รับแอปพลิเคชันที่กำลังทำงาน และทำการรับส่งข้อมูลได้ บริการพุชอัตโนมัติโดยทั่วไปจะรวมถึง การแจ้งเตือนทางอีเมล์ การจัดการอุปกรณ์ การระบุบริการ การโหลดบริการ และพุชเกี่ยวสิ่งที่มีในระบบ</string>
     <string name="gemini_wap_push_permission_tail">ยอมรับข้อตกลงนี้หรือไม่?</string>
     <string name="gemini_wap_push_permission_title">ข้อตกลงบริการพุชอัตโนมัติ</string>
     <string name="gemini_wap_push_permission">บริการพุชอัตโนมัติ</string>
@@ -2777,8 +2777,8 @@ Are you sure you want to disable?"</string>
     <string name="gemini_sim_lock_radio_off_message_sim2">วิทยุ2 ปิด</string>
     <string name="akp_installer_settings_title">ตัวติดตั้ง APK</string>
     <string name="akp_installer_settings_summary">ติดตั้ง APK ของคุณจากที่เก็บข้อมูลของโทรศัพท์และ SD การ์ด</string>
-    <string name="launch_main_label">เปิดแอปพลิเคชั่น</string>
-    <string name="launch_main">เปิดแอปพลิเคชั่นโดยกิจกรรมหลัก</string>
+    <string name="launch_main_label">เปิดแอปพลิเคชัน</string>
+    <string name="launch_main">เปิดแอปพลิเคชันโดยกิจกรรมหลัก</string>
     <string name="launch_activitie">เปิด</string>
     <string name="move_app_to_where">ย้ายไปที่ %s</string>
     <string name="wifi_no_cert_for_wapi">ไม่พบใบรับรองสำหรับ AP ที่กำลังเชื่อมต่ออยู่</string>
@@ -2941,7 +2941,7 @@ Are you sure you want to disable?"</string>
     <string name="lock_screen_style_title">รูปแบบหน้าจอล็อก</string>
     <string name="current_suffix">(ปัจจุบัน)</string>
     <string name="lockscreen_style_set">ตั้งค่าหน้าจอล็อค</string>
-    <string name="lockscreen_style_default_desc">การเข้าถึงแอปพลิเคชั่นแบบเร็วในหน้าจอล็อก</string>
+    <string name="lockscreen_style_default_desc">การเข้าถึงแอปพลิเคชันแบบเร็วในหน้าจอล็อก</string>
     <string name="evdo_signal_strength_info">Evdo</string>
     <string name="security_not_set">ยังไม่ได้ตั้งค่าความปลอดภัย</string>
     <string name="lockdown_vpn_already_connected">ได้เปิดการออนไลน์บน VPN เสมอสำหรับการเชื่อมต่อแล้ว</string>
