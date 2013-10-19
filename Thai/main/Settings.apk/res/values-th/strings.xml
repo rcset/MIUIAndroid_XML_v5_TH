@@ -718,7 +718,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="device_info_settings">สถานะโทรศัพท์</string>
     <string name="system_update_settings_list_item_title">อัปเดตระบบ</string>
     <string name="system_update_settings_list_item_summary" />
-    <string name="firmware_version">เวอร์ชันของ Android</string>
+    <string name="firmware_version">เวอร์ชัน Android</string>
     <string name="model_number">หมายเลขรุ่น</string>
     <string name="fcc_equipment_id">รหัสอุปกรณ์</string>
     <string name="baseband_version">เวอร์ชันเบสแบนด์</string>
