@@ -189,7 +189,7 @@
     <string name="radio_info_band_mode_label">เลือกย่านความถี่วิทยุ</string>
     <string name="radio_info_network_type_label">ประเภทเครือข่าย:</string>
     <string name="radio_info_set_perferred_label">ตั้งค่าประเภทเครือข่ายที่ต้องการ:</string>
-    <string name="radio_info_ping_ipaddr">ใช้คำสั่ง Ping IpAddr:</string>
+    <string name="radio_info_ping_ipaddr">ใช้คำสั่ง Ping ที่อยู่ IP:</string>
     <string name="radio_info_ping_hostname">ใช้คำสั่ง ping ชื่อโฮสต์ (www.google.com):</string>
     <string name="radio_info_http_client_test">การทดสอบไคลเอ็นต์ HTTP:</string>
     <string name="ping_test_label">ทำการทดสอบโดยใช้คำสั่ง ping</string>
