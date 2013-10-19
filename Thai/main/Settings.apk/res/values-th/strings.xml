@@ -44,13 +44,13 @@
     <string name="radioInfo_display_asu">asu</string>
     <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_cid">CID</string>
-    <string name="sdcard_unmount">ยกเลิกการต่อเชื่อมการ์ด SD</string>
-    <string name="sdcard_format">ลบการ์ด SD</string>
+    <string name="sdcard_unmount">ยกเลิกการต่อเชื่อมการ์ดความจำ</string>
+    <string name="sdcard_format">ลบการ์ดความจำ</string>
     <string name="small_font">ขนาดเล็ก</string>
     <string name="medium_font">ปานกลาง</string>
     <string name="large_font">ใหญ่</string>
     <string name="font_size_save">ตกลง</string>
-    <string name="sdcard_setting">การ์ด SD</string>
+    <string name="sdcard_setting">การ์ดความจำ</string>
     <string name="battery_info_status_label">สถานะแบตเตอรี่:</string>
     <string name="battery_info_power_label">เสียบปลั๊กไฟ:</string>
     <string name="battery_info_scale_label">มาตรวัดแบตเตอรี่:</string>
@@ -206,7 +206,7 @@
     <string name="sdcard_changes_instructions">การเปลี่ยนแปลงจะมีผลเมื่อต่อสาย USB อีกครั้ง</string>
     <string name="sdcard_settings_screen_mass_storage_text">เปิดใช้งานที่จัดเก็บข้อมูลจำนวนมากแบบ USB</string>
     <string name="sdcard_settings_total_bytes_label">ไบต์รวม:</string>
-    <string name="sdcard_settings_not_present_status">ไม่มีการ์ด SD</string>
+    <string name="sdcard_settings_not_present_status">ไม่มีการ์ดความจำ</string>
     <string name="sdcard_settings_available_bytes_label">ไบต์ที่ใช้ได้:</string>
     <string name="sdcard_settings_mass_storage_status">กำลังใช้การ์ดความจำเป็นอุปกรณ์จัดเก็บข้อมูลจำนวนมาก</string>
     <string name="sdcard_settings_unmounted_status">ขณะนี้คุณนำการ์ดความจำออกได้อย่างปลอดภัยแล้ว</string>
@@ -223,7 +223,7 @@
     <string name="battery_info_label">ข้อมูลแบตเตอรี่</string>
     <string name="display_label">หน้าจอ</string>
     <string name="phone_info_label">ข้อมูลโทรศัพท์</string>
-    <string name="sd_card_settings_label">การ์ด SD</string>
+    <string name="sd_card_settings_label">การ์ดความจำ</string>
     <string name="proxy_settings_label">การตั้งค่าพร็อกซี</string>
     <string name="cancel">ยกเลิก</string>
     <string name="settings_label">การตั้งค่า</string>
@@ -602,10 +602,10 @@
     <string name="getConnectionInfo">getConnectionInfo</string>
     <string name="wifi_api_test">WLAN API</string>
     <string name="wifi_status_test">สถานะ Wi-Fi</string>
-    <string name="wifi_update">Refresh stats</string>
-    <string name="wifi_state_label">WLAN state:</string>
-    <string name="network_state_label">Network state:</string>
-    <string name="supplicant_state_label">Supplicant state:</string>
+    <string name="wifi_update">รีเฟรชสถิติ</string>
+    <string name="wifi_state_label">สถานะ Wi-Fi:</string>
+    <string name="network_state_label">สถานะเครือข่าย:</string>
+    <string name="supplicant_state_label">สถานะร้องขอ:</string>
     <string name="rssi_label">RSSI:</string>
     <string name="bssid_label">BSSID:</string>
     <string name="ssid_label">SSID:</string>
@@ -752,7 +752,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="status_up_time">เวลาทำงาน</string>
     <string name="status_awake_time">เวลาการทำงาน</string>
     <string name="internal_memory">ที่เก็บข้อมูลภายใน</string>
-    <string name="sd_memory">การ์ด SD</string>
+    <string name="sd_memory">การ์ดความจำ</string>
     <string name="memory_available">ว่าง</string>
     <string name="memory_available_read_only">สามารถใช้งานได้ (แบบอ่านอย่างเดียว)</string>
     <string name="memory_size">พื้นที่ทั้งหมด</string>
@@ -764,12 +764,12 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="memory_music_usage">เสียง (เพลง เสียงเรียกเข้า พอดคาสต์ ฯลฯ)</string>
     <string name="memory_media_misc_usage">เบ็ดเตล็ด</string>
     <string name="memory_media_cache_usage">ข้อมูลในแคช</string>
-    <string name="sd_eject">ยกเลิกการต่อเชื่อมการ์ด SD</string>
+    <string name="sd_eject">ยกเลิกการต่อเชื่อมการ์ดความจำ</string>
     <string name="sd_eject_summary">ยกเลิกการต่อเชื่อมการ์ดความจำเพื่อให้คุณสามารถนำการ์ดออกได้อย่างปลอดภัย</string>
     <string name="sd_insert_summary">เสียบการ์ดความจำเพื่อต่อเชื่อม</string>
-    <string name="sd_mount">ต่อเชื่อมการ์ด SD</string>
+    <string name="sd_mount">ต่อเชื่อมการ์ดความจำ</string>
     <string name="sd_mount_summary" />
-    <string name="sd_format">ลบการ์ด SD</string>
+    <string name="sd_format">ลบการ์ดความจำ</string>
     <string name="sd_format_summary">ลบข้อมูลทั้งหมดบนการ์ดความจำ เช่น เพลงและรูปภาพ</string>
     <string name="memory_clear_cache_title">ล้างข้อมูลในแคชหรือไม่</string>
     <string name="memory_clear_cache_message">การทำงานนี้จะล้างข้อมูลในแคชของทุกแอปพลิเคชัน</string>
@@ -849,8 +849,8 @@ PIN อาจไม่ถูกต้อง"</string>
 "<li>ข้อมูลผู้ใช้อื่นๆ</li></string>
     <string name="master_clear_desc_erase_external_storage">"
 
-หากต้องการล้างข้อมูลเพลง รูปภาพ และข้อมูลผู้ใช้อื่นๆ คุณต้องลบ"<b>การ์ด SD</b></string>
-    <string name="erase_external_storage">ลบการ์ด SD</string>
+หากต้องการล้างข้อมูลเพลง รูปภาพ และข้อมูลผู้ใช้อื่นๆ คุณต้องลบ"<b>การ์ดความจำ</b></string>
+    <string name="erase_external_storage">ลบการ์ดความจำ</string>
     <string name="erase_external_storage_description">ลบข้อมูลทั้งหมดในการ์ดความจำ เช่น เพลงหรือรูปภาพ</string>
     <string name="master_clear_button_text">รีเซ็ตโทรศัพท์</string>
     <string name="master_clear_final_desc">ลบข้อมูลส่วนบุคคลและแอปพลิเคชันที่ดาวน์โหลดของคุณทั้งหมดหรือไม่ คุณไม่สามารถย้อนกลับการทำงานนี้ได้!</string>
@@ -859,14 +859,14 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="master_clear_gesture_explanation">คุณต้องวาดรูปแบบการปลดล็อกเพื่อยืนยันการรีเซ็ตข้อมูลเป็นค่าเริ่มต้น</string>
     <string name="master_clear_failed">ไม่มีการรีเซ็ตเนื่องจากบริการล้างข้อมูลระบบไม่พร้อมใช้งาน</string>
     <string name="master_clear_confirm_title">รีเซ็ตหรือไม่</string>
-    <string name="media_format_title">ลบการ์ด SD</string>
-    <string name="media_format_summary">ลบข้อมูลทั้งหมดบนการ์ด SD</string>
+    <string name="media_format_title">ลบการ์ดความจำ</string>
+    <string name="media_format_summary">ลบข้อมูลทั้งหมดบนการ์ดความจำ</string>
     <string name="media_format_desc">ลบการ์ดความจำหรือไม่ คุณจะสูญเสียข้อมูล<b>ทั้งหมด</b>บนการ์ด!</string>
-    <string name="media_format_button_text">ลบการ์ด SD</string>
+    <string name="media_format_button_text">ลบการ์ดความจำ</string>
     <string name="media_format_final_desc">ต้องการลบการ์ดความจำซึ่งจะเป็นการลบไฟล์ทั้งหมดที่จัดเก็บไว้หรือไม่ คุณไม่สามารถย้อนกลับการทำงานนี้ได้!</string>
     <string name="media_format_final_button_text">ลบทุกอย่าง</string>
     <string name="media_format_gesture_prompt">วาดรูปแบบการปลดล็อก</string>
-    <string name="media_format_gesture_explanation">คุณต้องวาดรูปแบบการปลดล็อกเพื่อยืนยันว่าคุณต้องการลบการด์ SD</string>
+    <string name="media_format_gesture_explanation">คุณต้องวาดรูปแบบการปลดล็อกเพื่อยืนยันว่าคุณต้องการลบการด์ความจำ</string>
     <string name="call_settings_title">การตั้งค่าการโทร</string>
     <string name="call_settings_summary">ตั้งค่าข้อความเสียง การโอนสาย สายเรียกซ้อน หมายเลขผู้โทร</string>
     <string name="tether_settings_title_usb">ปล่อยสัญญาณผ่าน USB</string>
@@ -987,7 +987,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="application_size_label">แอปพลิเคชัน</string>
     <string name="external_code_size_label">แอปพลิเคชันสำหรับจัดเก็บข้อมูล USB</string>
     <string name="data_size_label">ข้อมูล</string>
-    <string name="external_data_size_label">การ์ด SD</string>
+    <string name="external_data_size_label">การ์ดความจำ</string>
     <string name="uninstall_text">ถอนการติดตั้ง</string>
     <string name="uninstall_all_users_text">ถอนการติดตั้งสำหรับผู้ใช้ทั้งหมด</string>
     <string name="install_text">ติดตั้ง</string>
@@ -1024,12 +1024,12 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="filter_apps_all">ทั้งหมด</string>
     <string name="filter_apps_third_party">ดาวน์โหลดแล้ว</string>
     <string name="filter_apps_running">ที่กำลังใช้งาน</string>
-    <string name="filter_apps_onsdcard">บนการ์ด SD</string>
+    <string name="filter_apps_onsdcard">บนการ์ดความจำ</string>
     <string name="disabled">ปิดใช้งานแล้ว</string>
     <string name="not_installed">ไม่ได้ติดตั้ง</string>
     <string name="no_applications">ไม่มีแอปพลิเคชัน</string>
     <string name="internal_storage">ที่เก็บข้อมูลภายใน</string>
-    <string name="sd_card_storage">ที่เก็บข้อมูลการ์ด Sd</string>
+    <string name="sd_card_storage">ที่เก็บข้อมูลการ์ดความจำ</string>
     <string name="recompute_size">กำลังคำนวณขนาดใหม่...</string>
     <string name="clear_data_dlg_title">ลบข้อมูลในแอปพลิเคชันหรือไม่</string>
     <string name="clear_data_dlg_text">ข้อมูลทั้งหมดของแอปพลิเคชันนี้จะถูกลบอย่างถาวร ซึ่งรวมถึงไฟล์ การตั้งค่า บัญชี ฐานข้อมูล และอื่นๆ ทั้งหมด</string>
@@ -1056,7 +1056,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="version_text">เวอร์ชันของ %1$s</string>
     <string name="move_app">ย้าย</string>
     <string name="move_app_to_internal">ย้ายไปที่โทรศัพท์</string>
-    <string name="move_app_to_sdcard">ย้ายไปยังการ์ด SD</string>
+    <string name="move_app_to_sdcard">ย้ายไปยังการ์ดความจำ</string>
     <string name="moving">กำลังย้าย</string>
     <string name="insufficient_storage">พื้นที่จัดเก็บข้อมูลไม่เพียงพอ</string>
     <string name="does_not_exist">ไม่มีแอปพลิเคชันนี้</string>
@@ -1203,8 +1203,8 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="dev_settings_warning_message">การตั้งค่าเหล่านี้มีไว้สำหรับการพัฒนาเท่านั้น ซึ่งอาจทำให้อุปกรณ์และแอปพลิเคชันที่มีอยู่เสียหายหรือทำงานผิดพลาดได้</string>
     <string name="verify_apps_over_usb_title">ยืนยันแอปพลิเคชันผ่าน USB</string>
     <string name="verify_apps_over_usb_summary">ตรวจสอบแอปพลิเคชันที่ติดตั้งผ่าน ADB/ADT เพื่อตรวจดูพฤติกรรมที่เป็นอันตราย</string>
-    <string name="enforce_read_external_title">ปกป้องการ์ด SD</string>
-    <string name="enforce_read_external_summary">แอปพลิเคชันต้องขออนุญาตในการอ่านการ์ด SD</string>
+    <string name="enforce_read_external_title">ปกป้องการ์ดความจำ</string>
+    <string name="enforce_read_external_summary">แอปพลิเคชันต้องขออนุญาตในการอ่านการ์ดความจำ</string>
     <string name="enforce_read_external_confirm_title">ปกป้องการ์ดความจำหรือไม่</string>
     <string name="enforce_read_external_confirm_message">"เมื่อการ์ดความจำได้รับการปกป้อง แอปพลิเคชันจะต้องขออนุญาตในการอ่านข้อมูลจากที่จัดเก็บข้อมูลภายนอก
 
@@ -1408,8 +1408,8 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="gadget_brightness_state_off">ปิด</string>
     <string name="vpn_settings_title">VPN</string>
     <string name="credentials_title">ที่จัดเก็บข้อมูลรับรอง</string>
-    <string name="credentials_install">ติดตั้งจากการ์ด SD</string>
-    <string name="credentials_install_summary">ติดตั้งใบรับรองจากการ์ด SD</string>
+    <string name="credentials_install">ติดตั้งจากการ์ดความจำ</string>
+    <string name="credentials_install_summary">ติดตั้งใบรับรองจากการ์ดความจำ</string>
     <string name="credentials_reset">ล้างข้อมูลรับรอง</string>
     <string name="credentials_reset_summary">นำใบรับรองทั้งหมดออก</string>
     <string name="trusted_credentials">ข้อมูลรับรองที่เชื่อถือได้</string>
