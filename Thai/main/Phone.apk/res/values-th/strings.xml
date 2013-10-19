@@ -1345,6 +1345,7 @@
     <string name="rnw1_unlock_failed">การปลดล็อคเครือข่ายโมดูลระบุตัวผู้ใช้ 1 ร้องขอไม่สำเร็จ</string>
     <string name="rnw2_unlock_failed">การปลดล็อคเครือข่ายโมดูลระบุตัวผู้ใช้ 2 ร้องขอไม่สำเร็จ</string>
     <string name="rsp_unlock_failed">การปลดล็อคผู้ให้บริการโมดูลระบุตัวผู้ใช้ ร้องขอไม่สำเร็จ</string>
+    <string name="rhrpd_unlock_failed">การปลดล็อคโมดูลระบุตัวผู้ใช้แพคเก็ตข้อมูลความเร็วสูง ร้องขอไม่สำเร็จ</string>
     <string name="rc_unlock_failed">การปลดล็อคโมดูลระบุตัวผู้ใช้ทั้งระบบแบบถอดได้ ร้องขอไม่สำเร็จ</string>
     <string name="ruim_unlock_failed">การปลดล็อคโมดูลระบุตัวผู้ใช้ ร้องขอไม่สำเร็จ.</string>
     <string name="description_direction_right">ด้านขวาของ %s.</string>
