@@ -4,7 +4,7 @@
     <string name="resource_price_free">ฟรี</string>
     <string name="resource_price_unit">MI เครดิต</string>
     <string name="resource_price_format">(%1$s)</string>
-    <string name="sdcard_status_changed_dialog_title">สถานะของการ์ด SD เปลี่ยนแล้ว</string>
+    <string name="sdcard_status_changed_dialog_title">สถานะของการ์ดความจำเปลี่ยนแล้ว</string>
     <string name="sdcard_status_changed_dialog_message">"ไปยังออก
 กรุณาเปิดแอปนี้ใหม่เพื่อใช้แหล่งที่มาตัวใหม่"</string>
     <string name="resource_mute">ไม่มี</string>
@@ -204,7 +204,7 @@
 "</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"รายชื่อติดต่อใหม่ เพื่อสร้างรายชื่อติดต่อใหม่ตั้งแต่ต้น
 "</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"นำเข้า/ส่งออก เพื่อนำเข้ารายชื่อติดต่อจากซิมการ์ดหรือการ์ด SD ของคุณ
+"<b><font fgcolor="#ffffffff"><li>"นำเข้า/ส่งออก เพื่อนำเข้ารายชื่อติดต่อจากซิมการ์ดหรือการ์ดความจำของคุณ
 "</li></font></b></string>
     <string name="noContactsHelpTextWithSync">"คุณไม่มีรายชื่อติดต่อที่จะแสดง (หากคุณเพิ่งเพิ่มบัญชี อาจต้องใช้เวลาสักครู่ในการซิงค์รายชื่อติดต่อ)
 
@@ -216,7 +216,7 @@
 "</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"รายชื่อติดต่อใหม่ เพื่อสร้างรายชื่อติดต่อใหม่ตั้งแต่ต้น
 "</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"นำเข้า/ส่งออก เพื่อนำเข้ารายชื่อติดต่อจากซิมการ์ดหรือการ์ด SD ของคุณ
+"<b><font fgcolor="#ffffffff"><li>"นำเข้า/ส่งออก เพื่อนำเข้ารายชื่อติดต่อจากซิมการ์ดหรือการ์ดความจำของคุณ
 "</li></font></b></string>
     <string name="noContactsNoSimHelpText">"คุณไม่มีรายชื่อติดต่อที่จะแสดง
 
@@ -226,7 +226,7 @@
 "</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"รายชื่อติดต่อใหม่ เพื่อสร้างรายชื่อติดต่อใหม่ตั้งแต่ต้น
 "</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"นำเข้า/ส่งออก เพื่อนำเข้ารายชื่อติดต่อจากการ์ด SD ของคุณ
+"<b><font fgcolor="#ffffffff"><li>"นำเข้า/ส่งออก เพื่อนำเข้ารายชื่อติดต่อจากการ์ดความจำของคุณ
 "</li></font></b></string>
     <string name="noContactsNoSimHelpTextWithSync">"คุณไม่มีรายชื่อติดต่อที่จะแสดง (หากคุณเพิ่งเพิ่มบัญชี อาจต้องใช้เวลาสักครู่ในการซิงค์รายชื่อติดต่อ)
 
@@ -238,7 +238,7 @@
 "</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"รายชื่อติดต่อใหม่ เพื่อสร้างรายชื่อติดต่อใหม่ตั้งแต่ต้น
 "</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"นำเข้า/ส่งออก เพื่อนำเข้ารายชื่อติดต่อจากการ์ด SD ของคุณ
+"<b><font fgcolor="#ffffffff"><li>"นำเข้า/ส่งออก เพื่อนำเข้ารายชื่อติดต่อจากการ์ดความจำของคุณ
 "</li></font></b></string>
     <string name="noFavoritesHelpText">"คุณไม่มีรายการโปรดใดๆ 
 
@@ -298,8 +298,8 @@
     <string name="import_multiple_vcard_string">นำเข้าไฟล์ vCard หลายไฟล์</string>
     <string name="import_all_vcard_string">นำเข้าไฟล์ vCard ทั้งหมด</string>
     <string name="searching_vcard_message">กำลังค้นหาข้อมูล vCard บนการ์ด SD...</string>
-    <string name="scanning_sdcard_failed_title">"การ์ด SD ไม่สามารถสแกนได้"</string>
-    <string name="scanning_sdcard_failed_message">ไม่สามารถสแกนการ์ด SD (สาเหตุ: \"%s\")</string>
+    <string name="scanning_sdcard_failed_title">"การ์ดความจำไม่สามารถสแกนได้"</string>
+    <string name="scanning_sdcard_failed_message">ไม่สามารถสแกนการ์ดความจำ(สาเหตุ: \"%s\")</string>
     <string name="fail_reason_io_error">ข้อผิดพลาด I/O</string>
     <string name="fail_reason_low_memory_during_import">หน่วยความจำไม่เพียงพอ ไฟล์อาจใหญ่เกินไป</string>
     <string name="fail_reason_vcard_parse_error">ไม่สามารถแยกวิเคราะห์ vCard ด้วยเหตุผลที่ไม่คาดคิด</string>
@@ -330,7 +330,7 @@
     <string name="exporting_contact_failed_message">"ไม่ได้ส่งออกข้อมูลรายชื่อติดต่อ
 สาเหตุ: \"%s\""</string>
     <string name="fail_reason_no_exportable_contact">ไม่มีรายชื่อติดต่อที่สามารถส่งออกได้</string>
-    <string name="fail_reason_too_many_vcard">มีไฟล์ vCard บนการ์ด SD มากเกินไป</string>
+    <string name="fail_reason_too_many_vcard">มีไฟล์ vCard บนการ์ดความจำมากเกินไป</string>
     <string name="fail_reason_too_long_filename">ชื่อไฟล์ที่ต้องระบุยาวเกินไป (\"%s\")</string>
     <string name="exporting_vcard_finished_title">ส่งออก %s เสร็จแล้ว</string>
     <string name="exporting_vcard_canceled_title">ยกเลิกการส่งออก %s แล้ว</string>
@@ -726,8 +726,8 @@
     <string name="label_duplicate_count">(%1$d)</string>
     <string name="preference_import_export">นำเข้า/ส่งออก</string>
     <string name="preference_import_export_title">นำเข้า/ส่งออก รายชื่อผู้ติดต่อ</string>
-    <string name="import_vcard_description">นำเข้ารายชื่อผู้ติดต่อจากการ์ด SD ของคุณ</string>
-    <string name="export_vcard_description">ส่งออก vCard ไปยังการ์ด SD ของคุณ</string>
+    <string name="import_vcard_description">นำเข้ารายชื่อผู้ติดต่อจากการ์ดความจำของคุณ</string>
+    <string name="export_vcard_description">ส่งออก vCard ไปยังการ์ดความจำของคุณ</string>
     <string name="export_to_sim">ส่งออกไปยังซิมการ์ด 1</string>
     <string name="export_to_sim2">ส่งออกไปยังซิมการ์ด 2</string>
     <string name="export_to_sim_title">กำลังส่งออกไปยังซิมการ์ด…</string>
