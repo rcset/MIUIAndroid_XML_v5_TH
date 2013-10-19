@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">ธีม</string>
-    <string name="theme_import_activity_label">อัปเดทธีม</string>
+    <string name="theme_import_activity_label">อัปเดตธีม</string>
     <string name="theme_changing_dialog_title">กำลังปรับปรุงธีม, กรุณารอสักครู่...</string>
     <string name="theme_changed_message">ปรับปรุงธีมเสร็จแล้ว %1$s.</string>
     <string name="theme_changed_failed_message">ล้มเหลวในการปรับปรุง %1$s ธีม</string>
@@ -17,9 +17,9 @@
     <string name="component_category_more_title">เพิ่มขึ้น</string>
     <string name="theme_component_title_framework">กรอบ</string>
     <string name="theme_component_title_mms">SMS</string>
-    <string name="theme_component_title_wallpaper">วอลล์เปเปอร์</string>
-    <string name="theme_component_title_lockwallpaper">ล็อควอลล์เปเปอร์</string>
-    <string name="theme_component_title_miwallpaper">วอลล์เปเปอร์</string>
+    <string name="theme_component_title_wallpaper">วอลเปเปอร์</string>
+    <string name="theme_component_title_lockwallpaper">ล็อควอลเปเปอร์</string>
+    <string name="theme_component_title_miwallpaper">วอลเปเปอร์</string>
     <string name="theme_component_title_icon">ไอคอน</string>
     <string name="theme_component_title_boot_animation">บูตภาพเคลื่อนไหว</string>
     <string name="theme_component_title_boot_audio">เสียงบูต</string>
@@ -38,17 +38,17 @@
     <string name="theme_component_title_others">อื่น ๆ</string>
     <string name="theme_component_title_all">ธีม</string>
     <string name="apply_theme_no_select_message">กรุณาเลือกส่วนประกอบ</string>
-    <string name="apply_lockscreen_paper_tips">วอลล์เปเปอร์ใช้ไม่ได้กับล็อคหน้าจอปัจจุบัน วอลล์เปเปอร์ล็อคหน้าจอใหม่อาจมองไม่เห็น</string>
-    <string name="theme_import_from_sdcard">นำเข้าจาก SD การ์ด</string>
+    <string name="apply_lockscreen_paper_tips">วอลเปเปอร์ใช้ไม่ได้กับล็อคหน้าจอปัจจุบัน วอลเปเปอร์ล็อคหน้าจอใหม่อาจมองไม่เห็น</string>
+    <string name="theme_import_from_sdcard">นำเข้าจากความจำการ์ด</string>
     <string name="theme_select_others">อื่น ๆ</string>
     <string name="third_party_pickers_activity_title">ตั้งค่า %1$s</string>
     <string name="lockstyle_personal_settings">การปรับแต่ง</string>
-    <string name="wallpaper_settings">การตั้งค่าวอลล์เปเปอร์</string>
+    <string name="wallpaper_settings">การตั้งค่าวอลเปเปอร์</string>
     <string name="desktop_wallpaper">เดสก์ท็อป</string>
-    <string name="live_wallpaper">วอลล์เปเปอร์เคลื่อนไหว</string>
-    <string name="mi_wallpaper">วอลล์เปเปอร์</string>
+    <string name="live_wallpaper">วอลเปเปอร์เคลื่อนไหว</string>
+    <string name="mi_wallpaper">วอลเปเปอร์</string>
     <string name="lockscreen_wallpaper">ล็อคหน้าจอ</string>
-    <string name="change_wallpaper">วอลล์เปเปอร์</string>
+    <string name="change_wallpaper">วอลเปเปอร์</string>
     <string name="component_settings_title">กำหนดรูปแบบธีมเอง</string>
     <string name="component_select_title">เลือก %1$s ส่วนประกอบ</string>
     <string name="component_include_title">ประกอบด้วย %1$s ส่วนประกอบ</string>
@@ -64,7 +64,7 @@
     <string name="all_ringtone_resource">ทั้งหมด</string>
     <string name="resource_preview">แสดงตัวอย่าง</string>
     <string name="wallpaper_set_as_both">ตั้งเป็นทั้ง</string>
-    <string name="wallpaper_set_as_destop">ตั้งเป็นวอลล์เปเปอร์</string>
+    <string name="wallpaper_set_as_destop">ตั้งเป็นวอลเปเปอร์</string>
     <string name="wallpaper_set_as_lockscreen">ตั้งเป็นล็อคหน้าจอ</string>
     <string name="wallpaper_crop">ตัดบางส่วน</string>
     <string name="wallpaper_loading_text">กำลังโหลด ...</string>
@@ -82,15 +82,15 @@
     <string name="theme_sdcard_importing">กำลังนำเข้า ...</string>
     <string name="theme_import_stoping">กำลังหยุด ...</string>
     <string name="theme_import_oper_stop">ยกเลิก</string>
-    <string name="theme_import_oper_stop_request_content">หยุดการอัปเดทธีมหรือไม่?</string>
+    <string name="theme_import_oper_stop_request_content">หยุดการอัปเดตธีมหรือไม่?</string>
     <string name="theme_import_oper_start">อัปเกรดทั้งหมด</string>
     <string name="theme_import_oper_complete">สมบูรณ์</string>
     <string name="theme_import_item_not_upgraded">ไม่ได้อัปเกรด</string>
     <string name="theme_import_item_waiting">รอ ...</string>
     <string name="theme_import_item_importing">กำลังอัปเกรด</string>
     <string name="theme_import_item_not_exist">รายการไม่มีอยู่</string>
-    <string name="theme_import_item_delete_request_title">อัปเดทธีมล้มเหลว</string>
-    <string name="theme_import_item_delete_request_content">ธีมไม่อัปเดท</string>
+    <string name="theme_import_item_delete_request_title">อัปเดตธีมล้มเหลว</string>
+    <string name="theme_import_item_delete_request_content">ธีมไม่อัปเดต</string>
     <string name="theme_import_item_delete_request_button">ลบ</string>
     <string name="theme_import_item_reject_use">อยู่ในกระบวนการอัปเกรดธีม, กรุณารอสักครู่</string>
     <string name="theme_another_import_running">มีอันอื่นกำลังถูกนำเข้า, กรุณาลองอีกครั้งในภายหลัง</string>
@@ -99,10 +99,10 @@
     <string name="theme_import_fail">การนำเข้าล้มเหลว %1$s ธีม</string>
     <string name="theme_import_data">การเริ่มต้น โปรดรอสักครู่ ...</string>
     <string name="theme_batch_has_update_text">%1$d ธีม มีเวอร์ชั่นใหม่</string>
-    <string name="theme_batch_updating_text">%1$d ธีม มีการอัปเดท</string>
-    <string name="theme_batch_update_all">อัปเดททั้งหมด</string>
-    <string name="theme_batch_update_dlg_title">อัปเดท</string>
-    <string name="theme_batch_update_dlg_content">คุณต้องการที่จะอัปเดทตอนนี้หรือไม่?</string>
+    <string name="theme_batch_updating_text">%1$d ธีม มีการอัปเดต</string>
+    <string name="theme_batch_update_all">อัปเดตทั้งหมด</string>
+    <string name="theme_batch_update_dlg_title">อัปเดต</string>
+    <string name="theme_batch_update_dlg_content">คุณต้องการที่จะอัปเดตตอนนี้หรือไม่?</string>
     <string name="theme_current_using_has_update">ธีมล่าสุดได้รับการปรับปรุง, คลิ๊กที่นี่เพื่อใช้งาน</string>
     <string name="theme_immediately_apply_tip">ธีมได้รับการปรับปรุงแล้ว, ใช้งานขณะนี้หรือไม่?</string>
     <string name="theme_name">%1$s</string>
@@ -136,7 +136,7 @@
     <string name="resource_price_free">ฟรี</string>
     <string name="resource_price_unit">เครดิต MI</string>
     <string name="resource_price_format">(%1$s)</string>
-    <string name="sdcard_status_changed_dialog_title">สถานะการ์ด SD ถูกเปลี่ยน</string>
+    <string name="sdcard_status_changed_dialog_title">สถานะการ์ดความจำถูกเปลี่ยน</string>
     <string name="sdcard_status_changed_dialog_message">กำลังออก กรุณาเปิดแอปอีกครั้งเพื่อรีเฟชแหล่งข้อมูล</string>
     <string name="resource_mute">ไม่มี</string>
     <string name="resource_default">เสียงเรียกเข้าเริ่มต้น</string>
@@ -146,7 +146,7 @@
     <string name="description_designer">ผู้ออกแบบ:</string>
     <string name="description_author">ผู้เขียน:</string>
     <string name="description_size">ขนาด:</string>
-    <string name="description_uploadtime">อัปเดท:</string>
+    <string name="description_uploadtime">อัปเดต:</string>
     <string name="description_download">ดาวน์โหลด:</string>
     <string name="description_version">เวอร์ชัน:</string>
     <string name="description_summary">สรุป:</string>
@@ -157,10 +157,10 @@
     <string name="resource_downloading">กำลังดาวน์โหลด</string>
     <string name="resource_waiting_download">รอดาวน์โหลด ...</string>
     <string name="resource_import_successful">ดาวน์โหลดเสร็จแล้ว</string>
-    <string name="resource_delta_update_successful">การอัปเดทเสริมเสร็จแล้ว，กำลังบันทึก %1$s.</string>
-    <string name="resource_delta_update_failed">การอัปเดทเสริมล้มเหลว! จะดาวน์โหลดแหล่งข้อมูลที่สมบูรณ์</string>
+    <string name="resource_delta_update_successful">การอัปเดตเสริมเสร็จแล้ว，กำลังบันทึก %1$s.</string>
+    <string name="resource_delta_update_failed">การอัปเดตเสริมล้มเหลว! จะดาวน์โหลดแหล่งข้อมูลที่สมบูรณ์</string>
     <string name="resource_apply">นำไปใช้</string>
-    <string name="resource_update">อัปเดท</string>
+    <string name="resource_update">อัปเดต</string>
     <string name="resource_select">เลือก</string>
     <string name="resource_buy">ซื้อ</string>
     <string name="resource_importing">การนำเข้า</string>
@@ -194,7 +194,7 @@
     <string name="loading_resource_detail_fail">ไม่สามารถโหลดแหล่งข้อมูล!</string>
     <string name="account_abnormal_state">ข้อมูลบัญชีผิดพลาด, กรุณาลองเข้าใช้งานอีกครั้ง</string>
     <string name="component_lockstyle_personal_title">การตั้งค่า</string>
-    <string name="mi_wallpaper_loading">กำลังโหลดวอลล์เปเปอร์ ...</string>
-    <string name="mi_wallpaper_title">วอลล์เปเปอร์</string>
+    <string name="mi_wallpaper_loading">กำลังโหลดวอลเปเปอร์ ...</string>
+    <string name="mi_wallpaper_title">วอลเปเปอร์</string>
     <string name="processing">กำลังดำเนินการ ...</string>
 </resources>
