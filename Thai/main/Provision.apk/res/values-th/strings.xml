@@ -9,7 +9,6 @@
     <string name="other_service_google_location">บริการตำแหน่ง Google</string>
     <string name="other_service_google_location_use">ตำแหน่ง &amp; ค้นหา Google</string>
     <string name="other_service_google_location_use_summary">ให้ Google ใช้ตำแหน่งของคุณเพื่อปรับปรุงผลการค้นหาและบริการอื่นๆ</string>
-    <string name="other_service_google_location_use_help">"อนุญาติบริการตำแหน่ง Google เพื่อเก็บข้อมูลตำแหนงที่ไม่ระบุ การเก็บตำแหน่งจะเกิดขึ้นถึงแม้จะไม่มีแอปพลิเคชันใช้งานอยู่ เพื่อปรับการตั้งค่านี้ไปที ตั้งค่า > บริการตำแหน่ง"</string></string>
     <string name="other_service_permission_manager">จัดการสิทธิ์การใช้งานแอพ</string>
     <string name="other_service_permission_manager_summary">กำลังตรวจสอบแอปเพื่อความปลอดภัยและความเป็นส่วนตัว</string>
     <string name="other_service_user_experience">เข้าร่วมประสบการณ์การใช้งาน</string>
