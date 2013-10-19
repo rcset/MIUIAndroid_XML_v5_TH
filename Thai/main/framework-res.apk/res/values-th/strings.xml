@@ -1121,9 +1121,9 @@
     <string name="progress_unmounting">กำลังยกเลิกการต่อเชื่อมที่จัดเก็บข้อมูล USB...</string>
     <string name="progress_erasing">กำลังลบที่จัดเก็บข้อมูล USB...</string>
     <string name="format_error">ไม่สามารถลบที่เก็บข้อมูล USB</string>
-    <string name="media_bad_removal">การ์ด SD ถูกนำออกก่อนที่จะยกเลิกการต่อเชื่อม</string>
+    <string name="media_bad_removal">การ์ดความจำถูกนำออกก่อนที่จะยกเลิกการต่อเชื่อม</string>
     <string name="media_checking">กำลังตรวจสอบที่เก็บข้อมูล USB อยู่ในขณะนี้</string>
-    <string name="media_removed">การ์ด SD ถูกนำออกแล้ว</string>
+    <string name="media_removed">การ์ดความจำถูกนำออกแล้ว</string>
     <string name="media_shared">ขณะนี้ที่เก็บข้อมูล USB ถูกใช้งานอยู่โดยคอมพิวเตอร์</string>
     <string name="media_unknown_state">สื่อภายนอกอยู่ในสถานะที่ไม่รู้จัก</string>
     <string name="share">แบ่งปัน</string>
