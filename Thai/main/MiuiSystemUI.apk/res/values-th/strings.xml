@@ -150,7 +150,7 @@ yyyy.M.d"</string>
     <string name="settings_show_notificationBar_notification">แสดงแถบการแจ้งเตือน</string>
     <string name="settings_show_statusBar_notification">แสดงการแจ้งเตือนบนแถบสถานะ</string>
     <string name="filter_item_preview_image">แสดงตัวอย่าง</string>
-    <string name="filter_item_description">คุณสามารถตั้งประเภทการแจ้งเตือน \"การตั้งค่าแถบการแจ้งเตือนเพื่อแจ้งเตือนแบบกำหนดเอง\" ในแอพพลิเคชั่น</string>
+    <string name="filter_item_description">คุณสามารถตั้งประเภทการแจ้งเตือน \"การตั้งค่าแถบการแจ้งเตือนเพื่อแจ้งเตือนแบบกำหนดเอง\" ในแอปพลิเคชัน</string>
     <string name="settings_notification_bar">แถบการแจ้งเตือน</string>
     <string name="settings_toggle_position">การสลับที่กำหนดเอง</string>
     <string name="settings_toggle_collapse_after_clicked">หายไปหลังจากที่คลิก</string>
@@ -166,7 +166,7 @@ yyyy.M.d"</string>
     <string name="settings_toggle_position_reset">คืนค่าการสลับ</string>
     <string name="settings_show_flow_info">แสดงรายละเอียดขั้นตอน</string>
     <string name="camera_key_action_setting_title">ปุ่ม MI</string>
-    <string name="camera_key_action_category_title">ใช้งานหากไม่สามารถเปิดแอพพลิเคชั่นกล้อง</string>
+    <string name="camera_key_action_category_title">ใช้งานหากไม่สามารถเปิดแอปพลิเคชันกล้อง</string>
     <string name="camera_key_action_none_title">ไม่มีการดำเนินการ</string>
     <string name="camera_key_action_shortcut_title">ทางลัด</string>
     <string name="camera_key_action_toggle_title">โยกสลับ</string>
@@ -190,7 +190,7 @@ yyyy.M.d"</string>
     <string name="usb_storage_stop_title">ที่เก็บข้อมูล USB ถูกใช้งานอยู่</string>
     <string name="usb_storage_stop_message">ก่อนที่จะปิดที่เก็บข้อมูล USB ให้แน่ใจว่าคุณได้ตัดการเชื่อมต่อ (\"ปลด\") การ์ดความจำของมือถือ จากคอมพิวเตอร์ของคุณ</string>
     <string name="dlg_confirm_kill_storage_users_title">เปิดใช้ที่เก็บข้อมูล USB</string>
-    <string name="dlg_confirm_kill_storage_users_text">ถ้าคุณเปิดใช้ที่เก็บข้อมูล USB การใช้งานแอพพลิเคชั่นบางอย่างที่คุณกำลังใช้จะหยุดและอาจใช้งานไม่ได้ จนกว่าคุณจะปิดการใช้ที่เก็บข้อมูล USB</string>
+    <string name="dlg_confirm_kill_storage_users_text">ถ้าคุณเปิดใช้ที่เก็บข้อมูล USB การใช้งานแอปพลิเคชันบางอย่างที่คุณกำลังใช้จะหยุดและอาจใช้งานไม่ได้ จนกว่าคุณจะปิดการใช้ที่เก็บข้อมูล USB</string>
     <string name="dlg_error_title">การทำงานของ USB ล้มเหลว</string>
     <string name="dlg_ok">ตกลง</string>
     <string name="ext_media_checking_notification_title">กำลังเตรียมการ์ดความจำ...</string>
@@ -206,12 +206,12 @@ yyyy.M.d"</string>
     <string name="ext_media_nomedia_notification_title">เอาการ์ดความจำออกแล้ว</string>
     <string name="ext_media_nomedia_notification_message">ถอดการ์ดความจำออก และใส่อันใหม่</string>
     <string name="screen_button_custom">กำหนดตำแหน่งปุ่มบนจอ</string>
-    <string name="recent_apps_key">ปุ่มแอพพลิเคชั่นล่าสุด</string>
-    <string name="recent_apps_key_show">แสดงปุ่มแอพพลิเคชั่นล่าสุด</string>
+    <string name="recent_apps_key">ปุ่มแอปพลิเคชันล่าสุด</string>
+    <string name="recent_apps_key_show">แสดงปุ่มแอปพลิเคชันล่าสุด</string>
     <string name="key_position_custom">ตำแหน่งปุ่มที่กำหนดเอง</string>
     <string name="screen_key_menu">ปุ่มเมนู</string>
     <string name="screen_key_home">ปุ่มหน้าจอหลัก</string>
-    <string name="screen_key_recent_apps">ปุ่มแอพพลิเคชั่นล่าสุด</string>
+    <string name="screen_key_recent_apps">ปุ่มแอปพลิเคชันล่าสุด</string>
     <string name="screen_key_back">ปุ่มย้อนกลับ</string>
     <string name="status_bar_network_flow_today">วันนี้ %1$s</string>
     <string name="status_bar_network_flow">วันนี้: %1$s คงเหลือ: %2$s แพคเกจ: %3$s</string>
