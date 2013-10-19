@@ -208,12 +208,12 @@
     <string name="sdcard_settings_total_bytes_label">ไบต์รวม:</string>
     <string name="sdcard_settings_not_present_status">ไม่มีการ์ด SD</string>
     <string name="sdcard_settings_available_bytes_label">ไบต์ที่ใช้ได้:</string>
-    <string name="sdcard_settings_mass_storage_status">กำลังใช้การ์ด SD เป็นอุปกรณ์จัดเก็บข้อมูลจำนวนมาก</string>
-    <string name="sdcard_settings_unmounted_status">ขณะนี้คุณนำการ์ด SD ออกได้อย่างปลอดภัยแล้ว</string>
-    <string name="sdcard_settings_bad_removal_status">มีการนำการ์ด SD ออกขณะใช้งาน!</string>
+    <string name="sdcard_settings_mass_storage_status">กำลังใช้การ์ดความจำเป็นอุปกรณ์จัดเก็บข้อมูลจำนวนมาก</string>
+    <string name="sdcard_settings_unmounted_status">ขณะนี้คุณนำการ์ดความจำออกได้อย่างปลอดภัยแล้ว</string>
+    <string name="sdcard_settings_bad_removal_status">มีการนำการ์ดความจำออกขณะใช้งาน!</string>
     <string name="sdcard_settings_used_bytes_label">ไบต์ที่ใช้ไป:</string>
-    <string name="sdcard_settings_scanning_status">กำลังสแกนการ์ด SD สำหรับสื่อ...</string>
-    <string name="sdcard_settings_read_only_status">การ์ด SD ต่อเชื่อมแบบอ่านอย่างเดียว</string>
+    <string name="sdcard_settings_scanning_status">กำลังสแกนการ์ดความจำสำหรับสื่อ...</string>
+    <string name="sdcard_settings_read_only_status">การ์ดความจำต่อเชื่อมแบบอ่านอย่างเดียว</string>
     <string name="skip_label">ข้าม</string>
     <string name="next_label">ถัดไป</string>
     <string name="language_picker_title">ภาษา</string>
@@ -731,7 +731,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="device_status_summary">หมายเลขโทรศัพท์ สัญญาณ ฯลฯ</string>
     <string name="storage_settings">ที่เก็บข้อมูล</string>
     <string name="storage_settings_title">การตั้งค่าที่เก็บข้อมูล</string>
-    <string name="storage_settings_summary">ยกเลิกการต่อเชื่อมการ์ด SD ดูที่จัดเก็บข้อมูลที่ใช้ได้</string>
+    <string name="storage_settings_summary">ยกเลิกการต่อเชื่อมการ์ดความจำดูที่จัดเก็บข้อมูลที่ใช้ได้</string>
     <string name="status_number">หมายเลขโทรศัพท์ของฉัน</string>
     <string name="status_min_number">นาที</string>
     <string name="status_msid_number">MSID</string>
@@ -765,20 +765,20 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="memory_media_misc_usage">เบ็ดเตล็ด</string>
     <string name="memory_media_cache_usage">ข้อมูลในแคช</string>
     <string name="sd_eject">ยกเลิกการต่อเชื่อมการ์ด SD</string>
-    <string name="sd_eject_summary">ยกเลิกการต่อเชื่อมการ์ด SD เพื่อให้คุณสามารถนำการ์ดออกได้อย่างปลอดภัย</string>
-    <string name="sd_insert_summary">เสียบการ์ด SD เพื่อต่อเชื่อม</string>
+    <string name="sd_eject_summary">ยกเลิกการต่อเชื่อมการ์ดความจำเพื่อให้คุณสามารถนำการ์ดออกได้อย่างปลอดภัย</string>
+    <string name="sd_insert_summary">เสียบการ์ดความจำเพื่อต่อเชื่อม</string>
     <string name="sd_mount">ต่อเชื่อมการ์ด SD</string>
     <string name="sd_mount_summary" />
     <string name="sd_format">ลบการ์ด SD</string>
-    <string name="sd_format_summary">ลบข้อมูลทั้งหมดบนการ์ด SD เช่น เพลงและรูปภาพ</string>
+    <string name="sd_format_summary">ลบข้อมูลทั้งหมดบนการ์ดความจำ เช่น เพลงและรูปภาพ</string>
     <string name="memory_clear_cache_title">ล้างข้อมูลในแคชหรือไม่</string>
     <string name="memory_clear_cache_message">การทำงานนี้จะล้างข้อมูลในแคชของทุกแอปพลิเคชัน</string>
     <string name="mtp_ptp_mode_summary">เปิดใช้งานฟังก์ชัน MTP หรือ PTP อยู่</string>
-    <string name="dlg_confirm_unmount_title">ยกเลิกการต่อเชื่อมการ์ด SD หรือไม่</string>
-    <string name="dlg_confirm_unmount_text">หากคุณยกเลิกการต่อเชื่อมการ์ด SD แอปพลิเคชันบางอย่างที่ใช้อยู่จะหยุดทำงานและอาจใช้งานไม่ได้จนกว่าคุณจะต่อเชื่อมการ์ด SD อีกครั้ง</string>
+    <string name="dlg_confirm_unmount_title">ยกเลิกการต่อเชื่อมการ์ดความจำหรือไม่</string>
+    <string name="dlg_confirm_unmount_text">หากคุณยกเลิกการต่อเชื่อมการ์ดความจำ แอปพลิเคชันบางอย่างที่ใช้อยู่จะหยุดทำงานและอาจใช้งานไม่ได้จนกว่าคุณจะต่อเชื่อมการ์ดความจำอีกครั้ง</string>
     <string name="dlg_error_unmount_title" />
-    <string name="dlg_error_unmount_text">ไม่สามารถยกเลิกการต่อเชื่อมการ์ด SD ลองอีกครั้งในภายหลัง</string>
-    <string name="unmount_inform_text">การ์ด SD จะถูกยกเลิกการต่อเชื่อม</string>
+    <string name="dlg_error_unmount_text">ไม่สามารถยกเลิกการต่อเชื่อมการ์ดความจำ ลองอีกครั้งในภายหลัง</string>
+    <string name="unmount_inform_text">การ์ดความจำจะถูกยกเลิกการต่อเชื่อม</string>
     <string name="sd_ejecting_title">กำลังยกเลิกการต่อเชื่อม</string>
     <string name="sd_ejecting_summary">กำลังยกเลิกการต่อเชื่อม</string>
     <string name="storage_low_title">พื้นที่จัดเก็บเหลือน้อย</string>
@@ -851,7 +851,7 @@ PIN อาจไม่ถูกต้อง"</string>
 
 หากต้องการล้างข้อมูลเพลง รูปภาพ และข้อมูลผู้ใช้อื่นๆ คุณต้องลบ"<b>การ์ด SD</b></string>
     <string name="erase_external_storage">ลบการ์ด SD</string>
-    <string name="erase_external_storage_description">ลบข้อมูลทั้งหมดในการ์ด SD เช่น เพลงหรือรูปภาพ</string>
+    <string name="erase_external_storage_description">ลบข้อมูลทั้งหมดในการ์ดความจำ เช่น เพลงหรือรูปภาพ</string>
     <string name="master_clear_button_text">รีเซ็ตโทรศัพท์</string>
     <string name="master_clear_final_desc">ลบข้อมูลส่วนบุคคลและแอปพลิเคชันที่ดาวน์โหลดของคุณทั้งหมดหรือไม่ คุณไม่สามารถย้อนกลับการทำงานนี้ได้!</string>
     <string name="master_clear_final_button_text">ลบทุกอย่าง</string>
@@ -861,9 +861,9 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="master_clear_confirm_title">รีเซ็ตหรือไม่</string>
     <string name="media_format_title">ลบการ์ด SD</string>
     <string name="media_format_summary">ลบข้อมูลทั้งหมดบนการ์ด SD</string>
-    <string name="media_format_desc">ลบการ์ด SD หรือไม่ คุณจะสูญเสียข้อมูล<b>ทั้งหมด</b>บนการ์ด!</string>
+    <string name="media_format_desc">ลบการ์ดความจำหรือไม่ คุณจะสูญเสียข้อมูล<b>ทั้งหมด</b>บนการ์ด!</string>
     <string name="media_format_button_text">ลบการ์ด SD</string>
-    <string name="media_format_final_desc">ต้องการลบการ์ด SD ซึ่งจะเป็นการลบไฟล์ทั้งหมดที่จัดเก็บไว้หรือไม่ คุณไม่สามารถย้อนกลับการทำงานนี้ได้!</string>
+    <string name="media_format_final_desc">ต้องการลบการ์ดความจำซึ่งจะเป็นการลบไฟล์ทั้งหมดที่จัดเก็บไว้หรือไม่ คุณไม่สามารถย้อนกลับการทำงานนี้ได้!</string>
     <string name="media_format_final_button_text">ลบทุกอย่าง</string>
     <string name="media_format_gesture_prompt">วาดรูปแบบการปลดล็อก</string>
     <string name="media_format_gesture_explanation">คุณต้องวาดรูปแบบการปลดล็อกเพื่อยืนยันว่าคุณต้องการลบการด์ SD</string>
@@ -1205,8 +1205,8 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="verify_apps_over_usb_summary">ตรวจสอบแอปพลิเคชันที่ติดตั้งผ่าน ADB/ADT เพื่อตรวจดูพฤติกรรมที่เป็นอันตราย</string>
     <string name="enforce_read_external_title">ปกป้องการ์ด SD</string>
     <string name="enforce_read_external_summary">แอปพลิเคชันต้องขออนุญาตในการอ่านการ์ด SD</string>
-    <string name="enforce_read_external_confirm_title">ปกป้องการ์ด SD หรือไม่</string>
-    <string name="enforce_read_external_confirm_message">"เมื่อการ์ด SD ได้รับการปกป้อง แอปพลิเคชันจะต้องขออนุญาตในการอ่านข้อมูลจากที่จัดเก็บข้อมูลภายนอก
+    <string name="enforce_read_external_confirm_title">ปกป้องการ์ดความจำหรือไม่</string>
+    <string name="enforce_read_external_confirm_message">"เมื่อการ์ดความจำได้รับการปกป้อง แอปพลิเคชันจะต้องขออนุญาตในการอ่านข้อมูลจากที่จัดเก็บข้อมูลภายนอก
 
 แอปพลิเคชันบางรายการอาจไม่ทำงานจนกว่าจะได้รับการอัปเดตโดยนักพัฒนาซอฟต์แวร์ของแอปพลิเคชันนั้นๆ"</string>
     <string name="gadget_picker_title">เลือกแกดเจ็ต</string>
@@ -2499,8 +2499,8 @@ Are you sure you want to disable?"</string>
     <string name="bluetooth_profile_ftp">การถ่ายโอนไฟล์</string>
     <string name="bluetooth_ftp_profile_summary_use_for">ใช้สำหรับการถ่ายโอนไฟล์</string>
     <string name="bluetooth_ftp_profile_summary_connected">เชื่อมต่อไปยังการถ่ายโอนไฟล์</string>
-    <string name="mtp_transfer_unmount_error_text">ไม่สามารถอันเมาท์ SD การ์ดได้ในระหว่างการถ่ายโอนไฟล์</string>
-    <string name="mtp_transfer_erase_error_text">ไม่สามารถลบ SD การ์ดได้ในระหว่างการถ่ายโอนไฟล์</string>
+    <string name="mtp_transfer_unmount_error_text">ไม่สามารถอันเมาท์การ์ดความจำได้ในระหว่างการถ่ายโอนไฟล์</string>
+    <string name="mtp_transfer_erase_error_text">ไม่สามารถลบการ์ดความจำได้ในระหว่างการถ่ายโอนไฟล์</string>
     <string name="launch_error">เปิดใช้แอพปลิเคชันไม่ได้!</string>
     <string name="dlg_confirm_unmount_usb_title">อันเมาท์ที่เก็บ USB หรือไม่?</string>
     <string name="dlg_confirm_unmount_usb_text">ถ้าคุณอันเมาท์ที่เก็บข้อมูล USB แอปบางแอปที่คุณกำลังใช้อยู่จะหยุดการทำงาน และอาจใช้งานไม่ได้จนกกว่าคุณจะเมาท์ที่เก็บข้อมูล USB ใหม่อีกครั้ง</string>
@@ -2776,7 +2776,7 @@ Are you sure you want to disable?"</string>
     <string name="gemini_sim_lock_radio_off_message_sim1">วิทยุ1 ปิด</string>
     <string name="gemini_sim_lock_radio_off_message_sim2">วิทยุ2 ปิด</string>
     <string name="akp_installer_settings_title">ตัวติดตั้ง APK</string>
-    <string name="akp_installer_settings_summary">ติดตั้ง APK ของคุณจากที่เก็บข้อมูลของโทรศัพท์และ SD การ์ด</string>
+    <string name="akp_installer_settings_summary">ติดตั้ง APK ของคุณจากที่เก็บข้อมูลของโทรศัพท์และการ์ดความจำ</string>
     <string name="launch_main_label">เปิดแอปพลิเคชัน</string>
     <string name="launch_main">เปิดแอปพลิเคชันโดยกิจกรรมหลัก</string>
     <string name="launch_activitie">เปิด</string>
@@ -2830,8 +2830,8 @@ Are you sure you want to disable?"</string>
     <string name="rcse_settings_title">การตั้งค่า RCS-e</string>
     <string name="MobileNetwork_SIM1_Active">SIM1 เปิดใช้งาน</string>
     <string name="MobileNetwork_SIM2_Active">SIM2 เปิดใช้งาน</string>
-    <string name="dlg_mount_external_sd_title">เมาท์ SD การ์ดหรือไม่</string>
-    <string name="dlg_mount_external_sd_summary">ถ้าคุณเมาท์ SD การ์ด บางแอปที่กำลังใช้จะหยุดทำงาน</string>
+    <string name="dlg_mount_external_sd_title">เมาท์การ์ดความจำหรือไม่</string>
+    <string name="dlg_mount_external_sd_summary">ถ้าคุณเมาท์การ์ดความจำ บางแอปที่กำลังใช้จะหยุดทำงาน</string>
     <string name="tethered_ipv6_title">การตั้งค่าฮอตสปอต &amp; การแชร์อินเตอร์เน็ต</string>
     <string name="tethered_ipv4v6">(มี IPv6)</string>
     <string name="tethered_ipv6">(มีเฉพาะ IPv6)</string>
