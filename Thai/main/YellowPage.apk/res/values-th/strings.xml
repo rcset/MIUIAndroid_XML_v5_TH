@@ -87,6 +87,7 @@
     <string name="express_inquiry_button_text">ติดตาม</string>
     <string name="express_inquiry_serial_number_prefix">"หมายเลข: "</string>
     <string name="express_inquiry_no_result">ไม่มีข้อมูล</string>
+    <string name="express_inquiry_internal_failure">ไม่สามารถให้บริการได้</string>
     <string name="express_inquiry_data_owner">ให้บริการข้อมูลในการติดตามโดย %s</string>
     <string name="scan">สแกน</string>
 </resources>
