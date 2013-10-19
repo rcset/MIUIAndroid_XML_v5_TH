@@ -217,7 +217,7 @@
     <string name="pref_development_single_column_rendering">การแสดงผลคอลัมน์เดียว</string>
     <string name="pref_development_normal_rendering">การแสดงผลปกติ</string>
     <string name="pref_development_trace">เปิดใช้งานการติดตาม</string>
-    <string name="pref_development_nav_dump">Enable nav cache dump</string>
+    <string name="pref_development_nav_dump">เปิดใช้งานล้างแคชการนำทาง</string>
     <string name="pref_development_hardware_accel">เปิดใช้งานการแสดงผล OpenGL</string>
     <string name="pref_development_hardware_accel_skia">เปิดใช้งานเร่งความเร็วฮาร์ดแวร์ Skia</string>
     <string name="pref_development_visual_indicator">เปิดใช้งานการแสดงภาพ</string>
@@ -225,7 +225,7 @@
     <string name="js_engine_flags">ตั้งธง JS</string>
     <string name="pref_development_uastring">UAString</string>
     <string name="pref_development_error_console">แสดง JavaScript Console</string>
-    <string name="pref_development_reset_prelogin">Reset prelogin</string>
+    <string name="pref_development_reset_prelogin">รีเซ็ตก่อนเข้าระบบ</string>
     <string name="pref_default_text_encoding">การเข้ารหัสข้อความ</string>
     <string name="pref_default_text_encoding_dialogtitle">การเข้ารหัสข้อความ</string>
     <string name="pref_accessibility_title">การเข้าถึง</string>
@@ -276,7 +276,7 @@
     <string name="download_sdcard_busy_dlg_msg">การ์ดความจำถูกใช้งานอยู่ หากต้องการอนุญาตให้ดาวน์โหลด ให้แตะ \"ปิดที่จัดเก็บข้อมูล USB\" ในการแจ้งเตือน</string>
     <string name="cannot_download">ดาวน์โหลดได้เฉพาะ URL \"http\" หรือ \"https\"</string>
     <string name="download_pending">เริ่มต้นดาวน์โหลด…</string>
-    <string name="dump_nav">Dump navigation cache</string>
+    <string name="dump_nav">ล้างแคชการนำทาง</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="picasa">Picasa</string>
     <string name="search_the_web">ค้นหาเว็บ</string>
@@ -374,7 +374,7 @@
     <string name="delete_multi_bookmarks_alert_title">ลบ %1$s รายการ?</string>
     <string name="add_bookmark">เพิ่มบุ๊กมาร์ก</string>
     <string name="send_bookmark_to_home_screen">วางในหน้าจอหลัก</string>
-    <string name="bookmark_title">Label</string>
+    <string name="bookmark_title">ป้าย</string>
     <string name="bookmark_url">Url http://</string>
     <string name="bookmark_add_to">เพิ่มไปยัง</string>
     <string name="add_folder">เพิ่มโฟลเดอร์</string>
@@ -417,10 +417,10 @@
     <string name="pref_ua_title">จัดการตัวแทนผู้ใช้</string>
     <string name="pref_ua_string">User agent string</string>
     <string name="pref_ua_mione_entry">MiOne</string>
-    <string name="dump_counters">Dump V8 counters</string>
-    <string name="dump_dom_tree">Dump DOM tree to file</string>
-    <string name="dump_render_tree">Dump render tree to file</string>
-    <string name="dump_display_tree">Dump display tree to file</string>
+    <string name="dump_counters">ล้างตัวนับ V8</string>
+    <string name="dump_dom_tree">ล้างผังไฟล์ DOM</string>
+    <string name="dump_render_tree">ล้างผังการเรนเดอร์ในรูปแบบไฟล์</string>
+    <string name="dump_display_tree">ล้างการแสดงผลผังในรูปแบบไฟล์</string>
     <string name="pref_reading_mode_enabled_title">โหมดอ่าน</string>
     <string name="pref_reading_mode_enabled_title_summary">JavaScript จะต้องเปิดใช้งาน</string>
     <string name="pref_developer_options">ตัวเลือกนักพัฒนา</string>
@@ -434,7 +434,7 @@
     <string name="pref_gesture_title">ท่าทาง</string>
     <string name="pref_fling_on_border_enabled">เลื่อนจากขอบ</string>
     <string name="pref_fling_on_border_enabled_title_summary">เลื่อนจากขอบซ้ายไปขวาเพื่อสลับไปมาระหว่างแท็บ</string>
-    <string name="pref_fling_on_border_operation">Operation for fling on border</string>
+    <string name="pref_fling_on_border_operation">การดำเนินการ fling on border</string>
     <string name="is_page_top">"คุณอยู่บนสุดของหน้าแล้ว"</string>
     <string name="is_page_bottom">"คุณอยู่ด้านล่างสุดของหน้าแล้ว"</string>
     <string name="is_first_tab">นี่เป็นแท็บแรก</string>
@@ -574,7 +574,7 @@
     <string name="menu_theme_setting">ตั้งค่าธีม</string>
     <string name="menu_hv_swap">สลับหน้าจอเป็นแนวนอน/string>
     <string name="menu_hv_swap2">สลับหน้าจอเป็นแนวตั้ง</string>
-    <string name="menu_addtodesk">Place on Home screen</string>
+    <string name="menu_addtodesk">วางในหน้าจอหลัก</string>
     <string name="pref_content_auto_light_mode">ปรับแสงอัตโนมัติ</string>
     <string name="pref_content_fontsize_setting">ตั้งค่าตัวอักษร</string>
     <string name="readmode_page_loading">กำลังโหลด…</string>
