@@ -33,7 +33,7 @@
     <string name="policy_app_whitelist">อนุญาตแอปพลิเคชันที่ระบุเท่านั้น</string>
     <string name="policy_text_truncation">จำกัดขนาดอีเมลแบบข้อความ</string>
     <string name="policy_html_truncation">จำกัดขนาดอีเมลแบบ HTML</string>
-    <string name="policy_require_sd_encryption">ต้องมีการเข้ารหัสการ์ด SD</string>
+    <string name="policy_require_sd_encryption">ต้องมีการเข้ารหัสการ์ดความจำ</string>
     <string name="policy_dont_allow_attachments">ไม่อนุญาตให้ดาวน์โหลดไฟล์แนบ</string>
     <string name="policy_max_attachment_size">จำกัดขนาดไฟล์แนบ</string>
     <string name="policy_require_manual_sync_roaming">อนุญาตเฉพาะการซิงค์ด้วยตนเองขณะโรมมิ่ง</string>
