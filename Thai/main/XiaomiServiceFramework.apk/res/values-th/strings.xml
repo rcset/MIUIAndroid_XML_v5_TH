@@ -19,7 +19,7 @@
     <string name="micloud_error_empty_username">ชื่อผู้ใช้ว่างเปล่า"</string>
     <string name="micloud_error_empty_pwd">รหัสผ่านว่างเปล่า"</string>
     <string name="micloud_error_illegal_pwd">รหัสผ่านไม่ถูกต้อง"</string>
-    <string name="micloud_email">E-mail address"</string>
+    <string name="micloud_email">ที่อยู่อีเมล"</string>
     <string name="reg_type_phone">ลงทะเบียนผ่านทางโทรศัพท์ (แนะนำ)"</string>
     <string name="reg_type_email">ลงทะเบียนผ่านทาง E-mail"</string>
     <string name="micloud_input_password_prompt">ป้อนรหัสผ่าน"</string>
@@ -29,7 +29,7 @@
     <string name="micloud_active_alert_title">เปิดใช้งานบัญชีของคุณ"</string>
     <string name="micloud_via_sms_alert">SMS จะถูกส่งเพื่อตรวจสอบหมายเลขโทรศัพท์ของคุณ ต้องการดำเนินการต่อหรือไม่"</string>
     <string name="micloud_via_int_sms_alert">SMS จะถูกส่งไปยังอุปกรณ์ของคุณ ในอัตราที่ผู้ให้บริการเครือข่ายของคุณกำหนด ต้องการดำเนินการต่อหรือไม่"</string>
-    <string name="micloud_error_email">E-mail ไม่ถูกต้อง"</string>
+    <string name="micloud_error_email">อีเมลไม่ถูกต้อง"</string>
     <string name="micloud_account">บัญชี Xiaomi"</string>
     <string name="micloud_activing_account">กำลังเปิดใช้งานบัญชีของคุณ ..."</string>
     <string name="micloud_activing_account_delayed">อาจใช้เวลาประมาณ 30 วินาที เพื่อเปิดใช้งาน คุณสามารถทำอย่างอื่นได้ ..."</string>
@@ -43,7 +43,7 @@
     <string name="micloud_account_not_actived">บัญชียังไม่ถูกเปิดใช้"</string>
     <string name="micloud_active_email_visit">เยี่ยมชม %s"</string>
     <string name="micloud_click_email_to_valid">คลิกลิงค์เพื่อเปิดใช้ จากข้อความในกล่องจดหมายของคุณ"</string>
-    <string name="micloud_resend_active_email">ส่ง E-mail สำหรับเปิดใช้อีกครั้ง"</string>
+    <string name="micloud_resend_active_email">ส่งอีเมลสำหรับเปิดใช้อีกครั้ง"</string>
     <string name="micloud_delete_account">ลบบัญชี"</string>
     <string name="micloud_active_email_sent_1">เราได้ส่งลิงค์เพื่อเปิดใช้ทาง E-mail ของคุณแล้ว:"</string>
     <string name="micloud_active_email_sent_2">"</string>
@@ -52,7 +52,7 @@
     <string name="header_data_and_synchronization">ข้อมูลและการซิงค์"</string>
     <string name="title_reg">ลงทะเบียนบัญชี Xiaomi"</string>
     <string name="micloud_account_label">บัญชี: %1$s"</string>
-    <string name="email_already_be_used">E-mail address นี้ถูกใช้แล้ว"</string>
+    <string name="email_already_be_used">ที่อยู่อีเมลนี้ถูกใช้แล้ว"</string>
     <string name="error_no_sms_service">บริการ SMS ไม่สามารถใช้ได้"</string>
     <string name="reg_by_email_failure">การลงทะเบียนล้มเหลว: %1$s"</string>
     <string name="unactivated_user">ยังไม่ได้เปิดใช้"</string>
@@ -174,7 +174,7 @@
     <string name="error_giftcard_summary">ไม่สามารถรับข้อมูลบัตรของขวัญ"</string>
     <string name="error_bankcard_verify_summary">การยืนยันข้อมูลบัตรธนาคารผิดพลาด"</string>
     <string name="title_recharge">เติมเงิน Mi เครดิต"</string>
-    <string name="title_pay">ชำระเงินโดยใช้ Mi Credits"</string>
+    <string name="title_pay">ชำระเงินโดยใช้ Mi เครดิต"</string>
     <string name="recharge_group_favorite">ใช้วิธีการเติมเงิน"</string>
     <string name="recharge_group_others">เติมเงินวิธีอื่น"</string>
     <string name="recharge_prepaid_title">บัตรเติมเงินแบบชำระล่วงหน้า"</string>
