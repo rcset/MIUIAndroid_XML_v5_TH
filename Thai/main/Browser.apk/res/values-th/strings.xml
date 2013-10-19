@@ -271,9 +271,9 @@
     <string name="too_many_subwindows_dialog_title">ป๊อปอัปเปิดอยู่แล้ว</string>
     <string name="too_many_subwindows_dialog_message">เปิดได้ครั้งละหนึ่งป๊อปอัปเท่านั้น</string>
     <string name="download_no_sdcard_dlg_title">ไม่มีการ์ด SD</string>
-    <string name="download_no_sdcard_dlg_msg">ต้องมีการ์ด SD เพื่อดาวน์โหลด %s</string>
-    <string name="download_sdcard_busy_dlg_title">การ์ด SD ใช้งานไม่ได้</string>
-    <string name="download_sdcard_busy_dlg_msg">การ์ด SD ถูกใช้งานอยู่ หากต้องการอนุญาตให้ดาวน์โหลด ให้แตะ \"ปิดที่จัดเก็บข้อมูล USB\" ในการแจ้งเตือน</string>
+    <string name="download_no_sdcard_dlg_msg">ต้องมีการ์ดความจำเพื่อดาวน์โหลด %s</string>
+    <string name="download_sdcard_busy_dlg_title">การ์ดความจำใช้งานไม่ได้</string>
+    <string name="download_sdcard_busy_dlg_msg">การ์ดความจำถูกใช้งานอยู่ หากต้องการอนุญาตให้ดาวน์โหลด ให้แตะ \"ปิดที่จัดเก็บข้อมูล USB\" ในการแจ้งเตือน</string>
     <string name="cannot_download">ดาวน์โหลดได้เฉพาะ URL \"http\" หรือ \"https\"</string>
     <string name="download_pending">เริ่มต้นดาวน์โหลด…</string>
     <string name="dump_nav">Dump navigation cache</string>
