@@ -123,7 +123,7 @@
     <string name="perm_payment_lab">บริการชำระเงิน Xiaomi</string>
     <string name="perm_send_push_dspt">อนุญาติให้ส่งข้อความหา Xiaomi</string>
     <string name="perm_send_push_lab">ส่งข้อความพุช</string>
-    <string name="perm_tigger_toggle_dspt">อนุญาตให้แอพ ทริกเกอร์เพื่อสลับแถบสถานะ</string>
+    <string name="perm_tigger_toggle_dspt">อนุญาตให้แอป ทริกเกอร์เพื่อสลับแถบสถานะ</string>
     <string name="perm_tigger_toggle_lab">ปุ่มกดสลับแถบสถานะ</string>
     <string name="perm_use_find_device">ค้นหาอุปกรณ์</string>
     <string name="permdesc_accessNote">อนุญาตให้โปรแกรมประยุกต์สามารถอ่าน และปรับเปลี่ยนการบันทึกย่อของคุณถูกเก็บไว้ในโทรศัพท์ของคุณ โปรแกรมประยุกต์ที่เป็นอันตรายสามารถใช้นี้การส่งบันทึกย่อของคุณไปยังบุคคลอื่น หรือลบบันทึกย่อทั้งหมด.</string>
