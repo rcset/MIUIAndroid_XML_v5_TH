@@ -43,7 +43,7 @@
     <string name="alert_title_edit_anyway">การยืนยันการแก้ไขบันทึก อาจทำให้สูญเสียข้อมูลได้ คุณแน่ใจหรือไม่?</string>
     <string name="alert_message_edit_anyway">บันทึกบรรจุข้อมูลที่ไม่สนับสนุน การแก้ไขอาจะทำให้สูญเสียข้อมูลได้</string>
     <string name="alert_action_edit_anyway">แก้ไขต่อไป</string>
-    <string name="error_sdcard_unmounted">การ์ด SD ไม่ว่างหรือไม่สามารถอ่านได้ โปรดลองอีกครั้ง</string>
+    <string name="error_sdcard_unmounted">การ์ดความจำไม่ว่างหรือไม่สามารถอ่านได้ โปรดลองอีกครั้ง</string>
     <string name="error_sdcard_export">การส่งออกล้มเหลว โปรดตรวจสอบการ์ด SD</string>
     <string name="error_note_not_exist">ไม่มีบันทึกนี่อยู่</string>
     <string name="error_note_empty_for_clock">ขออภัย ไม่สามารถตั้งเวลากับบันทึกเปล่าได้</string>
@@ -51,7 +51,7 @@
     <string name="error_widget_exist_for_send_to_desktop">บันทึกนี้มีอยู่แล้วบนหน้าจอหลักแล้ว</string>
     <string name="success_sdcard_export">การส่งออกสำเร็จ</string>
     <string name="failed_sdcard_export">การส่งออกล้มเหลว</string>
-    <string name="format_exported_file_location">ส่งออกไฟล์ข้อความ ( %1$s ) ลงในไดเรกทอรี SD ( %2$s ) </string>
+    <string name="format_exported_file_location">ส่งออกไฟล์ข้อความ ( %1$s ) ลงในไดเรกทอรีการ์ดความจำ( %2$s ) </string>
     <string name="error_unsupport_content">บันทึกนี้มีเนื้อหาที่ไม่ได้รับการสนับสนุน คลิกเพื่ออัพเกรดระบบ</string>
     <string name="error_contact_not_exist">ไม่มีรายชื่อผู้ติดต่อ</string>
     <string name="preferences_title">ตั้งค่า</string>
@@ -67,7 +67,7 @@
     <string name="attachment_gallery">ที่เก็บภาพ</string>
     <string name="attachment_camera">กล้อง</string>
     <string name="attachment_contact">ผู้ติดต่อ</string>
-    <string name="alert_edit_action_update">อัพเดท</string>
+    <string name="alert_edit_action_update">อัปเดต</string>
     <string name="alert_edit_action_delete">เอาออก</string>
     <string name="time_picker_dialog_title">ตั้งเวลาเตือน</string>
     <string name="notify_alarm_title">เตือนปลุก</string>
