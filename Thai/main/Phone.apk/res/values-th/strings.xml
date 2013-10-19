@@ -163,17 +163,17 @@
     <string name="dualtalk_tip_accept_disconnect_current_reject_incoming">การรับสายนี้ จะวางสายปัจจุบัน และปฏิเสธสายเรียกเข้าอื่น</string>
     <string name="onscreenCdmaManageCallext">จัดการสาย</string>
     <string name="onscreenCdmaMergeCallext">ประชุมสาย</string>
-    <string name="end_call_because_can_not_hold">"End current call, because it can't be hold."</string>
-    <string name="ring_only_once_title">Ring only once</string>
-    <string name="ring_only_once_summary">Ring only once when choosing to accept a video call by voice call mode</string>
+    <string name="end_call_because_can_not_hold">"จบการสนทนาสายปัจจุบัน เพราะไม่สามารถพักสายรอได้"</string>
+    <string name="ring_only_once_title">เสียงกริ่งดังครั้งเดียว</string>
+    <string name="ring_only_once_summary">เสียงกริ่งดังครั้งเดียวเมื่อเลือกรับสายสนทนาทางวีดีโอโดยผ่านโหมดสนทนาทางเสียง</string>
     <string name="fdnListLabel">รายการ FDN</string>
     <string name="fdn_contact_name_number_invalid">ชื่อและหมายเลขไม่สามารถว่างพร้อมกันได้</string>
     <string name="fdn_contact_number_invalid">หมายเลขผู้ติดต่อไม่ถูกต้อง</string>
     <string name="fdn_phone_book_busy">ขณะนี้สมุดโทรศัพท์ไม่ว่าง โปรดลองใหม่ในภายหลัง</string>
     <string name="cdma_not_support">CDMA ไม่องรับคุณลักษณะนี้</string>
     <string name="cdma_cfu_title">China Telecom</string>
-    <string name="labelCFC">Cancel all forwarding</string>
-    <string name="cdma_cfu_dialog_sum">Always use this number</string>
+    <string name="labelCFC">ยกเลิกการโอนสายทั้งหมด</string>
+    <string name="cdma_cfu_dialog_sum">ใช้เลขหมายนี้เสมอ</string>
     <string name="dual_mic_title">การลดสัญญาณรบกวนไมค์คู่</string>
     <string name="dual_mic_turnoff">ไมค์คู่ ปิด</string>
     <string name="dual_mic_turnon">ไมค์คู่ เปิด</string>
@@ -300,10 +300,8 @@
     <string name="auto_reject_sum_voice">ตั้งเพื่อปิดสายเรียกเข้าแบบเสียงทั้งหมดทันที</string>
     <string name="auto_reject_sum_video">ตั้งเพื่อปิดสายเรียกเข้าแบบภาพวิดีโอทั้งหมดทันที</string>
     <string name="auto_reject_sum_sip">ตั้งเพื่อปิดสายเรียกเข้าทางอินเตอร์เน็ตทั้งหมดทันที</string>
-    <string name="mo_code_unconditional_cf_active">"เปิด
-การโอนสายอย่างไม่มีเงื่อนไขแล้ว"</string>
-    <string name="mo_code_some_cf_active">"การโอนสา
-ยตามเงื่อนไข"</string>
+    <string name="mo_code_unconditional_cf_active">"เปิดการโอนสายอย่างไม่มีเงื่อนไขแล้ว"</string>
+    <string name="mo_code_some_cf_active">"การโอนสายตามเงื่อนไข"</string>
     <string name="mo_code_call_forwarded">สายถูกโอนแล้ว</string>
     <string name="mo_code_call_is_waiting">สายเรียกซ้อน</string>
     <string name="mo_code_cug_call">กลุ่มผู้ใช้ปิด</string>
@@ -412,7 +410,7 @@
     <string name="throttle_status_subtext">"%1$s (%2$d٪) จากช่วงสูงสุด %3$s 
 ช่วงถัดไปจะเริ่มในอีก %4$d วัน (%5$s)"</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) จากช่วงสูงสุด %3$s</string>
-    <string name="voicemail_settings_for">Settings for %s</string>
+    <string name="voicemail_settings_for">การตั้งค่าสำหรับ %s</string>
     <string name="throttle_time_frame_subtext">"%1$d٪ ของรอบผ่านไป 
  ช่วงถัดไปจะเริ่มในอีก %2$d วัน (%3$s)"</string>
     <string name="voicemail_number_not_set">&lt;ไม่ได้ตั้งค่า></string>
@@ -580,8 +578,7 @@
     <string name="throttle_time_frame">ช่วงเวลาการใช้ข้อมูล</string>
     <string name="throttle_rate">นโยบายอัตราการส่งข้อมูล</string>
     <string name="throttle_help">เรียนรู้เพิ่มเติม</string>
-    <string name="throttle_data_rate_reduced_subtext">"%1$sเกินจำนวนสูงสุด
-อัตราการส่งข้อมูลถูกลดเหลือ%2$d Kb/s"</string>
+    <string name="throttle_data_rate_reduced_subtext">"%1$sเกินจำนวนสูงสุดอัตราการส่งข้อมูลถูกลดเหลือ%2$d Kb/s"</string>
     <string name="throttle_rate_subtext">อัตราการส่งข้อมูลถูกลดเหลือ %1$d Kb/s เมื่อใช้ข้อมูลเกินขีดจำกัดแล้ว</string>
     <string name="throttle_help_subtext">ข้อมูลเพิ่มเติมเกี่ยวกับนโยบายการใช้ข้อมูลของเครือข่ายมือถือจากผู้ให้บริการของคุณ</string>
     <string name="cell_broadcast_sms">SMS แจ้งเครือข่ายที่ใช้งาน</string>
@@ -931,7 +928,7 @@
     <string name="transport">Protocol</string>
     <string name="send_keepalive">SendKeepAlive</string>
     <string name="set_primary">SetPrimary</string>
-    <string name="advanced_settings_container">advanced settings container</string>
+    <string name="advanced_settings_container">การตั้งค่า container ชั้นสูง</string>
     <string name="auth_username">AuthUserName</string>
     <string name="not_voice_capable">ไม่สนับสนุนการโทรออกด้วยเสียง</string>
     <string name="respond_via_sms_canned_response_1">ตอนนี้คุยไม่ได้ มีอะไรหรือเปล่า</string>
@@ -1224,12 +1221,10 @@
     <string name="pin2_changed_miui">PIN2 เปลี่ยนแล้ว</string>
     <string name="pin2_invalid_or_name_is_too_long">คุณใส่รหัสผิด PIN ผิดหรือชื่อยาวไป</string>
     <string name="pin2_locked_message_miui">ลองใหม่: PIN2 ไม่ถูกต้อง</string>
-    <string name="pin2_lock_warning_miui">"
-PIN2 จะถูกล็อกหลังจากพบข้อผิดพลาดอื่นๆอีก"</string>
+    <string name="pin2_lock_warning_miui">"PIN2 จะถูกล็อกหลังจากพบข้อผิดพลาดอื่นๆอีก"</string>
     <string name="pin_attempts_miui">%d ยังคงพยายามอยู่</string>
     <string name="pin_changed_miui">SIM PIN เปลี่ยนแล้ว</string>
-    <string name="pin_lock_warning_miui">"
-โทรศัพท์ของคุณจะถูกล็อกอัตโนมัติหลังจากพบข้อผิดพลาดอื่นๆอีก"</string>
+    <string name="pin_lock_warning_miui">"โทรศัพท์ของคุณจะถูกล็อกอัตโนมัติหลังจากพบข้อผิดพลาดอื่นๆอีก"</string>
     <string name="pin_progress_change_pin2_miui">กำลังเปลี่ยน PIN2…</string>
     <string name="pin_progress_change_pin_miui">กำลังเปลี่ยน PIN…</string>
     <string name="pin_progress_set_fdn_lock_miui">กำลังตั้งค่าสถานะล็อก FDN…</string>
@@ -1246,8 +1241,7 @@ PIN2 จะถูกล็อกหลังจากพบข้อผิดพ
     <string name="preferred_network_type_cdma_miui">CDMA</string>
     <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
     <string name="preferred_network_type_title_miui">ตั้งค่าเครือข่ายมือถือ</string>
-    <string name="puk_lock_warning_miui">"
-ซิมการ์ดของคุณจะถูกลบหลังจากพบข้อผิดพลาดอื่นๆอีก"</string>
+    <string name="puk_lock_warning_miui">"ซิมการ์ดของคุณจะถูกลบหลังจากพบข้อผิดพลาดอื่นๆอีก"</string>
     <string name="remove_miui">ลบ</string>
     <string name="reject_via_sms_miui">ตอบด่วน</string>
     <string name="reject_via_sms_summary_miui">แก้ไขข้อความด่วน</string>
