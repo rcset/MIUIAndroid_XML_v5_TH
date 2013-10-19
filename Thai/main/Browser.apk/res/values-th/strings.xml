@@ -572,6 +572,7 @@
     <string name="download_dialog_default_path_invalid">แพทดาวน์โหลดไม่ถูกต้อง ใช้เป็นแพทดาวน์โหลดเริ่มต้น</string>
     <string name="modify_download_path_no_sdcard_dlg_msg">การ์ดความจำต้องปรับปรุง</string>
     <string name="menu_theme_setting">ตั้งค่าธีม</string>
+    <string name="menu_hv_swap">สลับหน้าจอเป็นแนวนอน</string>
     <string name="menu_hv_swap2">สลับหน้าจอเป็นแนวตั้ง</string>
     <string name="menu_addtodesk">วางในหน้าจอหลัก</string>
     <string name="pref_content_auto_light_mode">ปรับแสงอัตโนมัติ</string>
