@@ -54,7 +54,7 @@
     <string name="delete_files">ลบ %1$d ? ไฟล์</string>
     <string name="delete_files_and_folders">ลบ %1$d ไฟล์และ %2$d โฟลเดอร์?</string>
     <string name="new_folder_name">โฟลเดอร์ไม่มีชื่อ</string>
-    <string name="sd_card_size">การ์ด SD: %1$s</string>
+    <string name="sd_card_size">การ์ดความจำ: %1$s</string>
     <string name="sd_card_available">เหลือ: %1$s</string>
     <string name="file_info_location">ตำแหน่ง:</string>
     <string name="file_info_size">ขนาด:</string>
@@ -107,7 +107,7 @@
     <string name="user_guide">ความรู้เบื้องต้นเกี่ยวกับ KuaiPan</string>
     <string name="user_guide_summary">ภาพรวมคร่าวๆ</string>
     <string name="rename_failed">การเปลี่ยนชื่อล้มเหลว %1$s .</string>
-    <string name="directory_no_item">โฟลเดอร์ที่ว่าง</string>
+    <string name="directory_no_item">โฟลเดอร์ว่าง</string>
     <string name="error_open_file_failed_no_app_found">ไม่พบแอปพลิเคชันในการจัดการกับการกระทำนี้</string>
     <string name="no_enough_space">พื้นที่ไม่เพียงพอ</string>
     <string name="directory_info_divider">  |  </string>
@@ -231,7 +231,7 @@
     <string name="trans_task_delete_confirm_message">ลบ %1$d งานที่เลือกหรือไม่?</string>
     <string name="forward_to_web_recycle_prompt">&lt;a href = \" %1$s \"&gt; แตะ &lt;/ a&gt; ไปที่ถังรีไซเคิล</string>
     <string name="storage_internal">ที่เก็บข้อมูลภายใน</string>
-    <string name="storage_sd_card">การ์ด SD</string>
+    <string name="storage_sd_card">การ์ดความจำ</string>
     <string name="storage_usb">ที่เก็บข้อมูล USB</string>
     <string name="bind_account">ซิงค์กับบัญชีที่มีอยู่</string>
     <string name="bind_account_summary">ซิงค์บัญชี KuaiPan กับบัญชี Xiaomi ของคุณ</string>
