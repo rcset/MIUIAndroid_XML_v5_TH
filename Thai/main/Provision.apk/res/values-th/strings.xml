@@ -17,19 +17,19 @@
     <string name="other_service_user_experience_summary1">ขอบคุณทีมงาน MIUI</string>
     <string name="sim_card_detection_dialog_message">กำลังค้นหาซิมการ์ด กรุณารอ...</string>
     <string name="sim_card_detection_label">ค้นหาซิมการ์ด</string>
-    <string name="sim_card_detection_info">Unable to setup Xiaomi account without a SIM card. You need a SIM card to use account synchronization, phone tracking etc.</string>
+    <string name="sim_card_detection_info">ไม่สามารถติดตั้งบัญชี Xiaomi หากไม่มีซิมการ์ด คุณต้องใส่ซิมการ์ดก่อนเพื่อใช้งานซิงค์ ติดตามโทรศัพท์มือถือ และอื่นๆ</string>
     <string name="sim_card_detection_status_absent">ไม่พบซิมการ์ด!</string>
     <string name="setup_complete_label">ติดตั้งเสร็จสิ้น</string>
-    <string name="setup_complete_info">After sales service will be activated the first time you use your phone</string>
+    <string name="setup_complete_info">บริการหลังการขายจะเปิดใช้งานครั้งแรกเมื่อคุณใช้โทรศัพท์</string>
     <string name="setup_complete_start">เริ่มใช้งานโทรศัพท์</string>
     <string name="setup_complete_summary">ติดตั้งเสร็จสิ้น! สนุกสนานกับการใข้งาน MIUI!</string>
-    <string name="traffic_protection_label">กำลงัตรวจสอบทราฟฟิกข้อมูล</string>
-    <string name="traffic_protection_summary">Data traffic monitoring will remind you when your data plan has reached its limit.</string>
+    <string name="traffic_protection_label">กำลังตรวจสอบทราฟฟิกข้อมูล</string>
+    <string name="traffic_protection_summary">กำลังตรวจสอบทราฟฟิกข้อมูลจะเตือนคุณเมื่อขีดจำกัดข้อมูลเกิน</string>
     <string name="traffic_protection_unknown">"ฉันไม่ทราบ จะใส่ข้อมูลภายหลัง"</string>
-    <string name="traffic_protection_text_hint">Please input your data plan limit.</string>
-    <string name="data_usage_summary">If you have not applied for a data plan, it is recommended to turn off mobile data. Otherwise, your carrier may charge you additional fees.</string>
+    <string name="traffic_protection_text_hint">กรุณาใส่ขีดจำกัดข้อมูล</string>
+    <string name="data_usage_summary">หากคุณไม่ได้ใช้ข้อมูล แนะนำว่าให้ปิดการใช้ข้อมูลมือถือ ไม่อย่างงั้นผู้ให้บริการอาจจะเรียกเก็บค่าบริการเพิ่ม</string>
     <string name="use_data">เปิดใช้งานข้อมูล</string>
     <string name="input_method_category">เลือกวิธีการป้อนข้อมูลเริ่มต้น</string>
     <string name="input_method">วิธีการป้อนข้อมูล</string>
-    <string name="default_gprs_sim_name">กรุณาใส่ \"%s\" data plan limits</string>
+    <string name="default_gprs_sim_name">กรุณาใส่ \"%s\" ขีดจำกัดข้อมูล</string>
 </resources>
