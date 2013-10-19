@@ -75,7 +75,7 @@
     <string name="delete_item">ลบ</string>
     <string name="remove_item">เอาออก</string>
     <string name="delete_song_desc">ลบ %s หรือไม่?</string>
-    <string name="scanning">สแกน SD การ์ด ...</string>
+    <string name="scanning">สแกนการ์ดความจำ ...</string>
     <string name="scanning_nosdcard">สแกนที่เก็บข้อมูล USB ...</string>
     <string name="search_title">ค้นหา </string>
     <string name="delete_playlist_menu">ลบ</string>
@@ -87,11 +87,11 @@
     <string name="recentlyadded_title">เพิ่มล่าสุด</string>
     <string name="recentlyplayed_title">เล่นล่าสุด</string>
     <string name="frequentlyplayed_title">เล่นบ่อย</string>
-    <string name="sdcard_missing_message">โทรศัพท์ของคุณไม่มีี SD การ์ด</string>
+    <string name="sdcard_missing_message">โทรศัพท์ของคุณไม่มีการ์ดความจำ</string>
     <string name="sdcard_missing_message_nosdcard">โทรศัพท์ไม่มีที่เก็บข้อมูล USB</string>
-    <string name="sdcard_busy_message">ขออภัย SD การ์ดไม่ว่าง กรุณาตรวจสอบสถานะ SD การ์ด</string>
+    <string name="sdcard_busy_message">ขออภัยการ์ดความจำไม่ว่าง กรุณาตรวจสอบสถานะการ์ดความจำ</string>
     <string name="sdcard_busy_message_nosdcard">ขออภัยที่เก็บข้อมูล USB ไม่ว่าง</string>
-    <string name="sdcard_error_message">เกิดข้อผิดพลาดใน SD การ์ด</string>
+    <string name="sdcard_error_message">เกิดข้อผิดพลาดในการ์ดความจำ</string>
     <string name="sdcard_error_message_nosdcard">เกิดข้อผิดพลาดในที่จัดเก็บข้อมูล USB</string>
     <string name="unknown_artist_name">ไม่รู้จักศิลปิน</string>
     <string name="unknown_album_name">ไม่รู้จักอัลบั้ม</string>
@@ -121,7 +121,7 @@
     <string name="download">ดาวน์โหลด</string>
     <string name="download_processing">กำลังดาวน์โหลด</string>
     <string name="download_batch_start">เริ่มต้นดาวน์โหลดทั้งหมด</string>
-    <string name="delete_file_from_sdcard">รวมทั้งลบไฟล์จาก SD การ์ด</string>
+    <string name="delete_file_from_sdcard">รวมทั้งลบไฟล์จากการ์ดความจำ</string>
     <string name="recommend">แนะนำ</string>
     <string name="billboard">Hot Billboard</string>
     <string name="channel">FM</string>
