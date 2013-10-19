@@ -39,7 +39,7 @@
     <string name="network_unavailable_dialog_content">ข้อเสนอแนะจะถูกส่งหากบริการข้อมูลทำงาน</string>
     <string name="network_unavailable_dialog_button_ok">ตกลง</string>
     <string name="wlan_unavailable_dialog_title">Wi-Fi ไม่ว่าง</string>
-    <string name="wlan_unavailable_dialog_content">%s จำเป็นต้องใช้บริการข้อมูล 2G/3G กด ตกลง เพื่อนส่งข้อมูลโดยใช้ Wi-fi เท่านั้น</string>
+    <string name="wlan_unavailable_dialog_content">%s จำเป็นต้องใช้บริการข้อมูล 2G/3G กด ตกลง เพื่อส่งข้อมูลโดยใช้ Wi-fi เท่านั้น</string>
     <string name="wlan_unavailable_dialog_button_sent">ส่งเดี๋ยวนี้</string>
     <string name="wlan_unavailable_dialog_button_ok">ตกลง</string>
     <string name="packaging_dialog_content">กำลังสร้างรายงาน กรุณารอ...</string>
