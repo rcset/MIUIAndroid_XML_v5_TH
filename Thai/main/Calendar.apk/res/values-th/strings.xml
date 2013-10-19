@@ -75,7 +75,7 @@
     <string name="quick_response_settings_title">แก้ไขการตอบกลับด่วน"</string>
     <string name="quick_response_settings_edit_title">ตอบกลับด่วน"</string>
     <string name="quick_response_dialog_title">เลือกการตอบกลับด่วน"</string>
-    <string name="quick_response_email_failed">การหาโปรแกรม E-mail ล้มเหลว"</string>
+    <string name="quick_response_email_failed">การหาโปรแกรมอีเมล ล้มเหลว"</string>
     <string name="quick_response_custom_msg">ข้อความที่กำหนดเอง ..."</string>
     <string name="event_info_organizer">ผู้จัด:"</string>
     <string name="event_info_reminders_label">การแจ้งเตือน"</string>
@@ -188,7 +188,7 @@
     <string name="work_day_indication">"</string>
     <string name="rest_day_indication">"</string>
     <string name="more_string">%1$s อื่น ๆ ..."</string>
-    <string name="copy_email">คัดลอกที่อยู่ E-mail"</string>
+    <string name="copy_email">คัดลอกที่อยู่อีเมล"</string>
     <string name="copy_number">คัดลอกหมายเลขโทรศัพท์"</string>
     <string name="done">กลับ"</string>
     <string name="prefDefault_alerts_vibrateWhen">ไม่"</string>
