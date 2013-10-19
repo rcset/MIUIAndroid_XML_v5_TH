@@ -1205,7 +1205,7 @@
     <string name="onscreen_audio_mode_bluetooth_miui">บลูทูธ</string>
     <string name="onscreen_audio_mode_handset_miui">สมอลล์ทอล์ค</string>
     <string name="onscreen_audio_mode_headset_miui">หูฟัง</string>
-    <string name="onscreen_audio_mode_miui">Answer using</string>
+    <string name="onscreen_audio_mode_miui">การใช้การรับสาย</string>
     <string name="onscreen_audio_mode_speaker_miui">ลำโพง</string>
     <string name="onscreen_call_record_miui">บันทึกเสียง</string>
     <string name="onscreen_dialer_miui">แป้นหมายเลข</string>
@@ -1226,7 +1226,7 @@
     <string name="pin2_locked_message_miui">ลองใหม่: PIN2 ไม่ถูกต้อง</string>
     <string name="pin2_lock_warning_miui">"
 PIN2 จะถูกล็อกหลังจากพบข้อผิดพลาดอื่นๆอีก"</string>
-    <string name="pin_attempts_miui">%d attempts remaining</string>
+    <string name="pin_attempts_miui">%d ยังคงพยายามอยู่</string>
     <string name="pin_changed_miui">SIM PIN เปลี่ยนแล้ว</string>
     <string name="pin_lock_warning_miui">"
 โทรศัพท์ของคุณจะถูกล็อกอัตโนมัติหลังจากพบข้อผิดพลาดอื่นๆอีก"</string>
@@ -1276,9 +1276,9 @@ PIN2 จะถูกล็อกหลังจากพบข้อผิดพ
     <string name="telocation_setting_summary_teloc_off">ซ่อนตำแหน่ง</string>
     <string name="telocation_setting_summary_countrycode_on">รหัสประเทศโทรซ้ำอัตโนมัติ</string>
     <string name="telocation_setting_summary_countrycode_off">"ไม่ต้องใส่รหัสประเทศ"</string>
-    <string name="tty_mode_entries_full_miui">TTY Full</string>
+    <string name="tty_mode_entries_full_miui">TTY เต็ม</string>
     <string name="tty_mode_entries_hco_miui">TTY HCO</string>
-    <string name="tty_mode_entries_off_miui">TTY Off</string>
+    <string name="tty_mode_entries_off_miui">ปิด TTY</string>
     <string name="tty_mode_entries_vco_miui">TTY VCO</string>
     <string name="tty_mode_option_summary_miui">ตั้งโหมด TTY</string>
     <string name="tty_mode_option_title_miui">โหมด TTY</string>
@@ -1299,7 +1299,7 @@ PIN2 จะถูกล็อกหลังจากพบข้อผิดพ
     <string name="delete_selected_sim_entry_miui">ลบรายชื่อที่เลือก</string>
     <string name="import_all_sim_entry_miui">นำเข้าทั้งหมด</string>
     <string name="delete_all_sim_contacts_miui">ลบรายชื่อในซิมการ์ดทั้งหมด</string>
-    <string name="cdma_three_way_calls_miui">Three-way call</string>
+    <string name="cdma_three_way_calls_miui">การประชุมสามสาย</string>
     <string name="cdma_conference_call_miui">ประชุมสาย</string>
     <string name="respond_via_sms_canned_response_1_miui">"ไม่สามรถคุยได้ ติดต่อภายหลัง?"</string>
     <string name="respond_via_sms_canned_response_2_miui">"จะโทรกลับไปใน 1 นาที"</string>
@@ -1313,12 +1313,12 @@ PIN2 จะถูกล็อกหลังจากพบข้อผิดพ
     <string name="cdma_display_precise_call_state_title_miui">แสดงผลสถานะโทร</string>
     <string name="cdma_display_precise_call_state_summary_miui">ยืนยันเครือข่ายสนับสนุนฟังก์ชันนี้</string>
     <string name="cdma_display_precise_call_state_message_miui">"ถ้าเครือข่ายของคุณไม่สนับสนุนฟังก์ชันนี้ สถานะโทรของคุณจะแสดงไม่ถูกต้อง"</string>
-    <string name="set_preferred_network_type_when_data_enabled_miui">Preferred network type only available when data is disabled</string>
+    <string name="set_preferred_network_type_when_data_enabled_miui">รูปแบบเครือข่ายที่ตั้งไว้จะใช้งานได้เมื่อปิดการใช้ข้อมูล</string>
     <string name="turn_off_auto_select_title_miui">ปิดการเลือกเครือข่ายอัตโนมัติ</string>
-    <string name="turn_off_auto_select_warning_message_miui">Use the network you selected manually, do not connect to other networks.</string>
+    <string name="turn_off_auto_select_warning_message_miui">ใช้การเลือกเครือข่ายด้วยตัวคุณเอง โดยไม่เชื่อมโยงกับเครือข่ายอื่น</string>
     <string name="turn_off_auto_select_confirm_message_miui">เครือข่ายไม่ว่าง</string>
-    <string name="network_work_query_failed_message_miui">"Network query failed, press 'cancel' to select preferred network automatically or press 'ok' to retry"</string>
-    <string name="sum_select_automatically_option_miui">Automatically select preferred network, %s</string>
+    <string name="network_work_query_failed_message_miui">"การค้นหาเครือข่ายล้มเหลว กด "ยกเลิก" เพื่อเลือกเครือข่ายที่ตั้งไว้อัตโนมัติ หรือ กด "ตกลง" เพื่อลองใหม่"</string>
+    <string name="sum_select_automatically_option_miui">เลือกเครือข่ายที่ตั้งไว้อัตโนมัติ %s</string>
     <string name="register_network_failed_title_miui">เชื่อมต่อไปยังเครือข่ายล้มเหลว</string>
     <string name="register_network_failed_message_miui">"Can't connect to the network that you selected, connect to your preferred network instead?"</string>
     <string name="next_miui">ถัดไป</string>
