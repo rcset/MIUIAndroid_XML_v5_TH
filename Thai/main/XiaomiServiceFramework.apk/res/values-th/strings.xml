@@ -4,7 +4,7 @@
     <string name="app_name">ขอบข่ายการให้บริการ Xiaomi"</string>
     <string name="show_password">แสดงรหัสผ่าน"</string>
     <string name="account">บัญชี"</string>
-    <string name="account_hint_text">E-mail / หมายเลขโทรศัพท์"</string>
+    <string name="account_hint_text">อีเมล / หมายเลขโทรศัพท์"</string>
     <string name="login">เข้าสู่ระบบ"</string>
     <string name="next">ถัดไป"</string>
     <string name="prev">ย้อนกลับ"</string>
@@ -21,7 +21,7 @@
     <string name="micloud_error_illegal_pwd">รหัสผ่านไม่ถูกต้อง"</string>
     <string name="micloud_email">ที่อยู่อีเมล"</string>
     <string name="reg_type_phone">ลงทะเบียนผ่านทางโทรศัพท์ (แนะนำ)"</string>
-    <string name="reg_type_email">ลงทะเบียนผ่านทาง E-mail"</string>
+    <string name="reg_type_email">ลงทะเบียนผ่านทางอีเมล"</string>
     <string name="micloud_input_password_prompt">ป้อนรหัสผ่าน"</string>
     <string name="micloud_password_confirm_hint">ยืนยันรหัสผ่าน"</string>
     <string name="micloud_password_req_notice">8 - 16 ตัวอักษร ประกอบด้วย ตัวเลข ตัวอักษรพิมพ์ใหญ่-พิมพ์เล็ก"</string>
