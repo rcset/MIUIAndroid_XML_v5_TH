@@ -1083,6 +1083,7 @@
     <string name="command_error_no_subscription_miui">การค้นหาเพื่อเข้าใช้ CDMA จากตำแหน่งที่ระบุล้มเหลว</string>
     <string name="command_error_op_denied_before_reg_miui">ปฏิเสธการดำเนินการ : อุปกรณ์ต้องได้ทำการลงทะเบียนกับเครือข่าย</string>
     <string name="command_error_op_denied_during_call_miui">การดำเนินการไม่ได้รับอนุญาตระหว่างการใช้สายสนทนา</string>
+    <string name="command_error_password_incorrect_miui">ลองใหม่: รหัสผ่านที่คุณใส่ไม่ถูกต้อง</string>
     <string name="command_error_radio_not_available_miui">Radio ไม่ว่าง</string>
     <string name="command_error_sim_absent_miui">ไม่พบ ICC การ์ด</string>
     <string name="command_error_sim_pin2_miui">PIN2 จำเป็นต้องใช้เพื่อกระบวนการนี้</string>
