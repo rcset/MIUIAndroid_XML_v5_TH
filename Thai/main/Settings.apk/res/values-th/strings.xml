@@ -2451,7 +2451,7 @@ Are you sure you want to disable?"</string>
     <string name="wifi_share_connected_title">MIUI แบ่งปัน Wi-Fi</string>
     <string name="wifi_share_connected_summary">"You're connected to a public WLAN network that has been shared by another user"</string>
     <string name="wifi_share_action_turn_on">Share public WLAN</string>
-    <string name="wifi_share_action_turn_on_summary">Please log in with your Xiaomi username and password</string>
+    <string name="wifi_share_action_turn_on_summary">กรุณาเข้าระบบชื่อผู้ใช้และรหัสผ่าน Xiaomi</string>
     <string name="wifi_share_action_turn_off">กำลังหยุดแบ่งปันเครือข่าย</string>
     <string name="wifi_share_list_empty">ไม่พบแชร์เครือข่าย</string>
     <string name="wifi_share_connect">เชื่อมต่อ</string>
@@ -2969,5 +2969,5 @@ Are you sure you want to disable?"</string>
     <string name="wifi_configured_ap_list">จดจำรายการจุดเข้าใช้งาน</string>
     <string name="wifi_priority_label">ลำดับความสำคัญ</string>
     <string name="change_data_conn_title">เปลี่ยนการเชื่อมต่อข้อมูล</string>
-    <string name="change_data_conn_message">%1$s ไม่พร้อม, เปลี่ยนค่าเริ่มต้นการเชื่อมต่อข้อมูลไปยัง %2$s หรือไม่?</string>
+    <string name="change_data_conn_message">%1$s ไม่พร้อม เปลี่ยนค่าเริ่มต้นการเชื่อมต่อข้อมูลไปยัง %2$s หรือไม่?</string>
 </resources>
