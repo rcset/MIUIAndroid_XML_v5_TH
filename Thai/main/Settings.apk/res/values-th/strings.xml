@@ -2476,6 +2476,7 @@ Are you sure you want to disable?"</string>
     <string name="hdmi_3d_help_title">เกี่ยวกับการสนับสนุน HDMI 3D</string>
     <string name="power_mode_balanced_title">เปิดทำงานพลังงานสมดุล</string>
     <string name="usb_host_mode_text">เปิดทำงานโหมด USB host</string>
+    <string name="usb_host_mode_subtext">สำหรับใช้ตัวควบคุมเกมส์และอุปกรณ์พอร์ต USB อาจจะทำให้แบตเตอรี่ลดลง</string>
     <string name="power_settings_title">ประสิทธิภาพระบบ</string>
     <string name="title_color_calibration">Color Correction preset</string>
     <string name="dialog_title_color_calibration">Color Correction preset</string>
