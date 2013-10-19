@@ -14,7 +14,7 @@
     <string name="autumn_equinox">ศารทวิษุวัต</string>
     <string name="callNoAnswerTimeFormat">โทรเข้า %s ครั้ง</string>
     <string name="call_record_or">หรือ</string>
-    <string name="call_record_sample_prefix_miui">Callrecording</string>
+    <string name="call_record_sample_prefix_miui">บันทึกเสียงสนทนา</string>
     <string name="caller_info_name_delimiter">หรือ</string>
     <string name="check_phone_error_title">ไม่สามารถเปิดการซิงโครไนซ์</string>
     <string name="check_phone_io_error">การเชื่อมต่อเครือข่ายผิดพลาด</string>
@@ -213,7 +213,7 @@
     <string name="contact_carrier_message">กรุณาติดต่อผู้ให้บริการหากมีคำถามใด ๆ</string>
     <string name="input_puk_code">ใส่ PUK</string>
     <string name="input_puk_code_to_unlock">ใส่รหัส PUK เพื่อปลดล็อกโทรศัพท์</string>
-    <string name="unlocking_sim_card">กำลังปลดล็อก SIM card</string>
+    <string name="unlocking_sim_card">กำลังปลดล็อกซิมการ์ด</string>
     <string name="short_pukcode_error_msg">กรุณาใส่อย่างน้อย 8 หลัก</string>
     <string name="short_pincode_error_msg">กรุณาใสา 4–8 หลัก</string>
     <string name="input_pin_code">ใส่ PIN</string>
@@ -241,14 +241,14 @@
     <string name="sim_locked">ซิมการ์ดถูกล็อค</string>
     <string name="sim_not_ready">ซิมการ์ดถูกใช้งานอยู่ กรุณาลองอีกครั้งในภายหลัง</string>
     <string name="sim_in_airplane_mode">โปรดปิดการใช้งานโหมดเครื่องบิน</string>
-    <string name="sim_changed_reactivate_int_notice">Current SIM is unactivated. An international sms is required to activate the service, activate now?</string>
-    <string name="err_resource_leak">Unfortunately, %1$s has stopped for resource leak.</string>
+    <string name="sim_changed_reactivate_int_notice">ซิมปัจจุบันยังไม่ได้รับการยืนยัน จำเป็นต้องส่งข้อความอินเตอร์เพื่อยืนยันบริการ ยืนยันตอนนี้?</string>
+    <string name="err_resource_leak">เกิดข้อผิดพลาด %1$s ได้ถูกปิดเพื่อป้องกันอุปกรณ์</string>
     <string name="app_notificaiton_on_statusBar_and_notificationBar">แถบสถานะ, แถบการแจ้งเตือน</string>
     <string name="app_no_notification">ไม่เลย</string>
     <string name="app_notificaiton_on_notificationBar">แถบการแจ้งเตือน</string>
     <string name="device_hongmi">โทรศัพท์ Hongmi</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"You have incorrectly input your password %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using your account signin.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"คุณใส่รหัสผ่านไม่ถูกต้อง %d ครั้ง หลังจาก %d ครั้ง คุณจะปลดล็อคโดยใช้บัญชีที่คุณสมัคร
 
- Try again in %d seconds."</string>
+ ลองใหม่ใน %d วินาที"</string>
     <string name="login_website_in_case_forget_password">ไปที่ i.xiaomi.com เพื่อรีเซ็ทรหัสผ่านใหม่ ในกรณีที่คุณลืม</string>
 </resources>
