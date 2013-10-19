@@ -2641,10 +2641,10 @@ Are you sure you want to disable?"</string>
     <string name="dialog_apn_disabled_msg">โปรดปิดโหมดเครื่องบิน เพื่อเปิดการตั้งค่า APN</string>
     <string name="sound_category_feedback_title">ระบบ</string>
     <string name="sound_category_calls_title">สายโทรเข้า</string>
-    <string name="voice_call_title">ริงโทนสายสนทนา</string>
-    <string name="voice_call_summary">ตั้งค่าริงโทนมาตรฐานสำหรับสายสนทนาเรียกเข้าของคุณ</string>
-    <string name="video_call_title">ริงโทนสายวิดีโอ</string>
-    <string name="video_call_summary">ตั้งค่าริงโทนมาตรฐานสำหรับสายวิดีโอเรียกเข้าของคุณ</string>
+    <string name="voice_call_title">เสียงเรียกเข้าสายสนทนา</string>
+    <string name="voice_call_summary">ตั้งค่าเสียงเรียกเข้ามาตรฐานสำหรับสายสนทนาเรียกเข้าของคุณ</string>
+    <string name="video_call_title">เสียงเรียกเข้าสายวิดีโอ</string>
+    <string name="video_call_summary">ตั้งค่าเสียงเรียกเข้ามาตรฐานสำหรับสายวิดีโอเรียกเข้าของคุณ</string>
     <string name="Phone_vibrate_summary">โทรศัพท์สั่นเมื่อมีสายเรียกเข้า</string>
     <string name="vibrate_title">ระบบสั่น</string>
     <string name="sim_status_summary">ข้อมูลที่เกี่ยวข้องกับ SIM</string>
