@@ -15,7 +15,7 @@
     <string name="description_designer">ผู้ออกแบบ:</string>
     <string name="description_author">ผู้แต่ง:</string>
     <string name="description_size">ขนาด:</string>
-    <string name="description_uploadtime">อัพเดต:</string>
+    <string name="description_uploadtime">อัปเดต:</string>
     <string name="description_download">อัพโหลด:</string>
     <string name="description_version">เวอร์ชัน:</string>
     <string name="description_summary">สรุป:</string>
@@ -29,7 +29,7 @@
     <string name="resource_delta_update_successful">การปรับเป็นรุ่นเดลต้าสำเร็จแล้ว，กำลังบันทึก %1$s.</string>
     <string name="resource_delta_update_failed">การปรับเป็นรุ่นเดลต้าล้มเหลว, จะโหลดแหล่งที่มาที่สมบูรณ์</string>
     <string name="resource_apply">ใช้งาน</string>
-    <string name="resource_update">อัพเดต</string>
+    <string name="resource_update">อัปเดต</string>
     <string name="resource_select">เลือก</string>
     <string name="resource_buy">ซื้อ</string>
     <string name="resource_importing">กำลังนำเข้า</string>
@@ -288,7 +288,7 @@
     <string name="description_minus_button">ลบ</string>
     <string name="description_plus_button">บวก</string>
     <string name="description_view_contact_detail">ดูรายชื่อติดต่อ</string>
-    <string name="no_sdcard_message">ไม่พบการ์ด SD</string>
+    <string name="no_sdcard_message">ไม่พบการ์ดความจำ</string>
     <string name="import_from_sim">นำเข้าจากซิมการ์ด</string>
     <string name="import_from_sim2">นำเข้าจากซิมการ์ด 2</string>
     <string name="import_from_sdcard">นำเข้าจากที่เก็บข้อมูล</string>
@@ -297,7 +297,7 @@
     <string name="import_one_vcard_string">นำเข้าไฟล์ vCard หนึ่งไฟล์</string>
     <string name="import_multiple_vcard_string">นำเข้าไฟล์ vCard หลายไฟล์</string>
     <string name="import_all_vcard_string">นำเข้าไฟล์ vCard ทั้งหมด</string>
-    <string name="searching_vcard_message">กำลังค้นหาข้อมูล vCard บนการ์ด SD...</string>
+    <string name="searching_vcard_message">กำลังค้นหาข้อมูล vCard บนการ์ดความจำ...</string>
     <string name="scanning_sdcard_failed_title">"การ์ดความจำไม่สามารถสแกนได้"</string>
     <string name="scanning_sdcard_failed_message">ไม่สามารถสแกนการ์ดความจำ(สาเหตุ: \"%s\")</string>
     <string name="fail_reason_io_error">ข้อผิดพลาด I/O</string>
@@ -305,7 +305,7 @@
     <string name="fail_reason_vcard_parse_error">ไม่สามารถแยกวิเคราะห์ vCard ด้วยเหตุผลที่ไม่คาดคิด</string>
     <string name="fail_reason_not_supported">ไม่สนับสนุนรูปแบบนี้</string>
     <string name="vcard_import_failed">ไม่สามารถนำเข้า vCard</string>
-    <string name="import_failure_no_vcard_file">ไม่พบไฟล์ vCard บนการ์ด SD</string>
+    <string name="import_failure_no_vcard_file">ไม่พบไฟล์ vCard บนการ์ดความจำ</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">ไม่สามารถรวบรวมข้อมูลเมตาของ vCard ที่ระบุ</string>
     <string name="fail_reason_failed_to_read_files">"หนึ่งหรือหลายไฟล์นำเข้าไม่ได้ (%s)"</string>
     <string name="fail_reason_unknown">ข้อผิดพลาดที่ไม่รู้จัก</string>
@@ -995,7 +995,7 @@
     <string name="sim_invalid_fix_number">ไม่สามารถบันทึกเบอร์แก้ไขที่ไม่มีอยู่</string>
     <string name="AirPlane_mode_on_edit">ไม่สามารถแก้ไขรายชื่อผู้ติดต่อเมื่อโหมดการใช้งานบนเครื่องบินเปิดใช้อยู่</string>
     <string name="msg_loading_sim_contacts_toast">กำลังโหลดรายชื่อผู้ติดต่อจากซิมในแบบเบื้องหลัง, โปรดรอสักครู่</string>
-    <string name="fix_number_too_long">เบอร์ที่แก้ยาวเกินไป.</string>
+    <string name="fix_number_too_long">เบอร์ที่แก้ยาวเกินไป</string>
     <string name="name_too_long">ชื่อยาวเกินไป</string>
     <string name="storage_full">ที่จัดเก็บข้อมูลเต็ม</string>
     <string name="number_too_long">เบอร์ยาวเกินไป.</string>
