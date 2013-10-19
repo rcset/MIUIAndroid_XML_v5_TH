@@ -1357,7 +1357,7 @@
     <string name="in_sms">ข้อความ</string>
     <string name="sms_sender">จาก</string>
     <string name="sms_content">เนื้อหา:</string>
-    <string name="readingSimContacts">กำลังอ่าน SIM card…</string>
+    <string name="readingSimContacts">กำลังอ่านซิมการ์ด</string>
     <string name="antispam_marked_title">%1$s</string>
     <string name="antispam_marked_count">สังเกตโดยผู้ใช้ MIUI</string>
     <string name="antispam_notification_title">ระบุตัวตนเลขหมายที่ไม่รู้จัก</string>
