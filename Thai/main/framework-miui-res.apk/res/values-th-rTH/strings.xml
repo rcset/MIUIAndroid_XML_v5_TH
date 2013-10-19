@@ -219,8 +219,8 @@
     <string name="input_pin_code">ใส่ PIN</string>
     <string name="input_pin_code_to_unlock">ใส่รหัส PIN เพื่อปลดล็อกโทรศัพท์มือถือ</string>
     <string name="pincode_set_to_default_msg">รหัส PIN ถูกตั้งเป็น 1234 กรุณารีเซ็ต PIN ที่นี่</string>
-    <string name="incorrect_pukcode_remaining_attempts">Incorrect PUK code, attempts remaining %d</string>
-    <string name="incorrect_pincode_remaining_attempts">Incorrect PIN code, attempts remaining %d</string>
+    <string name="incorrect_pukcode_remaining_attempts">รหัส PUK ไม่ถูกต้อง ลองได้อีก %d</string>
+    <string name="incorrect_pincode_remaining_attempts">รหัส PIN ไม่ถูกต้อง ลองได้อีก %d</string>
     <string name="incorrect_pukcode">รหัส PUK ไม่ถูกต้อง</string>
     <string name="incorrect_pincode">รหัส PIN ไม่ถูกต้อง</string>
     <string name="puk_operation_failed">PUK ดำเนินการล้มเหลว</string>
@@ -234,7 +234,7 @@
     <string name="send">ส่ง</string>
     <string name="share">แบ่งปัน</string>
     <string name="perm_data_update_lab">อับเดทข้อมูล</string>
-    <string name="perm_data_update_dspt">Allow to send data update water mark</string>
+    <string name="perm_data_update_dspt">อนุญาติให้ส่งข้อมูลอัปเดตลายน้ำ</string>
     <string name="device_xiaomi">โทรศัพท์ Xiaomi</string>
     <string name="miui_device_name">Android</string>
     <string name="sim_unavailable">ไม่มีซิมการ์ดที่ใช้งานได้</string>
@@ -244,7 +244,7 @@
     <string name="sim_changed_reactivate_int_notice">Current SIM is unactivated. An international sms is required to activate the service, activate now?</string>
     <string name="err_resource_leak">Unfortunately, %1$s has stopped for resource leak.</string>
     <string name="app_notificaiton_on_statusBar_and_notificationBar">แถบสถานะ, แถบการแจ้งเตือน</string>
-    <string name="app_no_notification">nothing</string>
+    <string name="app_no_notification">ไม่เลย</string>
     <string name="app_notificaiton_on_notificationBar">แถบการแจ้งเตือน</string>
     <string name="device_hongmi">โทรศัพท์ Hongmi</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"You have incorrectly input your password %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using your account signin.
