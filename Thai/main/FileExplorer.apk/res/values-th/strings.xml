@@ -73,7 +73,7 @@
     <string name="fail_to_create_folder_unknown">สร้างโฟลเดอร์ไม่ได้</string>
     <string name="fail_to_rename">มีไฟล์หรือโฟลเดอร์ที่มีชื่อเดียวกันอยู่แล้ว</string>
     <string name="error_filename_too_long">ชื่อไฟล์ยาวเกินไป</string>
-    <string name="enable_sd_card">ใส่การ์ด SD หรือปิดการใช้งานที่เก็บข้อมูล USB</string>
+    <string name="enable_sd_card">ใส่การ์ดความจำหรือปิดการใช้งานที่เก็บข้อมูล USB</string>
     <string name="start_server">เริ่มต้น</string>
     <string name="stop_server">หยุด</string>
     <string name="notif_server_starting">เริ่มต้นเซิร์ฟเวอร์ FTP ...</string>
@@ -141,7 +141,7 @@
     <string name="user_guide_upload_to_kuaipan">จัดเก็บรายการ Kuaipan จากโทรศัพท์ของคุณ</string>
     <string name="user_guide_download_other_version">ดาวน์โหลด Kuaipan สำหรับ Windows หรือ OSX</string>
     <string name="user_guide_other_version">นอกจากนี้ยังมีบนแพลตฟอร์มอื่น ๆ</string>
-    <string name="upload_file_toolarge_message">%1$d การอัพโหลดล้มเหลว: คุณสามารถ \ u0009 อัปโหลดไฟล์ขนาดใหญ่กว่า 300 เมก.</string>
+    <string name="upload_file_toolarge_message">%1$d การอัปโหลดล้มเหลว: คุณสามารถ \ u0009 อัปโหลดไฟล์ขนาดใหญ่กว่า 300 เมก.</string>
     <string name="cution">เคล็ดลับ</string>
     <string name="clean_trash_box">ถังรีไซเคิลว่าง</string>
     <string name="trash_box_link">ในการทำให้ถังรีไซเคิลของคุณว่าง ไปที่ &lt;b&gt; pan.xiaomi.com. &lt;/ b&gt;</string>
@@ -212,14 +212,14 @@
     <string name="download_link_completed">%1$s แบ่งปันผ่าน KuaiPan แตะที่ลิงค์ข้างล่างเพื่อดู:</string>
     <string name="transing">กำลังส่ง</string>
     <string name="finished">เสร็จสมบูรณ์</string>
-    <string name="uploading">กำลังอัพโหลด</string>
+    <string name="uploading">กำลังอัปโหลด</string>
     <string name="downloading">กำลังดาวน์โหลด</string>
     <string name="waiting">รอสักครู่</string>
     <string name="wait_wifi">กำลังรอ Wi-Fi</string>
     <string name="wait_net">กำลังรอเครือข่าย</string>
-    <string name="wait_sdcard">กำลังรอ การ์ด SD ...</string>
+    <string name="wait_sdcard">กำลังรอ การ์ดความจำ...</string>
     <string name="paused">หยุดชั่วคราว</string>
-    <string name="upload_failed">การอัพโหลดล้มเหลว</string>
+    <string name="upload_failed">การอัปโหลดล้มเหลว</string>
     <string name="download_failed">การดาวน์โหลดล้มเหลว</string>
     <string name="operation_pause">หยุดชั่วคราว</string>
     <string name="operation_resume">เริ่มต้น</string>
@@ -246,7 +246,7 @@
     <string name="data_size_label">ข้อมูล</string>
     <string name="cache_size_label">แคช</string>
     <string name="sd_size_label">ที่จัดเก็บข้อมูลของผู้ใช้งาน</string>
-    <string name="version_text">เวอร์ชั่น %1$s</string>
+    <string name="version_text">เวอร์ชัน %1$s</string>
     <string name="uninstall_app_data">ลบแอป และข้อมูลของแอปทั้งหมด</string>
     <string name="start_cleanup">ทำความสะอาด</string>
     <string name="header_text_scanning">กำลังสแกน ...</string>
@@ -299,8 +299,8 @@
     <string name="open_changed_file_title">เปลี่ยนการใช้งาน</string>
     <string name="open_changed_file_message">ไฟล์ที่คุณกำลังเปิดมีการเปลี่ยนแปลง กรุณา: 
     1 ดาวน์โหลดไฟล์อีกครั้งเพื่อปรับปรุง 
-    2 อัพโหลดไปยังบัญชี KuaiPan ของคุณ</string>
-    <string name="ui_filechange_btn_upload">อัพโหลดไฟล์</string>
+    2 อัปโหลดไปยังบัญชี KuaiPan ของคุณ</string>
+    <string name="ui_filechange_btn_upload">อัปโหลดไฟล์</string>
     <string name="folder_exist">โฟลเดอร์นี้มีอยู่แล้ว</string>
     <string name="unmount_inform_text">ยกเลิกการเชื่อมต่อที่จัดเก็บข้อมูล USB หรือไม่?</string>
     <string name="dlg_error_unmount_text">การยกเลิกการเชื่อมต่อที่จัดเก็บข้อมูล USB ล้มเหลว</string>
