@@ -111,7 +111,7 @@
     <string name="browser_bookmarks_page_bookmarks_text">บุ๊กมาร์ก</string>
     <string name="menu_preferences">การตั้งค่า</string>
     <string name="pref_content_title">เนื้อหาของหน้าเว็บ</string>
-    <string name="pref_allow_apptabs">Allow multiple tabs per app</string>
+    <string name="pref_allow_apptabs">อนุญาติเปิดหลายแท็บ</string>
     <string name="pref_content_load_images">โหลดภาพ</string>
     <string name="pref_content_load_images_summary">แสดงรูปภาพบนหน้าเว็บ</string>
     <string name="pref_content_block_popups">ปิดกั้นป๊อปอัป</string>
@@ -133,7 +133,7 @@
     <string name="pref_autofill_profile_editor">ป้อนข้อความอัตโนมัติ</string>
     <string name="pref_autofill_profile_editor_summary">ตั้งค่าข้อความเพื่อป้อนอัตโนมัติในเว็บฟอร์ม</string>
     <string name="pref_autologin_title">ลงชื่อเข้าใช้ Google อัตโนมัติ</string>
-    <string name="pref_autologin_progress">ลงชื่อเข้าใช้ Google Sites โดยใช้ %s</string>
+    <string name="pref_autologin_progress">ลงชื่อเข้าใช้เว็บไซต์ Google โดยใช้ %s</string>
     <string name="autologin_bar_text">ลงชื่อเข้าใช้ในฐานะ</string>
     <string name="autologin_bar_login_text">ลงชื่อใช้</string>
     <string name="autologin_bar_hide_text">ซ่อน</string>
@@ -218,11 +218,11 @@
     <string name="pref_development_normal_rendering">การแสดงผลปกติ</string>
     <string name="pref_development_trace">เปิดใช้งานการติดตาม</string>
     <string name="pref_development_nav_dump">Enable nav cache dump</string>
-    <string name="pref_development_hardware_accel">Enable OpenGL Rendering</string>
-    <string name="pref_development_hardware_accel_skia">Enable HW Accelerated Skia</string>
-    <string name="pref_development_visual_indicator">Enable Visual Indicator</string>
-    <string name="pref_development_cpu_upload_path">Enable Cpu Upload Path</string>
-    <string name="js_engine_flags">Set JS flags</string>
+    <string name="pref_development_hardware_accel">เปิดใช้งานการแสดงผล OpenGL</string>
+    <string name="pref_development_hardware_accel_skia">เปิดใช้งานเร่งความเร็วฮาร์ดแวร์ Skia</string>
+    <string name="pref_development_visual_indicator">เปิดใช้งานการแสดงภาพ</string>
+    <string name="pref_development_cpu_upload_path">เปิดใช้งานเส้นทางอัปโหลดซีพียู</string>
+    <string name="js_engine_flags">ตั้งธง JS</string>
     <string name="pref_development_uastring">UAString</string>
     <string name="pref_development_error_console">แสดง JavaScript Console</string>
     <string name="pref_development_reset_prelogin">Reset prelogin</string>
@@ -270,7 +270,7 @@
     <string name="too_many_windows_dialog_message">ไม่สามารถเปิดแท็บใหม่จนกว่าคุณจะปิดแท็บหนึ่งก่อน</string>
     <string name="too_many_subwindows_dialog_title">ป๊อปอัปเปิดอยู่แล้ว</string>
     <string name="too_many_subwindows_dialog_message">เปิดได้ครั้งละหนึ่งป๊อปอัปเท่านั้น</string>
-    <string name="download_no_sdcard_dlg_title">ไม่มีการ์ด SD</string>
+    <string name="download_no_sdcard_dlg_title">ไม่มีการ์ดความจำ</string>
     <string name="download_no_sdcard_dlg_msg">ต้องมีการ์ดความจำเพื่อดาวน์โหลด %s</string>
     <string name="download_sdcard_busy_dlg_title">การ์ดความจำใช้งานไม่ได้</string>
     <string name="download_sdcard_busy_dlg_msg">การ์ดความจำถูกใช้งานอยู่ หากต้องการอนุญาตให้ดาวน์โหลด ให้แตะ \"ปิดที่จัดเก็บข้อมูล USB\" ในการแจ้งเตือน</string>
@@ -556,7 +556,7 @@
     <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
     <string name="common_use_phrase_bottom_bar_paste_txt">วาง</string>
     <string name="pref_accessibility_url_shortcut_enter_title">ใส่ URL ด่วน</string>
-    <string name="pref_accessibility_url_shortcut_enter_summary">Common letter combinations can be entered in one press in the address bar</string>
+    <string name="pref_accessibility_url_shortcut_enter_summary">ชุดตัวอักษรที่ใช้ร่วมกันสามารถเคาะ enter เพียงครั้งเดียวในแอดเดรสบาร์</string>
     <string name="common_use_phrase_bottom_bar_paste_analytic_txt">วาง</string>
     <string name="common_use_phrase_bottom_bar_up_analytic_txt">ขยาย</string>
     <string name="common_use_phrase_bottom_bar_down_analytic_txt">ย่อ</string>
