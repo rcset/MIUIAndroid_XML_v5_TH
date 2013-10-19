@@ -26,8 +26,8 @@
     <string name="resource_downloading">กำลังดาวน์โหลด</string>
     <string name="resource_waiting_download">กำลังรอ</string>
     <string name="resource_import_successful">ดาวน์โหลดเสร็จสิ้น</string>
-    <string name="resource_delta_update_successful">การปรับเป็นรุ่นเดลต้าสำเร็จแล้ว，กำลังบันทึก %1$s.</string>
-    <string name="resource_delta_update_failed">การปรับเป็นรุ่นเดลต้าล้มเหลว, จะโหลดแหล่งที่มาที่สมบูรณ์</string>
+    <string name="resource_delta_update_successful">การปรับเป็นรุ่นเดลต้าสำเร็จแล้วกำลังบันทึก %1$s</string>
+    <string name="resource_delta_update_failed">การปรับเป็นรุ่นเดลต้าล้มเหลว จะโหลดแหล่งที่มาที่สมบูรณ์</string>
     <string name="resource_apply">ใช้งาน</string>
     <string name="resource_update">อัปเดต</string>
     <string name="resource_select">เลือก</string>
@@ -51,17 +51,17 @@
     <string name="resource_list_title">ตัวล่าสุดที่ถูกเลือก</string>
     <string name="resource_get_auth_checking">กำลังตรวจสอบสิทธิ...</string>
     <string name="resource_get_auth_retrieving">กำลังเรียกสิทธิ...</string>
-    <string name="resource_get_auth_missing">ธีมไม่ได้โหลดจากตลาดทางการ, กรุณาโหลดตัวที่คล้ายๆกันจากตลาดทางการ</string>
+    <string name="resource_get_auth_missing">ธีมไม่ได้โหลดจากตลาดทางการ กรุณาโหลดตัวที่คล้ายๆกันจากตลาดทางการ</string>
     <string name="resource_get_auth_exceed_max_limit_title">สิทธิเกินข้อจำกัดแล้ว</string>
     <string name="resource_get_auth_exceed_max_limit_tips">ธีมไม่สามารถใช้กับเครื่องนี้ ด้วยบัญชีของท่านใช้ได้แค่ 10 เครื่องต่อปี กรุณาลองบัญชีของ Xiaomi อื่น</string>
-    <string name="resource_server_out_of_service">นอกเหนือบริการ, กรุณาลองใหม่ภายหลัง.</string>
+    <string name="resource_server_out_of_service">นอกเหนือบริการ กรุณาลองใหม่ภายหลัง.</string>
     <string name="resource_switch_account">สลับ</string>
     <string name="deleting">กำลังลบ ...</string>
     <string name="resource_title_select_ringtone">เลือกเสียงเรียกเข้า</string>
     <string name="resource_tip_select_ringtone">ไม่มีเสียกเรียกเข้าที่เลือก</string>
     <string name="loading_resource_detail_info">กำลังโหลด ...</string>
     <string name="loading_resource_detail_fail">ล้มเหลวในการโหลดแหล่งที่มา!</string>
-    <string name="account_abnormal_state">ข้อมูลบัญชีผิดปรกติ, ลองล๊อกอินใหม่หรือลองอีกครั้งในภายหลัง!</string>
+    <string name="account_abnormal_state">ข้อมูลบัญชีผิดปรกติ ลองล๊อกอินใหม่หรือลองอีกครั้งในภายหลัง!</string>
     <string name="config_import_vcard_type">ค่าเริ่มต้น</string>
     <string name="config_export_vcard_type">v30_generic</string>
     <string name="config_export_dir">/mnt/sdcard</string>
@@ -117,7 +117,7 @@
     <string name="menu_set_ring_tone">ตั้งเสียงเรียกเข้า</string>
     <string name="menu_redirect_calls_to_vm">โอนทุกสายไปยังข้อความเสียง</string>
     <string name="menu_not_redirect_calls_to_vm">ข้อความเสียงไม่ได้เปิดใช้</string>
-    <string name="redirect_calls_to_vm_confirm_message">ถ้าคุณยังไม่ได้สมัครใช้กับโอเปอเรอตอร์นี้, กรุณาอย่าเปิด ไม่เช่นนั้นคุณอาจจะไม่สามารถรับสายเรียกเข้าจากชื่อนี้อีก</string>
+    <string name="redirect_calls_to_vm_confirm_message">ถ้าคุณยังไม่ได้สมัครใช้กับโอเปอเรอตอร์นี้ กรุณาอย่าเปิด ไม่เช่นนั้นคุณอาจจะไม่สามารถรับสายเรียกเข้าจากชื่อนี้อีก</string>
     <string name="redirect_calls_to_vm_confirm_text">เปิด</string>
     <string name="readOnlyContactWarning">คุณไม่สามารถลบรายชื่อติดต่อจากบัญชีแบบอ่านอย่างเดียวได้ แต่ซ่อนไว้ในรายการรายชื่อได้</string>
     <string name="multipleContactDeleteConfirmation">การลบสมุดโทรศัพท์นี้จะลบข้อมูลจากบัญชีแบบหลายรายการ</string>
@@ -732,12 +732,12 @@
     <string name="export_to_sim2">ส่งออกไปยังซิมการ์ด 2</string>
     <string name="export_to_sim_title">กำลังส่งออกไปยังซิมการ์ด…</string>
     <string name="sim_card_no_free_space_title">ซิมการ์ดเต็มแล้ว</string>
-    <string name="sim_card_no_free_space_message">ความจุซิมการ์ดของคุณเต็ม, ไม่สามารถนำเข้ารายชื่อผู้ติดต่อใหม่ได้. กรุณาเคลียร์ซิมการ์ดและลองใหม่อีกครั้ง</string>
+    <string name="sim_card_no_free_space_message">ความจุซิมการ์ดของคุณเต็ม ไม่สามารถนำเข้ารายชื่อผู้ติดต่อใหม่ได้. กรุณาเคลียร์ซิมการ์ดและลองใหม่อีกครั้ง</string>
     <string name="sim_contacts">รายชื่อผู้ติดต่อในซิม</string>
-    <string name="export_sim_contacts_dialog_message">ซิมการ์ดของท่านสามารถจุได้ %d รายชื่อ, ท่านต้องการทำต่อหรือไม่?</string>
+    <string name="export_sim_contacts_dialog_message">ซิมการ์ดของท่านสามารถจุได้ %d รายชื่อ ท่านต้องการทำต่อหรือไม่?</string>
     <string name="export_sim_contact_finish">การส่งออกไปยังซิมการ์ดเสร็จสมบูรณ์</string>
     <string name="export_sim_contact_finish_success">รายชื่อผู้ติดต่อ %d คัดลอกแล้ว</string>
-    <string name="export_sim_contact_finish_failure">ล้มเหลวเพราะที่จัดเก็บเต็ม, เสร็จแล้ว: %1$d ยังไม่เสร็จ: %2$d</string>
+    <string name="export_sim_contact_finish_failure">ล้มเหลวเพราะที่จัดเก็บเต็ม เสร็จแล้ว: %1$d ยังไม่เสร็จ: %2$d</string>
     <string name="sim_export_loading">กำลังอ่านข้อมูลของซิมการ์ด (อาจใช้เวลาหน่อย)…</string>
     <string name="pref_title_account_import">นำเข้าจากบัญชี</string>
     <string name="pref_title_import_from_account">นำเข้าไปยังบัญชี Xiaomi</string>
@@ -754,13 +754,13 @@
     <string name="pref_key_photo">รูปถ่าย</string>
     <string name="pref_key_photo_word_title">เลือกรูปถ่ายสำหรับรายชื่อผู้ติดต่ออัตโนมัติ</string>
     <string name="pref_key_photo_word_summary">เลือกรูปถ่ายสำหรับรายชื่อผู้ติดต่อนอกจากอันหนึ่งอัตโนมัติ</string>
-    <string name="remove_duplicate">"MIUI จะช่วยคุณหาและรวมรายชื่อผู้ติดต่อที่ซ้ำ, รายชื่อผู้ติดต่อจะไม่รวมแบบอัตโนมัติ, กรุณารวมด้วยตัวคุณเอง
+    <string name="remove_duplicate">"MIUI จะช่วยคุณหาและรวมรายชื่อผู้ติดต่อที่ซ้ำ รายชื่อผู้ติดต่อจะไม่รวมแบบอัตโนมัติ กรุณารวมด้วยตัวคุณเอง
 
-กดรวม, อาจต้องใช้เวลาบ้างในการจะทำให้เสร็จแบบอัตโนมัติ"</string>
+กดรวม อาจต้องใช้เวลาบ้างในการจะทำให้เสร็จแบบอัตโนมัติ"</string>
     <string name="ic_menu_back">กลับ</string>
     <string name="preference_display">แสดง</string>
     <string name="preference_simple_mode_title">โหมดง่าย</string>
-    <string name="preference_simple_mode_description">หัวข้อรายการไม่สามารถแสดงรูปอวาตาร์, เจ้าของและบริษัท</string>
+    <string name="preference_simple_mode_description">หัวข้อรายการไม่สามารถแสดงรูปอวาตาร์ เจ้าของและบริษัท</string>
     <string name="preference_contacts">รายชื่อ</string>
     <string name="preference_contacts_display">แสดงรายชื่อผู้ติดต่อ</string>
     <string name="preference_contacts_more">จัดระเบียบรายชื่อผู้ติดต่อของคุณ</string>
@@ -797,7 +797,7 @@
     <string name="option_rename_group">เปลี่ยนชื่อ</string>
     <string name="option_delete_group">ลบ</string>
     <string name="deleteConfirmation_title">ลบ</string>
-    <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" บรรจุข้อมูลจากหลายบัญชี ข้อมูลจากบัญชีแบบอ่านได้อย่างเดียวจะถูกซ่อนไว้ในรายการรายชื่อของท่าน, ไม่ได้ถูกลบ</string>
+    <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" บรรจุข้อมูลจากหลายบัญชี ข้อมูลจากบัญชีแบบอ่านได้อย่างเดียวจะถูกซ่อนไว้ในรายการรายชื่อของท่าน ไม่ได้ถูกลบ</string>
     <string name="multipleContactDeleteConfirmationDetail">\"%s\" ที่กำลังลบ จะลบข้อมูลจากหลายบัญชี</string>
     <string name="deleteConfirmationDetail">\"%s\" จะถูกลบ</string>
     <string name="nickname_picker_name_column">ชื่อผู้ติดต่อ</string>
@@ -904,10 +904,10 @@
     <string name="none_found">ไม่พบอุปกรณ์ใดๆ</string>
     <string name="device_pairing_dialog_title">กำลังจับคู่อุปกรณ์</string>
     <string name="device_pairing_dialog_message">กำลังจับคู่อุปกรณ์ (คุณอาจจะต้องยืนยันบนอุปกรณ์อื่นๆด้วย)…</string>
-    <string name="device_paired_dialog_title">จับคู่อุปกรณ์แล้ว, กำลังนำเข้ารายชื่อผู้ติดต่อ</string>
-    <string name="device_paired_dialog_message">จับคู่อุปกรณ์แล้ว, กำลังนำเข้ารายชื่อผู้ติดต่อ (คุณอาจจะต้องยืนยันบนอุปกรณ์อื่นๆด้วย)…</string>
+    <string name="device_paired_dialog_title">จับคู่อุปกรณ์แล้ว กำลังนำเข้ารายชื่อผู้ติดต่อ</string>
+    <string name="device_paired_dialog_message">จับคู่อุปกรณ์แล้ว กำลังนำเข้ารายชื่อผู้ติดต่อ (คุณอาจจะต้องยืนยันบนอุปกรณ์อื่นๆด้วย)…</string>
     <string name="no_contacts_dialog_title">หารายชื่อผู้ติดต่อไม่พบ</string>
-    <string name="no_contacts_dialog_message">ไม่พบบุคคลที่ต้องการในรายชื่อผู้ติดต่อของคุณ อาจจะถูกเก็บไว้ในรายชื่อผู้ติดต่อที่ซิมการ์ด, ถ้าเป็นเช่นนั้น โปรดนำเข้าข้อมูลจากซิมการ์ดลงโทรศัทพ์ก่อน</string>
+    <string name="no_contacts_dialog_message">ไม่พบบุคคลที่ต้องการในรายชื่อผู้ติดต่อของคุณ อาจจะถูกเก็บไว้ในรายชื่อผู้ติดต่อที่ซิมการ์ด ถ้าเป็นเช่นนั้น โปรดนำเข้าข้อมูลจากซิมการ์ดลงโทรศัทพ์ก่อน</string>
     <string name="cancel_import_dialog_title">หยุดการนำเข้า</string>
     <string name="cancel_import_dialog_message">คุณแน่ใจว่าจะหยุดการนำเข้ารายชื่อผู้ติดต่อหรือไม่?</string>
     <string name="title_paired_devices">จับคู่อุปกรณ์</string>
@@ -915,7 +915,7 @@
     <string name="button_scan">สแกนใหม่</string>
     <string name="button_cancel_scan">หยุด</string>
     <string name="device_other_title">โทรศัพท์อื่น</string>
-    <string name="device_other_guide">ถ้ายี่ห้อของคุณไม่มีในรายการ, ลองทำตามการช่วยเหลือด้านล่าง</string>
+    <string name="device_other_guide">ถ้ายี่ห้อของคุณไม่มีในรายการ ลองทำตามการช่วยเหลือด้านล่าง</string>
     <string name="my_phone_provider_bluetooth">โทรศัพท์ของฉันรองรับบลูทูธ</string>
     <string name="my_phone_not_provider_bluetooth">โทรศัพท์ของฉันไม่รองรับบลูทูธ</string>
     <string name="other_phone">โทรศัพท์อื่น</string>
@@ -961,14 +961,14 @@
     <string name="batch_delete">ลบรายชื่อผู้ติดต่อเป็นชุด</string>
     <string name="batch_delete_msg">"คุณแน่ใจว่าต้องการลบ %d รายชื่อผู้ติดต่อที่เลือกไว้หรือไม่? 
 
-ถ้าคุณกำลังใช้บริการการซิงค์รายชื่อผู้ติดต่อ, ข้อมูลรายชื่อผู้ติดต่อในคลาวด์จะถูกลบไปด้วย"</string>
+ถ้าคุณกำลังใช้บริการการซิงค์รายชื่อผู้ติดต่อ ข้อมูลรายชื่อผู้ติดต่อในคลาวด์จะถูกลบไปด้วย"</string>
     <string name="starred_contacts">รายการโปรด</string>
     <string name="other_contacts">อื่นๆ</string>
     <string name="importing_sim_contacts_miui">กำลังนำเข้ารายชื่อผู้ติดต่อจากซิม...</string>
     <string name="import_all_sim_entries_miui">นำเข้ารายชื่อผู้ติดต่อทั้งหมด</string>
     <string name="import_sim_entry_miui">นำเข้า</string>
     <string name="delete_sim_entry_miui">ลบ</string>
-    <string name="simContacts_airplaneMode">เพื่อการนำเข้ารายชื่อผู้ติดต่อจากซิมการ์ด, โปรดปิดโหมดการใช้งานบนเครื่องบิน</string>
+    <string name="simContacts_airplaneMode">เพื่อการนำเข้ารายชื่อผู้ติดต่อจากซิมการ์ด โปรดปิดโหมดการใช้งานบนเครื่องบิน</string>
     <string name="readingSimContacts">กำลังอ่านข้อมูลจากซิมการ์ด (อาจใช้เวลา)…</string>
     <string name="confirm_delete_sim_entry_miui">ยืนยันที่จะลบ %d รายชื่อผู้ติดต่อที่เลือกไว้ใน UIM การ์ดหรือไม่?</string>
     <string name="simContacts_empty">ไม่มีรายชื่อผู้ติดต่อในซิมการ์ดของคุณ</string>
@@ -983,18 +983,18 @@
     <string name="set_photo_failed_msg">การตั้งภาพแทนตัวล้มเหลว</string>
     <string name="sim_capacity">ดูความจุของซิมการ์ด</string>
     <string name="sim_capacity_content" formatted="false">ความจุของสมุดโทรศัพท์มี %d，ถูกใช้ไป %d</string>
-    <string name="has_double_phone_number">ไม่สามารถบันทึกเบอร์เดียว 2 ครั้ง, โปรดตรวจสอบ</string>
-    <string name="phone_book_busy">สมุดโทรศัพท์ยังเปิดใช้อยู่ตอนนี้,โปรดลองอีกทีภายหลัง</string>
+    <string name="has_double_phone_number">ไม่สามารถบันทึกเบอร์เดียว 2 ครั้ง โปรดตรวจสอบ</string>
+    <string name="phone_book_busy">สมุดโทรศัพท์ยังเปิดใช้อยู่ตอนนี้โปรดลองอีกทีภายหลัง</string>
     <string name="sim_invalid">ไม่สามารถบันทึกรายชื่อผู้ติดต่อได้เมื่อไม่มีซิมการ์ด</string>
     <string name="cannot_insert_null_number">ไม่สามารถบันทึกรายชื่อผู้ติดต่อได้ถ้าชื่อและเบอร์โทรนั้นว่างเปล่า</string>
     <string name="AirPlane_mode_on">ไม่สามารถบันทึกรายชื่อผู้ติดต่อได้เมื่อโหมดการใช้งานบนเครื่องบินเปิดใช้อยู่</string>
     <string name="FDNEnabled">ไม่สามารถบันทึกรายชื่อผู้ติดต่อได้เมื่อ FDN เปิดใช้งานอยู่</string>
     <string name="sim_invalid_number">ไม่สามารถบันทึกเบอร์ที่ไม่มีอยู่ได้</string>
     <string name="email_invalid">ไม่สามารถบันทึกอีเมลที่ไม่มีอยู่ได้</string>
-    <string name="email_2g_invalid">ไม่สามารถบันทึกอีเมลลงบนซิม 2G, โปรดเลือกซิม 3G เพื่อบันทึก</string>
+    <string name="email_2g_invalid">ไม่สามารถบันทึกอีเมลลงบนซิม 2G โปรดเลือกซิม 3G เพื่อบันทึก</string>
     <string name="sim_invalid_fix_number">ไม่สามารถบันทึกเบอร์แก้ไขที่ไม่มีอยู่</string>
     <string name="AirPlane_mode_on_edit">ไม่สามารถแก้ไขรายชื่อผู้ติดต่อเมื่อโหมดการใช้งานบนเครื่องบินเปิดใช้อยู่</string>
-    <string name="msg_loading_sim_contacts_toast">กำลังโหลดรายชื่อผู้ติดต่อจากซิมในแบบเบื้องหลัง, โปรดรอสักครู่</string>
+    <string name="msg_loading_sim_contacts_toast">กำลังโหลดรายชื่อผู้ติดต่อจากซิมในแบบเบื้องหลัง โปรดรอสักครู่</string>
     <string name="fix_number_too_long">เบอร์ที่แก้ยาวเกินไป</string>
     <string name="name_too_long">ชื่อยาวเกินไป</string>
     <string name="storage_full">ที่จัดเก็บข้อมูลเต็ม</string>
