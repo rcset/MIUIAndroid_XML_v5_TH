@@ -5,7 +5,7 @@
     <string name="recording_stopped">หยุดบันทึกเสียงแล้ว</string>
     <string name="storage_is_full">ที่เก็บข้อมูลเต็ม</string>
     <string name="max_length_reached">ถึงระยะเวลาที่มากสุด</string>
-    <string name="insert_sd_card">ต้องการการ์ด SD</string>
+    <string name="insert_sd_card">ต้องการการ์ดความจำ</string>
     <string name="button_ok">ตกลง</string>
     <string formatted="false" name="timer_format">%02d:%02d</string>
     <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
@@ -25,7 +25,7 @@
     <string name="notification_stopped">หยุดการบันทึกเสียงแล้ว</string>
     <string name="notification_warning">พื้นที่เก็บข้อมูลเหลือน้อย (น้อยกว่า %d นาที) ...</string>
     <string name="record_list">รายการบันทึกเสียง</string>
-    <string name="sd_card_not_available">การ์ด SD ไม่สามารถใช้ได้</string>
+    <string name="sd_card_not_available">การ์ดความจำไม่สามารถใช้ได้</string>
     <string name="call_record">บันทึกเสียงสนทนา ( %d )</string>
     <string name="fm_record">บันทึกเสียงวิทยุ ( %d )</string>
     <string name="open_file_explorer">เปิดตัวจัดการไฟล์</string>
