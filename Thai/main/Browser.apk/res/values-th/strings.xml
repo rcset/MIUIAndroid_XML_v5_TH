@@ -213,10 +213,10 @@
     <string name="pref_extras_reset_default_summary">คืนค่าเริ่มต้น</string>
     <string name="pref_extras_reset_default_dlg">ย้อนกลับไปยังการตั้งค่าเริ่มต้นหรือไม่</string>
     <string name="pref_development_title">แก้ไขข้อบกพร่อง</string>
-    <string name="pref_development_viewport">Use wide viewport</string>
-    <string name="pref_development_single_column_rendering">Single column rendering</string>
-    <string name="pref_development_normal_rendering">Normal rendering</string>
-    <string name="pref_development_trace">Enable tracing</string>
+    <string name="pref_development_viewport">ใช้มุมมองกว้าง</string>
+    <string name="pref_development_single_column_rendering">การแสดงผลคอลัมน์เดียว</string>
+    <string name="pref_development_normal_rendering">การแสดงผลปกติ</string>
+    <string name="pref_development_trace">เปิดใช้งานการติดตาม</string>
     <string name="pref_development_nav_dump">Enable nav cache dump</string>
     <string name="pref_development_hardware_accel">Enable OpenGL Rendering</string>
     <string name="pref_development_hardware_accel_skia">Enable HW Accelerated Skia</string>
