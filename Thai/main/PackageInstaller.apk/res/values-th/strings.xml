@@ -10,13 +10,13 @@
     <string name="install_done">ติดตั้งแอปพลิเคชันแล้ว</string>
     <string name="install_confirm_question">คุณต้องการติดตั้งแอปพลิเคชัน?</string>
     <string name="install_failed">แอปพลิเคชันไม่ได้ถูกติดตั้ง</string>
-    <string name="install_failed_invalid_apk">แพคเก็จติดตั้งเสียหาย</string>
-    <string name="install_failed_inconsistent_certificates">แพคเก็จชื่อเดียวกันได้ถูกติดตั้งอยู่แล้ว</string>
+    <string name="install_failed_invalid_apk">แพคเกจติดตั้งเสียหาย</string>
+    <string name="install_failed_inconsistent_certificates">แพคเกจชื่อเดียวกันได้ถูกติดตั้งอยู่แล้ว</string>
     <string name="install_failed_older_sdk">แอปพลิเคชันนี้เหมือนกับแอนดรอยเวอร์ชันใหม่เท่านั้น</string>
     <string name="install_failed_cpu_abi_incompatible">"แอปพลิเคชันนี้ไม่สามารถใช้ได้กับเครื่องของคุณ"</string>
-    <string name="install_failed_file_not_found">แพคเก็จที่ระบุไว้ถูกลบก่อนการติดตั้งถึงจะเสร็จสมบูรณ์</string>
-    <string name="install_failed_verify_failed">แพคเก็จนี้ไม่ผ่านการตรวจสอบและไม่สามารถติดตั้งได้</string>
-    <string name="install_failed_verify_timeout">แพคเก็จผิดพลาดขนาดทำการตรวจสอบแอปพลิเคชัน กรุณาลองใหม่</string>
+    <string name="install_failed_file_not_found">แพคเกจที่ระบุไว้ถูกลบก่อนการติดตั้งถึงจะเสร็จสมบูรณ์</string>
+    <string name="install_failed_verify_failed">แพคเกจนี้ไม่ผ่านการตรวจสอบและไม่สามารถติดตั้งได้</string>
+    <string name="install_failed_verify_timeout">แพคเกจผิดพลาดขนาดทำการตรวจสอบแอปพลิเคชัน กรุณาลองใหม่</string>
     <string name="install_failed_msg">%1$s ไม่สามารถติดตั้งบนเครื่องได้</string>
     <string name="launch">เปิด</string>
     <string name="unknown_apps_dlg_title">การติดตั้งถูกปิดกั้น</string>
@@ -45,7 +45,7 @@
     <string name="uninstalling">กำลังถอนการติดตั้ง...</string>
     <string name="uninstall_done">ถอนการติดตั้งแล้ว</string>
     <string name="uninstall_failed">ถอนการติดตั้งไม่ได้</string>
-    <string name="uninstall_failed_device_policy_manager">ไม่สามารถติดตั้ง: แพคเก็จนี้ทำงานในระบบจัดการเครื่อง</string>
+    <string name="uninstall_failed_device_policy_manager">ไม่สามารถติดตั้ง: แพคเกจนี้ทำงานในระบบจัดการเครื่อง</string>
     <string name="manage_device_administrators">จัดการระบบจัดการเครื่อง</string>
     <string name="uninstall_failed_msg">%1$s ไม่สามารถถอนการติดตั้ง</string>
     <string name="uninstall_failed_retained_app_msg">แอปพลิเคชันนี้ปรับแต่งโดยผู้ให้บริการไม่สามารถติดตั้งได้</string>
@@ -57,7 +57,7 @@
     <string name="privacy_relative">การอนุญาติส่วนตัว</string>
     <string name="other_relative">การอนุญาติอื่นๆ</string>
     <string name="perm_notice">เตือนความปลอดภัย</string>
-    <string name="trust_switch_dialog_msg">MIUI จะไม่ขอให้คุณสยืนยันความปลอดภัย และการดำเนินงานที่เกี่ยวข้องกับความเป็นส่วนตัวจากแอปนี้ เชื่อถือแอปนี้หรือไม่?</string>
+    <string name="trust_switch_dialog_msg">MIUI จะไม่ขอให้คุณยืนยันความปลอดภัย และการดำเนินงานที่เกี่ยวข้องกับความเป็นส่วนตัวจากแอปนี้ เชื่อถือแอปนี้หรือไม่?</string>
     <string name="auto_startup_dialog_msg">MIUI จะอนุญาตให้แอปเริ่มต้นโดยอัตโนมัติโดยไม่ต้องแจ้ง วิธีนี้อาจนำไปสู่​​การใช้พลังงานหรือการรับส่งข้อมูล อนุญาตให้เริ่มต้นอัตโนมัติหรือไม่?</string>
     <string name="low_risk_perms">อนุญาติความเสี่ยงต่ำ</string>
     <string name="high_risk_perms">อนุญาติความเสียงสูง</string>
