@@ -27,6 +27,6 @@
     <string name="cert_too_large_error">ไม่สามารถติดตั้งเนื่องจากใบรับรองมีขนาดใหญ่เกินไป</string>
     <string name="cert_missing_error">ไม่สามารถติดตั้งได้เนื่องจากไม่พบไฟล์ใบรับรอง</string>
     <string name="cert_read_error">ไม่สามารถติดตั้งได้เนื่องจากไม่สามารถอ่านไฟล์ใบรับรอง</string>
-    <string name="no_cert_file_found">ไม่พบไฟล์ใบรับรองในการ์ด SD</string>
-    <string name="sdcard_not_present">ไม่พบการ์ด SD</string>
+    <string name="no_cert_file_found">ไม่พบไฟล์ใบรับรองในการ์ดความจำ</string>
+    <string name="sdcard_not_present">ไม่พบการ์ดความจำ</string>
 </resources>
