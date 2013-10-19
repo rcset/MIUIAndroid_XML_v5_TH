@@ -7,7 +7,7 @@
     <string name="deny">ปฏิเสธ</string>
     <string name="device_info_default">ไม่รู้จัก</string>
     <string name="show_dev_on">ตอนนี้คุณเป็นนักพัฒนาแล้ว!</string>
-    <string name="show_dev_already">ไม่จำเป็น, คุณเป็นนักพัฒนาแล้ว</string>
+    <string name="show_dev_already">ไม่จำเป็น คุณเป็นนักพัฒนาแล้ว</string>
     <string name="header_category_wireless_networks">ระบบไร้สายและเครือข่าย</string>
     <string name="header_category_device">อุปกรณ์</string>
     <string name="header_category_personal">ส่วนบุคคล</string>
@@ -232,7 +232,7 @@
     <string name="airplane_mode">โหมดใช้งานบนเครื่องบิน</string>
     <string name="radio_controls_title">เพิ่มเติม...</string>
     <string name="wireless_networks_settings_title">ระบบไร้สายและเครือข่าย</string>
-    <string name="radio_controls_summary">จัดการ Wi-Fi, บลูทูธ, โหมดใช้งานบนเครื่องบิน, เครือข่ายมือถือ และ VPN</string>
+    <string name="radio_controls_summary">จัดการ Wi-Fi บลูทูธ โหมดใช้งานบนเครื่องบิน เครือข่ายมือถือ และ VPN</string>
     <string name="roaming">การโรมมิ่งข้อมูล</string>
     <string name="roaming_enable">เชื่อมต่อบริการข้อมูลขณะโรมมิ่ง</string>
     <string name="roaming_disable">เชื่อมต่อบริการข้อมูลขณะโรมมิ่ง</string>
@@ -306,7 +306,7 @@
     <string name="backup_lock_settings_picker_title">เลือกการล็อกข้อมูลสำรอง</string>
     <string name="unlock_set_unlock_launch_picker_title">ล็อกหน้าจอ</string>
     <string name="unlock_set_unlock_launch_picker_change_title">เปลี่ยนหน้าจอล็อก</string>
-    <string name="unlock_set_unlock_launch_picker_change_summary">เปลี่ยนหรือปิดการใช้งานรูปแบบ, PIN หรือความปลอดภัยของรหัสผ่าน</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">เปลี่ยนหรือปิดการใช้งานรูปแบบ PIN หรือความปลอดภัยของรหัสผ่าน</string>
     <string name="unlock_set_unlock_launch_picker_enable_summary">เลือกวิธีที่จะล็อกหน้าจอ</string>
     <string name="unlock_backup_info_summary">เมื่อ Face Unlock ไม่สามารถระบุตัวคุณได้ คุณต้องการจะปลดล็อกอย่างไร</string>
     <string name="unlock_set_unlock_off_title">ไม่มี</string>
@@ -457,7 +457,7 @@
     <string name="android_beam_off_summary">ปิด</string>
     <string name="android_beam_disabled_summary">ใช้งานไม่ได้เนื่องจากปิด NFC อยู่</string>
     <string name="android_beam_label">Android Beam</string>
-    <string name="android_beam_explained">"เมื่อคุณลักษณะนี้เปิดอยู่ คุณสามารถส่งคลื่นสัญญาณของเนื้อหาของแอปพลิเคชันไปยังอุปกรณ์ที่สามารถใช้ NFC อีกอุปกรณ์หนึ่งได้โดยถืออุปกรณ์ไว้ใกล้กัน ตัวอย่างเช่น คุณสามารถส่งคลื่นสัญญาณของหน้าเบราว์เซอร์, วิดีโอ YouTube, ที่อยู่ติดต่อใน People และอื่นๆ
+    <string name="android_beam_explained">"เมื่อคุณลักษณะนี้เปิดอยู่ คุณสามารถส่งคลื่นสัญญาณของเนื้อหาของแอปพลิเคชันไปยังอุปกรณ์ที่สามารถใช้ NFC อีกอุปกรณ์หนึ่งได้โดยถืออุปกรณ์ไว้ใกล้กัน ตัวอย่างเช่น คุณสามารถส่งคลื่นสัญญาณของหน้าเบราว์เซอร์ วิดีโอ YouTube ที่อยู่ติดต่อใน People และอื่นๆ
 
 เพียงแค่นำอุปกรณ์มาไว้ใกล้กัน (โดยปกติจะให้ด้านหลังชนกัน) จากนั้นแตะที่หน้าจอ แอปพลิเคชันจะตัดสินใจว่าจะรับคลื่นสัญญาณสำหรับสิ่งใด"</string>
     <string name="nsd_quick_toggle_title">การค้นหาบริการเครือข่าย</string>
@@ -2118,10 +2118,10 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="headset_calibrate_confirm">ใช้งานฟังก์ชันใหม่？</string>
     <string name="headset_no_contected">ไม่พบหูฟัง</string>
     <string name="headset_calibrate_wrong_key">ปุ่มผิดพลาด</string>
-    <string name="sim_change_failed_enable_sim_lock">Enable SIM Lock to change PIN.</string>
+    <string name="sim_change_failed_enable_sim_lock">เปิดใช้งานล็อคซิมเพื่อเปลี่ยน PIN</string>
     <string name="sim_lock_change_not_supported">"Unable to Change SIM Lock.
  SIM doesn't support it."</string>
-    <string name="apn_new">New Access Point</string>
+    <string name="apn_new">จุดเชื่อมต่อใหม่</string>
     <string name="apn_save">บันทึก?</string>
     <string name="apn_save_msg">Save changes to APN?</string>
     <string name="activating">กำลังใช้งาน…</string>
@@ -2471,12 +2471,12 @@ Are you sure you want to disable?"</string>
     <string name="hdmi_3dplay_control_text">เปิดใช้งาน 3D</string>
     <string name="hdmi_3dplay_control_enable_subtext">3D Stereoscopic output to external 3D display enabled</string>
     <string name="hdmi_3dplay_control_disable_subtext">3D Stereoscopic output to external 3D display disabled</string>
-    <string name="adjust_3d_depth_title">"Adjust games' 3D depth"</string>
+    <string name="adjust_3d_depth_title">"ปรับความเข้มเกมส์ 3D"</string>
     <string name="hdmi_3d_stereo_separation_label">3D</string>
-    <string name="hdmi_3d_help_title">About HDMI 3D Stereoscopic support</string>
+    <string name="hdmi_3d_help_title">เกี่ยวกับการสนับสนุน HDMI 3D</string>
     <string name="power_mode_balanced_title">เปิดทำงานพลังงานสมดุล</string>
     <string name="usb_host_mode_text">เปิดทำงานโหมด USB host</string>
-    <string name="usb_host_mode_subtext">For using game controllers and other peripherals on USB port, may decrease battery life</string>
+    <string name="usb_host_mode_subtext">สำหรับใช้ตัวควบคุมเกมส์และอุปกรณ์พอร์ต USB อาจจะทำให้แบตเตอรี่ลดลง/string>
     <string name="power_settings_title">ประสิทธิภาพระบบ</string>
     <string name="title_color_calibration">Color Correction preset</string>
     <string name="dialog_title_color_calibration">Color Correction preset</string>
@@ -2488,8 +2488,8 @@ Are you sure you want to disable?"</string>
     <string name="hdmi_color_calibration_none">Native</string>
     <string name="hdmi_3d_display_enable_title">แสดงผล 3D</string>
     <string name="hdmi_3d_display_enable_summary">เปิดทำงานเพื่อแสดงผลเกม 3D</string>
-    <string name="noise_suppression">Noise suppression</string>
-    <string name="phone_call_noise_suppression">Phone call noise suppression</string>
+    <string name="noise_suppression">ลดเสียงรบกวน</string>
+    <string name="phone_call_noise_suppression">ลดเสียงรบกวนสายโทรศัพท์</string>
     <string name="lock_settings_common_title">ตั้งค่าการล็อค</string>
     <string name="turn_off_security_lock">ปิดล็อค</string>
     <string name="change_password">เปลี่ยนรหัสผ่าน</string>
@@ -2698,17 +2698,17 @@ Are you sure you want to disable?"</string>
     <string name="drm_settings_summary">ลบไลเซนส์ทั้งหมดของ DRM</string>
     <string name="drm_reset_dialog_msg">การทำงานนี้จะลบไลเซนส์ทั้งหมดบนอุปกรณ์นี้ ดำเนินการต่อหรือไม่</string>
     <string name="drm_reset_toast_msg">ลบไลเซนส์สำเร็จแล้ว</string>
-    <string name="gemini_sim_management_title">การจัดการ SIM</string>
-    <string name="gemini_sim_info_title">ข้อมูล SIM</string>
+    <string name="gemini_sim_management_title">การจัดการซฺืม</string>
+    <string name="gemini_sim_info_title">ข้อมูลซิม</string>
     <string name="gemini_default_sim_title">SIM เริ่มต้น</string>
     <string name="gemini_general_settings_title">การตั้งค่าทั่วไป</string>
     <string name="gemini_roaming_settings_title">โรมมิ่ง</string>
     <string name="gemini_data_roaming_title">โรมมิ่งข้อมูล</string>
     <string name="gemini_data_roaming_summary">เชื่อมต่อไปยังบริการข้อมูลเมื่อโรมมิ่ง</string>
     <string name="gemini_roaming_reminder_title">แสดงตัวเตือนโรมมิ่ง</string>
-    <string name="gemini_roaming_reminder_summary">แสดงการแนะนำ SIM ตามการใช้งาน SIM</string>
+    <string name="gemini_roaming_reminder_summary">แสดงการแนะนำซิม ตามการใช้งานซิม</string>
     <string name="gemini_contacts_sim_title">เชื่อมโยงผู้ติดต่อ</string>
-    <string name="gemini_contacts_sim_summary">เชื่อมโยงผู้ติดต่อเข้ากับ SIM การ์ดที่กำหนด</string>
+    <string name="gemini_contacts_sim_summary">เชื่อมโยงผู้ติดต่อเข้ากับซิม การ์ดที่กำหนด</string>
     <string name="gemini_voice_call">สายสนทนา</string>
     <string name="gemini_video_call">สายวิดีโอ</string>
     <string name="gemini_data_connection">การเชื่อมต่อข้อมูล</string>
@@ -2727,17 +2727,17 @@ Are you sure you want to disable?"</string>
     <string name="gemini_sim_mode_enter_airplanemode_confirm_title">โหมดเครื่องบิน</string>
     <string name="gemini_sim_mode_enter_airplanemode_confirm_message">โทรศัพท์จะเข้าสู่โหมดเครื่องบิน การเชื่อมต่อไร้สายทั้งหมดจะปิดการทำงาน ดำเนินการต่อหรือไม่?</string>
     <string name="gemini_3g_indic">3G</string>
-    <string name="gemini_sim_info_editor_name">แก้ไขชื่อ SIM</string>
+    <string name="gemini_sim_info_editor_name">แก้ไขชื่อซิม</string>
     <string name="gemini_sim_info_editor_name_dup_title">บันทึกล้มเหลว</string>
-    <string name="gemini_sim_info_editor_name_dup_msg">ชื่อสำหรับ SIM การ์ดซ้ำกัน</string>
+    <string name="gemini_sim_info_editor_name_dup_msg">ชื่อสำหรับซิม การ์ดซ้ำกัน</string>
     <string name="gemini_sim_info_editor_number">ป้อนหมายเลขโทรศัพท์</string>
     <string name="gemini_sim_info_editor_color">ตั้งค่าสีพื้นหลัง</string>
     <string name="gemini_sim_info_editor_number_display_format">แสดงหมายเลข</string>
-    <string name="gemini_no_sim_indicator">ไม่มี SIM การ์ด</string>
-    <string name="gemini_sim_list_default_title">รายการ SIM การ์ด</string>
+    <string name="gemini_no_sim_indicator">ไม่มีซิมการ์ด</string>
+    <string name="gemini_sim_list_default_title">รายการซิมการ์ด</string>
     <string name="gemini_data_connection_progress_message">โปรดรอ......</string>
-    <string name="gemini_3g_modem_switching_message">การสลับ SIM จะใช้เวลาประมาณ 10 วินาทีจึงจะสมบูรณ์ โปรดรอ…</string>
-    <string name="gemini_3g_modem_switch_confirm_message">นี่จะสลับบริการ 3G ไปยัง SIM นี้ด้วย ทำต่อหรือไม่? ให้แน่ใจว่า SIM ที่เลือกนี้สนับสนุนบริการ 3G</string>
+    <string name="gemini_3g_modem_switching_message">การสลับซิมจะใช้เวลาประมาณ 10 วินาทีจึงจะสมบูรณ์ โปรดรอ…</string>
+    <string name="gemini_3g_modem_switch_confirm_message">นี่จะสลับบริการ 3G ไปยังซิมนี้ด้วย ทำต่อหรือไม่? ให้แน่ใจว่าซิมที่เลือกนี้สนับสนุนบริการ 3G</string>
     <string name="gemini_3g_disable_warning">SIM ที่เลือกนี้ไม่มีบริการ 3G การโหลดข้อมูลอาจช้าลง คุณสามารถเปลี่ยนการตั้งค่าบริการ 3G ได้ที่ การตั้งค่า > บริการไร้สาย &amp; เครือข่าย > เครือข่ายโทรศัพท์มือถือ</string>
     <string name="gemini_3g_disable_warning_cu">SIM ที่เลือกนี้ไม่มีบริการ 3G การโหลดข้อมูลอาจช้าลง คุณสามารถเปลี่ยนการตั้งค่าบริการ 3G ได้ที่ การตั้งค่า > การจัดการ SIM</string>
     <string name="gemini_wap_push_permission_head">หลังการเปิดใช้งานบริการพุชอัตโนมัติ คุณสามารถรับข้อความแบบพุช รับแอปพลิเคชันที่กำลังทำงาน และทำการรับส่งข้อมูลได้ บริการพุชอัตโนมัติโดยทั่วไปจะรวมถึง การแจ้งเตือนทางอีเมล์ การจัดการอุปกรณ์ การระบุบริการ การโหลดบริการ และพุชเกี่ยวสิ่งที่มีในระบบ</string>
