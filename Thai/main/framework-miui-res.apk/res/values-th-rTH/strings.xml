@@ -138,9 +138,9 @@
     <string name="screen_on_proximity_sensor_summary">ขณะนี้อยู่ในโหมดป้องกันการใช้งานแบบไม่ตั้งใจ การทำงานของโทรศัพท์จะถูกป้องกัน!</string>
     <string name="screen_on_proximity_sensor_title">ป้องการการใช้งานแบบไม่ตั้งใจ</string>
     <string name="sd_not_available">SD card พร้อมถอดออกหรือไม่</string>
-    <string name="sd_not_available_low_internal_storage">SD card ไม่ได้ถูกเชื่อมต่อหรือไม่พร้อมใช้งาน หน่วยความจำภายในมีพื้นที่เหลือน้อย</string>
+    <string name="sd_not_available_low_internal_storage">การ์ดความจำไม่ได้ถูกเชื่อมต่อหรือไม่พร้อมใช้งาน หน่วยความจำภายในมีพื้นที่เหลือน้อย</string>
     <string name="sd_not_available_saved_to_internal_storage">บันทึกไปยังหน่วยความจำภายใน</string>
-    <string name="sd_not_available_use_internal_storage">การ์ด SD ไม่พร้อมใช้งาน บันทึกไปยังหน่วยความจำภายใน</string>
+    <string name="sd_not_available_use_internal_storage">การ์ดความจำไม่พร้อมใช้งาน บันทึกไปยังหน่วยความจำภายใน</string>
     <string name="select">เลือก</string>
     <string name="select_all">เลือกทั้งหมด</string>
     <string name="send_sms_for_sync_notice">ระบบจะส่ง SMS เพื่อเปิดใช้งาน คุณต้องการดำเนินการต่อไปหรือไม่?</string>
