@@ -97,8 +97,7 @@
     <string name="add_to_cloud_fail_too_many_items">ดำเนินการล้มเหลว เป็นไปได้ว่ารายการที่เลือกมากเกินไป</string>
     <string name="confirm_delete_album" formatted="false">ยืนยันการลบ %s อัลบั้ม (รวมถึง %s รายการ)?</string>
     <string name="confirm_delete_system_album">%s อัลบั้มในอัลบั้มระบบ ยืนยันการลบ?</string>
-    <string name="operation_delete_confirm_message_folder">"โฟลเดอร์และไฟล์ในนั้นจะถูกลบในเวลาเดียวกัน
-"</string>
+    <string name="operation_delete_confirm_message_folder">"โฟลเดอร์และไฟล์ในนั้นจะถูกลบในเวลาเดียวกัน"</string>
     <string name="delete_folder">คุณแน่ใจที่จะลบ %1$d โฟลเดอร์ที่เลือก?</string>
     <string name="delete_file">คุณแน่ใจที่จะลบ %1$d ไฟล์ที่เลือก?</string>
     <string name="delete_files_and_folders">คุณแน่ใจที่จะลบ %1$d ไฟล์ที่เลือกและ %2$d โฟลเดอร์ที่เลือก?</string>
