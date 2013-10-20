@@ -96,11 +96,11 @@
     <string name="HIPS_Perm_SendSMS_Text">ส่งข้อความไปยัง %1$s</string>
     <string name="HIPS_Perm_Call_Number">โทร %1$s</string>
     <string name="HIPS_Perm_Contact_Access">อ่านรายชื่อ</string>
-    <string name="HIPS_Perm_SMS_Access">อ่านกล่องข้อความ </string>
+    <string name="HIPS_Perm_SMS_Access">อ่านกล่องข้อความ</string>
     <string name="HIPS_Perm_CallLog_Access">อ่านบันทึกการโทร</string>
     <string name="HIPS_Perm_Location_Source_Network">แหล่งที่มา: เครือข่าย</string>
     <string name="HIPS_Perm_Location_Source_GPS">แหล่งที่มา: GPS</string>
-    <string name="HIPS_Perm_Location_Source_Cellular">แหล่งที่มา: เคือข่ายมือถือ</string>
+    <string name="HIPS_Perm_Location_Source_Cellular">แหล่งที่มา: เครือข่ายมือถือ</string>
     <string name="HIPS_Perm_Location_CellLocation">รับตำแหน่งโทรศัพท์มือถือ</string>
     <string name="HIPS_Perm_Location_CellInfo">รับตำแหน่งโทรศัพท์มือถือ</string>
     <string name="HIPS_Perm_Location_Monitor">ติดตามตำแหน่ง</string>
