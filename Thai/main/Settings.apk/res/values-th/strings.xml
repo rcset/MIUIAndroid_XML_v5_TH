@@ -308,7 +308,7 @@
     <string name="unlock_set_unlock_launch_picker_change_title">เปลี่ยนหน้าจอล็อก</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">เปลี่ยนหรือปิดการใช้งานรูปแบบ PIN หรือความปลอดภัยของรหัสผ่าน</string>
     <string name="unlock_set_unlock_launch_picker_enable_summary">เลือกวิธีที่จะล็อกหน้าจอ</string>
-    <string name="unlock_backup_info_summary">เมื่อ Face Unlock ไม่สามารถระบุตัวคุณได้ คุณต้องการจะปลดล็อกอย่างไร</string>
+    <string name="unlock_backup_info_summary">เมื่อปลดล็อคด้วยหน้าไม่สามารถระบุตัวคุณได้ คุณต้องการจะปลดล็อกอย่างไร</string>
     <string name="unlock_set_unlock_off_title">ไม่มี</string>
     <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_none_title">เลื่อน</string>
@@ -610,8 +610,8 @@
     <string name="bssid_label">BSSID:</string>
     <string name="ssid_label">SSID:</string>
     <string name="hidden_ssid_label">ซ่อน SSID:</string>
-    <string name="ipaddr_label">IPaddr:</string>
-    <string name="macaddr_label">MAC addr:</string>
+    <string name="ipaddr_label">ที่อยู่ IP:</string>
+    <string name="macaddr_label">ที่อยู่ MAC:</string>
     <string name="networkid_label">Network ID:</string>
     <string name="link_speed_label">ความเร็วการเชื่อมโยง</string>
     <string name="scan_list_label">ผลการสแกน:</string>
@@ -1520,7 +1520,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="sync_gmail">Gmail</string>
     <string name="sync_calendar">ปฏิทิน</string>
     <string name="sync_contacts">สมุดโทรศัพท์</string>
-    <string name="sync_plug"><font fgcolor="#ffffffff">ยินดีต้อนรับสู่ Google Sync!</font>"
+    <string name="sync_plug"><font fgcolor="#ffffffff">ยินดีต้อนรับสู่ Google ซิงค์!</font>"
 วิธีการของ Google ในการซิงค์ข้อมูลเพื่อให้คุณเข้าถึงสมุดติดต่อ นัดหมาย และข้อมูลอื่นๆ ของคุณได้จากทุกที่"</string>
     <string name="header_application_sync_settings">การตั้งค่าการซิงค์แอปพลิเคชัน</string>
     <string name="header_data_and_synchronization">ข้อมูลและการซิงค์</string>
@@ -1791,7 +1791,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="config_ptp_function_name">ptp</string>
     <string name="config_mass_storage_function_name">แหล่งข้อมูลภายนอก</string>
     <string name="perm_app_name">สิทธิ์</string>
-    <string name="perm_copyright">Powered by LBE Privacy Guard</string>
+    <string name="perm_copyright">ขับเคลื่อนโดย LBE Privacy Guard</string>
     <string name="perm_version">เวอร์ชัน %1$s</string>
     <string name="perm_configuration">การตั้งค่า</string>
     <string name="perm_user_app">ดาวน์โหลดแอป (%d)</string>
@@ -1867,10 +1867,10 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="perm_hips_phoneid_iccid">SIM Card SN</string>
     <string name="perm_hips_phoneid_number">หมายเลขโทรศัพท์ของคุณ</string>
     <string name="perm_hips_phoneid_imsi">หมายเลข IMSI</string>
-    <string name="perm_hips_allow_all">ยอมรับทั้งหมดAllow all</string>
+    <string name="perm_hips_allow_all">ยอมรับทั้งหมด</string>
     <string name="perm_hips_prompt_all">รับทั้งหมด</string>
     <string name="perm_hips_reject_all">ปฏิเสธทั้งหมด</string>
-    <string name="perm_hips_root_title">สิทธิ์ ROOT</string>
+    <string name="perm_hips_root_title">อนุญาติ ROOT</string>
     <string name="perm_hips_listen_call_state">ตรวจสอบสถานะการโทร</string>
     <string name="perm_hips_get_call_state">รับสถานะการโทรล่าสุด</string>
     <string name="perm_hips_end_call">วางสายล่าสุด</string>
@@ -1897,36 +1897,36 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="perm_app">แอป</string>
     <string name="perm_log">บันทึก</string>
     <string name="perm_header">ตรวจสอบ %1$d แอป</string>
-    <string name="perm_header_disabled">การตรวจสอบสิทธิ์ถูกปิดใช้งาน</string>
-    <string name="perm_su_switch">สิทธิ์ ROOT</string>
-    <string name="perm_su">จัดการสิทธิ์ ROOT</string>
-    <string name="perm_su_desc">กำลังตรวจสอบ %1$d แอป เพื่อสิทธิ์ ROOT</string>
-    <string name="perm_su_desc1">จัดการสิทธิ์ ROOT</string>
-    <string name="perm_su_disabled">สิทธิ์ ROOT ถูกปิดใช้งาน</string>
-    <string name="perm_su_disabled_in_stable">ROOT is not available in MIUI stable</string>
-    <string name="perm_su_disabled_in_stable_desc">"Grant ROOT permission to 3rd-party apps may cause system instability, loss of personal data, and system or hardware damage.
+    <string name="perm_header_disabled">การตรวจสอบอนุญาติถูกปิดใช้งาน</string>
+    <string name="perm_su_switch">อนุญาติ ROOT</string>
+    <string name="perm_su">จัดการอนุญาติ ROOT</string>
+    <string name="perm_su_desc">กำลังตรวจสอบ %1$d แอป เพื่ออนุญาติ ROOT</string>
+    <string name="perm_su_desc1">จัดการอนุญาติ ROOT</string>
+    <string name="perm_su_disabled">อนุญาติ ROOT ถูกปิดใช้งาน</string>
+    <string name="perm_su_disabled_in_stable">ROOT ไม่สามารถใช้ได้ใน MIUI</string>
+    <string name="perm_su_disabled_in_stable_desc">"อนุญาติ ROOT แอป 3rd-party อาจจะทำให้ระบบไม่เสถียร ข้อมูลส่วนตัว ระบบ หรือฮาร์ดแวร๋จะได้รับความเสียหาย
 
-Please switch to MIUI development version to enable ROOT permission."</string>
-    <string name="perm_su_disabled_desc">Grant ROOT permission to 3rd-party apps may cause system instability, loss of personal data, and system or hardware damage. Please make sure you know ROOT permission.</string>
+กรุณาสลับไปใช้เวอร์ชันนักพัฒนา MIUI เพื่อใช้งานอนุญาติ ROOT"</string>
+    <string name="perm_su_disabled_desc">อนุญาติ ROOT แอป 3rd-party อาจจะทำให้ระบบไม่เสถียร ข้อมูลส่วนตัว ระบบ หรือฮาร์ดแวร๋จะได้รับความเสียหาย กรุณาทำความเข้าใจกับการอนุญาติ ROOT</string>
     <string name="perm_su_disabled_in_stable_download">ดาวน์โหลด MIUI</string>
-    <string name="perm_hips_switch">จัดการสิทธิ์การใช้งาน</string>
-    <string name="perm_hips">จัดการสิทธิ์การใช้งานแอป</string>
+    <string name="perm_hips_switch">จัดการอนุญาติการใช้งาน</string>
+    <string name="perm_hips">จัดการอนุญาติการใช้งานแอป</string>
     <string name="perm_hips_desc">กำลังตรวจสอบแอป %1$d เพื่อความปลอดภัยและความเป็นส่วนตัว</string>
     <string name="perm_hips_desc1">กำลังตรวจสอบแอปเพื่อความปลอดภัยและความเป็นส่วนตัว</string>
     <string name="perm_hips_desc2">กำลังตรวจสอบแอป %1$d เพื่อความปลอดภัยและความเป</string>
-    <string name="perm_hips_risky">สิทธิ์การใช้งานเสี่ยง (%1$d)</string>
-    <string name="perm_hips_safe">สิทธิ์การใช้งานปกติ (%1$d)</string>
+    <string name="perm_hips_risky">อนุญาติการใช้งานเสี่ยง (%1$d)</string>
+    <string name="perm_hips_safe">อนุญาติการใช้งานปกติ (%1$d)</string>
     <string name="perm_auto_start">จัดการเปิดแอปอัตโนมัติ</string>
     <string name="perm_auto_start_desc">เปิดหรือปิดการใช้งานแอปอัตโนมัติ</string>
-    <string name="perm_hips_disable_title">จัดการสิทธิ์การใช้งาน</string>
-    <string name="perm_hips_disable_content">"Disabling it will stop MIUI from monitoring application requests and no longer ensure content's security and privacy. Continue?"</string>
+    <string name="perm_hips_disable_title">จัดการอนุญาติการใช้งาน</string>
+    <string name="perm_hips_disable_content">"ปิดการใช้งาน MIUI จากกาตรวจสอบคำขอแอปพลิเคชันและรักษาความปลอดภัยข้อมูลและความเป็นส่วนตัว เริ่มต่อ?"</string>
     <string name="perm_su_enable_title">การอนุญาติ ROOT</string>
-    <string name="perm_su_enable_content">"Enabling it will allow apps to request ROOT permission.
-Note: Apps with the permission may cause system instability, loss of personal data, and system or hardware damage. Continue to enable feature?"</string>
+    <string name="perm_su_enable_content">"เปิดใช้งานอนุญาติแอปเพื่อใช้งานอนุญาติ ROOT
+หมายเหตุ: การอนุญาติแอป อาจจะทำให้ระบบไม่เสถียร ข้อมูลสูญหาย ระบบ และเกิดความเสียหายกับฮาร์แวร์ เริ่มต่อเพื่อเปิดใช้งาน?"</string>
     <string name="perm_log_clear_title">ล้างบันทึกการใช้งาน</string>
     <string name="perm_log_clear_content">บันทึการใช้งานทั้งหมดจะถูกลบ ดำเนินการต่อ?</string>
     <string name="perm_privacy_count">อนุญาติ: %1$d ปฎิเสษ: %2$d</string>
-    <string name="perm_privacy_app_count">%1$d สิทธิ์การใช้งาน</string>
+    <string name="perm_privacy_app_count">%1$d อนุญาติการใช้งาน</string>
     <string name="perm_privacy_app_trust_summary">เชื่อถือ</string>
     <string name="perm_privacy_app_trust">เชื่อถือแอปนี้</string>
     <string name="perm_privacy_app_trust_summary_off">MIUI ตรวจสอบแอปนี้</string>
@@ -1938,18 +1938,18 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="perm_privacy_app_finish">เสร็จสิ้น</string>
     <string name="perm_privacy_app_launch">เปิด</string>
     <string name="perm_privacy_app_trust_dialog_title">เชื่อถือแอปนี้</string>
-    <string name="perm_privacy_app_trust_dialog_content">MIUI will not ask you for confirmation of any security and privacy related operations from this app.</string>
+    <string name="perm_privacy_app_trust_dialog_content">MIUI จะได้ขอคำยืนยันจากดำเนินการเกี่ยวกับความปลอดภัยและความเป็นส่วนตัวจากแอปนี้</string>
     <string name="perm_sysopt_boost_boot">บูต</string>
     <string name="perm_sysopt_boost_receiver">พื้นหลัง</string>
     <string name="perm_sysopt_boost_auto_start_group">เปิดแอปอัตโนมัติ</string>
     <string name="perm_sysopt_boost_auto_start">อนุญาติเปิดแอปอัตโนมัติ</string>
     <string name="perm_sysopt_boost_auto_start_summary">อนุญาติการใช้งานเปิดแอปอัตโนมัติ</string>
-    <string name="perm_su_enable_dialog">%1$s is trying to get system ROOT permission which is disabled by default to ensure system security. If you need to enable it, please go to settings in Permission manager.</string>
+    <string name="perm_su_enable_dialog">%1$s กำลังพยายามขออนุญาติ ROOT ซึ่งถูกปิดใช้งานเป็นค่าเริ่มต้นเพื่อความปลอดภัย หากคุณต้องการใช้งาน กรุณาตั้งค่าในจัดการอนุญาติ</string>
     <string name="perm_notice">เตือนความปลอดภัย</string>
-    <string name="trust_switch_dialog_msg">"MIUI will not ask you for confirmation of any security and privacy related operations from this app.Trust 
- app？"</string>
-    <string name="auto_startup_dialog_msg">"MIUI will allow app auto start without prompt. App may increase power consumption consumption of power or data usage. Allow 
- to autostart？"</string>
+    <string name="trust_switch_dialog_msg">"MIUI จะไม่ขอคำยืนยันจากดำเนินการความปลอดภัยหรือความเป็นส่วนตัวใดๆจากแอป เชื่อถือ 
+ แอป？"</string>
+    <string name="auto_startup_dialog_msg">"MIUI อนุญาติแอปเปิดอัตโนมัติปราศจากการแจ้งเตือน แอปจะเพิ่มการใข้งานพลังงานหรือข้อมูลที่ใช้ 
+ อนุญาติใข้งานเปิดอัตโนมัติ？"</string>
     <string name="search_airplane">เครื่องบิน</string>
     <string name="search_network">เครือข่าย</string>
     <string name="search_wifi">wifi</string>
@@ -1959,7 +1959,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="search_tether">ขอบเขต</string>
     <string name="search_brightness">ความสว่าง</string>
     <string name="search_wallpaper">วอลล์เปเปอร์</string>
-    <string name="search_launcher">ตัวเปิดใช้ (ลันเชอร์)</string>
+    <string name="search_launcher">ตัวเรียกใช้</string>
     <string name="search_accelerometer">accelerometer</string>
     <string name="search_screen_timeout">เวลาหน้าจอดับ</string>
     <string name="search_ring_volume">ระดับเสียงเรียกเข้า</string>
@@ -1977,9 +1977,9 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="search_date_time">วันที่และเวลา</string>
     <string name="search_language">ภาษา</string>
     <string name="search_about">เกี่ยวกับ</string>
-    <string name="search_power_mode">power mode</string>
-    <string name="debug_log">User Experience Program</string>
-    <string name="upload_debug_log_title">User Experience Program</string>
+    <string name="search_power_mode">โหมดเปิดเครื่อง</string>
+    <string name="debug_log">ประสบการณ์การใช้งาน</string>
+    <string name="upload_debug_log_title">ประสบการณ์การใช้งาน</string>
     <string name="upload_debug_log_summary">อัปโหลดแฟ้มบันทึกการดีบักเมื่อการเชื่อมต่อ Wi-fi ช่วย MIUI พัฒนา ROMดีขึ้น</string>
     <string name="device_miui_version">เวอร์ชัน MIUI</string>
     <string name="device_cpu">ซีพียู</string>
@@ -1990,7 +1990,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="device_cpu4_info">ควอดคอร์</string>
     <string name="available_size">เหลือ %s</string>
     <string name="total_size">ทั้งหมด %s</string>
-    <string name="memory_title">Available %1$s\u0009\u0009Total %2$s</string>
+    <string name="memory_title">ว่าง %1$s\u0009\u0009ทั้งหมด %2$s</string>
     <string name="xiaomi_account">ปัญชี Xiaomi</string>
     <string name="sync_settings">บัญชี &amp; ซิงค์</string>
     <string name="sms_received_sound_title">เสียงเตือน SMS</string>
@@ -2015,21 +2015,21 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="access_control_app_entry_multiple">เปิด %s</string>
     <string name="apn_mms">MMS</string>
     <string name="apn_general">ทั่วไป</string>
-    <string name="launcher_settings_title">ตัวเปิดใช้ (ลันเชอร์)</string>
+    <string name="launcher_settings_title">ตัวเรียกใช้</string>
     <string name="screen_timeout_title">เวลาหน้าจอดับ</string>
     <string name="touch_title">สัมผัส</string>
     <string name="touch_sensitive_title">โหมดถุงมือ</string>
     <string name="touch_sensitive_summary">Enable sensitive touch to support operate mobile phone when wearing gloves, Prevent pocket dials will turn on</string>
     <string name="touch_sensitive_turn_off_title">Turn off Glove mode</string>
     <string name="touch_sensitive_turn_off_summary">Do you want to turn off Prevent pocket dials?</string>
-    <string name="screen_never_timeout_title">Never sleep</string>
+    <string name="screen_never_timeout_title">ไม่เคยสลีป</string>
     <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
     <string name="screen_on_proximity_sensor_summary">Phone will automatically lock when placed in a pocket</string>
-    <string name="preferred_launcher_title">Preferred launcher</string>
-    <string name="preferred_launcher_warning_title">Replace default launcher</string>
-    <string name="preferred_launcher_warning_message">Replacing your default launcher may increase power consumption, reduce speed, can put phone contents at risk.</string>
-    <string name="preferred_launcher_warning_replace">Replace</string>
-    <string name="preferred_launcher_warning_use_system">Use default launcher</string>
+    <string name="preferred_launcher_title">ตัวเรียกใช้ที่ต้องการ</string>
+    <string name="preferred_launcher_warning_title">แทนที่ตัวเรียกใช้เริ่มต้น</string>
+    <string name="preferred_launcher_warning_message">กำลังแทนที่ตัวเรียกใช้เริ่มต้นอาจจะเพิ่มการใช้พลังงาน ลดความเร็ว เพิ่มความเสี่ยงโทรศัพท์</string>
+    <string name="preferred_launcher_warning_replace">แทนที่</string>
+    <string name="preferred_launcher_warning_use_system">ใช้ตัวเรียกใช้เริ่มต้น</string>
     <string name="key_settings_title">ปุ่ม</string>
     <string name="key_settings">ปุ่ม</string>
     <string name="screen_key_long_press">Long press navigation buttons</string>
@@ -2189,9 +2189,9 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="erase_internal_storage">Erase stored content</string>
     <string name="erase_internal_storage_description">ลบเพลง ภาพ วิดีโอ และข้อมูลผู้ใช้</string>
     <string name="storage_format">ฟอร์เมต</string>
-    <string name="usage_log">App usage statistics</string>
+    <string name="usage_log">สถิตแอปที่ใช้</string>
     <string name="bluetooth_device_searchable">Discoverable</string>
-    <string name="usb_msd_title">Mass storage device</string>
+    <string name="usb_msd_title">อุปกรณ์ Mass storage</string>
     <string name="usb_msd_summary">Transfer files via Windows or OSX</string>
     <string name="usb_msd_driver_installer_title">Driver installer disk (MSD)</string>
     <string name="usb_msd_driver_installer_summary">Get drivers for Windows and OSX</string>
