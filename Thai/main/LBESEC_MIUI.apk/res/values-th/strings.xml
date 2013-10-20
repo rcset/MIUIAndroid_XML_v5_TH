@@ -44,7 +44,7 @@
     <string name="HIPS_Group_ROOT">ROOT</string>
     <string name="HIPS_Perm_SendSMS">ส่ง SMS</string>
     <string name="HIPS_Perm_SendSMS_Desc">ส่ง SMS โดยตรง</string>
-    <string name="HIPS_Perm_SendSMS_Hint">%1$s นุญาติให้ส่ง SMS</string>
+    <string name="HIPS_Perm_SendSMS_Hint">%1$s อนุญาติให้ส่ง SMS</string>
     <string name="HIPS_Perm_Call">สายโทรศัพท์</string>
     <string name="HIPS_Perm_Call_Desc">ทำให้รับสายหรือวางสายโทรศัพท์ได้โดยตรง</string>
     <string name="HIPS_Perm_Call_Hint">%1$s อนุญาติรับสายและวางสายโทรศัพท์</string>
