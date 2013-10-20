@@ -1925,7 +1925,7 @@ PIN อาจไม่ถูกต้อง"</string>
 หมายเหตุ: การอนุญาติแอป อาจจะทำให้ระบบไม่เสถียร ข้อมูลสูญหาย ระบบ และเกิดความเสียหายกับฮาร์แวร์ เริ่มต่อเพื่อเปิดใช้งาน?"</string>
     <string name="perm_log_clear_title">ล้างบันทึกการใช้งาน</string>
     <string name="perm_log_clear_content">บันทึการใช้งานทั้งหมดจะถูกลบ ดำเนินการต่อ?</string>
-    <string name="perm_privacy_count">อนุญาติ: %1$d ปฎิเสษ: %2$d</string>
+    <string name="perm_privacy_count">อนุญาติ: %1$d ปฎิเสธ: %2$d</string>
     <string name="perm_privacy_app_count">%1$d อนุญาติการใช้งาน</string>
     <string name="perm_privacy_app_trust_summary">เชื่อถือ</string>
     <string name="perm_privacy_app_trust">เชื่อถือแอปนี้</string>
