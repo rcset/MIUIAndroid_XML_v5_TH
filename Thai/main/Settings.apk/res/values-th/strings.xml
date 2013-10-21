@@ -2107,7 +2107,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="headset_function">ฟังก์ชันปุ่ม</string>
     <string name="headset_mode_volume">ปรับเสียง</string>
     <string name="headset_mode_music">การเล่นเพลง</string>
-    <string name="headset_calibrate">ั้งค่าปุ่มกด</string>
+    <string name="headset_calibrate">ตั้งค่าปุ่มกด</string>
     <string name="headset_calibrate_hint">กดปุ่มบน</string>
     <string name="headset_calibrate_success">ใช้งานการตัั้งค่า</string>
     <string name="headset_calibrate_apply">ใช้</string>
@@ -2191,7 +2191,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="storage_format">ฟอร์เมต</string>
     <string name="usage_log">สถิติการใช้แอปพลิเคชัน</string>
     <string name="bluetooth_device_searchable">ค้นพบได้</string>
-    <string name="usb_msd_title">ออุปกรณ์จัดเก็บข้อมูล</string>
+    <string name="usb_msd_title">อุปกรณ์จัดเก็บข้อมูล</string>
     <string name="usb_msd_summary">การถ่ายโอนไฟล์ผ่านทาง Windows หรือ OSX</string>
     <string name="usb_msd_driver_installer_title">แผ่นโปรแกรมติดตั้งไดร์เวอร์ (MSD)</string>
     <string name="usb_msd_driver_installer_summary">ค้นหาไดร์เวอร์สำหรับ Windows และ OSX</string>
