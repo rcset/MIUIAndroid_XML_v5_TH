@@ -2,7 +2,7 @@
  
 Based on MIUI v5 3.9.13 MTK Chipset
  
-[[[Finish Translate]]]
+Finish Translated
 ---------------------------------------------------------------------------------------------
 
 MIUI v5 - MIUIAndroid XML Strings
