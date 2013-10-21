@@ -2018,13 +2018,13 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="launcher_settings_title">ตัวเรียกใช้</string>
     <string name="screen_timeout_title">เวลาหน้าจอดับ</string>
     <string name="touch_title">สัมผัส</string>
-    <string name="touch_sensitive_title">โหมดถุงมือ</string>
-    <string name="touch_sensitive_summary">Enable sensitive touch to support operate mobile phone when wearing gloves, Prevent pocket dials will turn on</string>
-    <string name="touch_sensitive_turn_off_title">Turn off Glove mode</string>
-    <string name="touch_sensitive_turn_off_summary">Do you want to turn off Prevent pocket dials?</string>
+    <string name="touch_sensitive_title">โหมดการสัมผัสผ่านถุงมือ</string>
+    <string name="touch_sensitive_summary">เปิดการใช้ความไวสัมผิสเพื่อสนับสนุนการทำงานของมือถือเมื่อสวมถุงมือ การป้องกันการโทรเมื่ออยู่ในกระเป๋าจะเปิดทำงาน</string>
+    <string name="touch_sensitive_turn_off_title">ปิดโหมดการสัมผัสผ่านถุงมือ</string>
+    <string name="touch_sensitive_turn_off_summary">คุณต้องการปิดการป้องการโทรเมื่ออยู่ในกระเป๋าหรือไม่?</string>
     <string name="screen_never_timeout_title">ไม่เคยสลีป</string>
-    <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
-    <string name="screen_on_proximity_sensor_summary">Phone will automatically lock when placed in a pocket</string>
+    <string name="screen_on_proximity_sensor_title">ป้องการการโทรเมื่ออยู่ในกระเป๋า</string>
+    <string name="screen_on_proximity_sensor_summary">โทรศัพท์จะล็อคอัตโนมัติเมื่อใส่กระเป๋า</string>
     <string name="preferred_launcher_title">ตัวเรียกใช้ที่ต้องการ</string>
     <string name="preferred_launcher_warning_title">แทนที่ตัวเรียกใช้เริ่มต้น</string>
     <string name="preferred_launcher_warning_message">กำลังแทนที่ตัวเรียกใช้เริ่มต้นอาจจะเพิ่มการใช้พลังงาน ลดความเร็ว เพิ่มความเสี่ยงโทรศัพท์</string>
@@ -2032,24 +2032,24 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="preferred_launcher_warning_use_system">ใช้ตัวเรียกใช้เริ่มต้น</string>
     <string name="key_settings_title">ปุ่ม</string>
     <string name="key_settings">ปุ่ม</string>
-    <string name="screen_key_long_press">Long press navigation buttons</string>
-    <string name="screen_key_long_press_action">Trigger function</string>
+    <string name="screen_key_long_press">กดปุ่มนำทางค้าง</string>
+    <string name="screen_key_long_press_action">ฟังค์ชั่นการทำงาน</string>
     <string name="menu_key">เมนู</string>
     <string name="home_key">หน้าแรก</string>
     <string name="back_key">ย้อนกลับ</string>
-    <string name="screen_key_long_press_timeout">Define long press time</string>
+    <string name="screen_key_long_press_timeout">กำหนดเวลาการกดปุ่มค้าง</string>
     <string name="under_keyguard">ล็อคหน้าจอ</string>
     <string name="enable_snapshot_screenlock">กดปุ่มย้อนกลับยาวเพื่อเปิดกล้อง</string>
-    <string name="disable_power_key_long_press_under_keyguard">Disable power button menu</string>
-    <string name="trackball_wake_title">Trackball wake</string>
-    <string name="pref_volume_wake_title">Wake with volume buttons</string>
-    <string name="pref_volume_wake_summary">Pressing the volume buttons wakes the device</string>
+    <string name="disable_power_key_long_press_under_keyguard">ปิดการทำงานเมนูปุ่ม power</string>
+    <string name="trackball_wake_title">การเปิดการทำงานของ Trackball</string>
+    <string name="pref_volume_wake_title">ทำงานเมื่อกดปุ่มเพิ่มเสียง</string>
+    <string name="pref_volume_wake_summary">กดปุ่มเพิ่มเสียงเพื่อให้อุปกรณ์เริ่มทำงาน</string>
     <string name="media_button">ปุ่มสื่อ</string>
     <string name="preferred_media_app_summary">เลือกตัวเล่นเพลง</string>
     <string name="no_media_button_receiver">ไม่ใช่</string>
     <string name="camera_key_action_title">ปุ่ม MI</string>
     <string name="camera_key_action_setting_title">ปุ่ม MI</string>
-    <string name="camera_key_action_category_title">Use of Camera is not permitted.</string>
+    <string name="camera_key_action_category_title">การใช้กล้องไม่ได้รับอนุญาต</string>
     <string name="camera_key_action_none_title">ไม่กระทำ</string>
     <string name="camera_key_action_shortcut_title">Shortcut</string>
     <string name="camera_key_action_toggle_title">Trigger toggle</string>
@@ -2059,8 +2059,8 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="camera_key_action_shortcut_search">ค้นหา</string>
     <string name="camera_key_action_shortcut_call">โทร</string>
     <string name="camera_key_action_shortcut_wake">ล็อคเครื่อง</string>
-    <string name="multi_touch_points_category_title">Multi-touch points</string>
-    <string name="multi_touch_points_preference">Reboot to enable</string>
+    <string name="multi_touch_points_category_title">การแตะหน้าจอหลายจุดสัมผัส</string>
+    <string name="multi_touch_points_preference">เปิดการรีบูต</string>
     <string name="trackball_settings">Trackball</string>
     <string name="status_bar_settings">การแจ้งเตือน</string>
     <string name="complete_settings">ตั้งค่าทั่วไป</string>
@@ -2073,13 +2073,13 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="unlock_set_unlock_summary">กรุณาตั้งค่าล็อคหน้าจอ</string>
     <string name="lock_settings_picker_settings">ตั้งค่าล็อคหน้าจอ</string>
     <string name="lock_screen_unlock_show">ปิดใช้งานการปัดหน้าจอ</string>
-    <string name="lock_screen_unlock_show_summary">Go to directly to Home screen or password input from wake</string>
+    <string name="lock_screen_unlock_show_summary">ไปยังหน้าจอหลักโดยตรง หรือ ป้อนรหัสผ่านเมื่อเริ่มทำงาน</string>
     <string name="date_time_settings">วันที่ &amp; เวลา</string>
     <string name="timezone_settings">โซนเวลา</string>
     <string name="security_privacy_settings_title">ความปลอดภัย</string>
     <string name="nearby_wifi">เครือข่ายที่ใช้ได้</string>
     <string name="unlock_set_enter_system">ข้ามการล็อคหน้าจอ</string>
-    <string name="unlock_set_enter_system_summary">Go directly to Home screen from wake</string>
+    <string name="unlock_set_enter_system_summary">ไปยังหน้าจอหลักโดนตรงเมื่อเริ่มทำงาน</string>
     <string name="forget_wifi_message">หยุดการเชื่อมต่อจากเครือข่ายนี้อัตโนมัติ</string>
     <string name="button_disconnect_network">ตัดการเชื่อมต่อจากเครือข่าย</string>
     <string name="no_nearby_wifi">ไม่มีเครือข่าย</string>
@@ -2090,26 +2090,26 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="mms_vibrate_abbreviation">"ข้อความ "</string>
     <string name="breathing_light_color_title">สี LED</string>
     <string name="breathing_light_color_summary">สี LED เมื่อได้รับการเตือนใหม่</string>
-    <string name="breathing_light_freq_title">LED flash frequency</string>
-    <string name="breathing_light_freq_summary">Pulse when you have new notifications</string>
+    <string name="breathing_light_freq_title">ความถี่การวาบแสง LED</string>
+    <string name="breathing_light_freq_summary">กระพริบเมื่อมีการแจ้งเตือนใหม่</string>
     <string name="led_settings">ไฟแจ้งเตือน</string>
     <string name="led_colors_summary">การแจ้งเตือน</string>
-    <string name="led_frequence_summary">Set the interval between LED flashes</string>
-    <string name="led_pulse_summary">Pulse notification light when new notification is received</string>
-    <string name="show_rounded_corners">Show rounded corners</string>
-    <string name="pref_operational_key">Operational key</string>
+    <string name="led_frequence_summary">ตั้งช่วงระยะเวลาการวาบแสงของ LED</string>
+    <string name="led_pulse_summary">กระพริบแสงการแจ้งเตือนเมื่อได้รับการแจ้งเตือนใหม่</string>
+    <string name="show_rounded_corners">แสดงมุมตัดขอบมน</string>
+    <string name="pref_operational_key">แป้นการทำงาน</string>
     <string name="pref_button_light">ไฟที่ปุ่ม</string>
-    <string name="pref_button_light_summary">Menu, Home and Back key indicator</string>
-    <string name="button_light_timeout">Button light settings</string>
-    <string name="screen_button_key">Screen virtual keys</string>
-    <string name="screen_button_custom">Customize screen key positions</string>
+    <string name="pref_button_light_summary">การชี้บอกแป้นเมนู, แป้นหน้าจอหลัก และ แป้นย้อนกลับ</string>
+    <string name="button_light_timeout">การตัั้งค่าแสงของปุ่ม</string>
+    <string name="screen_button_key">แป้นเสมือนบนหน้าจอ</string>
+    <string name="screen_button_custom">ปรับแต่งตำแหน่งแป้นหน้าจอ</string>
     <string name="headset_settings">หูฟัง</string>
     <string name="headset_function">ฟังก์ชันปุ่ม</string>
-    <string name="headset_mode_volume">Adjust volume</string>
-    <string name="headset_mode_music">Music playback</string>
-    <string name="headset_calibrate">Assign buttons</string>
-    <string name="headset_calibrate_hint">Press the upper button.</string>
-    <string name="headset_calibrate_success">Settings applied</string>
+    <string name="headset_mode_volume">ปรับเสียง</string>
+    <string name="headset_mode_music">การเล่นเพลง</string>
+    <string name="headset_calibrate">ั้งค่าปุ่มกด</string>
+    <string name="headset_calibrate_hint">กดปุ่มบน</string>
+    <string name="headset_calibrate_success">ใช้งานการตัั้งค่า</string>
     <string name="headset_calibrate_apply">ใช้</string>
     <string name="headset_calibrate_volume_up">เพิ่มเสียง</string>
     <string name="headset_calibrate_volume_down">ลดเสียง</string>
@@ -2119,23 +2119,23 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="headset_no_contected">ไม่พบหูฟัง</string>
     <string name="headset_calibrate_wrong_key">ปุ่มผิดพลาด</string>
     <string name="sim_change_failed_enable_sim_lock">เปิดใช้งานล็อคซิมเพื่อเปลี่ยน PIN</string>
-    <string name="sim_lock_change_not_supported">"Unable to Change SIM Lock.
- SIM doesn't support it."</string>
+    <string name="sim_lock_change_not_supported">"ไม่สามารถเปลี่ยนการล็อคซิมได้
+ ซิมไม่รองรับการล็อค"</string>
     <string name="apn_new">จุดเชื่อมต่อใหม่</string>
     <string name="apn_save">บันทึก?</string>
-    <string name="apn_save_msg">Save changes to APN?</string>
+    <string name="apn_save_msg">บันทึกการเปลี่ยนแปลง APN หรือไม่?</string>
     <string name="activating">กำลังใช้งาน…</string>
     <string name="wifi_enable_watchdog_service_summary">หลีกเลี่ยงการเชื่อมต่อสัญญาณต่ำ</string>
-    <string name="wifi_disabled_help">WLAN was disconnected due to poor connection.</string>
-    <string name="wifi_wps_overlap_error">Another WLAN session was detected. Try again in a few minutes.</string>
+    <string name="wifi_disabled_help">Wi-Fi ถูกตัดการเชื่อมต่อเนื่องจากการเชื่อมต่อสัญญาณที่ต่ำ</string>
+    <string name="wifi_wps_overlap_error">พบช่วงสัญญาณ Wi-Fi อื่น กรุณาลองอีกครั้งในไม่กี่นาที</string>
     <string name="wifi_p2p_wps_setup">ตั้งค่า WPS</string>
-    <string name="default_input_method">Choose default input method</string>
+    <string name="default_input_method">เลือกวิธีการป้อนข้อมูลเริ่มต้น</string>
     <string name="volume_category_title">เสียง</string>
     <string name="vibrate_category_title">สั่น</string>
     <string name="vibrate_in_normal_title">สั่นเมื่อมีสายเรียกเข้า</string>
     <string name="silent_mode_title">โหมดเงียบ</string>
-    <string name="media_feedback_enable_title">Vibrate with the beat</string>
-    <string name="wifi_wapi_certification_dont_exist">The network password you typed is not correct. Please try again.</string>
+    <string name="media_feedback_enable_title">สั่นเป็นจังหวะ</string>
+    <string name="wifi_wapi_certification_dont_exist">รหัสเครือข่ายที่คุณป้อนไม่ถูกต้อง กรูณาลองอีกครั้ง</string>
     <string name="please_type_passphrase">รหัสผ่าน</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
@@ -2153,7 +2153,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="wifi_wapi_as_cert">ใบรับรอง AS</string>
     <string name="wifi_wapi_user_cert">ใบรับรองผู้ใช้</string>
     <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">ใส่ชื่อไดเรกเทอรี่</string>
-    <string name="wifi_wapi_cert_mgmt_subdir_exist">Please input another directory name. The one you entered already exists.</string>
+    <string name="wifi_wapi_cert_mgmt_subdir_exist">กรุณาป้อนชื่ออื่นสำหรับไดเรคทอรี่ ชื่อที่คุณป้อนมีอยู่แล้ว</string>
     <string name="wifi_wapi_cert_mgmt_subdir_create_fail">สร้างไดเรกเทอรี่ผิดพลาด</string>
     <string name="wifi_wapi_cert_mgmt_as_name_is_empty">กรุณาใส่ชื่อใบรับรอง AS</string>
     <string name="wifi_wapi_cert_mgmt_as_dont_exist">การ์ดความจำไม่มีใบรับรอง AS</string>
@@ -2169,7 +2169,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="search_hint">ตั้งค่าค้นหา</string>
     <string name="search_description">ตั้งค่าค้นหา</string>
     <string name="remove_from_frequently_fragment">ลบ \"%s\" จากการตั้งค่าด่วน?</string>
-    <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
+    <string name="frequently_fragment_tempty">รายการที่ใช้บ่อยจะถูกแสดงรายการที่นี่</string>
     <string name="frequently_fragment_delete">ลบ</string>
     <string name="show_fc">บังคับปิดแอป</string>
     <string name="show_fc_summary">แสดงแอปที่บังคับปิด</string>
@@ -2186,17 +2186,17 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="master_clear_personal_data_sdcard">"ลบข้อมูลส่วนตัวและเนื้อหา? คุณไม่สามารถย้อนกลับก"</string>
     <string name="master_clear_all">"ลบข้อมูลส่วนตัวทั้งหมดจากหน่วยความจำภายใด? คุณไม่สามารถย้อนกลับก"</string>
     <string name="master_clear_erase_application_progress">กำลังลบแอป…</string>
-    <string name="erase_internal_storage">Erase stored content</string>
+    <string name="erase_internal_storage">ลบเนื้อหาข้อมูลที่ได้จัดเก็บ</string>
     <string name="erase_internal_storage_description">ลบเพลง ภาพ วิดีโอ และข้อมูลผู้ใช้</string>
     <string name="storage_format">ฟอร์เมต</string>
-    <string name="usage_log">สถิตแอปที่ใช้</string>
-    <string name="bluetooth_device_searchable">Discoverable</string>
-    <string name="usb_msd_title">อุปกรณ์ Mass storage</string>
-    <string name="usb_msd_summary">Transfer files via Windows or OSX</string>
-    <string name="usb_msd_driver_installer_title">Driver installer disk (MSD)</string>
-    <string name="usb_msd_driver_installer_summary">Get drivers for Windows and OSX</string>
+    <string name="usage_log">สถิติการใช้แอปพลิเคชัน</string>
+    <string name="bluetooth_device_searchable">ค้นพบได้</string>
+    <string name="usb_msd_title">ออุปกรณ์จัดเก็บข้อมูล</string>
+    <string name="usb_msd_summary">การถ่ายโอนไฟล์ผ่านทาง Windows หรือ OSX</string>
+    <string name="usb_msd_driver_installer_title">แผ่นโปรแกรมติดตั้งไดร์เวอร์ (MSD)</string>
+    <string name="usb_msd_driver_installer_summary">ค้นหาไดร์เวอร์สำหรับ Windows และ OSX</string>
     <string name="input_settings">การตั้งค่าการป้อนข้อมูล</string>
-    <string name="show_magnifier_when_input">Text magnifying glass</string>
+    <string name="show_magnifier_when_input">แว่นขยายข้อความ</string>
     <string name="volume_voice_description">เสียง</string>
     <string name="volume_system_description">ชัตเตอร์กล้อง ล็อคหน้าจอ และการแจ้งเตือนระบบอื่นๆ</string>
     <string name="volume_bluetooth_description">บลูทูธ</string>
@@ -2213,22 +2213,22 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="virus_scanner_title">สแกนระบบ</string>
     <string name="virus_scanner_scanning">กำลังสแกน</string>
     <string name="virus_scanner_scan">แตะเพื่อสแกน</string>
-    <string name="virus_scanner_select_lib">Select virus definitions</string>
-    <string name="virus_scanner_select_trust_lib">Select virus definitions</string>
-    <string name="virus_scanner_update_lib">Update definitions</string>
-    <string name="virus_scanner_select_multi">Selecting more than one set of definitions will slow down installation and scanning.</string>
-    <string name="virus_scanner_select_single">Only use definitions from a trusted source.</string>
+    <string name="virus_scanner_select_lib">เลือก virus definitions</string>
+    <string name="virus_scanner_select_trust_lib">เลือก virus definitions</string>
+    <string name="virus_scanner_update_lib">อัปเดต definitions</string>
+    <string name="virus_scanner_select_multi">การเลือก definition มากกว่าหนึ่งชุดจะทำให้การสแกนและการติดตั้งช้าลง</string>
+    <string name="virus_scanner_select_single">ใช้เฉพาะ definition จากแหล่งที่เชื่อถือได้</string>
     <string name="virus_scanner_select_OK">ตกลง</string>
     <string name="virus_scanner_select_Cancel">ยกเลิก</string>
-    <string name="virus_scanner_provider">Definitions provided by %s</string>
+    <string name="virus_scanner_provider">บริการ Definitions โดย %s</string>
     <string name="virus_scanner_auto_update">อัปเดตอัตโนมัติ</string>
     <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
     <string name="virus_scanner_manual_update">อัปเดต %s</string>
-    <string name="virus_scanner_lib_updating">Updating definitions…</string>
-    <string name="virus_scanner_lib_already_latest">You are currently using the latest definitions. :)</string>
+    <string name="virus_scanner_lib_updating">บริการ Definitions โดย %s</string>
+    <string name="virus_scanner_lib_already_latest">ขณะนี้คุณกำลังใช้ definition ล่าสุด :)</string>
     <string name="virus_scanner_lib_update_failed">อัปเดตล้มเหลว</string>
     <string name="virus_scan_app_safe_scanning">กำลังสแกน…</string>
-    <string name="virus_scan_app_multi_engines">You’re using more than one set of definitions. The scan may take longer.</string>
+    <string name="virus_scan_app_multi_engines">คุณกำลังใช้ definition มากกว่าหนึ่งชุด การสแกนอาจะใช้เวลานานขึ้น</string>
     <string name="virus_scan_app_scanning">กำลังสแกน…</string>
     <string name="virus_scan_app_waiting">รอสักครู่…</string>
     <string name="virus_scan_app_passed">สแกน</string>
@@ -2243,19 +2243,19 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="virus_scan_app_no_risk">ไม่พบความเสียง</string>
     <string name="virus_scan_app_is_stop_scan">หยุดการสแกนหรือไม่?</string>
     <string name="password_guard">รหัสผ่าน</string>
-    <string name="title_dolby_control">Dolby Mobile Control</string>
+    <string name="title_dolby_control">การควบคุมสียงในระบบ Dolby Mobile</string>
     <string name="dolby_mode_off">ปิด</string>
     <string name="dolby_mode_music">โหมดเพลง</string>
     <string name="dolby_mode_movie">โหมดภาพยนต์</string>
-    <string name="dolby_effects">Dolby Effects</string>
+    <string name="dolby_effects">เอฟเฟ็ค Dolby</string>
     <string name="dolby_music_advance">เพิ่มเสียงเพลง</string>
     <string name="dolby_movie_advance">เพิ่มวิดีโอ</string>
     <string name="dolby_bassboost_title">เบส：</string>
     <string name="dolby_bassboost_low">นุ่มนวล</string>
     <string name="dolby_bassboost_normal">ธรรมดา</string>
     <string name="dolby_bassboost_high">หนัก</string>
-    <string name="dolby_roomsize_title">Surround：</string>
-    <string name="dolby_roomsize_summary">Surround sound settings only available while using headset</string>
+    <string name="dolby_roomsize_title">รอบทิศทาง：</string>
+    <string name="dolby_roomsize_summary">การตั้งค่าเสียงรอบทิศทางใช้งานได้เมื่อใช้งานกับหูฟัง</string>
     <string name="dolby_roomsize_low">ในอาคาร</string>
     <string name="dolby_roomsize_normal">ปกติ</string>
     <string name="dolby_roomsize_high">นอกอาคาร</string>
@@ -2276,17 +2276,17 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="eq_auto">กำหนดเอง</string>
     <string name="eq_preset_create">สร้าง</string>
     <string name="eq_preset_rename">เปลี่ยนชื่อ</string>
-    <string name="eq_preset_format">User preset %d</string>
-    <string name="eq_preset_hint">Please enter preset name</string>
-    <string name="eq_preset_select">Choose a preset</string>
-    <string name="dolby_eq_enter_alert_title">Turn on Dolby music</string>
-    <string name="dolby_eq_enter_alert_msg">You can only use the EQ in Dolby music mode. Enable it now?</string>
-    <string name="dirac_switch_title">Use MiSound enhancer</string>
-    <string name="dirac_switch_summary">Always use MiSound enhancer when using speakers</string>
-    <string name="dirac_mode_off">Dirac Off</string>
-    <string name="dirac_mode_in_ear">Xiaomi in-ear headphones</string>
-    <string name="dirac_mode_earbuds">Xiaomi earbuds</string>
-    <string name="dirac_mode_piston_100">Xiaomi piston headphones</string>
+    <string name="eq_preset_format">preset ของผู้ใช้ %d</string>
+    <string name="eq_preset_hint">กรุณาใส่ชือ preset</string>
+    <string name="eq_preset_select">เลือก preset</string>
+    <string name="dolby_eq_enter_alert_title">เปิดเสียงในระบบ Dolby Music</string>
+    <string name="dolby_eq_enter_alert_msg">คุณสามารถใช้ EQ ในโหมด Dolby Music เท่านั้น เปิดการทำงานในขณะนี้หรือไม่?</string>
+    <string name="dirac_switch_title">เปิดใช้ MiSound enhancer</string>
+    <string name="dirac_switch_summary">เปิดใช้ MiSound enhancer เสมอ เมือใช้งานร่วมกับลำโพง</string>
+    <string name="dirac_mode_off">ปิดระบบเสียง Dirac</string>
+    <string name="dirac_mode_in_ear">หูฟังอินเอียร์ Xiaomi</string>
+    <string name="dirac_mode_earbuds">หูฟังเอียร์บัด Xiaomi</string>
+    <string name="dirac_mode_piston_100">หูฟังทรงกระสุน Xiaomi</string>
     <string name="equalizer">EQ</string>
     <string name="wifi_menu_wfd">แสดง Wi-Fi</string>
     <string name="wfd_settings_title">แสดง Wi-Fi</string>
@@ -2294,50 +2294,50 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="wfd_menu_searching">กำลังค้นหา…</string>
     <string name="wfd_menu_teardown">หยุด</string>
     <string name="wfd_available_devices">อุปกรณ์ที่มีอยู่</string>
-    <string name="wfd_disconnect_diag_title">Tear down session?</string>
-    <string name="wfd_disconnect_diag_msg">If you stop the WLAN display session, your connection with %1$s will terminate.</string>
-    <string name="wfd_disconnect_multiple_diag_message">If you stop the WLAN display session, your connection with %1$s and %2$s other devices will terminate.</string>
-    <string name="wfd_wps_keypad">Push button preferred</string>
-    <string name="wfd_wps_pbc">Prefer to input PIN</string>
+    <string name="wfd_disconnect_diag_title">ออกจากการเข้า Wi-Fi หรือไม่?</string>
+    <string name="wfd_disconnect_diag_msg">หากคุณหยุดเซสชั่นแสดงผล Wi-Fi การเชื่อมต่อของคุณกับ  %1$s จะสิ้นสุดลง</string>
+    <string name="wfd_disconnect_multiple_diag_message">หากคุณหยุดเซสชั่นแสดงผล Wi-Fi การเชื่อมต่อของคุณกับ  %1$s และ อุปกรณ์อื่น %2$s จะสิ้นสุดลง</string>
+    <string name="wfd_wps_keypad">ปุ่ม Push ที่เลือก</string>
+    <string name="wfd_wps_pbc">การป้อน PIN ที่เลือก</string>
     <string name="power_mode">การตั้งค่าพลังงาน</string>
     <string name="skip_step">ข้ามขั้นตอนนี้</string>
-    <string name="msd_help_title">MTP Help</string>
-    <string name="msd_help_summary">"Difficulty accessing your device via computer?
-Please select your computer’s operating system:"</string>
+    <string name="msd_help_title">การช่วยเหลือ MTP</string>
+    <string name="msd_help_summary">"เกิดอุปสรรคในการเข้าถึงอุปกรณ์ของคุณผ่านคอมพิวเตอร์หรือไม่?
+กรุณาเลือกระบบปฏิบัติการของคอมพิวเตอร์คุณ"</string>
     <string name="msd_install_succeed">ติดตั้งไดร์เวอร์</string>
     <string name="msd_install_next">ต่อไป</string>
     <string name="msd_install">ติดตั้งไดร์เวอร์ซ้ำ</string>
     <string name="msd_install_finish">ตกลง</string>
-    <string name="msd_install_windows_xp_step_2_1">Follow the steps in Setup Wizard to complete installation.</string>
-    <string name="msd_install_retry_windows_xp">"If the computer failed to detect your phone,
-Try the following:
+    <string name="msd_install_windows_xp_step_2_1">ปฏิบัติตามขั้นตอนในการติดตั้งแบบ wizard เพื่อให้การติดตั้งสำเร็จ</string>
+    <string name="msd_install_retry_windows_xp">"ถ้าคอมพิวเตอร์ล้มเหลวในการค้นพบโทรศัพท์ของคุณ
+ลองปฏิบัติตามขั้นตอนดังต่อไปนี้:
 "<li>1) เชื่อมต่อสาย USB อีกครั้ง</li>"
 "<li>2) ติดตั้งไดร์เวอร์ใหม่</li>" "</string>
-    <string name="msd_install_retry_windows_vista">"If the computer failed to detect your phone,
-Try reconnecting the USB cable."</string>
-    <string name="msd_install_retry_mac">"If the computer failed to detect your phone,
-Try the following:
-"<li>"Do a search for
-Android File Transfer,
-and run the software."</li>"
+    <string name="msd_install_retry_windows_vista">"ถ้าคอมพิวเตอร์ล้มเหลวในการค้นพบโทรศัพท์ของคุณ
+ลองต่อสาย USB ใหม่อีกครั้ง"</string>
+    <string name="msd_install_retry_mac">"ถ้าคอมพิวเตอร์ล้มเหลวในการค้นพบโทรศัพท์ของคุณ
+ลองปฏิบัติตามขั้นตอนดังต่อไปนี้:
+"<li>"ทำการค้นหา
+การถ่ายโอนไฟล์,
+และเปิดทำงานซอฟท์แวร์"</li>"
 "<li>เชื่อมต่อสาย USB อีกครั้ง</li>"
 "<li>ติดตั้งไดร์เวอร์ใหม่</li>" "</string>
-    <string name="msd_install_retry_linux">"If the computer failed to detect your phone,
-Try the following:
-1) Use installation tools sudo aptitude install mtpfs libfuse-dev libmad0-dev
-2) Create a directory mkdir /media/mtp
-3) Confirm user group permissions in the current fuse user group
-4) Re-log in
-5) Access mounted device mtpfs /media/mtp via File explorer; same as local directory
-6) Uninstall device fusermount -u /media/mtp
- Note: For ubuntu 8.04 environment"</string>
+    <string name="msd_install_retry_linux">"ถ้าคอมพิวเตอร์ล้มเหลวในการค้นพบโทรศัพท์ของคุณ
+ลองปฏิบัติตามขั้นตอนดังต่อไปนี้:
+1) ใช้เครื่องมือติดตั้งที่เหมาะสม sudo ติดตั้ง mtpfs libfuse-dev libmad0-dev
+2) สร้างไดเรคทอรี่ mkdir /media/mtp
+3) ยืนยันการอนุญาตกุล่มผู้ใช้ในกลุ่มผู้ใช้ fuse ปัจจุบัน
+4) เข้าสู่ระบบอีกครั้ง
+5) เข้าอุปกรณ์ที่ต่อไว้  mtpfs /media/mtp ผ่าน File explorer เช่นเดี่ยวกับไดเรคทอรี่เฉพาะ
+6) ถอนการติดตั้งอุปกรณ์ fusermount -u /media/mtp
+ หมายเหตุ: สำหรับ ubuntu 8.04 environment"</string>
     <string name="msd_install_status_undo">ติดตั้งไดร์เวอร์</string>
     <string name="msd_install_status_done">ติดตั้งไดร์เวอร์แล้ว</string>
     <string name="msd_driver_download">ดาวน์โหลดไดร์เวอร์</string>
-    <string name="msd_driver_windows_xp_download">"For PCs, download the driver and click Setup.exe to install
-Get the driver at http://miui.com/win"</string>
-    <string name="msd_driver_mac_download">"For Macs, download the driver and click AndroidFileTransfer.dmg to install
-Get the driver at http://miui.com/mac"</string>
+    <string name="msd_driver_windows_xp_download">"สำหรับ PCs ดาวน์โหลดไดร์เวอร์และคลิก Setup.exe เพื่อติดตัั้ง
+หาไดร์เวอร์ที่ http://miui.com/win"</string>
+    <string name="msd_driver_mac_download">"สำหรับ Mac, ดาวน์โหลดไดร์เวอร์และคลิก AndroidFileTransfer.dmg to เพื่อติดตัั้ง
+หาไดร์เวอร์ที่ http://miui.com/mac"</string>
     <string name="vpn_settings_password">VPN</string>
     <string name="vpn_safe">ความปลอดภัย</string>
     <string name="vpn_configure">แสดงความยินดี</string>
@@ -2357,17 +2357,17 @@ Get the driver at http://miui.com/mac"</string>
     <string name="enable_drive_mode">โหมดรถยนต์</string>
     <string name="drive_mode_title">โหมดรถยนต์</string>
     <string name="drive_mode_settings">การตั้งค่าโหมดรถยนต์</string>
-    <string name="drive_mode_voice_report">Text-to-speech output</string>
+    <string name="drive_mode_voice_report">การแสดงผลข้อความเป็นเสียงพูด</string>
     <string name="drive_mode_phone_report">ข้อมูลสายเรียกเข้า</string>
     <string name="drive_mode_sms_report">ข้อความ</string>
-    <string name="drive_mode_invert_stop_report">Turn phone over to silence</string>
+    <string name="drive_mode_invert_stop_report">พลิกโทรศัพท์เพื่อเงียบเสียง</string>
     <string name="drive_mode_auto_reply">ตอบสนองอย่างรวดเร็ว</string>
     <string name="drive_mode_calling_auto_sms_reply">ตอบรับโทรศัพท์</string>
     <string name="drive_mode_sms_auto_sms_reply">ตอบกลับทาง SMS</string>
     <string name="drive_mode_only_contact_reply">ตอบกลับไปยังรายชื่อ</string>
     <string name="drive_mode_auto_sms_reply_content">"ไม่สามารถคุยได้ในตอนนี้... จะติดต่อกลับภายหลัง"</string>
     <string name="drive_mode_auto_sms_reply_content_title">ตอบกลับด่วน</string>
-    <string name="clear_activities_summary">Use this app for some operations by default</string>
+    <string name="clear_activities_summary">ใช้แอพพลิเคชั่นนี่เพื่อการทำงานบางอย่างเป็นค่าเริมต้น</string>
     <string name="permission_detail_info">รายละเอียดที่ได้รับอนุญาต</string>
     <string name="permission_detail_info_summary">อนุญาติ: ความปลอดภัย %1$d，ความเป็นส่วนตัว %2$d，อื่นๆ %3$d</string>
     <string name="permission_manage">จัดการอนุญาต</string>
@@ -2390,7 +2390,7 @@ Get the driver at http://miui.com/mac"</string>
     <string name="application_item_disable">ปฏิเสธ</string>
     <string name="application_item_permission">อนุญาต</string>
     <string name="application_item_already_permission">อนุญาตให้</string>
-    <string name="application_forbid_auto_startup">Forbid %s from starting in background</string>
+    <string name="application_forbid_auto_startup">ห้าม %s จากการเปิดในพื้นหลัง</string>
     <string name="floating_window_switch_label">แสดงหน้าต่างป๊อปอัพ</string>
     <string name="floating_window_switch_label_disable">ซ่อนหน้าต่างป๊อปอัพ</string>
     <string name="app_floating_window_dlg_enable">"Enabling of %1$s's floating window settings requires the app to restart. You can also manually stop running the application yourself. 
