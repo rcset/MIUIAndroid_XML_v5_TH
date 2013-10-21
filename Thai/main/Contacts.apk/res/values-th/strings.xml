@@ -67,7 +67,7 @@
     <string name="config_export_dir">/mnt/sdcard</string>
     <string name="config_export_file_extension">vcf</string>
     <string name="launcherDialer">โทรศัพท์</string>
-    <string name="people">บุคคล</string>
+    <string name="people">รายชื่อ</string>
     <string name="contactsList">รายชื่อในสมุดโทรศัพท์</string>
     <string name="shortcutContact">สมุดโทรศัพท์</string>
     <string name="shortcutDialContact">โทรโดยตรง</string>
