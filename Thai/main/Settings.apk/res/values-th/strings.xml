@@ -2393,13 +2393,13 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="application_forbid_auto_startup">ห้าม %s จากการเปิดในพื้นหลัง</string>
     <string name="floating_window_switch_label">แสดงหน้าต่างป๊อปอัพ</string>
     <string name="floating_window_switch_label_disable">ซ่อนหน้าต่างป๊อปอัพ</string>
-    <string name="app_floating_window_dlg_enable">"Enabling of %1$s's floating window settings requires the app to restart. You can also manually stop running the application yourself. 
-Are you sure you want to enable?"</string>
-    <string name="app_floating_window_dlg_disable">"Disabling of %1$s's floating window settings will stop the app forcibly. You can also manually open app.
-Are you sure you want to disable?"</string>
+    <string name="app_floating_window_dlg_enable">"การเปิดการตั้งค่าหน้าต่างของ %1$s เพื่อปล่อยให้ทำงานเองต้องเปิดแอพพลิเคชั่นใหม่อีกครั้ง คุณสามารถหยุดการทำงานของแอพพลิเคชั่นได้ด้วยตัวคุณเอง  
+คุณต้องการเปิดการทำงานหรือไม่?""</string>
+    <string name="app_floating_window_dlg_disable">"การปิดการตั้งค่าหน้าต่างของ %1$s เพื่อปล่อยให้ทำงานเองนั้นจะหยุดการบังคับแอพพลิเคชั่น คุณสามารถเปิดแอพพลิเคชั่นได้ด้วยตัวคุณเอง
+ุณต้องการปิดการทำงานหรือไม่?"</string>
     <string name="wps_category">WPS</string>
     <string name="wps_connect_title">เชื่อมต่อ WPS</string>
-    <string name="wps_connect_summary">Make sure the router supports and has enabled WPS</string>
+    <string name="wps_connect_summary">ต้องแน่ใจว่าเราเตอร์สนับสนุนและเปิดการทำงาน WPS</string>
     <string name="retry">ลองอีกครั้ง</string>
     <string name="brightness_auto_adjust_off">ความสว่างหน้าจอจะคงที่ในทุกสภาพแวดล้อม</string>
     <string name="brightness_auto_adjust_on">ความสว่างหน้าจอจะเปลี่ยนแปลงตามสภาพแวดล้อม</string>
@@ -2413,8 +2413,8 @@ Are you sure you want to disable?"</string>
     <string name="sim_status_title">สถานะ SIM</string>
     <string name="slot_status_title">ข้อมูล IMEI</string>
     <string name="next_button_label">ต่อไป</string>
-    <string name="internal_media_format_final_desc">"Erase the Internal storage, deleting all files stored there? You can't reverse this action! Phone will restart after Internel storage is erased!"</string>
-    <string name="internal_media_format_desc">Erase all Internal storage? You will lose <b>all</b> stored data, and then phone will restart!</string>
+    <string name="internal_media_format_final_desc">"ล้างที่หน่วยความจำภายใน ลบไฟล์ทั้งหมดที่จัดเก็บหรือไม่ คุณไม่สามารถย้อนกลับการกระทำนี้ได้ โทรศัพท์จะเปิดเครื่องใหม่อีกครั้ง หลังจากล้างหน่วยความจำภายในแล้ว"</string>
+    <string name="internal_media_format_desc">ล้างหน่วยความจำภายใน คุณจะสูญเสียข้อมูลที่จัดเก็บ <b>ทั้งหมด</b> แล้วโทรศัพท์จะทำการเปิดเครื่องใหม่อีกครั้ง</string>
     <string name="internal_media_format_button_text">ลบหน่วยความจำภายใน</string>
     <string name="internal_media_format_title">ลบหน่วยความจำภายใน</string>
     <string name="internal_format">ลบหน่วยควาจำภายใน</string>
