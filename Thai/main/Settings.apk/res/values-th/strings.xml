@@ -1841,9 +1841,9 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="perm_hips_network_recv">รับข้อมูล</string>
     <string name="perm_hips_network_send">ส่งข้อมูล</string>
     <string name="perm_hips_root">ROOT</string>
-    <string name="perm_hips_root_desc">คำขอสิทธิ์การใช้งาน ROOT</string>
-    <string name="perm_hips_root_desc_stable">Unavailable in MIUI Stable</string>
-    <string name="perm_hips_root_hint">%1$s แอปยอมรับเข้าถึงสิทธิ์ ROOT</string>
+    <string name="perm_hips_root_desc">คำขออนุญาติใช้งาน ROOT</string>
+    <string name="perm_hips_root_desc_stable">ไม่พร้อมใช้งานใน MIUI ไม่เสถียร</string>
+    <string name="perm_hips_root_hint">%1$s แอปยอมรับอนุญาติ ROOT</string>
     <string name="perm_hips_send_sms_recipient">ผู้รับ:</string>
     <string name="perm_hips_send_sms_content">เนื้อหา:</string>
     <string name="perm_hips_send_sms_smsc">ศูนย์รวม SMS:</string>
@@ -1980,7 +1980,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="search_power_mode">โหมดเปิดเครื่อง</string>
     <string name="debug_log">ประสบการณ์การใช้งาน</string>
     <string name="upload_debug_log_title">ประสบการณ์การใช้งาน</string>
-    <string name="upload_debug_log_summary">อัปโหลดแฟ้มบันทึกการดีบักเมื่อการเชื่อมต่อ Wi-fi ช่วย MIUI พัฒนา ROMดีขึ้น</string>
+    <string name="upload_debug_log_summary">อัปโหลดแฟ้มบันทึกการดีบักเมื่อการเชื่อมต่อ Wi-fi ช่วย MIUI พัฒนารอมให้ดีขึ้น</string>
     <string name="device_miui_version">เวอร์ชัน MIUI</string>
     <string name="device_cpu">ซีพียู</string>
     <string name="device_memory">หน่วยความจำ</string>
