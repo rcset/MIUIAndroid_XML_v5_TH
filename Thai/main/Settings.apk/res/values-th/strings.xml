@@ -1983,11 +1983,11 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="upload_debug_log_summary">อัปโหลดแฟ้มบันทึกการดีบักเมื่อการเชื่อมต่อ Wi-fi ช่วย MIUI พัฒนารอมให้ดีขึ้น</string>
     <string name="device_miui_version">เวอร์ชัน MIUI</string>
     <string name="device_cpu">ซีพียู</string>
-    <string name="device_memory">หน่วยความจำ</string>
+    <string name="device_memory">แรม</string>
     <string name="device_internal_memory">หน่วยความจำภายใน</string>
     <string name="device_sd_memory">การ์ดความจำ</string>
-    <string name="device_cpu2_info">ดูอัลคอร์</string>
-    <string name="device_cpu4_info">ควอดคอร์</string>
+    <string name="device_cpu2_info">Dual-Core</string>
+    <string name="device_cpu4_info">Quad-Core</string>
     <string name="available_size">เหลือ %s</string>
     <string name="total_size">ทั้งหมด %s</string>
     <string name="memory_title">ว่าง %1$s\u0009\u0009ทั้งหมด %2$s</string>
