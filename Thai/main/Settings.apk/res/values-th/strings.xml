@@ -1790,7 +1790,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="config_mtp_function_name">mtp</string>
     <string name="config_ptp_function_name">ptp</string>
     <string name="config_mass_storage_function_name">แหล่งข้อมูลภายนอก</string>
-    <string name="perm_app_name">สิทธิ์</string>
+    <string name="perm_app_name">อนุญาติ</string>
     <string name="perm_copyright">ขับเคลื่อนโดย LBE Privacy Guard</string>
     <string name="perm_version">เวอร์ชัน %1$s</string>
     <string name="perm_configuration">การตั้งค่า</string>
