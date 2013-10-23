@@ -133,7 +133,7 @@
     <string name="reboot_progress">กำลังรีสตาร์ท...</string>
     <string name="reverse_all">ลบทั้งหมด</string>
     <string name="safetylegal_activity_unreachable">โทรศัพท์ของคุณไม่ได้เชื่อมต่อกับบริการข้อมูล หากต้องการดูข้อมูลนี้ กรุณาเปิดคอมพิวเตอร์ที่เชื่อมต่อกับอินเทอร์เน็ตไปที่ %s.</string>
-    <string name="screen_button_notification_text">"กด 'โฮม'+'ปุ่มเปิดเครื่อง' เพื่อใช้งาน"</string>
+    <string name="screen_button_notification_text">"กด 'ปุ่มโฮม'+'ปุ่มเปิดเครื่อง' เพื่อใช้งาน"</string>
     <string name="screen_button_notification_title">ปุ่มหน้าจอปิดใช้งาน</string>
     <string name="screen_on_proximity_sensor_hint">เคล็ดลับ: กดปุ่มปิดเครื่องค้างไว้ เพื่อออกจากโหมดป้องกันการใช้งานแบบไม่ตั้งใจ ตั้งค่าใน - ตั้งค่าหน้าจอเพื่อปิดใช้งาน</string>
     <string name="screen_on_proximity_sensor_summary">ขณะนี้อยู่ในโหมดป้องกันการใช้งานแบบไม่ตั้งใจ การทำงานของโทรศัพท์จะถูกป้องกัน!</string>
@@ -172,7 +172,7 @@
     <string name="user_agreement2">ข้อตกลงผู้ใช้</string>
     <string name="user_agreement3">" และ "</string>
     <string name="user_agreement4">นโยบายความเป็นส่วนตัว</string>
-    <string name="user_agreement5">, กด ตกลง เพื่อยืนยันว่าคุณยอมรับ และยินยอมที่จะทำตามข้อตกลงตามเนื้อหาข้างบน กด ยกเลิก เพื่อออก.</string>
+    <string name="user_agreement5"> กด ตกลง เพื่อยืนยันว่าคุณยอมรับ และยินยอมที่จะทำตามข้อตกลงตามเนื้อหาข้างบน กด ยกเลิก เพื่อออก</string>
     <string name="v5_date_picker_label_day" />
     <string name="v5_date_picker_label_month" />
     <string name="v5_date_picker_label_year" />
@@ -204,7 +204,7 @@
     <string name="lockscreen_access_pattern_cell_added">เพิ่มเซลล์</string>
     <string name="lockscreen_access_pattern_detected">รูปแบบเสร็จสมบูรณ์</string>
     <string name="lockscreen_transport_prev_description">ปุ่มก่อนหน้า</string>
-    <string name="lockscreen_transport_play_description">ปุ่ม Play</string>
+    <string name="lockscreen_transport_play_description">ปุ่มเล่น</string>
     <string name="lockscreen_emergency_call">โทรฉุกเฉิน</string>
     <string name="unlockscreen_recharging_message">กำลังชาร์จ %d%%</string>
     <string name="unlockscreen_recharge_completed">ชาร์จเรียบร้อย</string>
@@ -234,7 +234,7 @@
     <string name="unlockscreen_low_battery">เสียบสายชาร์จของคุณ</string>
     <string name="send">ส่ง</string>
     <string name="share">แบ่งปัน</string>
-    <string name="perm_data_update_lab">อับเดทข้อมูล</string>
+    <string name="perm_data_update_lab">อัปเดตข้อมูล</string>
     <string name="perm_data_update_dspt">อนุญาติให้ส่งข้อมูลอัปเดตลายน้ำ</string>
     <string name="device_xiaomi">โทรศัพท์ Xiaomi</string>
     <string name="miui_device_name">Android</string>
