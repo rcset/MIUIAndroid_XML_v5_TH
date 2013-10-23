@@ -4,7 +4,7 @@
     <string name="status_bar_recent_remove_item_title">ลบออกจากรายการ</string>
     <string name="status_bar_recent_inspect_item_title">ข้อมูลแอปพลิเคชัน</string>
     <string name="status_bar_no_recent_apps">ไม่มีแอปพลิเคชันล่าสุด</string>
-    <string name="status_bar_recent_guide_all">เลื่อนขึ้นเพื่อปิด, เลื่อนลงเพื่อล็อค</string>
+    <string name="status_bar_recent_guide_all">เลื่อนขึ้นเพื่อปิด เลื่อนลงเพื่อล็อค</string>
     <string name="status_bar_recent_guide_top">เลื่อนขึ้นเพื่อปิด</string>
     <string name="status_bar_recent_guide_bottom">เลื่อนลงเพื่อล็อค</string>
     <string name="battery_low_title">เสียบสายชาร์จ</string>
@@ -48,8 +48,8 @@
     <string name="screenshot_saved_text">แตะเพื่อดูภาพหน้าจอ</string>
     <string name="screenshot_failed_title">ไม่สามารถจับภาพหน้าจอ</string>
     <string name="screenshot_failed_text">ไม่สามารถบันทึกภาพหน้าจอ ที่เก็บข้อมูลอาจถูกใช้อยู่</string>
-    <string name="accessibility_back">กลับ</string>
-    <string name="accessibility_home">หน้าแรก</string>
+    <string name="accessibility_back">ย้อนกลับ</string>
+    <string name="accessibility_home">โฮม</string>
     <string name="accessibility_menu">เมนู</string>
     <string name="accessibility_recent">แอปพลิเคชันล่าสุด</string>
     <string name="accessibility_ime_switch_button">ปุ่มสลับวิธีป้อนข้อมูล</string>
@@ -114,7 +114,7 @@
     <string name="description_direction_left">ลากทางซ้ายเพื่อ %s</string>
     <string name="description_target_search">ค้นหา</string>
     <string name="tab_notifications_lable">การแจ้งเตือน</string>
-    <string name="tab_toggles_lable">Toggles</string>
+    <string name="tab_toggles_lable">ทางลัด</string>
     <string name="status_bar_time_format_12">h:mma</string>
     <string name="status_bar_time_format_24">HH:mm</string>
     <string name="status_bar_date_format">"E
