@@ -72,7 +72,7 @@
     <string name="preferences_title">การตั้งค่าตัวเรียกใช้</string>
     <string name="preferences_general_title">การตั้งค่าทั่วไป</string>
     <string name="pref_keep_in_memory_title">เก็บไว้ในหน่วยความจำ</string>
-    <string name="pref_keep_in_memory_summary">ปล่อยให้ลันเชอร์ทำงานเมื่อหน่วยความจำอยู่ในระดับต่ำ</string>
+    <string name="pref_keep_in_memory_summary">ปล่อยให้ตัวเรียกใช้ทำงานเมื่อหน่วยความจำอยู่ในระดับต่ำ</string>
     <string name="pref_render_in_truecolor_title">กราฟิกคุณภาพสูง</string>
     <string name="pref_render_in_truecolor_summary">การปิดตัวเลือกนี้จะช่วยเพิ่มประสิทธิภาพการวาดภาพ</string>
     <string name="pref_enable_drawing_cache_title">วาดแคช</string>
@@ -91,7 +91,7 @@
     <string name="pref_wallpaper_scroll_type_title">การเลื่อนวอลล์เปเปอร์</string>
     <string name="pref_cell_layout_size">ตารางไอคอน</string>
     <string name="pref_keep_layout_title">เก็บรูปแบบล่าสุด</string>
-    <string name="pref_keep_layout_summary">การเปลี่ยนรูปแบบไอคอนอาจทำลายรูปแบบเดสก์ทอปของคุณ</string>
+    <string name="pref_keep_layout_summary">การเปลี่ยนรูปแบบไอคอนอาจลบรูปแบบเดสก์ทอปของคุณ</string>
     <string name="widget_gadget_player">เพลง</string>
     <string name="buffering">กำลังบัฟเฟอร์ ...</string>
     <string name="emptyplaylist">เพลย์ลิสว่างเปล่า</string>
