@@ -308,7 +308,7 @@
     <string name="progress_error_pay_title">การชำระเงินล้มเหลว"</string>
     <string name="progress_warning_waiting">กำลังปรับปรุงการเปลี่ยนแปลงของบัญชี โปรดลองอีกครั้งในภายหลัง"</string>
     <string name="progress_warning_contact_server">ข้อความไม่ได้ส่ง แต่จะถูกส่งไปเร็ว ๆ นี้: 1 ติดต่อฝ่ายบริการลูกค้า: %1$s 2 บอกหมายเลขนี้: %2$s"</string>
-    <string name="progress_warning_check">ยังไม่ได้อัพเดต! เราจะตรวจสอบให้คุณ ภายในสองวันทำการ"</string>
+    <string name="progress_warning_check">ยังไม่ได้อัปเดต! เราจะตรวจสอบให้คุณ ภายในสองวันทำการ"</string>
     <string name="btn_back">ย้อนกลับ"</string>
     <string name="btn_recharge_other">วิธีการเติมเงินอื่น ๆ"</string>
     <string name="btn_call">ติดต่อฝ่ายช่วยเหลือลูกค้า"</string>
@@ -339,7 +339,7 @@
     <string name="unbind">ถอนการอนุญาต"</string>
     <string name="update_contacts">ปรับปรุงรายชื่อผู้ติดต่อ"</string>
     <string name="update_contacts_description">ปรับปรุงรายชื่อผู้ติดต่อและข้อมูลอื่น ๆ ของคุณ"</string>
-    <string name="updated_contacts">อัพเดต %s รายชื่อผู้ติดต่อ"</string>
+    <string name="updated_contacts">อัปเดต %s รายชื่อผู้ติดต่อ"</string>
     <string name="updated_nothing">ไม่มีอะไรอัพเดท!"</string>
     <string name="process_result">ผลลัพธ์:"</string>
     <string name="access_token_expired_warning">บัญชี Weibo หมดอายุแล้ว โปรดเชื่อมต่อ"</string>
