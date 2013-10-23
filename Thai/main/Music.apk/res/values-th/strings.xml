@@ -123,7 +123,7 @@
     <string name="download_batch_start">เริ่มต้นดาวน์โหลดทั้งหมด</string>
     <string name="delete_file_from_sdcard">รวมทั้งลบไฟล์จากการ์ดความจำ</string>
     <string name="recommend">แนะนำ</string>
-    <string name="billboard">บิลบอร์ดฮิต</string>
+    <string name="billboard">บิลบอร์ด</string>
     <string name="channel">FM</string>
     <string name="new_albums">อัลบัมใหม่</string>
     <string name="hot_artists">ศิลปินฮอต</string>
@@ -219,7 +219,7 @@
     <string name="correct_id3_not_support">ไม่สนับสนุนการทำให้แท็กเพลง ID3 ถูกต้องในไฟล์ประเภทนี้</string>
     <string name="batch_correct_id3_completed">ทำให้แท็กเพลง ID3 ถูกต้องเป็นชุดแล้ว</string>
     <string name="add">เพิ่ม</string>
-    <string name="artist_albums">อัลบัมทั้งหมด</string>
+    <string name="artist_albums">อัลบั้มทั้งหมด</string>
     <string name="artist_hot_audios">เพลงฮิต</string>
     <string name="more">เพิ่มเติม </string>
     <string name="album_search_local_descript">ในเครื่อง | %1$d x %2$d</string>
