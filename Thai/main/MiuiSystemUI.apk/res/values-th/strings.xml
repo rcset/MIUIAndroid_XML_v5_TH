@@ -210,7 +210,7 @@ yyyy.M.d"</string>
     <string name="recent_apps_key_show">แสดงปุ่มแอปพลิเคชันล่าสุด</string>
     <string name="key_position_custom">ตำแหน่งปุ่มที่กำหนดเอง</string>
     <string name="screen_key_menu">ปุ่มเมนู</string>
-    <string name="screen_key_home">ปุ่มหน้าจอหลัก</string>
+    <string name="screen_key_home">ปุ่มโฮม</string>
     <string name="screen_key_recent_apps">ปุ่มแอปพลิเคชันล่าสุด</string>
     <string name="screen_key_back">ปุ่มย้อนกลับ</string>
     <string name="status_bar_network_flow_today">วันนี้ %1$s</string>
@@ -283,6 +283,6 @@ yyyy.M.d"</string>
     <string name="status_bar_toggle_power_mid">เหมาะสม</string>
     <string name="status_bar_toggle_power_high">ประสิทธิภาพ</string>
     <string name="screen_rotation_freeze_message">ล็อคการหมุนหน้าจอเป็นโหมดแนวนอน</string>
-    <string name="screen_button_disabled_message">การทำงานของปุ่มด้านล่างจอไม่สามารถใช้งานได้ กด \"ปุ่มHome\" และ \"ปุ่มปิดเครื่อง\" เพื่อให้ทำงาน</string>
+    <string name="screen_button_disabled_message">การทำงานของปุ่มด้านล่างจอไม่สามารถใช้งานได้ กด \"ปุ่มโฮม\" และ \"ปุ่มเปิดเครื่อง\" เพื่อให้ทำงาน</string>
     <string name="screen_button_enabled_message">ปุ่มด้านล่างจอใช้งานได้</string>
 </resources>
