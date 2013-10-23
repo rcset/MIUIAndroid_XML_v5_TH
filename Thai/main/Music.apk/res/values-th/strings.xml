@@ -23,13 +23,13 @@
     <string name="music_settings">การตั้งค่า</string>
     <string name="mobile_connect_settings">เครือข่ายมือถือ</string>
     <string name="download_album_settings">ดาวน์โหลดปกอัลบั้ม</string>
-    <string name="download_album_summary">Significantly increases data usage</string>
+    <string name="download_album_summary">เพิ่มการใช้งานข้อมูล</string>
     <string name="download_lyric_settings">รับเนื้อเพลง</string>
     <string name="download_lyric_summary">ใช้ข้อมูลน้อยที่สุด</string>
     <string name="listen_to_music_online_settings">สตรีมมิ่งเพลงจาก Baidu</string>
-    <string name="listen_to_online_summary">Significantly increases data usage</string>
+    <string name="listen_to_online_summary">เพิ่มการใช้งานข้อมูล</string>
     <string name="correct_id3_settings">รับข้อมูลเพลง</string>
-    <string name="correct_id3_summary">Significantly increases data usage</string>
+    <string name="correct_id3_summary">เพิ่มการใช้งานข้อมูล</string>
     <string name="player_display_settings">หน้าจอเครื่องเล่น</string>
     <string name="lyric_display_settings">แสดงเนื้อเพลง</string>
     <string name="lyric_display_summary">แสดงเนื้อเพลงที่กำลังเล่นบนหน้าจอ</string>
@@ -60,7 +60,7 @@
     <string name="shake_degree_desc">ความไวในการเขย่า</string>
     <string name="shake_degree_low">ต่ำ</string>
     <string name="shake_degree_high">สูง</string>
-    <string name="shake_while_screen_on_title">Prevent pocket skip</string>
+    <string name="shake_while_screen_on_title">ป้องกันข้ามเพลงในกระเป๋า</string>
     <string name="shake_while_screen_on_title_summary">ข้ามเมื่อเปิดหน้าจอเท่านั้น</string>
     <string name="other_settings">อื่นๆ</string>
     <string name="play_and_download">ฟังและดาวน์โหลด</string>
@@ -96,7 +96,7 @@
     <string name="unknown_artist_name">ไม่รู้จักศิลปิน</string>
     <string name="unknown_album_name">ไม่รู้จักอัลบั้ม</string>
     <string name="ringtone_menu">ใช้เป็นเสียงเรียกเข้า</string>
-    <string name="ringtone_set">\"%s\" set as phone ringtone.</string>
+    <string name="ringtone_set">\"%s\" ตั้งเป็นเสียงเรียกเข้า</string>
     <string name="ringtone_not_support">รูปแบบนี้ไม่ได้รับการสนับสนุน</string>
     <string name="play_selection">เล่น</string>
     <string name="add_to">เพิ่มไปยัง</string>
@@ -123,7 +123,7 @@
     <string name="download_batch_start">เริ่มต้นดาวน์โหลดทั้งหมด</string>
     <string name="delete_file_from_sdcard">รวมทั้งลบไฟล์จากการ์ดความจำ</string>
     <string name="recommend">แนะนำ</string>
-    <string name="billboard">Hot Billboard</string>
+    <string name="billboard">บิลบอร์ดฮิต</string>
     <string name="channel">FM</string>
     <string name="new_albums">อัลบัมใหม่</string>
     <string name="hot_artists">ศิลปินฮอต</string>
@@ -131,8 +131,8 @@
     <string name="online_search_hint">ค้นหาเพลงออนไลน์</string>
     <string name="load_channel_in_process">โหลดรายการช่อง ...</string>
     <string name="load_channel_failed">ไม่สามารถโหลดรายชื่อช่อง</string>
-    <string name="load_bill_in_process">Load billboard list...</string>
-    <string name="load_bill_failed">Failed to load Billboard List.</string>
+    <string name="load_bill_in_process">กำลังโหลดรายการบิลบอร์ด...</string>
+    <string name="load_bill_failed">โหลดรายการบิลบอร์ดล้มเหลว</string>
     <string name="load_artist_in_process">โหลดรายชื่อศิลปิน ...</string>
     <string name="load_artist_failed">ไม่สามารถโหลดรายชื่อศิลปิน</string>
     <string name="load_album_in_process">โหลดรายการอัลบั้ม ...</string>
@@ -146,8 +146,8 @@
     <string name="lrc_searching">ค้นหาเนื้อเพลง ...</string>
     <string name="lyric_open_other_connect">ดาวน์โหลดเนื้อเพลงโดยใช้การเชื่อมต่ออินเทอร์เน็ตบนมือถือ</string>
     <string name="music_open_other_connect">ดาวน์โหลดเพลงโด​​ยใช้การเชื่อมต่ออินเทอร์เน็ตบนมือถือ</string>
-    <string name="impunity_declaration_title">Declaration</string>
-    <string name="impunity_declaration">เพลงออนไลน์ที่คุณกำลังฟังมาจาก Baidu บริการเพลงออนไลน์ คลิกที่ \"ยืนยัน\" เพื่อยอมรับเงื่อนไขการใช้บริการ href=\"http://music.baidu.com/doc/agreement\"&gt; &lt;a ในการใช้งาน &lt;/ a&gt; และดำเนินการต่อ</string>
+    <string name="impunity_declaration_title">ประกาศ</string>
+    <string name="impunity_declaration">เพลงออนไลน์ที่คุณกำลังฟังมาจาก Baidu บริการเพลงออนไลน์ คลิกที่ \"ยืนยัน\" เพื่อยอมรับเงื่อนไขการใช้บริการและดำเนินการต่อ</string>
     <string name="music_filter_helper">ตัวกรองขนาดของ 800K ถูกนำมาใช้ในการซ่อนไฟล์ สามารถปรับการตั้งค่าได้ใน / ตัวกรองไฟล์</string>
     <string name="modify_meta">แก้ไขข้อมูลเพลง</string>
     <string name="id3_edit">แก้ไขข้อมูลเพลง (ID3)</string>
@@ -186,7 +186,7 @@
     <string name="modify_tracks_id3_background">การปรับเปลี่ยนข้อมูลเพลง ID3 ที่เลือกทำงานในเบื้องหลัง</string>
     <string name="shuffle_all">สลับเพลงทั้งหมด</string>
     <string name="play_all">เล่นทั้งหมด</string>
-    <string name="click_to_shuffle">คลิ๊กเพื่อสับเพลงทั้งหมด</string>
+    <string name="click_to_shuffle">แตะเพื่อสลับเพลงทั้งหมด</string>
     <string name="streamloadingtext">เชื่อมต่อไปยัง %s</string>
     <string name="playback_failed">ขออภัย เครื่องเล่นไม่สนับสนุนชนิดของไฟล์เสียงนี้</string>
     <string name="playback_failed_by_bad_file">%s ไม่สามารถเล่นได้ รูปแบบไม่สนับสนุนหรือไม่มีไฟล์อยู่</string>
