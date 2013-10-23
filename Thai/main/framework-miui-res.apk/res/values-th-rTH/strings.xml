@@ -114,7 +114,7 @@
     <string name="national_day" />
     <string name="never">ไม่เคย</string>
     <string name="new_years_day" />
-    <string name="no_sim">ไม่มี SIM บริการไม่พร้อมใช้งาน</string>
+    <string name="no_sim">ไม่มีซิม บริการไม่พร้อมใช้งาน</string>
     <string name="partys_day" />
     <string name="payphone">โทรศัพท์สาธารณะ</string>
     <string name="peace_day">Peace Day</string>
@@ -138,7 +138,7 @@
     <string name="screen_on_proximity_sensor_hint">เคล็ดลับ: กดปุ่มปิดเครื่องค้างไว้ เพื่อออกจากโหมดป้องกันการใช้งานแบบไม่ตั้งใจ ตั้งค่าใน - ตั้งค่าหน้าจอเพื่อปิดใช้งาน</string>
     <string name="screen_on_proximity_sensor_summary">ขณะนี้อยู่ในโหมดป้องกันการใช้งานแบบไม่ตั้งใจ การทำงานของโทรศัพท์จะถูกป้องกัน!</string>
     <string name="screen_on_proximity_sensor_title">ป้องการการใช้งานแบบไม่ตั้งใจ</string>
-    <string name="sd_not_available">SD card พร้อมถอดออกหรือไม่</string>
+    <string name="sd_not_available">การ์ดความจำพร้อมถอดออกหรือไม่</string>
     <string name="sd_not_available_low_internal_storage">การ์ดความจำไม่ได้ถูกเชื่อมต่อหรือไม่พร้อมใช้งาน หน่วยความจำภายในมีพื้นที่เหลือน้อย</string>
     <string name="sd_not_available_saved_to_internal_storage">บันทึกไปยังหน่วยความจำภายใน</string>
     <string name="sd_not_available_use_internal_storage">การ์ดความจำไม่พร้อมใช้งาน บันทึกไปยังหน่วยความจำภายใน</string>
@@ -146,7 +146,7 @@
     <string name="select_all">เลือกทั้งหมด</string>
     <string name="send_sms_for_sync_notice">ระบบจะส่ง SMS เพื่อเปิดใช้งาน คุณต้องการดำเนินการต่อไปหรือไม่?</string>
     <string name="send_sms_for_sync_title">ส่ง SMS เพื่อเปิดใช้งานการซิงค์</string>
-    <string name="sim_account_name">SIM</string>
+    <string name="sim_account_name">ซิม</string>
     <string name="sim_changed_reactivate_notice">ซิมการ์ดปัจจุบันยังไม่ได้เปิดใช้งาน จะต้องส่ง SMS เพื่อใช้ในการเปิดบริการการซิงค์ข้อมูลกับ Xiaomi ต้องการลองเปิดใช้บริการใหม่หรือไม่?</string>
     <string name="slight_cold" />
     <string name="slight_heat" />
