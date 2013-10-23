@@ -49,8 +49,8 @@
         <item quantity="one">เลือก %d รายการ</item>
     </plurals>
     <plurals name="Ntrack_in_sdcard_format">
-        <item quantity="other">มี %d เพลง ใน SD การ์ด</item>
-        <item quantity="one">มี %d เพลง ใน SD การ์ด</item>
+        <item quantity="other">%d เพลง ในการ์ดความจำ</item>
+        <item quantity="one">%d เพลง ในการ์ดความจำ</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
         <item quantity="other">%d เพลง เพิ่มในเพลย์ลิส</item>
@@ -65,12 +65,12 @@
         <item quantity="one">1 เพลง ออกจากเพลย์ลิส</item>
     </plurals>
     <plurals name="Nsearch_results">
-        <item quantity="other">%d ผลลัพธื</item>
-        <item quantity="one">%d ผลลัพธื</item>
+        <item quantity="other">%d ผลค้นหา</item>
+        <item quantity="one">%d ผลค้นหา</item>
     </plurals>
     <plurals name="Nonlinecategory">
-        <item quantity="other">" categories"</item>
-        <item quantity="one">" category"</item>
+        <item quantity="other">" หมวดหมู่"</item>
+        <item quantity="one">" หมวดหมู่"</item>
     </plurals>
     <plurals name="album_details_format">
         <item quantity="other">%1$s, %2$d เพลง</item>
