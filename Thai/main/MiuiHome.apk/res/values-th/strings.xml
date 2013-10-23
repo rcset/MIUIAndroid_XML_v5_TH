@@ -72,8 +72,8 @@
     <string name="preferences_title">การตั้งค่าตัวเรียกใช้</string>
     <string name="preferences_general_title">การตั้งค่าทั่วไป</string>
     <string name="pref_keep_in_memory_title">เก็บไว้ในหน่วยความจำ</string>
-    <string name="pref_keep_in_memory_summary">ปล่อยให้ตัวเรียกใช้ทำงานเมื่อหน่วยความจำอยู่ในระดับต่ำ</string>
-    <string name="pref_render_in_truecolor_title">กราฟิกคุณภาพสูง</string>
+    <string name="pref_keep_in_memory_summary">ปล่อยให้ตัวเรียกใช้ทำงานเมื่อหน่วยความจำต่ำ</string>
+    <string name="pref_render_in_truecolor_title">กราฟฟิกคุณภาพสูง</string>
     <string name="pref_render_in_truecolor_summary">การปิดตัวเลือกนี้จะช่วยเพิ่มประสิทธิภาพการวาดภาพ</string>
     <string name="pref_enable_drawing_cache_title">วาดแคช</string>
     <string name="pref_enable_drawing_cache_summary">ปิดเพื่อเพิ่มหน่วยความจำ (อาจก่อให้เกิดความล่าช้า)</string>
