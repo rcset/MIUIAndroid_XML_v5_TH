@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">ธีม</string>
     <string name="theme_import_activity_label">อัปเดตธีม</string>
-    <string name="theme_changing_dialog_title">กำลังปรับใช้ธีม, กรุณารอสักครู่...</string>
+    <string name="theme_changing_dialog_title">กำลังปรับใช้ธีม กรุณารอสักครู่...</string>
     <string name="theme_changed_message">ปรับใช้ธีม %1$s เสร็จแล้ว</string>
     <string name="theme_changed_failed_message">การปรับใช้ธีม %1$s ล้มเหลว</string>
     <string name="backup_preference_title">แบคอัพธีม</string>
@@ -92,8 +92,8 @@
     <string name="theme_import_item_delete_request_title">อัปเกรดธีมล้มเหลว</string>
     <string name="theme_import_item_delete_request_content">แพคเกจธีมไม่อัปเกรด คุณสามารถใช้งานได้หลังจากทำการอัปเกรดหรือลบธีมแล้ว</string>
     <string name="theme_import_item_delete_request_button">ลบ</string>
-    <string name="theme_import_item_reject_use">อยู่ในกระบวนการอัปเกรดธีม, กรุณารอสักครู่</string>
-    <string name="theme_another_import_running">มีกระบวนการนำเข้าอื่นกำลังทำงานอยู่, กรุณาลองอีกครั้งในภายหลัง</string>
+    <string name="theme_import_item_reject_use">อยู่ในกระบวนการอัปเกรดธีม กรุณารอสักครู่</string>
+    <string name="theme_another_import_running">มีกระบวนการนำเข้าอื่นกำลังทำงานอยู่ กรุณาลองอีกครั้งในภายหลัง</string>
     <string name="theme_is_imported">นำเข้าธีม!</string>
     <string name="theme_import_new_download">กำลังนำเข้า ...</string>
     <string name="theme_import_fail">การนำเข้าธีม %1$s ล้มเหลว</string>
@@ -103,13 +103,13 @@
     <string name="theme_batch_update_all">อัปเดตทั้งหมด</string>
     <string name="theme_batch_update_dlg_title">อัปเดต</string>
     <string name="theme_batch_update_dlg_content">คุณต้องการอัปเดตตอนนี้หรือไม่?</string>
-    <string name="theme_current_using_has_update">ธีมล่าสุดได้รับการปรับปรุง, คลิ๊กที่นี่เพื่อปรับใช้</string>
-    <string name="theme_immediately_apply_tip">ธีมได้รับการปรับปรุงแล้ว, ปรับใช้ขณะนี้หรือไม่?</string>
+    <string name="theme_current_using_has_update">ธีมล่าสุดได้รับการปรับปรุง คลิ๊กที่นี่เพื่อปรับใช้</string>
+    <string name="theme_immediately_apply_tip">ธีมได้รับการปรับปรุงแล้ว ปรับใช้ขณะนี้หรือไม่?</string>
     <string name="theme_name">%1$s</string>
     <string name="resource_comment_sending">ส่งความคิดเห็น ...</string>
     <string name="resource_comment_upload_failed">ไม่สามารถส่งความคิดเห็น</string>
     <string name="resource_comment_upload_success">ส่งความคิดเห็นแล้ว! จะแสดงหลังจากผ่านการตรวจ</string>
-    <string name="resource_comment_upload_data_invalid">ขออภัย, ความคิดเห็นไม่สมบูรณ์</string>
+    <string name="resource_comment_upload_data_invalid">ขออภัย ความคิดเห็นไม่สมบูรณ์</string>
     <string name="resource_comment_upload_not_logined">ไม่ได้เข้าสู่ระบบ!</string>
     <string name="resource_comment_upload_not_bought">คุณต้องใช้ธีม ก่อนแสดงความคิดเห็น</string>
     <string name="resource_comment_invalid">แตะดาวเพื่อให้คะแนน</string>
@@ -182,17 +182,17 @@
     <string name="resource_list_title">เลือกล่าสุด</string>
     <string name="resource_get_auth_checking">กำลังตรวจสอบสิทธิ์เข้าใช้งาน...</string>
     <string name="resource_get_auth_retrieving">กำลังเรียกหาสิทธิ์เข้าใช้งาน...</string>
-    <string name="resource_get_auth_missing">ธีมไม่ได้ดาวน์โหลดจากธีมมาร์เก็ต, กรุณาดาวน์โหลดจากธีมมาร์เก็ต</string>
+    <string name="resource_get_auth_missing">ธีมไม่ได้ดาวน์โหลดจากธีมมาร์เก็ต กรุณาดาวน์โหลดจากธีมมาร์เก็ต</string>
     <string name="resource_get_auth_exceed_max_limit_title">ถึงขีดจำกัดสิทธิ์เข้าใช้งาน</string>
     <string name="resource_get_auth_exceed_max_limit_tips">ธีมไม่สามารถทำงานบนอุปกรณ์ล่าสุด คุณได้ใช้บัญชี Xiaomi มากถึง 10 บัญชี กรุณาใช้บัญชีอื่น </string>
-    <string name="resource_server_out_of_service">ไม่พบเซริฟเวอร์, กรุณาลองอีกครั้งในภายหลัง</string>
+    <string name="resource_server_out_of_service">ไม่พบเซริฟเวอร์ กรุณาลองอีกครั้งในภายหลัง</string>
     <string name="resource_switch_account">สลับ</string>
     <string name="deleting">กำลังลบ ...</string>
     <string name="resource_title_select_ringtone">เลือกเสียงเรียกเข้า</string>
     <string name="resource_tip_select_ringtone">ไม่มีริงโทนถูกเลือก</string>
     <string name="loading_resource_detail_info">กำลังโหลด ...</string>
     <string name="loading_resource_detail_fail">ไม่สามารถโหลดแหล่งข้อมูล!</string>
-    <string name="account_abnormal_state">ข้อมูลบัญชีผิดพลาด, กรุณาลองเข้าระบบอีกครั้ง</string>
+    <string name="account_abnormal_state">ข้อมูลบัญชีผิดพลาด กรุณาลองเข้าระบบอีกครั้ง</string>
     <string name="component_lockstyle_personal_title">การตั้งค่า</string>
     <string name="mi_wallpaper_loading">กำลังโหลดวอลเปเปอร์ ...</string>
     <string name="mi_wallpaper_title">วอลเปเปอร์</string>
