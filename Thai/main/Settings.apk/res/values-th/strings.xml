@@ -1790,7 +1790,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="config_mtp_function_name">mtp</string>
     <string name="config_ptp_function_name">ptp</string>
     <string name="config_mass_storage_function_name">แหล่งข้อมูลภายนอก</string>
-    <string name="perm_app_name">อนุญาติ</string>
+    <string name="perm_app_name">อนุญาต</string>
     <string name="perm_copyright">ขับเคลื่อนโดย LBE Privacy Guard</string>
     <string name="perm_version">เวอร์ชัน %1$s</string>
     <string name="perm_configuration">การตั้งค่า</string>
@@ -1841,9 +1841,9 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="perm_hips_network_recv">รับข้อมูล</string>
     <string name="perm_hips_network_send">ส่งข้อมูล</string>
     <string name="perm_hips_root">ROOT</string>
-    <string name="perm_hips_root_desc">คำขออนุญาติใช้งาน ROOT</string>
+    <string name="perm_hips_root_desc">คำขออนุญาตใช้งาน ROOT</string>
     <string name="perm_hips_root_desc_stable">ไม่พร้อมใช้งานใน MIUI ไม่เสถียร</string>
-    <string name="perm_hips_root_hint">%1$s แอปยอมรับอนุญาติ ROOT</string>
+    <string name="perm_hips_root_hint">%1$s แอปยอมรับอนุญาต ROOT</string>
     <string name="perm_hips_send_sms_recipient">ผู้รับ:</string>
     <string name="perm_hips_send_sms_content">เนื้อหา:</string>
     <string name="perm_hips_send_sms_smsc">ศูนย์รวม SMS:</string>
@@ -1870,7 +1870,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="perm_hips_allow_all">ยอมรับทั้งหมด</string>
     <string name="perm_hips_prompt_all">รับทั้งหมด</string>
     <string name="perm_hips_reject_all">ปฏิเสธทั้งหมด</string>
-    <string name="perm_hips_root_title">อนุญาติ ROOT</string>
+    <string name="perm_hips_root_title">อนุญาต ROOT</string>
     <string name="perm_hips_listen_call_state">ตรวจสอบสถานะการโทร</string>
     <string name="perm_hips_get_call_state">รับสถานะการโทรล่าสุด</string>
     <string name="perm_hips_end_call">วางสายล่าสุด</string>
@@ -1897,36 +1897,36 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="perm_app">แอป</string>
     <string name="perm_log">บันทึก</string>
     <string name="perm_header">ตรวจสอบ %1$d แอป</string>
-    <string name="perm_header_disabled">การตรวจสอบอนุญาติถูกปิดใช้งาน</string>
-    <string name="perm_su_switch">อนุญาติ ROOT</string>
-    <string name="perm_su">จัดการอนุญาติ ROOT</string>
-    <string name="perm_su_desc">กำลังตรวจสอบ %1$d แอป เพื่ออนุญาติ ROOT</string>
-    <string name="perm_su_desc1">จัดการอนุญาติ ROOT</string>
-    <string name="perm_su_disabled">อนุญาติ ROOT ถูกปิดใช้งาน</string>
+    <string name="perm_header_disabled">การตรวจสอบอนุญาตถูกปิดใช้งาน</string>
+    <string name="perm_su_switch">อนุญาต ROOT</string>
+    <string name="perm_su">จัดการอนุญาต ROOT</string>
+    <string name="perm_su_desc">กำลังตรวจสอบ %1$d แอป เพื่ออนุญาต ROOT</string>
+    <string name="perm_su_desc1">จัดการอนุญาต ROOT</string>
+    <string name="perm_su_disabled">อนุญาต ROOT ถูกปิดใช้งาน</string>
     <string name="perm_su_disabled_in_stable">ROOT ไม่สามารถใช้ได้ใน MIUI</string>
-    <string name="perm_su_disabled_in_stable_desc">"อนุญาติ ROOT แอป 3rd-party อาจจะทำให้ระบบไม่เสถียร ข้อมูลส่วนตัว ระบบ หรือฮาร์ดแวร๋จะได้รับความเสียหาย
+    <string name="perm_su_disabled_in_stable_desc">"อนุญาต ROOT แอป 3rd-party อาจจะทำให้ระบบไม่เสถียร ข้อมูลส่วนตัว ระบบ หรือฮาร์ดแวร๋จะได้รับความเสียหาย
 
-กรุณาสลับไปใช้เวอร์ชันนักพัฒนา MIUI เพื่อใช้งานอนุญาติ ROOT"</string>
-    <string name="perm_su_disabled_desc">อนุญาติ ROOT แอป 3rd-party อาจจะทำให้ระบบไม่เสถียร ข้อมูลส่วนตัว ระบบ หรือฮาร์ดแวร๋จะได้รับความเสียหาย กรุณาทำความเข้าใจกับการอนุญาติ ROOT</string>
+กรุณาสลับไปใช้เวอร์ชันนักพัฒนา MIUI เพื่อใช้งานอนุญาต ROOT"</string>
+    <string name="perm_su_disabled_desc">อนุญาต ROOT แอป 3rd-party อาจจะทำให้ระบบไม่เสถียร ข้อมูลส่วนตัว ระบบ หรือฮาร์ดแวร๋จะได้รับความเสียหาย กรุณาทำความเข้าใจกับการอนุญาต ROOT</string>
     <string name="perm_su_disabled_in_stable_download">ดาวน์โหลด MIUI</string>
-    <string name="perm_hips_switch">จัดการอนุญาติการใช้งาน</string>
-    <string name="perm_hips">จัดการอนุญาติการใช้งานแอป</string>
+    <string name="perm_hips_switch">จัดการอนุญาตการใช้งาน</string>
+    <string name="perm_hips">จัดการอนุญาตการใช้งานแอป</string>
     <string name="perm_hips_desc">กำลังตรวจสอบแอป %1$d เพื่อความปลอดภัยและความเป็นส่วนตัว</string>
     <string name="perm_hips_desc1">กำลังตรวจสอบแอปเพื่อความปลอดภัยและความเป็นส่วนตัว</string>
     <string name="perm_hips_desc2">กำลังตรวจสอบแอป %1$d เพื่อความปลอดภัยและความเป</string>
-    <string name="perm_hips_risky">อนุญาติการใช้งานเสี่ยง (%1$d)</string>
-    <string name="perm_hips_safe">อนุญาติการใช้งานปกติ (%1$d)</string>
+    <string name="perm_hips_risky">อนุญาตการใช้งานเสี่ยง (%1$d)</string>
+    <string name="perm_hips_safe">อนุญาตการใช้งานปกติ (%1$d)</string>
     <string name="perm_auto_start">จัดการเปิดแอปอัตโนมัติ</string>
     <string name="perm_auto_start_desc">เปิดหรือปิดการใช้งานแอปอัตโนมัติ</string>
-    <string name="perm_hips_disable_title">จัดการอนุญาติการใช้งาน</string>
+    <string name="perm_hips_disable_title">จัดการอนุญาตการใช้งาน</string>
     <string name="perm_hips_disable_content">"ปิดการใช้งาน MIUI จากกาตรวจสอบคำขอแอปพลิเคชันและรักษาความปลอดภัยข้อมูลและความเป็นส่วนตัว เริ่มต่อ?"</string>
-    <string name="perm_su_enable_title">การอนุญาติ ROOT</string>
-    <string name="perm_su_enable_content">"เปิดใช้งานอนุญาติแอปเพื่อใช้งานอนุญาติ ROOT
-หมายเหตุ: การอนุญาติแอป อาจจะทำให้ระบบไม่เสถียร ข้อมูลสูญหาย ระบบ และเกิดความเสียหายกับฮาร์แวร์ เริ่มต่อเพื่อเปิดใช้งาน?"</string>
+    <string name="perm_su_enable_title">การอนุญาต ROOT</string>
+    <string name="perm_su_enable_content">"เปิดใช้งานอนุญาตแอปเพื่อใช้งานอนุญาต ROOT
+หมายเหตุ: การอนุญาตแอป อาจจะทำให้ระบบไม่เสถียร ข้อมูลสูญหาย ระบบ และเกิดความเสียหายกับฮาร์แวร์ เริ่มต่อเพื่อเปิดใช้งาน?"</string>
     <string name="perm_log_clear_title">ล้างบันทึกการใช้งาน</string>
     <string name="perm_log_clear_content">บันทึการใช้งานทั้งหมดจะถูกลบ ดำเนินการต่อ?</string>
-    <string name="perm_privacy_count">อนุญาติ: %1$d ปฎิเสธ: %2$d</string>
-    <string name="perm_privacy_app_count">%1$d อนุญาติการใช้งาน</string>
+    <string name="perm_privacy_count">อนุญาต: %1$d ปฎิเสธ: %2$d</string>
+    <string name="perm_privacy_app_count">%1$d อนุญาตการใช้งาน</string>
     <string name="perm_privacy_app_trust_summary">เชื่อถือ</string>
     <string name="perm_privacy_app_trust">เชื่อถือแอปนี้</string>
     <string name="perm_privacy_app_trust_summary_off">MIUI ตรวจสอบแอปนี้</string>
@@ -1942,14 +1942,14 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="perm_sysopt_boost_boot">บูต</string>
     <string name="perm_sysopt_boost_receiver">พื้นหลัง</string>
     <string name="perm_sysopt_boost_auto_start_group">เปิดแอปอัตโนมัติ</string>
-    <string name="perm_sysopt_boost_auto_start">อนุญาติเปิดแอปอัตโนมัติ</string>
-    <string name="perm_sysopt_boost_auto_start_summary">อนุญาติการใช้งานเปิดแอปอัตโนมัติ</string>
-    <string name="perm_su_enable_dialog">%1$s กำลังพยายามขออนุญาติ ROOT ซึ่งถูกปิดใช้งานเป็นค่าเริ่มต้นเพื่อความปลอดภัย หากคุณต้องการใช้งาน กรุณาตั้งค่าในจัดการอนุญาติ</string>
+    <string name="perm_sysopt_boost_auto_start">อนุญาตเปิดแอปอัตโนมัติ</string>
+    <string name="perm_sysopt_boost_auto_start_summary">อนุญาตการใช้งานเปิดแอปอัตโนมัติ</string>
+    <string name="perm_su_enable_dialog">%1$s กำลังพยายามขออนุญาต ROOT ซึ่งถูกปิดใช้งานเป็นค่าเริ่มต้นเพื่อความปลอดภัย หากคุณต้องการใช้งาน กรุณาตั้งค่าในจัดการอนุญาต</string>
     <string name="perm_notice">เตือนความปลอดภัย</string>
     <string name="trust_switch_dialog_msg">"MIUI จะไม่ขอคำยืนยันจากดำเนินการความปลอดภัยหรือความเป็นส่วนตัวใดๆจากแอป เชื่อถือ 
  แอป？"</string>
-    <string name="auto_startup_dialog_msg">"MIUI อนุญาติแอปเปิดอัตโนมัติปราศจากการแจ้งเตือน แอปจะเพิ่มการใข้งานพลังงานหรือข้อมูลที่ใช้ 
- อนุญาติใข้งานเปิดอัตโนมัติ？"</string>
+    <string name="auto_startup_dialog_msg">"MIUI อนุญาตแอปเปิดอัตโนมัติปราศจากการแจ้งเตือน แอปจะเพิ่มการใข้งานพลังงานหรือข้อมูลที่ใช้ 
+ อนุญาตใข้งานเปิดอัตโนมัติ？"</string>
     <string name="search_airplane">เครื่องบิน</string>
     <string name="search_network">เครือข่าย</string>
     <string name="search_wifi">wifi</string>
@@ -2369,12 +2369,12 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="drive_mode_auto_sms_reply_content_title">ตอบกลับด่วน</string>
     <string name="clear_activities_summary">ใช้แอปพลิเคชันนี่เพื่อการทำงานบางอย่างเป็นค่าเริมต้น</string>
     <string name="permission_detail_info">รายละเอียดที่ได้รับอนุญาต</string>
-    <string name="permission_detail_info_summary">อนุญาติ: ความปลอดภัย %1$d，ความเป็นส่วนตัว %2$d，อื่นๆ %3$d</string>
+    <string name="permission_detail_info_summary">อนุญาต: ความปลอดภัย %1$d，ความเป็นส่วนตัว %2$d，อื่นๆ %3$d</string>
     <string name="permission_manage">จัดการอนุญาต</string>
     <string name="permission_manage_summary">เปิดแอปอัตโนมัติ ความเป็นส่วนตัว จัดการสิทธิ์การใช้งาน</string>
     <string name="security_relative">เกี่ยวข้องกับความปลอดภัย</string>
     <string name="privacy_relative">เกี่ยวข้องกับความเป็นส่วนตัว</string>
-    <string name="other_relative">อนุญาติอื่นๆ</string>
+    <string name="other_relative">อนุญาตอื่นๆ</string>
     <string name="permission_manage_title">%s รายละเอียดที่ได้รับอนุญาต</string>
     <string name="filter_apps_cached">แคช</string>
     <string name="screen">จอภาพ</string>
