@@ -277,7 +277,7 @@ yyyy.M.d"</string>
     <string name="status_bar_toggle_ringtone">ริงโทน</string>
     <string name="status_bar_toggle_ring">เสียงกริ่ง</string>
     <string name="status_bar_toggle_sync_auto">ซิงค์อัตโนมัติ</string>
-    <string name="status_bar_toggle_sync_manual">สั่งซิงค์เอง</string>
+    <string name="status_bar_toggle_sync_manual">ซิงค์ด้วยตัวเอง</string>
     <string name="status_bar_toggle_syncing">กำลังซิงค์</string>
     <string name="status_bar_toggle_power_low">ประหยัดพลังงาน</string>
     <string name="status_bar_toggle_power_mid">เหมาะสม</string>
