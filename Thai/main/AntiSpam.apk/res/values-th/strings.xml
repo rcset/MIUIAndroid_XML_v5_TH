@@ -31,10 +31,10 @@
     <string name="dlg_clear_blacklist">ล้างแบล็คลิส?</string>
     <string name="dlg_clear_blacklist_ok">ล้าง</string>
     <string name="dlg_delete_vip">ล้างหมายเลขที่หมายตานี้?</string>
-    <string name="dlg_bl_add_manual">เพิ่มหมายเลขเข้าในแบล๊กลิสด้วยตัวเอง</string>
+    <string name="dlg_bl_add_manual">เพิ่มหมายเลขเข้าในแบล็คลิสด้วยตัวเอง</string>
     <string name="dlg_add_manual_ok">เพิ่ม</string>
     <string name="dlg_add_manual_hint">ใส่เบอร์โทรศัพท์</string>
-     <string name="dlg_import_blacklist">กำลังนำเข้าไปยังแบล๊กลิส</string>
+     <string name="dlg_import_blacklist">กำลังนำเข้าไปยังแบล็คลิส</string>
     <string name="dlg_import_whitelist">กำลังนำเข้าไปยังรายการที่หมายตา</string>
     <string name="dlg_add_keyword">เพิ่มคีย์เวิร์ด</string>
     <string name="dlg_edit_keyword">แก้ไขคีย์เวิร์ด</string>
