@@ -306,8 +306,8 @@
     <string name="pref_title_notification_body_enabled">แสดงตัวอย่าง</string>
     <string name="pref_summary_notification_body_enabled">แสดงตัวอย่างข้อความที่หน้าจอและแถบแสดงสถานะ</string>
     <string name="pref_summary_notification_body_enabled_when_secure">การแสดงตัวอย่างข้อความถูกยกเลิกเมือมีการเข้าถึงการควบคุม</string>
-    <string name="pref_title_new_message_popup">พ๊อพอัพ SMS</string>
-    <string name="pref_summary_new_message_popup">พ๊อพอัพ SMS เมื่อมีข้อความใหม่เข้ามา</string>
+    <string name="pref_title_new_message_popup">ป๊อพอัพ SMS</string>
+    <string name="pref_summary_new_message_popup">ป๊อพอัพ SMS เมื่อมีข้อความใหม่เข้ามา</string>
     <string name="pref_summary_new_message_popup_when_secure">ไม่มีการแจ้งเตือนแบบพ๊อพอัพเมื่อมีการเข้าถึงการควบคุม</string>
     <string name="pref_title_wake_up_screen">ปลุก-หน้าจอ</string>
     <string name="pref_summary_wake_up_screen">แสดงหน้าจอเมื่อมี SMS ใหม่เข้ามา</string>
