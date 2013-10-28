@@ -189,7 +189,7 @@
     <string name="resource_switch_account">สลับ</string>
     <string name="deleting">กำลังลบ ...</string>
     <string name="resource_title_select_ringtone">เลือกเสียงเรียกเข้า</string>
-    <string name="resource_tip_select_ringtone">ไม่มีริงโทนถูกเลือก</string>
+    <string name="resource_tip_select_ringtone">ไม่มีเสียงเรียกเข้าถูกเลือก</string>
     <string name="loading_resource_detail_info">กำลังโหลด ...</string>
     <string name="loading_resource_detail_fail">ไม่สามารถโหลดแหล่งข้อมูล!</string>
     <string name="account_abnormal_state">ข้อมูลบัญชีผิดพลาด กรุณาลองเข้าระบบอีกครั้ง</string>
