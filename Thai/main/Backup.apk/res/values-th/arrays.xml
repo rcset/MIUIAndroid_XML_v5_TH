@@ -2,15 +2,15 @@
 <resources>
     <string-array name="backup_dialog_content_type">
         <item>ข้อมูล Wi-Fi</item>
-        <item>แอพพลิเคชันทั้งหมด</item>
+        <item>แอปพลิเคชันทั้งหมด</item>
     </string-array>
     <string-array name="system_package_label">
         <item>เบราเซอร์</item>
         <item>คลังภาพ</item>
-        <item>จัดการสิทธ์การใช้งาน</item>
+        <item>จัดการอนุญาติ</item>
         <item>กล้อง</item>
         <item>เน็ตเวิร์ค</item>
-        <item>Weather Storage</item>
+        <item>ที่จัดเก็บพยากรณ์อากาศ</item>
         <item>พยากรณ์อากาศ</item>
     </string-array>
     <string-array name="system_data_label">
@@ -23,13 +23,13 @@
         <item>เดสท๊อบ</item>
         <item>ตั้งค่าการเตือน</item>
         <item>บันทึก</item>
-        <item>DND</item>
+        <item>ห้ามรบกวน</item>
         <item>บัญชี</item>
     </string-array>
     <string-array name="app_type_desc">
         <item>ข้อมูล</item>
-        <item>แอพ</item>
-        <item>แอพและข้อมูล</item>
+        <item>แอป</item>
+        <item>แอปและข้อมูล</item>
     </string-array>
     <string-array name="cloud_data_label">
         <item>รายชื่อ</item>
