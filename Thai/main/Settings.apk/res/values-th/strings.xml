@@ -477,8 +477,8 @@
     <string name="wifi_notify_open_networks">การแจ้งเตือนของเครือข่าย</string>
     <string name="wifi_notify_open_networks_summary">แจ้งฉันเมื่อมีเครือข่ายเปิดให้ใช้งานได้</string>
     <string name="wifi_poor_network_detection">หลีกเลี่ยงการเชื่อมต่อที่สัญญาณไม่แรงพอ</string>
-    <string name="wifi_poor_network_detection_summary">อย่าใช้เครือข่าย WiFi หากไม่มีการเชื่อมต่ออินเตอร์เน็ตที่ดีเพียงพอ</string>
-    <string name="wifi_setting_sleep_policy_title">เปิด WiFi ระหว่างที่อยู่ในโหมดสลีป</string>
+    <string name="wifi_poor_network_detection_summary">อย่าใช้เครือข่าย Wi-Fi หากไม่มีการเชื่อมต่ออินเตอร์เน็ตที่ดีเพียงพอ</string>
+    <string name="wifi_setting_sleep_policy_title">เปิด Wi-Fi ระหว่างที่อยู่ในโหมดสลีป</string>
     <string name="wifi_setting_sleep_policy_error">มีปัญหาในการเปลี่ยนแปลงการตั้งค่า</string>
     <string name="wifi_suspend_optimizations">การเพิ่มประสิทธิภาพ Wi-Fi</string>
     <string name="wifi_suspend_optimizations_summary">ลดการใช้แบตเตอรี่เมื่อ Wi-Fi เปิดอยู่</string>
@@ -487,7 +487,7 @@
     <string name="wifi_menu_wps_pbc">ปุ่มกด WPS</string>
     <string name="wifi_menu_more_options">ตัวเลือกอื่น</string>
     <string name="wifi_menu_wps_pin">ข้อมูล Pin WPS</string>
-    <string name="wifi_menu_p2p">WiFi Direct</string>
+    <string name="wifi_menu_p2p">Wi-Fi Direct</string>
     <string name="wifi_menu_scan">สแกน</string>
     <string name="wifi_menu_advanced">ขั้นสูง</string>
     <string name="wifi_menu_connect">เชื่อมต่อกับเครือข่าย</string>
@@ -498,14 +498,14 @@
     <string name="wifi_other_network">เครือข่ายอื่น…</string>
     <string name="wifi_more">เพิ่มเติม</string>
     <string name="wifi_setup_wps">การตั้งค่าอัตโนมัติ (WPS)</string>
-    <string name="wifi_required_info_text">เพื่อดำเนินการตั้งค่าให้เสร็จสิ้น แท็บเล็ตของคุณต้องเข้าถึง WiFi หลังจากการตั้งค่า คุณจะสามารถสลับระหว่างข้อมูลมือถือและ WiFi ได้</string>
+    <string name="wifi_required_info_text">เพื่อดำเนินการตั้งค่าให้เสร็จสิ้น แท็บเล็ตของคุณต้องเข้าถึง Wi-Fi หลังจากการตั้งค่า คุณจะสามารถสลับระหว่างข้อมูลมือถือและ Wi-Fi ได้</string>
     <string name="wifi_show_advanced">แสดงตัวเลือกขั้นสูง</string>
     <string name="wifi_wps_setup_title">การตั้งค่าการป้องกัน WiFi</string>
     <string name="wifi_wps_setup_msg">กำลังเริ่มต้น WPS…</string>
-    <string name="wifi_wps_onstart_pbc">กดปุ่ม \"การตั้งค่า WiFi แบบปลอดภัย\" บนเราเตอร์ของคุณ ปุ่มนี้อาจถูกเรียกว่า \"WPS\" หรือมีสัญลักษณ์นี้อยู่ด้วย:</string>
-    <string name="wifi_wps_onstart_pin">ป้อน PIN %1$s บนเราเตอร์ WiFi ของคุณ การตั้งค่าอาจใช้เวลาถึงสองนาทีจึงจะเสร็จสิ้น</string>
+    <string name="wifi_wps_onstart_pbc">กดปุ่ม \"การตั้งค่า Wi-Fi แบบปลอดภัย\" บนเราเตอร์ของคุณ ปุ่มนี้อาจถูกเรียกว่า \"WPS\" หรือมีสัญลักษณ์นี้อยู่ด้วย:</string>
+    <string name="wifi_wps_onstart_pin">ป้อน PIN %1$s บนเราเตอร์ Wi-Fi ของคุณ การตั้งค่าอาจใช้เวลาถึงสองนาทีจึงจะเสร็จสิ้น</string>
     <string name="wifi_wps_complete">WPS สำเร็จแล้ว กำลังเชื่อมต่อกับเครือข่าย…</string>
-    <string name="wifi_wps_connected">เชื่อมต่อกับเครือข่าย WiFi %s แล้ว</string>
+    <string name="wifi_wps_connected">เชื่อมต่อกับเครือข่าย Wi-Fi %s แล้ว</string>
     <string name="wifi_wps_in_progress">WPS กำลังดำเนินการอยู่และอาจใช้เวลาถึงสองนาทีจึงจะเสร็จสิ้น</string>
     <string name="wifi_wps_failed_generic">WPS ล้มเหลว โปรดลองอีกครั้งหลังจากนี้สักครู่</string>
     <string name="wifi_wps_failed_wep">ไม่สนับสนุนการตั้งค่าความปลอดภัยของเราเตอร์ไร้สาย (WEP)</string>
@@ -552,7 +552,7 @@
 
 การตั้งค่าโทรศัพท์อาจต้องใช้กิจกรรมเครือข่ายที่ใ้ช้ปริมาณข้อมูลสูง"</string>
     <string name="wifi_and_mobile_skipped_message">คำเตือน: โทรศัพท์จะไม่สามารถยืนยันว่าซอฟต์แวร์ของคุณเป็นรุ่นปัจจุบัน</string>
-    <string name="wifi_connect_failed_message">โทรศัพท์ไม่สามารถเชื่อมต่อกับเครือข่าย WiFi นี้</string>
+    <string name="wifi_connect_failed_message">โทรศัพท์ไม่สามารถเชื่อมต่อกับเครือข่าย Wi-Fi นี้</string>
     <string name="wifi_advanced_titlebar">Wi-Fi ขั้นสูง</string>
     <string name="wifi_setting_frequency_band_title">ย่านความถี่ Wi-Fi</string>
     <string name="wifi_setting_frequency_band_summary">ระบุช่วงความถี่ของการดำเนินการ</string>
@@ -892,7 +892,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="tethering_help_button_text">ความช่วยเหลือ</string>
     <string name="network_settings_title">เครือข่ายมือถือ</string>
     <string name="location_title">ตำแหน่งของฉัน</string>
-    <string name="location_network_based">ตำแหน่งผ่าน WiFi และเครือข่ายมือถือ</string>
+    <string name="location_network_based">ตำแหน่งผ่าน Wi-Fi และเครือข่ายมือถือ</string>
     <string name="location_neighborhood_level">ให้แอปพลิเคชันใข้บริการระบุตำแหน่งของ Google ในการระบุตำแหน่งโดยประมาณของคุณรวดเร็วยิ่งขึ้น โดยจะมีการรวบรวมและส่งข้อมูลตำแหน่งที่ไม่ระบุชื่อให้กับ Google</string>
     <string name="location_neighborhood_level_wifi">ตำแหน่งที่กำหนดโดย Wi-Fi</string>
     <string name="location_gps">ดาวเทียม GPS</string>
@@ -1355,7 +1355,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="battery_desc_display">แบตเตอรี่ที่ใช้โดยจอแสดงผลและแบ็คไลท์</string>
     <string name="battery_sugg_display">ลดความสว่างและ/หรือระยะหมดเวลาของหน้าจอ</string>
     <string name="battery_desc_wifi">แบตเตอรี่ที่ใช้โดย Wi-Fi</string>
-    <string name="battery_sugg_wifi">ปิด WiFi เมื่อไม่ได้ใช้หรือเมื่อใช้งานไม่ได้</string>
+    <string name="battery_sugg_wifi">ปิด Wi-Fi เมื่อไม่ได้ใช้หรือเมื่อใช้งานไม่ได้</string>
     <string name="battery_desc_bluetooth">แบตเตอรี่จากการใช้บลูทูธ</string>
     <string name="battery_sugg_bluetooth_basic">ปิดบลูทูธเมื่อไม่ใช้งาน</string>
     <string name="battery_sugg_bluetooth_headset">ลองเชื่อมต่อกับอุปกรณ์บลูทูธอื่น</string>
@@ -1463,7 +1463,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="backup_section_title">การสำรองและคืนค่าข้อมูล</string>
     <string name="personal_data_section_title">ข้อมูลส่วนตัว</string>
     <string name="backup_data_title">สำรองข้อมูลของฉัน</string>
-    <string name="backup_data_summary">สำรองข้อมูลแอปพลิเคชัน รหัสผ่าน WiFi และการตั้งค่าอื่นๆ ไปยังเซิร์ฟเวอร์ Google</string>
+    <string name="backup_data_summary">สำรองข้อมูลแอปพลิเคชัน รหัสผ่าน Wi-Fi และการตั้งค่าอื่นๆ ไปยังเซิร์ฟเวอร์ Google</string>
     <string name="backup_configure_account_title">บัญชีข้อมูลสำรอง</string>
     <string name="backup_configure_account_default_summary">ไม่มีบัญชีใดในปัจจุบันที่จัดเก็บข้อมูลที่สำรองไว้</string>
     <string name="auto_restore_title">คืนค่าอัตโนมัติ</string>
@@ -1475,7 +1475,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="local_backup_password_toast_confirmation_mismatch">รหัสผ่านใหม่และการพิมพ์ยืนยันไม่ตรงกัน</string>
     <string name="local_backup_password_toast_validation_failure">ไม่สามารถตั้งรหัสผ่านสำหรับการสำรองข้อมูล</string>
     <string name="backup_erase_dialog_title" />
-    <string name="backup_erase_dialog_message">หยุดการสำรองข้อมูลรหัสผ่าน WiFi บุ๊กมาร์ก การตั้งค่าอื่นๆ และข้อมูลแอปพลิเคชัน รวมทั้งลบสำเนาทั้งหมดบนเซิร์ฟเวอร์ของ Google หรือไม่</string>
+    <string name="backup_erase_dialog_message">หยุดการสำรองข้อมูลรหัสผ่าน Wi-Fi บุ๊กมาร์ก การตั้งค่าอื่นๆ และข้อมูลแอปพลิเคชัน รวมทั้งลบสำเนาทั้งหมดบนเซิร์ฟเวอร์ของ Google หรือไม่</string>
     <string name="device_admin_settings_title">การตั้งค่าการควบคุมอุปกรณ์</string>
     <string name="active_device_admin_msg">โปรแกรมควบคุมอุปกรณ์</string>
     <string name="remove_device_admin">ปิดการใช้งาน</string>
@@ -1493,7 +1493,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="sound_category_system_title">ระบบ</string>
     <string name="wifi_setup_title">ตั้งค่า Wi-Fi</string>
     <string name="wifi_setup_title_editing_network">เชื่อมต่อกับเครือข่าย Wi-Fi %s</string>
-    <string name="wifi_setup_title_connecting_network">กำลังเชื่อมต่อกับเครือข่าย WiFi %s...</string>
+    <string name="wifi_setup_title_connecting_network">กำลังเชื่อมต่อกับเครือข่าย Wi-Fi %s...</string>
     <string name="wifi_setup_title_connected_network">เชื่อมต่อกับเครือข่าย Wi-Fi %s แล้ว</string>
     <string name="wifi_setup_title_add_network">เพิ่มเครือข่าย</string>
     <string name="wifi_setup_not_connected">ไม่เชื่อมต่อ</string>
@@ -1516,7 +1516,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="wifi_setup_status_connecting">กำลังเชื่อมต่อ…</string>
     <string name="wifi_setup_status_proceed_to_next">ไปที่ขั้นตอนถัดไป</string>
     <string name="wifi_setup_status_eap_not_supported">ไม่สนับสนุน EAP</string>
-    <string name="wifi_setup_eap_not_supported">คุณไม่สามารถกำหนดค่าการเชื่อมต่อ EAP WiFi ในขณะตั้งค่าได้ หลังจากการตั้งค่า คุณสามารถกำหนดค่าการเชื่อมต่อนี้ได้ในการตั้งค่า > ระบบไร้สายและเครือข่าย</string>
+    <string name="wifi_setup_eap_not_supported">คุณไม่สามารถกำหนดค่าการเชื่อมต่อ EAP Wi-Fi ในขณะตั้งค่าได้ หลังจากการตั้งค่า คุณสามารถกำหนดค่าการเชื่อมต่อนี้ได้ในการตั้งค่า > ระบบไร้สายและเครือข่าย</string>
     <string name="wifi_setup_description_connecting">การเชื่อมต่ออาจใช้เวลาสักครู่...</string>
     <string name="wifi_setup_description_connected">แตะ <b>ถัดไป</b>" เพื่อตั้งค่าต่อไป
 
@@ -1699,7 +1699,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="data_usage_total_during_range">%2$s: ใช้แล้วประมาณ %1$s</string>
     <string name="data_usage_total_during_range_mobile">%2$s: ใช้แล้วประมาณ %1$s ตามที่โทรศัพท์วัดได้ ผู้ให้บริการอาจมีรายละเอียดการใช้ต่างจากนี้</string>
     <string name="data_usage_metered_title">ฮอตสปอตเคลื่อนที่</string>
-    <string name="data_usage_metered_body">เลือกเครือข่าย WiFi ที่เป็นฮอตสปอตเคลื่อนที่ สามารถจำกัดแอปพลิเคชันจากการใช้เครือข่ายเหล่านี้ได้เมื่ออยู่ในพื้นหลัง นอกจากนี้ แอปพลิเคชันอาจแจ้งเตือนก่อนที่จะใช้เครือข่ายเหล่านี้ในการดาวน์โหลดไฟล์ขนาดใหญ่</string>
+    <string name="data_usage_metered_body">เลือกเครือข่าย Wi-Fi ที่เป็นฮอตสปอตเคลื่อนที่ สามารถจำกัดแอปพลิเคชันจากการใช้เครือข่ายเหล่านี้ได้เมื่ออยู่ในพื้นหลัง นอกจากนี้ แอปพลิเคชันอาจแจ้งเตือนก่อนที่จะใช้เครือข่ายเหล่านี้ในการดาวน์โหลดไฟล์ขนาดใหญ่</string>
     <string name="data_usage_metered_mobile">เครือข่ายมือถือ</string>
     <string name="data_usage_metered_wifi">เครือข่าย WiFi</string>
     <string name="data_usage_metered_wifi_disabled">หากต้องการเลือกฮอตสปอตเคลื่อนที่ ให้เปิด WiFi</string>
@@ -1769,7 +1769,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="user_owner">เจ้าของ</string>
     <string name="user_nickname">ชื่อเล่น</string>
     <string name="user_add_user_title">เพิ่มผู้ใช้ใหม่</string>
-    <string name="user_add_user_message_long">"คุณสามารถใช้อุปกรณ์นี้ร่วมกับคนอื่นๆ ได้ด้วยการสร้างผู้ใช้เพิ่มเติม ผู้ใช้แต่ละคนมีพื้นที่ของตัวเอง ซึ่งพวกเขาสามารถกำหนดค่าด้วยแอปพลิเคชัน วอลเปเปอร์ของตนเอง และอื่นๆ นอกจากนี้ ผู้ใช้ยังสามารถปรับการตั้งค่าแท็บเล็ต เช่น WiFi ซึ่งจะส่งผลกระทบต่อทุกคน
+    <string name="user_add_user_message_long">"คุณสามารถใช้อุปกรณ์นี้ร่วมกับคนอื่นๆ ได้ด้วยการสร้างผู้ใช้เพิ่มเติม ผู้ใช้แต่ละคนมีพื้นที่ของตัวเอง ซึ่งพวกเขาสามารถกำหนดค่าด้วยแอปพลิเคชัน วอลเปเปอร์ของตนเอง และอื่นๆ นอกจากนี้ ผู้ใช้ยังสามารถปรับการตั้งค่าแท็บเล็ต เช่น Wi-Fi ซึ่งจะส่งผลกระทบต่อทุกคน
 
 หลังจากที่คุณสร้างผู้ใช้ใหม่แล้ว ผู้ใช้รายนั้นๆ ต้องทำตามขั้นตอนในการตั้งค่า
 
