@@ -627,7 +627,7 @@
     <string name="ringtone_title">เสียงเรียกเข้า</string>
     <string name="ringtone_summary" />
     <string name="all_volume_title">ระดับเสียง</string>
-    <string name="musicfx_title">เอฟเฟ็กต์เพลง</string>
+    <string name="musicfx_title">เอฟเฟคเพลง</string>
     <string name="ring_volume_title">ระดับความดังเสียงเรียกเข้า</string>
     <string name="vibrate_in_silent_title">สั่นเตือนเมื่อปิดเสียง</string>
     <string name="notification_sound_title">ค่าการแจ้งเตือนเริ่มต้น</string>
