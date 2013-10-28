@@ -16,7 +16,7 @@
     <string name="confirm_device_info_full">พื้นที่การ์ดความจำหมด สิ่งที่บันทึกถูกจัดเก็บแล้ว</string>
     <string name="confirm_save_info_saved">สิ่งที่บันทึกถูกจัดเก็บแล้ว</string>
     <string name="sim_toolkit">ชุดเครื่องมือซิม</string>
-    <string name="activity_not_found">ไม่ได้ติดตั้งแอพพลิเคชั่นบนโทรศัพท์ของคุณ</string>
+    <string name="activity_not_found">ไม่ได้ติดตั้งแอปพลิเคชันบนโทรศัพท์ของคุณ</string>
     <string name="no_sim_card_inserted">กรุณาใส่ซิมการ์ดเพื่อเรียกใช้เครื่องมือซิม</string>
     <string name="airplane_mode_on">ไม่สามารถเรียกใช้เครื่องมือซิมได้หากเปิดโหมดเครื่องบิน</string>
     <string name="lable_sim_not_ready">เครื่องมือซิมไม่พร้อมหรือไม่รองรับ</string>
@@ -151,7 +151,7 @@
     <string name="cannot_answered_Voice_Call">ไม่สามารถตอบโทรแบบเห็นภาพได้ เนื่องจากกำลังโทรแบบเห็นภาพอยู่</string>
     <string name="callDurationFormat">%1$s นาที %2$s วินาที</string>
     <string name="reminder">ตัวเตือน</string>
-    <string name="vt_media_occupied">เนื่องจากกล้องใช้ไม่ได้ จึงไม่สามารถโทรสายวิดีโอได้ โปรดตรวจสอบว่าแอพพลิเคชั่นอื่นกำลังใช้กล้องอยู่หรือไม่</string>
+    <string name="vt_media_occupied">เนื่องจากกล้องใช้ไม่ได้ จึงไม่สามารถโทรสายวิดีโอได้ โปรดตรวจสอบว่าแอปพลิเคชันอื่นกำลังใช้กล้องอยู่หรือไม่</string>
     <string name="vt_media_video_fail">ไม่สามารถแสดงวิดีโอได้อย่างเหมาะสม สายวิดีโอถูกตัดการเชื่อมต่อ</string>
     <string name="incall_toast_hold">พัก</string>
     <string name="incall_toast_unhold">ทำต่อ</string>
@@ -1053,7 +1053,7 @@
     <string name="call_record_notification_message_low_space_miui">บันทึกเสียงถูกหยุด: ไม่มีพิ้นที่</string>
     <string name="call_record_notification_message_miui">สัมผัสเพื่อแสดง %s.</string>
     <string name="call_record_notification_message_sd_unmounted_miui">บันทึกเสียงถูกหยุด: การ์ดความจำอันเมาท์</string>
-    <string name="call_record_notification_message_start_failed">อุปกรณ์บันทึกเสียงถูกใช้โดยแอพพลิเคชั่นอื่น</string>
+    <string name="call_record_notification_message_start_failed">อุปกรณ์บันทึกเสียงถูกใช้โดยแอปพลิเคชันอื่น</string>
     <string name="call_record_notification_title_error_miui">บันทึกเสียงล้มเหลว</string>
     <string name="call_record_notification_title_miui">บันทึกเสียง</string>
     <string name="call_record_sd_error_miui">การเข้าใช้งานการ์ดความจำล้มเหลว</string>
