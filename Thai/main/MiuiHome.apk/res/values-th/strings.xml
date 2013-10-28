@@ -7,7 +7,7 @@
     <string name="application_name">MiuiHome</string>
     <string name="folder_name">โฟลเดอร์</string>
     <string name="unnamed_folder_name">โฟลเดอร์ไม่มีชื่อ</string>
-    <string name="chooser_wallpaper">เลือกวอลล์เปเปอร์จาก</string>
+    <string name="chooser_wallpaper">เลือกวอลเปเปอร์จาก</string>
     <string name="activity_not_found">แอปพลิเคชันไม่ได้ติดตั้งในโทรศัพท์ของคุณ</string>
     <string name="cancel_action">ยกเลิก</string>
     <string name="menu_item_add_item">เพิ่มลงในหน้าจอหลัก</string>
@@ -18,7 +18,7 @@
     <string name="title_select_shortcut">เลือกทางลัด</string>
     <string name="title_select_live_folder">เลือกโฟลเดอร์</string>
     <string name="menu_add">เพิ่ม</string>
-    <string name="menu_wallpaper">วอลล์เปเปอร์</string>
+    <string name="menu_wallpaper">วอลเปเปอร์</string>
     <string name="menu_search">ค้นหา</string>
     <string name="menu_workspace_preview">แสดงตัวอย่าง</string>
     <string name="menu_back_desktop">กลับไปที่หน้าจอหลัก</string>
@@ -88,7 +88,7 @@
     <string name="transformation_type_leftpage">หน้า</string>
     <string name="transformation_type_stack">ซ้อน</string>
     <string name="transformation_type_rotate">การหมุน</string>
-    <string name="pref_wallpaper_scroll_type_title">การเลื่อนวอลล์เปเปอร์</string>
+    <string name="pref_wallpaper_scroll_type_title">การเลื่อนวอลเปเปอร์</string>
     <string name="pref_cell_layout_size">ตารางไอคอน</string>
     <string name="pref_keep_layout_title">เก็บรูปแบบล่าสุด</string>
     <string name="pref_keep_layout_summary">การเปลี่ยนรูปแบบไอคอนอาจลบรูปแบบเดสก์ทอปของคุณ</string>
