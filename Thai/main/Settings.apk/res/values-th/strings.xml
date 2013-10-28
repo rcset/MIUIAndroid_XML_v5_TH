@@ -2121,14 +2121,14 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="breathing_light_freq_title">ความถี่การกระพริบ LED</string>
     <string name="breathing_light_freq_summary">กระพริบเมื่อมีการแจ้งเตือนใหม่</string>
     <string name="led_settings">ไฟแจ้งเตือน</string>
-    <string name="led_colors_summary">การแจ้งเตือน</string>
+    <string name="led_colors_summary">แจ้งเตือน</string>
     <string name="led_frequence_summary">ตั้งช่วงระยะเวลากระพริบ LED</string>
     <string name="led_pulse_summary">กระพริบแสงการแจ้งเตือนเมื่อได้รับการแจ้งเตือนใหม่</string>
     <string name="show_rounded_corners">แสดงมุมตัดขอบมน</string>
     <string name="pref_operational_key">แป้นการทำงาน</string>
     <string name="pref_button_light">ไฟที่ปุ่ม</string>
     <string name="pref_button_light_summary">การชี้บอกแป้นเมนู แป้นหน้าจอหลัก และ แป้นย้อนกลับ</string>
-    <string name="button_light_timeout">การตัั้งค่าแสงของปุ่ม</string>
+    <string name="button_light_timeout">การตั้งค่าแสงของปุ่ม</string>
     <string name="screen_button_key">แป้นเสมือนบนหน้าจอ</string>
     <string name="screen_button_custom">ปรับแต่งตำแหน่งแป้นหน้าจอ</string>
     <string name="headset_settings">หูฟัง</string>
