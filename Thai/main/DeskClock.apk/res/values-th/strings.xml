@@ -58,7 +58,7 @@
     <string name="volume_button_setting_title">ปุ่มตัวเครื่อง</string>
     <string name="volume_button_dialog_title">กดปุ่มทำการ</string>
     <string name="volume_button_setting_summary">เมื่อกดปุ่มให้ทำการ</string>
-    <string name="default_ringtone_setting_title">ตั้งเสียงริงโทนเป็นค่าเริ่มต้น</string>
+    <string name="default_ringtone_setting_title">ตั้งเสียงแจ้งเตือนเป็นค่าเริ่มต้น</string>
     <string name="alarm_button_description">ปลุก</string>
     <string name="gallery_button_description">แกลเลอรี่</string>
     <string name="music_button_description">เพลง</string>
@@ -69,7 +69,7 @@
     <string name="weather_fetch_failure">ข้อมูลสภาพอากาศไม่สามารถใช้ได้ในตอนนี้</string>
     <string name="menu_item_dock_settings">การตั้งค่า Dock</string>
     <string name="alarm_klaxon_service_desc">ตั้งปลุกโดยการเล่นเพลง</string>
-    <string name="loading_ringtone">กำลังโหลดริงโทน ...</string>
+    <string name="loading_ringtone">กำลังโหลดแจ้งเตือน...</string>
     <string name="control_set_alarm">การตั้งปลุก</string>
     <string name="control_set_alarm_with_existing">ตั้งปลุก: %s</string>
     <string name="common_settings">การตั้งค่าร่วม</string>
@@ -104,7 +104,7 @@
     <string name="timer_start_alarm">เริ่มจับเวลา</string>
     <string name="dialog_confirm_abort">คุณต้องการยกเลิกการเปลี่ยนแปลงของคุณหรือไม่?</string>
     <string name="confirm_abort">ไม่เอา</string>
-    <string name="remind_ringtone">ริงโทน</string>
+    <string name="remind_ringtone">เสียงแจ้งเตือน</string>
     <string name="keep_screen_on">เปิดหน้าจอไว้เมื่อจับเวลา</string>
     <string name="start_up">เริ่มต้น</string>
     <string name="cancel">ยกเลิก</string>
