@@ -3,8 +3,8 @@
     <string name="app_name">ป้องกัน</string>
     <string name="fw_blocked">สถิติบล็อค</string>
     <string name="fw_blocked_count" formatted="false">ปิดกั้นแล้ว: %d หมายเลข และ %d ข้อความ</string>
-    <string name="tab_title">ระบบป้องกัน</string>
-    <string name="tab_block_log">ไฟล์วอล</string>
+    <string name="tab_title">ป้องกัน</string>
+    <string name="tab_block_log">ไฟร์วอลล์</string>
     <string name="tab_blacklist">แบล็คลิส</string>
     <string name="tab_sms">บันทึกข้อความ</string>
     <string name="tab_call">บันทึกการโทร</string>
