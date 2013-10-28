@@ -18,7 +18,7 @@
     <string name="set_alarm">ตั้งปลุก</string>
     <string name="alarm_vibrate">สั่น</string>
     <string name="alarm_repeat">ซ้ำ</string>
-    <string name="alert">ริงโทน</string>
+    <string name="alert">เสียงแจ้งเตือน</string>
     <string name="time">เวลา</string>
     <string name="alarm_alert_dismiss_text">หยุดปลุก</string>
     <string name="alarm_alert_alert_silenced">เงียบเสียงปลุกหลังจาก %d นาที</string>
@@ -77,12 +77,12 @@
     <string name="worldclock_title">นาฬิกา</string>
     <string name="stopwatch_title">นาฬิกาจับเวลา</string>
     <string name="timer_title">เครื่องจับเวลา</string>
-    <string name="menu_add_worldclock">เพิ่ม โซนเวลา</string>
+    <string name="menu_add_worldclock">เพิ่มโซนเวลา</string>
     <string name="menu_worldclock_edit">แก้ไขนาฬิกาโลก</string>
     <string name="menu_alarmclock_edit">แก้ไขนาฬิกาปลุก</string>
     <string name="menu_delete">ลบ</string>
     <string name="menu_edit_systemtime">เวลาในระบบ</string>
-    <string name="delete_timezone_title">ลบ โซนเวลา</string>
+    <string name="delete_timezone_title">ลบโซนเวลา</string>
     <string name="delelte_selected_timezone">คุณแน่ใจหรือว่าต้องการลบโซนเวลาที่เลือก (s)?</string>
     <string name="wait_when_operating_data_message">กำลังประมวลผล โปรดรอสักครู่</string>
     <string name="timezone_exist_error_message">โซนเวลาที่เพิ่มมีอยู่แล้ว โปรดเลือกใหม่</string>
@@ -114,8 +114,8 @@
     <string name="timer_message">%1$d นาที</string>
     <string name="timer_tutorial">หมุนตามเข็มนาฬิกา</string>
     <string name="shutdown_alarm_title">เลิกปลุก</string>
-    <string name="shutdown_alarm_enable_summary">เปิด การเลิกปลุก</string>
-    <string name="shutdown_alarm_disable_summary">ปิด การเลิกปลุก</string>
+    <string name="shutdown_alarm_enable_summary">เปิดการเลิกปลุก</string>
+    <string name="shutdown_alarm_disable_summary">ปิดการเลิกปลุก</string>
     <string name="workday_alarm_clock">การปลุกวันทำงาน</string>
     <string name="weekend_alarm_clock">การปลุกวันหยุด</string>
     <string name="system_time_setting">ตั้งเวลา</string>
@@ -126,8 +126,8 @@
     <string name="legal_workday_invalidate">ข้อมูลหมดอายุ (ปัจจุบัน, ปลุกดังตั้งแต่จันทร์ถึงศุกร์)</string>
     <string name="legal_workday_invalidate_message">(ข้อมูลหมดอายุ ปรับปรุงการตั้งค่า)</string>
     <string name="legal_workday_message">(ปิดการปลุกในช่วงวันหยุด)</string>
-    <string name="default_alarm_alert">ตั้งเสียงริงโทนเป็นค่าเริ่มต้น</string>
-    <string name="default_alarm_title">เสียงริงโทนค่าเริ่มต้น</string>
-    <string name="alarm_alert">ตั้งเสียงริงโทน</string>
-    <string name="alarm_screen">ตั้งเสียงริงโทนให้หลากหลาย</string>
+    <string name="default_alarm_alert">ตั้งเสียงแจ้งเตือนเป็นค่าเริ่มต้น</string>
+    <string name="default_alarm_title">เสียงแจ้งเตือนค่าเริ่มต้น</string>
+    <string name="alarm_alert">ตั้งเสียงแจ้งเตือน</string>
+    <string name="alarm_screen">ตั้งหลายเสียงแจ้งเตือน</string>
 </resources>
