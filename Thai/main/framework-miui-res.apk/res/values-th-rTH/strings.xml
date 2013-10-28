@@ -119,9 +119,9 @@
     <string name="payphone">โทรศัพท์สาธารณะ</string>
     <string name="peace_day">Peace Day</string>
     <string name="perm_auto_backup">สำรองข้อมูลอัตโนมัติ</string>
-    <string name="perm_payment_dspt">อนุญาติให้จ่ายแอปผ่านบริการชำระเงิน Xiaomi</string>
+    <string name="perm_payment_dspt">อนุญาตให้จ่ายแอปผ่านบริการชำระเงิน Xiaomi</string>
     <string name="perm_payment_lab">บริการชำระเงิน Xiaomi</string>
-    <string name="perm_send_push_dspt">อนุญาติให้ส่งข้อความหา Xiaomi</string>
+    <string name="perm_send_push_dspt">อนุญาตให้ส่งข้อความหา Xiaomi</string>
     <string name="perm_send_push_lab">ส่งข้อความพุช</string>
     <string name="perm_tigger_toggle_dspt">อนุญาตให้แอป ทริกเกอร์เพื่อสลับแถบสถานะ</string>
     <string name="perm_tigger_toggle_lab">ปุ่มกดสลับแถบสถานะ</string>
@@ -235,7 +235,7 @@
     <string name="send">ส่ง</string>
     <string name="share">แบ่งปัน</string>
     <string name="perm_data_update_lab">อัปเดตข้อมูล</string>
-    <string name="perm_data_update_dspt">อนุญาติให้ส่งข้อมูลอัปเดตลายน้ำ</string>
+    <string name="perm_data_update_dspt">อนุญาตให้ส่งข้อมูลอัปเดตลายน้ำ</string>
     <string name="device_xiaomi">โทรศัพท์ Xiaomi</string>
     <string name="miui_device_name">Android</string>
     <string name="sim_unavailable">ไม่มีซิมการ์ดที่ใช้งานได้</string>
