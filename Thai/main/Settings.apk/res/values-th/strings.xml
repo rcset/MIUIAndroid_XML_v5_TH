@@ -2520,7 +2520,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="hdmi_3d_display_enable_title">แสดงผล 3D</string>
     <string name="hdmi_3d_display_enable_summary">เปิดทำงานเพื่อแสดงผลเกม 3D</string>
     <string name="noise_suppression">ลดเสียงรบกวน</string>
-    <string name="phone_call_noise_suppression">ลดเสียงรบกวนสายโทรศัพท์</string>
+    <string name="phone_call_noise_suppression">ลดเสียงรบกวนขณะโทร</string>
     <string name="lock_settings_common_title">ตั้งค่าการล็อค</string>
     <string name="turn_off_security_lock">ปิดล็อค</string>
     <string name="change_password">เปลี่ยนรหัสผ่าน</string>
