@@ -306,8 +306,8 @@
     <string name="pref_title_notification_body_enabled">แสดงตัวอย่าง</string>
     <string name="pref_summary_notification_body_enabled">แสดงตัวอย่างข้อความที่หน้าจอและแถบแสดงสถานะ</string>
     <string name="pref_summary_notification_body_enabled_when_secure">การแสดงตัวอย่างข้อความถูกยกเลิกเมือมีการเข้าถึงการควบคุม</string>
-    <string name="pref_title_new_message_popup">ป๊อพอัพ SMS</string>
-    <string name="pref_summary_new_message_popup">ป๊อพอัพ SMS เมื่อมีข้อความใหม่เข้ามา</string>
+    <string name="pref_title_new_message_popup">ป๊อปอัพ SMS</string>
+    <string name="pref_summary_new_message_popup">ป๊อปอัพ SMS เมื่อมีข้อความใหม่เข้ามา</string>
     <string name="pref_summary_new_message_popup_when_secure">ไม่มีการแจ้งเตือนแบบพ๊อพอัพเมื่อมีการเข้าถึงการควบคุม</string>
     <string name="pref_title_wake_up_screen">ปลุก-หน้าจอ</string>
     <string name="pref_summary_wake_up_screen">แสดงหน้าจอเมื่อมี SMS ใหม่เข้ามา</string>
@@ -316,7 +316,7 @@
     <string name="pref_title_ringtone_repeat">การแจ้งเตือนด้วยเสียง</string>
     <string name="pref_other_title">อื่นๆ</string>
     <string name="pref_system_title">ระบบ</string>
-    <string name="pref_advanced_settings_title">การตั้งค่าชั้นสูง</string>
+    <string name="pref_advanced_settings_title">การตั้งค่าขั้นสูง</string>
     <string name="pref_edit_smsc_address">หมายเลขกลางของ SMS</string>
     <string name="pref_title_allow_si_sl_push">อนุญาตให้ใช้ WAP</string>
     <string name="pref_summary_allow_si_sl_push">อนุญาตให้มีการรับและการแจ้งเตือนข้อความแบบ WAP SI/SL)</string>
@@ -325,7 +325,7 @@
     <string name="pref_title_hide_festival">ซ่อนแถบแนะนำ</string>
     <string name="pref_summary_hide_festival">ซ่อนแถบแนะนำที่ไม่ใช่ภาษาจีน</string>
     <string name="send_signature_confirm_dialog_title">ยืนยันการส่ง</string>
-    <string name="send_signature_confirm_dialog_message">ไม่พบข้อความที่จะส่ง. แน่ใจว่าจะส่งเพียงแค่ลายเซ็น?</string>
+    <string name="send_signature_confirm_dialog_message">ไม่พบข้อความที่จะส่ง แน่ใจว่าจะส่งเพียงแค่ลายเซ็น?</string>
     <string name="enter_edit_mode">โหมดแก้ไข</string>
     <string name="check_all">เลือกทั้งหมด</string>
     <string name="batch_delete_confirm_dialog_message">แน่ใจว่าต้องการลบ %1$s ข้อความที่เลือกไว้?</string>
@@ -346,9 +346,9 @@
     <string name="wap_push_title">"[WAP Push] "</string>
     <string name="message_too_big_for_audio">ข้อความมีขนาดใหญ่เกินที่จะแนบไฟล์เสียง</string>
     <string name="add_timing">เวลา</string>
-    <string name="pref_title_system_mms_priority">แอพ MMS ของระบบได้สิทธิ์ก่อน</string>
-    <string name="pref_summary_on_system_mms_priority">แอพ MMS ของระบบได้สิทธิ์จัดการก่อน ดังนั้นต้องออกจากแอพ mms อื่นๆก่อน</string>
-    <string name="pref_summary_off_system_mms_priority">แอพ MMS อื่นๆ อาจได้รับที่ถูกส่งมาก่อนที่แอพ MMS ของระบบจะได้รับมัน</string>
+    <string name="pref_title_system_mms_priority">แอป MMS ของระบบได้สิทธิ์ก่อน</string>
+    <string name="pref_summary_on_system_mms_priority">แอป MMS ของระบบได้สิทธิ์จัดการก่อน ดังนั้นต้องออกจากแอป mms อื่นๆก่อน</string>
+    <string name="pref_summary_off_system_mms_priority">แอป MMS อื่นๆ อาจได้รับที่ถูกส่งมาก่อนที่แอป MMS ของระบบจะได้รับมัน</string>
     <string name="title_timed_message_dialog">กำหนดเวลาให้กับข้อความ</string>
     <string name="error_timed_msg">ไม่สามารถกำหนดช่วงเวลาก่อนเวลาปัจจุบัน</string>
     <string name="to_send_wrapper">จะส่งใน %s</string>
