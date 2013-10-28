@@ -118,8 +118,8 @@
     <string name="preferences_general_title">การตั้งค่ามุมมองปฏิทิน"</string>
     <string name="preferences_reminder_title">การตั้งค่าการแจ้งเตือน"</string>
     <string name="preferences_hide_declined_title">ซ่อนกิจกรรมที่ปฏิเสธ"</string>
-    <string name="preferences_week_start_day_title">สัปดาห์เริ่มต้นเมื่อ"</string>
-    <string name="preferences_week_start_day_dialog">สัปดาห์เริ่มต้นเมื่อ"</string>
+    <string name="preferences_week_start_day_title">วันแรกของสัปดาห์"</string>
+    <string name="preferences_week_start_day_dialog">วันแรกของสัปดาห์"</string>
     <string name="preferences_week_start_day_default">-1"</string>
     <string name="preferences_clear_search_history_title">ล้างประวัติการค้นหา"</string>
     <string name="preferences_clear_search_history_summary">ลบการค้นหาทั้งหมดที่คุณได้ดำเนินการ"</string>
