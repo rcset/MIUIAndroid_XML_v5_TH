@@ -168,12 +168,12 @@
     <string name="guarded_mode_dialog_title">โหมดป้องกัน</string>
     <string name="guarded_mode_dialog_message">ไม่สามารถสำรองข้อมูลหรือคืนค่าในโหมดป้องกัน</string>
     <string name="multi_select_title">เลือก %1$s รายการ</string>
-    <string name="enable_encrypt_title">ทำงานการเข้ารหัส</string>
+    <string name="enable_encrypt_title">เปิดทำงานการเข้ารหัส</string>
     <string name="disable_encrypt_title">ปิดทำงานการเข้ารหัส</string>
     <string name="enable_encrypt_indicator">สำรองข้อมูไม่ได้เข้ารหัส คลิกเพื่อเปิดการเข้ารหัส</string>
     <string name="enable_encrypt">ทำงานเดี๋ยวนี้</string>
     <string name="already_enable_encrypt">ทำงานการเข้ารหัส</string>
-    <string name="enable_encrypt_summery1">"ระบบจะทำสำรองข้อมูลภายในของบัญชี Xiaomi คุณต้องตำเป็นต้องเข้าระบบบัญชี Xiaomi  เมื่อคุณลบข้อมูลในโทรศัพท์หรือเปลี่ยนเครื่องจะทำการคืนค่าสำรองข้อมูล"</string>
+    <string name="enable_encrypt_summery1">"ระบบจะทำสำรองข้อมูลภายในของบัญชี Xiaomi คุณจำเป็นต้องเข้าระบบบัญชี Xiaomi  เมื่อคุณลบข้อมูลในโทรศัพท์หรือเปลี่ยนเครื่องจะทำการคืนค่าสำรองข้อมูล"</string>
     <string name="enable_encrypt_summery2">สำรองข้อมูลใหม่จะถูกเข้ารหัสอัตโนมัติ คุณจำเป็นจะต้องเข้าระบบบัญชี Xiaomi เมื่อคุณลบข้อมูลในโทรศัพท์หรือเปลี่ยนเครื่องจะทำการคืนค่าข้อมูลอัตโนมัติ</string>
     <string name="enable_encrypt_xiaomi_account">สำรองไฟล์นี้สร้างโดย %1$s กรุณาลบบัญชีปัจจุบัน และเข้าระบบไปยัง %2$s เพื่อคืนค่าสำรองข้อมูล</string>
     <string name="enable_encrypt_ok">ตกลง</string>
