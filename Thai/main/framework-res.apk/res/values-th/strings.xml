@@ -575,13 +575,13 @@
     <string name="permlab_accessNetworkState">ดูการเชื่อมต่อเครือข่าย</string>
     <string name="permdesc_accessNetworkState">อนุญาตให้แอปพลิเคชันดูข้อมูลเกี่ยวกับการเชื่อมต่อเครือข่าย เช่น มีเครือข่ายใดอยู่บ้าง และมีการเชื่อมต่อเครือข่ายใด</string>
     <string name="permlab_createNetworkSockets">การเข้าถึงเครือข่ายเต็มรูปแบบ</string>
-    <string name="permdesc_createNetworkSockets">อนุญาตให้แอปพลิเคชันสร้างซ็อกเก็ตเครือข่ายและใช้โปรโตคอลเครือข่ายที่กำหนดเอง เบราว์เซอร์และแอปพลิเคชันอื่นๆ ให้วิธีการในการส่งข้อมูลไปยังอินเทอร์เน็ต จึงไม่จำเป็นต้องได้รับการอนุญาตนี้เพื่อที่จะส่งข้อมูลไปยังอินเทอร์เน็ต</string>
+    <string name="permdesc_createNetworkSockets">อนุญาตให้แอปพลิเคชันสร้างซ็อกเก็ตเครือข่ายและใช้โปรโตคอลเครือข่ายที่กำหนดเอง เบราว์เซอร์และแอปพลิเคชันอื่นๆ ให้วิธีการในการส่งข้อมูลไปยังอินเตอร์เน็ต จึงไม่จำเป็นต้องได้รับการอนุญาตนี้เพื่อที่จะส่งข้อมูลไปยังอินเตอร์เน็ต</string>
     <string name="permlab_writeApnSettings">เปลี่ยน/ขัดขวางการตั้งค่าเครือข่ายและการเข้าชม</string>
     <string name="permdesc_writeApnSettings">อนุญาตให้แอปพลิเคชันเปลี่ยนการตั้งค่าเครือข่าย สกัดกั้นและตรวจสอบปริมาณการเข้าชมของเครือข่ายทั้งหมด ตัวอย่างเช่น เปลี่ยนพร็อกซีและพอร์ตของ APN ใดๆ แอปพลิเคชันที่เป็นอันตรายอาจตรวจสอบ เปลี่ยนเส้นทาง หรือแก้ไขแพ็คเก็ตในเครือข่ายโดยที่คุณไม่ทราบ</string>
     <string name="permlab_changeNetworkState">เปลี่ยนการเชื่อมต่อเครือข่าย</string>
     <string name="permdesc_changeNetworkState">อนุญาตให้แอปพลิเคชันเปลี่ยนแปลงสถานะการเชื่อมต่อของเครือข่าย</string>
     <string name="permlab_changeTetherState">เปลี่ยนการเชื่อมต่อที่ปล่อยสัญญาณไว้</string>
-    <string name="permdesc_changeTetherState">อนุญาตให้แอปพลิเคชันเปลี่ยนแปลงสถานะการเชื่อมต่อของเครือข่ายการเชื่อมต่ออินเทอร์เน็ตผ่านมือถือ</string>
+    <string name="permdesc_changeTetherState">อนุญาตให้แอปพลิเคชันเปลี่ยนแปลงสถานะการเชื่อมต่อของเครือข่ายการเชื่อมต่ออินเตอร์เน็ตผ่านมือถือ</string>
     <string name="permlab_changeBackgroundDataSetting">เปลี่ยนการตั้งค่าการใช้ข้อมูลพื้นหลัง</string>
     <string name="permdesc_changeBackgroundDataSetting">อนุญาตให้แอปพลิเคชันเปลี่ยนการตั้งค่าการใช้งานข้อมูลแบ็กกราวด์</string>
     <string name="permlab_accessWifiState">ดูการเชื่อมต่อ WiFi</string>
@@ -624,8 +624,8 @@
     <string name="permdesc_mediaStorageWrite">อนุญาตให้แอปพลิเคชันแก้ไขเนื้อหาของที่เก็บข้อมูลสื่อภายใน</string>
     <string name="permlab_cache_filesystem">เข้าถึงระบบไฟล์แคช</string>
     <string name="permdesc_cache_filesystem">อนุญาตให้แอปพลิเคชันอ่านและเขียนระบบไฟล์แคช</string>
-    <string name="permlab_use_sip">โทรออก/รับสายอินเทอร์เน็ต</string>
-    <string name="permdesc_use_sip">อนุญาตให้แอปพลิเคชันใช้บริการ SIP เพื่อโทรออก/รับสายทางอินเทอร์เน็ต</string>
+    <string name="permlab_use_sip">โทรออก/รับสายอินเตอร์เน็ต</string>
+    <string name="permdesc_use_sip">อนุญาตให้แอปพลิเคชันใช้บริการ SIP เพื่อโทรออก/รับสายทางอินเตอร์เน็ต</string>
     <string name="permlab_readNetworkUsageHistory">อ่านประวัติการใช้เครือข่าย</string>
     <string name="permdesc_readNetworkUsageHistory">อนุญาตให้แอปพลิเคชันอ่านประวัติการใช้เครือข่ายสำหรับเครือข่ายและแอปพลิเคชันเฉพาะ</string>
     <string name="permlab_manageNetworkPolicy">จัดการนโยบายเครือข่าย</string>
@@ -980,7 +980,7 @@
     <string name="ringtone_unknown">ไม่ทราบเสียงเรียกเข้า</string>
     <string name="wifi_available_sign_in">ลงชื่อเข้าใช้เครือข่าย WiFi</string>
     <string name="wifi_watchdog_network_disabled">ไม่สามารถเชื่อมต่อ Wi-Fi</string>
-    <string name="wifi_watchdog_network_disabled_detailed">" มีสัญญาณอินเทอร์เน็ตไม่ดี"</string>
+    <string name="wifi_watchdog_network_disabled_detailed">" มีสัญญาณอินเตอร์เน็ตไม่ดี"</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_turnon_message">เริ่มการทำงาน WiFi Direct ซึ่งจะเป็นการปิดการทำงาน WiFi ไคลเอ็นต์/ฮอตสปอต</string>
     <string name="wifi_p2p_failed_message">ไม่สามารถเริ่ม WiFi Direct ได้</string>
