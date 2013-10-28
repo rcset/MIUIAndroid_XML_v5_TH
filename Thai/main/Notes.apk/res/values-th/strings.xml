@@ -15,7 +15,7 @@
     <string name="file_name_txt_format">notes_%s.txt</string>
     <string name="note_link_tel">โทร</string>
     <string name="note_link_email">ส่ง E-mail</string>
-    <string name="note_link_web">ค้นหาบนอินเทอร์เน็ต</string>
+    <string name="note_link_web">ค้นหาบนอินเตอร์เน็ต</string>
     <string name="note_link_other">เปิดแผนที่</string>
     <string name="note_link_select">เลือกลิงค์ข้อความ</string>
     <string name="format_folder_files_count">(%d)</string>
