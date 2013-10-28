@@ -126,7 +126,7 @@
     <string name="menu_doNotSave">ยกเลิก</string>
     <string name="menu_discard">ยกเลิก</string>
     <string name="label_notes">หมายเหตุ</string>
-    <string name="label_sip_address">การโทรทางอินเทอร์เน็ต</string>
+    <string name="label_sip_address">การโทรทางอินเตอร์เน็ต</string>
     <string name="ghostData_company">บริษัท</string>
     <string name="ghostData_title">ชื่อ</string>
     <string name="invalidContactMessage">ไม่มีรายชื่อติดต่อนี้</string>
