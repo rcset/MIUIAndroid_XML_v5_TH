@@ -264,7 +264,7 @@
     <string name="photo_page_always_rotate">หมุนภาพอัตโนมัติ</string>
     <string name="auto_create_recent_album_over_ten_times">สร้างอัลบั้มชื่นชอบอัตโนมัติ เมื่อเข้าดูเกินกว่า 10 ครั้ง</string>
     <string name="not_auto_create_recent_album">ย้อนกลับสร้างอัลบั้มชื่นชอบอัตโนมัติ</string>
-    <string name="auto_create_recent_album_confirm">หลังจากคุณปิด คลังภาพจะล้างข้อมูลชื่นชอบ ชื่นชอบที่ตั้งโดยผู้จะใช้จะไม่ได้รับผลกระทบ หรือคุณสามารถตั้งชื่อชอบกดยาวๆที่อัลบั้ม</string>
+    <string name="auto_create_recent_album_confirm">หลังจากคุณปิด แกลเลอรี่จะล้างข้อมูลชื่นชอบ ชื่นชอบที่ตั้งโดยผู้จะใช้จะไม่ได้รับผลกระทบ หรือคุณสามารถตั้งชื่อชอบกดยาวๆที่อัลบั้ม</string>
     <string name="slideshow_category">สไลด์โชว์</string>
     <string name="slideshow_interval">ระยะเวลาสไลด์</string>
     <string name="slideshow_interval_dialog_title">ช่วงเวลาสไลด์โชว์ต้องมากกว่า 0 วินาที</string>
