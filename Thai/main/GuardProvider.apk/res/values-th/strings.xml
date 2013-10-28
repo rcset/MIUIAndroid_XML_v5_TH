@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">บริการป้องกัน</string>
+    <string name="app_name">ระบบรักษาความปลอดภัย Jinshan</string>
     <string name="hello_world">สวัสดีชาวโลก!</string>
     <string name="menu_settings">ตั้งค่า</string>
     <string name="title_activity_main">กิจกรรมหลัก</string>
