@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ระบบป้องกัน</string>
+    <string name="app_name">ป้องกัน</string>
     <string name="fw_blocked">สถิติบล็อค</string>
     <string name="fw_blocked_count" formatted="false">ปิดกั้นแล้ว: %d หมายเลข และ %d ข้อความ</string>
     <string name="tab_title">ระบบป้องกัน</string>
@@ -95,12 +95,12 @@
     <string name="st_block_setting_group">การตั้งค่าบล็อคลิสท์</string>
     <string name="st_block_setting_title">เบอร์โทรและข้อความ</string>
     <string name="st_block_all">บล็อคเบอร์โทรและข้อความ</string>
-    <string name="st_mute_all">Mute calls and messages</string>
+    <string name="st_mute_all">ปิดเสียงโทรศัพท์และข้อความ</string>
     <string name="st_block_mute">บล็อคเบอร์โทรและข้อความ</string>
     <string name="st_mute_block">ปิดเสียงเบอร์โทรและข้อความ</string>
     <string name="st_call_group">โทร</string>
     <string name="st_sms_group">ข้อความ</string>
-    <string name="st_block_title">บล็อคและเก็บปูม</string>
+    <string name="st_block_title">บล็อคและบันทึกการใช้</string>
     <string name="st_mute_title">โหมดปิดเสียง</string>
     <string name="st_common_setting_group">ดูแบบเร็ว</string>
     <string name="st_block_private_call_button">บล็อคหมายเลขส่วนตัวที่เรียกเข้ามา</string>
