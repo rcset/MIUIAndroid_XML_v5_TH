@@ -111,7 +111,7 @@
     <string name="browser_bookmarks_page_bookmarks_text">บุ๊กมาร์ก</string>
     <string name="menu_preferences">การตั้งค่า</string>
     <string name="pref_content_title">เนื้อหาของหน้าเว็บ</string>
-    <string name="pref_allow_apptabs">อนุญาติเปิดหลายแท็บ</string>
+    <string name="pref_allow_apptabs">อนุญาตเปิดหลายแท็บ</string>
     <string name="pref_content_load_images">โหลดภาพ</string>
     <string name="pref_content_load_images_summary">แสดงรูปภาพบนหน้าเว็บ</string>
     <string name="pref_content_block_popups">ปิดกั้นป๊อปอัป</string>
@@ -242,10 +242,10 @@
     <string name="pref_data_preload_summary">อนุญาตให้เบราว์เซอร์โหลดผลการค้นหาที่เชื่อถือได้สูงก่อนล่วงหน้าในเบื้องหลัง</string>
     <string name="pref_data_preload_dialogtitle">การโหลดผลการค้นหาล่วงหน้า</string>
     <string name="pref_link_prefetch_title">กำลังโหลดเว็บเพจล่วงหน้า</string>
-    <string name="pref_link_prefetch_summary">" อนุญาติเบราเซอร์โหลดหน้าลิงค์ล่วงหน้าในพื้นหลัง"</string>
+    <string name="pref_link_prefetch_summary">" อนุญาตเบราเซอร์โหลดหน้าลิงค์ล่วงหน้าในพื้นหลัง"</string>
     <string name="pref_link_prefetch_dialogtitle">กำลังโหลดเว็บเพจล่วงหน้า</string>
     <string name="pref_video_preload_title">กำลังโหลดวิดีโอล่วงหน้า</string>
-    <string name="pref_video_preload_summary">" อนุญาติเบราเซอร์โหลดวิดีโอล่วงหน้าหากเซิร์ฟเวอร์ว่าง"</string>
+    <string name="pref_video_preload_summary">" อนุญาตเบราเซอร์โหลดวิดีโอล่วงหน้าหากเซิร์ฟเวอร์ว่าง"</string>
     <string name="pref_video_preload_dialogtitle">กำลังโหลดวิดีโอล่วงหน้า</string>
     <string name="browserFrameNetworkErrorLabel">ปัญหาการเชื่อมต่อ</string>
     <string name="browserFrameFileErrorLabel">ปัญหาเกี่ยวกับไฟล์</string>
@@ -480,12 +480,12 @@
     <string name="url_copy_done">คัดลอก Url</string>
     <string name="pref_setting_title">ตั้งค่าเพจ</string>
     <string name="pref_general_setting_title">ตั้งค่า</string>
-    <string name="pref_images_preload_summary">" อนุญาติให้เบราเซอร์โหลดภาพล่วงหน้าเมื่อเซิร์ฟเวอร์อนุญาติ"</string>
+    <string name="pref_images_preload_summary">" อนุญาตให้เบราเซอร์โหลดภาพล่วงหน้าเมื่อเซิร์ฟเวอร์อนุญาต"</string>
     <string name="pref_images_preload_title">โหลดภาพล่วงหน้า</string>
     <string name="pref_images_preload_dialogtitle">โหลดภาพล่วงหน้า</string>
     <string name="pref_images_preload_value_never_summary">ไม่โหลดภาพล่วงหน้า</string>
-    <string name="pref_images_preload_value_wifi_only_summary">อนุญาติเบราเซอร์โหลดภาพล่วงหน้าเมื่อเชื่อมต่อ Wifi</string>
-    <string name="pref_images_preload_value_always_summary">อนุญาติเบราเซอร์โหลดภาพล่วงหน้าเสมอ</string>
+    <string name="pref_images_preload_value_wifi_only_summary">อนุญาตเบราเซอร์โหลดภาพล่วงหน้าเมื่อเชื่อมต่อ Wifi</string>
+    <string name="pref_images_preload_value_always_summary">อนุญาตเบราเซอร์โหลดภาพล่วงหน้าเสมอ</string>
     <string name="pref_data_preload_value_never_summary">ไม่โหลดผลการค้นหาล่วงหน้าในพื้นหลัง</string>
     <string name="pref_link_prefetch_value_never_summary">ไม่โหลดหน้าลิงค์ล่วงหน้าในพื้นหลัง</string>
     <string name="pref_video_preload_value_never_summary">ไม่โหลดวิดีโอล่วงหน้า</string>
