@@ -266,7 +266,7 @@
     <string name="not_auto_create_recent_album">ย้อนกลับสร้างอัลบั้มชื่นชอบอัตโนมัติ</string>
     <string name="auto_create_recent_album_confirm">หลังจากคุณปิด คลังภาพจะล้างข้อมูลชื่นชอบ ชื่นชอบที่ตั้งโดยผู้จะใช้จะไม่ได้รับผลกระทบ หรือคุณสามารถตั้งชื่อชอบกดยาวๆที่อัลบั้ม</string>
     <string name="slideshow_category">สไลด์โชว์</string>
-    <string name="slideshow_interval">Play Each Slide For</string>
+    <string name="slideshow_interval">ระยะเวลาสไลด์</string>
     <string name="slideshow_interval_dialog_title">ช่วงเวลาสไลด์โชว์ต้องมากกว่า 0 วินาที</string>
     <string name="slideshow_interval_invalid">ตั้งค่าช่วงเวลาไม่ต้อง จะต้องอยู่ระหว่าง 1~3600 วินาที</string>
     <string name="slideshow_repeat_mode">เล่นซ้ำ</string>
@@ -279,7 +279,7 @@
     <string name="screensaver_activate_mode">เปิดใช้งานสกรีนเซฟเวอร์</string>
     <string name="screensaver_activate_only_charging">เมื่อเสียบสายชาร์ตเท่านั้น</string>
     <string name="screensaver_path">อัลบั้มสกรีนเซฟเวอร์:</string>
-    <string name="screensaver_path_not_set">ไม่เลย</string>
+    <string name="screensaver_path_not_set">ไม่ได้ตั้ง</string>
     <string name="set_screensaver_path_title">สไลด์โชว์สกรีนเซฟเวอร์</string>
     <string name="set_screensaver_path_message">ภาพในอัลบั้มนี้จะแสดงสกรีนเซฟเวอร์ 5 วินาทีหลังจากหน้าจอดับ ข้อความนี้จะไม่แสดงอีกครั้ง</string>
     <string name="screensaver_no_data">ไม่มีภาพในอัลบั้ม</string>
