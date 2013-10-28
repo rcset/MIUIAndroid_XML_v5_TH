@@ -1958,7 +1958,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="search_vpn">vpn</string>
     <string name="search_tether">ขอบเขต</string>
     <string name="search_brightness">ความสว่าง</string>
-    <string name="search_wallpaper">วอลล์เปเปอร์</string>
+    <string name="search_wallpaper">วอลเปเปอร์</string>
     <string name="search_launcher">ตัวเรียกใช้</string>
     <string name="search_accelerometer">accelerometer</string>
     <string name="search_screen_timeout">เวลาหน้าจอดับ</string>
