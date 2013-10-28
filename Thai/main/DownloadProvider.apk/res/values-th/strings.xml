@@ -2,19 +2,19 @@
 <resources>
     <string name="app_label">จัดการดาวน์โหลด</string>
     <string name="permlab_downloadManager">เข้าใช้งานจัดการดาวน์โหลด</string>
-    <string name="permdesc_downloadManager">อนุญาติให้แอปเข้าถึงจัดการดาวน์โหลดและใช้ดาวน์โหลดไฟล์ แอปที่มีอันตรายอาจจะส่งผลกระทบต่อดาวน์โหลดและเข้าถึงข้อมูลส่วนตัว</string>
+    <string name="permdesc_downloadManager">อนุญาตให้แอปเข้าถึงจัดการดาวน์โหลดและใช้ดาวน์โหลดไฟล์ แอปที่มีอันตรายอาจจะส่งผลกระทบต่อดาวน์โหลดและเข้าถึงข้อมูลส่วนตัว</string>
     <string name="permlab_downloadManagerAdvanced">ฟังก์ชันจัดการดาวน์โหลดขั้นสูง</string>
-    <string name="permdesc_downloadManagerAdvanced">"อนุญาติให้แอปเข้าถึงจัดการดาวน์โหลดขั้นสูง  แอปที่มีอันตรายอาจจะส่งผลกระทบต่อดาวน์โหลดและเข้าถึงข้อมูลส่วนตัว"</string>
+    <string name="permdesc_downloadManagerAdvanced">"อนุญาตให้แอปเข้าถึงจัดการดาวน์โหลดขั้นสูง  แอปที่มีอันตรายอาจจะส่งผลกระทบต่อดาวน์โหลดและเข้าถึงข้อมูลส่วนตัว"</string>
     <string name="permlab_downloadCompletedIntent">ส่งแจ้งเตือนดาวน์โหลด</string>
-    <string name="permdesc_downloadCompletedIntent">อนุญาติให้แอปส่งแจ้งเตือนเกี่ยวกับดาวน์โหลดเสร็จสิ้น แอปที่อันตรายสามารถใช้แอปอื่นๆดาวน์โหลดไฟล์</string>
+    <string name="permdesc_downloadCompletedIntent">อนุญาตให้แอปส่งแจ้งเตือนเกี่ยวกับดาวน์โหลดเสร็จสิ้น แอปที่อันตรายสามารถใช้แอปอื่นๆดาวน์โหลดไฟล์</string>
     <string name="permlab_seeAllExternal">แสดงดาวน์โหลดทั้งหมดในการ์ดความจำ</string>
-    <string name="permdesc_seeAllExternal">อนุญาติให้แอปดาวน์โหลดทั้งหมดไปยังการ์ดความจำ</string>
+    <string name="permdesc_seeAllExternal">อนุญาตให้แอปดาวน์โหลดทั้งหมดไปยังการ์ดความจำ</string>
     <string name="permlab_downloadCacheNonPurgeable">พื้นที่สำรองในแคชดาวน์โหลด</string>
-    <string name="permdesc_downloadCacheNonPurgeable">"อนุญาติให้แอปดาวน์โหลดไฟล์ไปยังแคสดาวน์โหลด ซึ่งไม่สามารถลบอัตโนมัติเมื่อจัดการดาวน์โหดต้องการพื้นที่เพิ่ม"</string>
+    <string name="permdesc_downloadCacheNonPurgeable">"อนุญาตให้แอปดาวน์โหลดไฟล์ไปยังแคสดาวน์โหลด ซึ่งไม่สามารถลบอัตโนมัติเมื่อจัดการดาวน์โหดต้องการพื้นที่เพิ่ม"</string>
     <string name="permlab_downloadWithoutNotification">ดาวน์โหลดไฟล์โดยไม่ต้องแจ้งเตือน</string>
-    <string name="permdesc_downloadWithoutNotification">อนุญาติให้แอปดาวน์โหลดไฟล์ตผ่านจัดการดาวน์โหลดโดยไม่ต้องแจ้งเดือนให้กับผู้ใช้</string>
+    <string name="permdesc_downloadWithoutNotification">อนุญาตให้แอปดาวน์โหลดไฟล์ตผ่านจัดการดาวน์โหลดโดยไม่ต้องแจ้งเดือนให้กับผู้ใช้</string>
     <string name="permlab_accessAllDownloads">เข้าใช้งานดาวน์โหลดระบบทั้งหมด</string>
-    <string name="permdesc_accessAllDownloads">อนุญาติให้แอปแสดงหรือปรับปรุงเริ่มดาวน์โหลดทั้งหมดโดยแอปอื่นๆบนระบบ</string>
+    <string name="permdesc_accessAllDownloads">อนุญาตให้แอปแสดงหรือปรับปรุงเริ่มดาวน์โหลดทั้งหมดโดยแอปอื่นๆบนระบบ</string>
     <string name="download_unknown_title">&lt;Untitled></string>
     <string name="notification_filename_separator">", "</string>
     <string name="notification_filename_extras">" และ %d อีก"</string>
