@@ -277,7 +277,7 @@
     <string name="seconds">วินาที</string>
     <string name="screensaver_category">สกรีนเซฟเวอร์</string>
     <string name="screensaver_activate_mode">เปิดใช้งานสกรีนเซฟเวอร์</string>
-    <string name="screensaver_activate_only_charging">เมื่อเสียสายเท่านั้น</string>
+    <string name="screensaver_activate_only_charging">เมื่อเสียบสายชาร์ตเท่านั้น</string>
     <string name="screensaver_path">อัลบั้มสกรีนเซฟเวอร์:</string>
     <string name="screensaver_path_not_set">ไม่เลย</string>
     <string name="set_screensaver_path_title">สไลด์โชว์สกรีนเซฟเวอร์</string>
