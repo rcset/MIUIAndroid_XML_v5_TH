@@ -677,8 +677,8 @@
     <string name="success_message_import_from_account">นำเข้าเสร็จสมบูรณ์</string>
     <string name="unknown_contact_name">รายชื่อที่ไม่รู้จัก</string>
     <string name="contactDetailCalllog">บันทึกการโทร</string>
-    <string name="add_blacklist">เพิ่มไปยังแบล๊กลิสต์</string>
-    <string name="remove_blacklist">ลบออกจากแบล๊กลิสต์</string>
+    <string name="add_blacklist">เพิ่มไปยังแบล็คลิสต์</string>
+    <string name="remove_blacklist">ลบออกจากแบล็คลิสต์</string>
     <string name="empty_divider_title">คุณสามารถ</string>
     <string name="noContactHelpTextAccountsInfo">ซิงค์รายชื่อกับบัญชี Xiaomi, Google, Exchange</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">เรียกคืนข้อมูลในบัญชี Xiaomi และ MiTalk</string>
@@ -1003,8 +1003,8 @@
     <string name="email_too_long">อีเมลยาวเกินไป</string>
     <string name="error_save_usim_contact_email_lost">การบันทึกอีเมลล้มเหลวเพราะที่จัดเก็บข้อมูลบน USIM สำหรับอีเมลเต็ม</string>
     <string name="contact_is_readOnly">ไม่สามารถแก้ไขรายชื่อที่เป็นแบบอ่านได้อย่างเดียว</string>
-    <string name="dlg_add_blacklist">คุณแน่ใจว่าจะเพิ่มเบอร์นี้เข้าในแบล๊กลิสต์หรือไม่?</string>
-    <string name="dlg_remove_blacklist">คุณแน่ใจว่าจะลบเบอร์นี้ออกจากแบล๊กลิสต์หรือไม่?</string>
+    <string name="dlg_add_blacklist">คุณแน่ใจว่าจะเพิ่มเบอร์นี้เข้าในแบล็คลิสต์หรือไม่?</string>
+    <string name="dlg_remove_blacklist">คุณแน่ใจว่าจะลบเบอร์นี้ออกจากแบล็คลิสต์หรือไม่?</string>
     <string name="profile_name">รายละเอียดของฉัน</string>
     <string name="profile_name_photo">I</string>
     <string name="toast_copying">กำลังคัดลอก…</string>
