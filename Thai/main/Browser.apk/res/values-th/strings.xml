@@ -491,7 +491,7 @@
     <string name="pref_video_preload_value_never_summary">ไม่โหลดวิดีโอล่วงหน้า</string>
     <string name="pref_save_bandwidth_mode_title">ใช้งานข้อมูลมือถือ</string>
     <string name="pref_save_bandwidth_mode_summary">เมื่อเปิดใช้งาน เบราเซอร์จะไม่ใช้เครือข่ายมือถือของคุณเพื่อโหลดหน้าล่วงหน้าหรือแสดงภาพอัตโนมัติ</string>
-    <string name="menu_enable_save_bandwidth_mode">>ใช้งานขีดจำกัดข้อมูล</string>
+    <string name="menu_enable_save_bandwidth_mode">ใช้งานขีดจำกัดข้อมูล</string>
     <string name="menu_disable_save_bandwidth_mode">ปิดใช้งานขีดจำกัดข้อมูล</string>
     <string name="menu_save_bandwidth_mode_first_clicked_txt">"ห้ามใช้เครือข่ายมือถือเพื่อโหลดภาพล่วงหน้าหรือแสดงภาพอัตโนมัติ"</string>
     <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">ตกลง</string>
