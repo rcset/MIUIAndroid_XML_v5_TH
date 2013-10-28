@@ -1023,7 +1023,7 @@
     <string name="auto_record_call_title_miui">บันทึกเสียงอัตโนมัติ</string>
     <string name="auto_record_scenario_title_miui">ตั้งค่าบันทึกเสียงอัตโนมัติ</string>
     <string name="auto_record_scenario_enteries_always_miui">หมายเลขทั้งหมด</string>
-    <string name="auto_record_scenario_enteries_whitelist_miui">รายการผุ้ใช้</string>
+    <string name="auto_record_scenario_enteries_whitelist_miui">รายการผู้ใช้</string>
     <string name="auto_record_whitelist_miui">ดูรายการผู้ใช้</string>
     <string name="auto_record_whitelist_no_item_miui">เพิ่มเลขหมายโดยการแตะปุ่มเพิ่ม +</string>
     <string name="auto_record_whitelist_summary_for_one_miui">1 หมายเลข</string>
@@ -1099,7 +1099,7 @@
     <string name="connect_disconnect_vibrate_normal_miui">ปกติ</string>
     <string name="connect_disconnect_vibrate_summary_miui">"สั่นเมื่อมีผู้รับสาย"</string>
     <string name="connect_disconnect_vibrate_title_miui">สั่นเมื่อกดรับสาย</string>
-    <string name="connect_disconnect_vibrate_weak_miui">อ่อน</string>
+    <string name="connect_disconnect_vibrate_weak_miui">เบา</string>
     <string name="contacts_icon_label_miui">รายชื่อ</string>
     <string name="count_of_persons_in_conference_miui">%d คนในประชุมสาย</string>
     <string name="countrycode_alert_message_warning_miui">รหัสประเทศที่คุณใส่ไม่ถูกต้อง</string>
@@ -1363,7 +1363,7 @@
     <string name="antispam_marked_count">สังเกตโดยผู้ใช้ MIUI</string>
     <string name="antispam_notification_title">ระบุตัวตนเลขหมายที่ไม่รู้จัก</string>
     <string name="enable_antispam_strange_title">ปิดเสียงเบอร์ไม่รู้จัก</string>
-    <string name="enable_antispam_strange_summary">ผิดเสียงสายแรกจากเบอร์ที่ไม่รู้จัก</string>
+    <string name="enable_antispam_strange_summary">ปิดเสียงสายแรกจากเบอร์ที่ไม่รู้จัก</string>
     <string name="phone_info_divider">" ｜ "</string>
     <string name="oldman_answer_call_button_text">รับสาย</string>
     <string name="oldman_reject_call_button_text">ไม่รับสาย</string>
