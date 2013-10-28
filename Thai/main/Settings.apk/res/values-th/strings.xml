@@ -591,7 +591,7 @@
     <string name="wifi_tether_stopping">กำลังปิดฮอตสปอต…</string>
     <string name="wifi_tether_enabled_subtext">ฮอตสปอตแบบพกพาได้ %1$s ทำงานอยู่</string>
     <string name="wifi_tether_failed_subtext">ข้อผิดพลาดของ Wi-Fi ฮอตสปอตแบบพกพา</string>
-    <string name="wifi_tether_configure_ap_text">ตั้งค่า WiFi ฮอตสปอต</string>
+    <string name="wifi_tether_configure_ap_text">ตั้งค่า Wi-Fi ฮอตสปอต</string>
     <string name="wifi_tether_configure_subtext">%1$s%2$s Wi-Fi ฮอตสปอตแบบพกพา</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
     <string name="testing_wifi_info">ข้อมูล Wi-Fi</string>
@@ -2325,6 +2325,9 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="wfd_disconnect_diag_title">ออกจากการเข้า Wi-Fi หรือไม่?</string>
     <string name="wfd_disconnect_diag_msg">หากคุณหยุดเซสชั่นแสดงผล Wi-Fi การเชื่อมต่อของคุณกับ  %1$s จะสิ้นสุดลง</string>
     <string name="wfd_disconnect_multiple_diag_message">หากคุณหยุดเซสชั่นแสดงผล Wi-Fi การเชื่อมต่อของคุณกับ  %1$s และ อุปกรณ์อื่น %2$s จะสิ้นสุดลง</string>
+    <string name="wfd_enable_wifi_diag_title">คุณสามารถใช้แสดง Wi-Fi เท่านั้นเมื่อ Wi-Fi เปิดใช้งาน เปิดใช้งานเดี๋ยวนี้?</string>
+    <string name="wfd_enabler_title">เปิดใช้งานแสดง Wi-Fi</string>
+    <string name="wfd_settings_description">เชื่อมต่อแสดงผลด้วย Wi-Fi</string>
     <string name="wfd_wps_keypad">ปุ่ม Push ที่เลือก</string>
     <string name="wfd_wps_pbc">การป้อน PIN ที่เลือก</string>
     <string name="power_mode">การตั้งค่าพลังงาน</string>
@@ -2368,7 +2371,7 @@ PIN อาจไม่ถูกต้อง"</string>
 หาไดร์เวอร์ที่ http://miui.com/mac"</string>
     <string name="vpn_settings_password">VPN</string>
     <string name="vpn_safe">ความปลอดภัย</string>
-    <string name="vpn_configure">แสดงความยินดี</string>
+    <string name="vpn_configure">การกำหนดค่า</string>
     <string name="vpn_dns_servers_hint">e.g. 8.8.8.8</string>
     <string name="vpn_routes_hint">e.g. 10.0.0.0/8</string>
     <string name="sync_wifi_label">การตั้งค่า Wi-Fi</string>
