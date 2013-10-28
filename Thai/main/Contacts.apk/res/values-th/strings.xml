@@ -784,12 +784,12 @@
     <string name="ic_menu_done">สำเร็จ</string>
     <string name="cloud_antispam_title">ระบุเบอร์ไม่รู้จักอย่างฉลาด</string>
     <string name="account_default">เบอร์โทรศัพท์</string>
-    <string name="account_sim">SIM Card %s</string>
+    <string name="account_sim">ซิมการ์ด %s</string>
     <string name="lunarBirthdayLabelsGroup">วันเกิดทางจันทรคติ</string>
     <string name="option_view_contact">แสดง</string>
     <string name="option_edit_contact">แก้ไข</string>
     <string name="option_delete_contact">ลบ</string>
-    <string name="option_send_to_desktop">ส่งไปยังหน้าเดสท๊อป</string>
+    <string name="option_send_to_desktop">ส่งไปยังหน้าจอ</string>
     <string name="option_send_to_others">ส่งไปยังที่อื่นๆ</string>
     <string name="option_not_star">ไม่โปรด</string>
     <string name="option_not_in_group">ลบ</string>
@@ -815,8 +815,8 @@
     <string name="date_picker_label">เตือนล่วงหน้า 3 วัน ก่อนถึงวันเกิด</string>
     <string name="today">วันนี้</string>
     <string name="next_birthday">วันเกิดต่อไป: %s</string>
-    <string name="ringLabelsGroup">ริงโทน</string>
-    <string name="default_ringtone">ริงโทนเริ่มต้น</string>
+    <string name="ringLabelsGroup">เสียงเรียกเข้า</string>
+    <string name="default_ringtone">เสียงเรียกเข้าเริ่มต้น</string>
     <string name="recent_number">ล่าสุด</string>
     <string name="cloud_antispam_mark">ทำเครื่องหมาย</string>
     <string name="antispam_mark_my_contribution">สนับสนุนที่ทำเครื่องหมายของฉัน</string>
