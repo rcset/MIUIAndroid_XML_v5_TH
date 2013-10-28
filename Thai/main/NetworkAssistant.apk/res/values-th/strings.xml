@@ -27,7 +27,7 @@
     <string name="pref_connect_settings_exceed_limit">ปิดใช้งานข้อมูล</string>
     <string name="pref_connect_settings_exceed_limit_hint">แจ้งเตือนและตัดการเชื่อมต่ออินเตอร์เน็ตเมื่อขีดจำกัดทราฟฟิกรายเดือนเกิน</string>
     <string name="pref_connect_settings_enable_backgroung">เปิดใช้งานบริการพื้นหลัง</string>
-    <string name="pref_connect_settings_enable_backgroung_hint">อนุญาติให้เชื่อมต่ออินเตอร์เน็ตอัตโนมัติเมื่อแอปกำลังทำงานในพื้นหลัง</string>
+    <string name="pref_connect_settings_enable_backgroung_hint">อนุญาตให้เชื่อมต่ออินเตอร์เน็ตอัตโนมัติเมื่อแอปกำลังทำงานในพื้นหลัง</string>
     <string name="warning_title">Warning</string>
     <string name="close_txt">ปิด</string>
     <string name="cancel_txt">ยกเลิก</string>
