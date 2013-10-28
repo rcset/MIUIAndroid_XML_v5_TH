@@ -69,7 +69,7 @@
     <string name="weather_fetch_failure">ข้อมูลสภาพอากาศไม่สามารถใช้ได้ในตอนนี้</string>
     <string name="menu_item_dock_settings">การตั้งค่า Dock</string>
     <string name="alarm_klaxon_service_desc">ตั้งปลุกโดยการเล่นเพลง</string>
-    <string name="loading_ringtone">กำลังโหลดแจ้งเตือน...</string>
+    <string name="loading_ringtone">กำลังโหลดเสียงแจ้งเตือน...</string>
     <string name="control_set_alarm">การตั้งปลุก</string>
     <string name="control_set_alarm_with_existing">ตั้งปลุก: %s</string>
     <string name="common_settings">การตั้งค่าร่วม</string>
