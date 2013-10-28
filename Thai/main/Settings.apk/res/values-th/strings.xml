@@ -2367,7 +2367,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="drive_mode_only_contact_reply">ตอบกลับไปยังรายชื่อ</string>
     <string name="drive_mode_auto_sms_reply_content">"ไม่สามารถคุยได้ในตอนนี้... จะติดต่อกลับภายหลัง"</string>
     <string name="drive_mode_auto_sms_reply_content_title">ตอบกลับด่วน</string>
-    <string name="clear_activities_summary">ใช้แอพพลิเคชั่นนี่เพื่อการทำงานบางอย่างเป็นค่าเริมต้น</string>
+    <string name="clear_activities_summary">ใช้แอปพลิเคชันนี่เพื่อการทำงานบางอย่างเป็นค่าเริมต้น</string>
     <string name="permission_detail_info">รายละเอียดที่ได้รับอนุญาต</string>
     <string name="permission_detail_info_summary">อนุญาติ: ความปลอดภัย %1$d，ความเป็นส่วนตัว %2$d，อื่นๆ %3$d</string>
     <string name="permission_manage">จัดการอนุญาต</string>
@@ -2393,9 +2393,9 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="application_forbid_auto_startup">ห้าม %s จากการเปิดในพื้นหลัง</string>
     <string name="floating_window_switch_label">แสดงหน้าต่างป๊อปอัพ</string>
     <string name="floating_window_switch_label_disable">ซ่อนหน้าต่างป๊อปอัพ</string>
-    <string name="app_floating_window_dlg_enable">"การเปิดการตั้งค่าหน้าต่างของ %1$s เพื่อปล่อยให้ทำงานเองต้องเปิดแอพพลิเคชั่นใหม่อีกครั้ง คุณสามารถหยุดการทำงานของแอพพลิเคชั่นได้ด้วยตัวคุณเอง  
+    <string name="app_floating_window_dlg_enable">"การเปิดการตั้งค่าหน้าต่างของ %1$s เพื่อปล่อยให้ทำงานเองต้องเปิดแอปพลิเคชันใหม่อีกครั้ง คุณสามารถหยุดการทำงานของแอปพลิเคชันได้ด้วยตัวคุณเอง  
 คุณต้องการเปิดการทำงานหรือไม่?""</string>
-    <string name="app_floating_window_dlg_disable">"การปิดการตั้งค่าหน้าต่างของ %1$s เพื่อปล่อยให้ทำงานเองนั้นจะหยุดการบังคับแอพพลิเคชั่น คุณสามารถเปิดแอพพลิเคชั่นได้ด้วยตัวคุณเอง
+    <string name="app_floating_window_dlg_disable">"การปิดการตั้งค่าหน้าต่างของ %1$s เพื่อปล่อยให้ทำงานเองนั้นจะหยุดการบังคับแอปพลิเคชัน คุณสามารถเปิดแอปพลิเคชันได้ด้วยตัวคุณเอง
 คุณต้องการปิดการทำงานหรือไม่?"</string>
     <string name="wps_category">WPS</string>
     <string name="wps_connect_title">เชื่อมต่อ WPS</string>
