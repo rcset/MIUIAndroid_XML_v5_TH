@@ -127,7 +127,7 @@
     <string name="preferences_alerts_title">การแจ้งเตือน"</string>
     <string name="preferences_alerts_vibrateWhen_title">สั่น"</string>
     <string name="prefDefault_alerts_vibrate_true">เสมอ"</string>
-    <string name="preferences_alerts_ringtone_title">เลือกเสียงริงโทน"</string>
+    <string name="preferences_alerts_ringtone_title">เลือกเสียงแจ้งเตือน"</string>
     <string name="preferences_alerts_popup_title">หน้าต่างการแจ้งเตือน"</string>
     <string name="preferences_default_reminder_title">เวลาเตือนเริ่มต้น"</string>
     <string name="preferences_default_reminder_dialog">เวลาเตือนเริ่มต้น"</string>
