@@ -34,7 +34,7 @@
     <string name="vt_settings">การตั้งค่าวิดีโอ</string>
     <string name="vt_local_video_zoom">ซูมวิดีโอท้องถิ่น</string>
     <string name="vt_local_video_brightness">ความสว่างวิดีโอท้องถิ่น</string>
-    <string name="vt_local_video_effect">เอฟเฟ็กต์วิดีโอท้องถิ่น</string>
+    <string name="vt_local_video_effect">เอฟเฟควิดีโอท้องถิ่น</string>
     <string name="vt_local_video_nightmode">โหมดกลางคืนวิดีโอท้องถิ่น</string>
     <string name="vt_peer_video_quality">คุณภาพวิดีโอเพื่อน</string>
     <string name="vt_pic_replace_local">ภาพสำหรับทดแทนวิดีโอท้องถิ่น</string>
