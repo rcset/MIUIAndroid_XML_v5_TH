@@ -31,10 +31,10 @@
     <string name="dlg_clear_blacklist">ล้างแบล็คลิส?</string>
     <string name="dlg_clear_blacklist_ok">ล้าง</string>
     <string name="dlg_delete_vip">ล้างหมายเลขที่หมายตานี้?</string>
-    <string name="dlg_bl_add_manual">เพิ่มหมายเลขเข้าในแบล๊กลิสท์ด้วยตัวเอง</string>
+    <string name="dlg_bl_add_manual">เพิ่มหมายเลขเข้าในแบล๊กลิสด้วยตัวเอง</string>
     <string name="dlg_add_manual_ok">เพิ่ม</string>
     <string name="dlg_add_manual_hint">ใส่เบอร์โทรศัพท์</string>
-     <string name="dlg_import_blacklist">กำลังนำเข้าไปยังแบล๊กลิสท์</string>
+     <string name="dlg_import_blacklist">กำลังนำเข้าไปยังแบล๊กลิส</string>
     <string name="dlg_import_whitelist">กำลังนำเข้าไปยังรายการที่หมายตา</string>
     <string name="dlg_add_keyword">เพิ่มคีย์เวิร์ด</string>
     <string name="dlg_edit_keyword">แก้ไขคีย์เวิร์ด</string>
@@ -92,7 +92,7 @@
     <string name="qm_repeated_call_summary_none">ห้ามทำการยกเลิกสำหรับเบอร์โทรซ้ำ</string>
     <string name="qm_repeated_call_summary_3min">การเรียกครั้งที่สองจากบุคคลเดิมภายใน 3 นาที จะไม่ถูกปิดเสียง</string>
     <string name="st_settings_name">ตั้งค่า</string>
-    <string name="st_block_setting_group">การตั้งค่าบล็อคลิสท์</string>
+    <string name="st_block_setting_group">การตั้งค่าบล็อคลิส</string>
     <string name="st_block_setting_title">เบอร์โทรและข้อความ</string>
     <string name="st_block_all">บล็อคเบอร์โทรและข้อความ</string>
     <string name="st_mute_all">ปิดเสียงโทรศัพท์และข้อความ</string>
