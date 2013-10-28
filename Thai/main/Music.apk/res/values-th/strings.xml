@@ -144,8 +144,8 @@
     <string name="retry">ลองอีกครั้ง</string>
     <string name="lrc_search_failed">ไม่พบเนื้อเพลง!</string>
     <string name="lrc_searching">ค้นหาเนื้อเพลง ...</string>
-    <string name="lyric_open_other_connect">ดาวน์โหลดเนื้อเพลงโดยใช้การเชื่อมต่ออินเทอร์เน็ตบนมือถือ</string>
-    <string name="music_open_other_connect">ดาวน์โหลดเพลงโด​​ยใช้การเชื่อมต่ออินเทอร์เน็ตบนมือถือ</string>
+    <string name="lyric_open_other_connect">ดาวน์โหลดเนื้อเพลงโดยใช้การเชื่อมต่ออินเตอร์เน็ตบนมือถือ</string>
+    <string name="music_open_other_connect">ดาวน์โหลดเพลงโด​​ยใช้การเชื่อมต่ออินเตอร์เน็ตบนมือถือ</string>
     <string name="impunity_declaration_title">ประกาศ</string>
     <string name="impunity_declaration">เพลงออนไลน์ที่คุณกำลังฟังมาจาก Baidu บริการเพลงออนไลน์ คลิกที่ \"ยืนยัน\" เพื่อยอมรับเงื่อนไขการใช้บริการและดำเนินการต่อ</string>
     <string name="music_filter_helper">ตัวกรองขนาดของ 800K ถูกนำมาใช้ในการซ่อนไฟล์ สามารถปรับการตั้งค่าได้ใน / ตัวกรองไฟล์</string>
@@ -211,7 +211,7 @@
     <string name="overwrite_confirm">เขียนทับ</string>
     <string name="add_tracks">เพิ่มเพลง</string>
     <string name="correct_id3_by_internet">เชื่อมต่อแท็กเพลงอัตโนมัติ (ID3)</string>
-    <string name="correct_id3_start">ทำให้แท็กเพลงถูกต้อง (ID3) โดยเริ่มใช้อินเทอร์เน็ต</string>
+    <string name="correct_id3_start">ทำให้แท็กเพลงถูกต้อง (ID3) โดยเริ่มใช้อินเตอร์เน็ต</string>
     <string name="correct_id3_in_processing">กำลังทำให้แท็กเพลง (ID3) ถูกต้อง</string>
     <string name="correct_id3_success">แท็กเพลง (ID3) ถูกต้องแล้ว</string>
     <string name="correct_id3_failed">ทำให้แท็กเพลงถูกต้อง (ID3) ล้มเหลว</string>
