@@ -252,7 +252,7 @@
     <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">หน้าเว็บที่คุณพยายามดูมีข้อมูลที่ส่งไปแล้ว (\"POSTDATA\") หากคุณส่งข้อมูลซ้ำ การทำงานใดๆ ของแบบฟอร์มบนหน้าเว็บนั้น (เช่น การค้นหาหรือซื้อออนไลน์) จะถูกทำซ้ำ</string>
     <string name="loadSuspendedTitle">ไม่มีการเชื่อมต่อ</string>
-    <string name="loadSuspended">เบราว์เซอร์ไม่สามารถโหลดหน้าเว็บนี้ได้เนื่องจากไม่มีการเชื่อมต่ออินเทอร์เน็ต</string>
+    <string name="loadSuspended">เบราว์เซอร์ไม่สามารถโหลดหน้าเว็บนี้ได้เนื่องจากไม่มีการเชื่อมต่ออินเตอร์เน็ต</string>
     <string name="clear_history">ล้างประวัติ</string>
     <string name="browser_history">หน้าเว็บที่เยี่ยมชมเมื่อเร็วๆ นี้</string>
     <string name="empty_history">ไม่มีประวัติเบราว์เซอร์</string>
