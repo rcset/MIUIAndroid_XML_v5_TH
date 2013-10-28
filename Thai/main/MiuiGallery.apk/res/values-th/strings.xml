@@ -226,7 +226,7 @@
     <string name="request_qr_code_failed">คำขอ QR ล้มเหลว คลิกเพื่อลองใหม่</string>
     <string name="add_sharer">เพิ่มแบ่งปัน</string>
     <string name="album_name">ชื่ออัลบั้ม</string>
-    <string name="can_modified">อนุญาติแบ่งปันเพื่อเพิ่มภาพ</string>
+    <string name="can_modified">อนุญาตแบ่งปันเพื่อเพิ่มภาพ</string>
     <string name="sharer_status_waiting">รอสักครู่</string>
     <string name="sharer_status_accepted">ยอมรับ</string>
     <string name="sharer_status_refused">ปฎิเสธ</string>
@@ -368,8 +368,8 @@
     <string name="exit_share_successfully">ออกจากอัลบั้ม &lt;%1$s> เสร็จสิ้น</string>
     <string name="exit_share_failed">ออกจากอัลบั้ม &lt;%1$s> ล้มเหลว</string>
     <string name="cancel_hint">ดำเนินการถูกยกเลิก</string>
-    <string name="modify_allow_hint">เพิ่มภาพใหม่ไปยังอัลบั้มอนุญาติให้ใช้</string>
-    <string name="modify_disallow_hint">เพิ่มภาพใหม่ไปยังอัลบั้มไม่อนุญาติให้ใช้</string>
+    <string name="modify_allow_hint">เพิ่มภาพใหม่ไปยังอัลบั้มอนุญาตให้ใช้</string>
+    <string name="modify_disallow_hint">เพิ่มภาพใหม่ไปยังอัลบั้มไม่อนุญาตให้ใช้</string>
     <string name="kick_sharer">ลบแบ่งปัน</string>
     <string name="kick_sharer_successfully">ลบแบ่งปันเรียบร้อยแล้ว</string>
     <string name="kick_sharer_failed">ลบแบ่งปันล้มเหลว</string>
