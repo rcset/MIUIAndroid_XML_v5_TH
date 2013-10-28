@@ -178,9 +178,9 @@
     <string name="status_bar_toggle_power_mode">โหมดพลังงาน</string>
     <string name="status_bar_toggle_drive_mode">ขับรถ</string>
     <string name="status_bar_toggle_wifi_ap">Wi-Fi ฮอตสปอต</string>
-    <string name="status_bar_toggle_quiet_mode">DND</string>
-    <string name="status_bar_toggle_ringtone">ริงโทน</string>
-    <string name="status_bar_toggle_ring">ริงโทน</string>
+    <string name="status_bar_toggle_quiet_mode">ห้ามรบกวน</string>
+    <string name="status_bar_toggle_ringtone">เสียงเรียกเข้า</string>
+    <string name="status_bar_toggle_ring">เสียงเรียกเข้า</string>
     <string name="status_bar_toggle_sync_auto">การซิงค์อัตโนมัติ</string>
     <string name="status_bar_toggle_sync_manual">ซิงค์ด้วยตัวเอง</string>
     <string name="status_bar_toggle_syncing">กำลังซิงค์</string>
@@ -249,7 +249,7 @@
     <string name="resource_server_out_of_service">อยู่นอกพื้นที่ให้บริการ โปรดลองอีกครั้งในภายหลัง</string>
     <string name="resource_switch_account">สลับ</string>
     <string name="resource_system_title">แหล่งข้อมูลรระบบ</string>
-    <string name="resource_tip_select_ringtone">ไม่มีริงโทนที่เลือกล่าสุด</string>
+    <string name="resource_tip_select_ringtone">ไม่มีเสียงเรียกเข้าที่เลือกล่าสุด</string>
     <string name="resource_title">ข้อมูลของแหล่งข้อมูล</string>
     <string name="resource_title_select_ringtone">เลือกเสียงเรียกเข้า</string>
     <string name="resource_update">ปรับปรุง</string>
