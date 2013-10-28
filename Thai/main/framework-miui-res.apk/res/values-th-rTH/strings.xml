@@ -189,7 +189,7 @@
     <string name="volume_icon_description_incall">สนทนา</string>
     <string name="volume_icon_description_media">สื่อ</string>
     <string name="volume_icon_description_notification">การแจ้งเตือน</string>
-    <string name="volume_icon_description_ringer">ริงโทน</string>
+    <string name="volume_icon_description_ringer">เสียงเรียกเข้า</string>
     <string name="wake_alarm_message">Shutdown alarm still rings at %s</string>
     <string name="white_dews" />
     <string name="winter_begins" />
