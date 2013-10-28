@@ -274,7 +274,7 @@ yyyy.M.d"</string>
     <string name="status_bar_toggle_drive_mode">ขับ</string>
     <string name="status_bar_toggle_wifi_ap">Wi-Fi ฮอตสปอต</string>
     <string name="status_bar_toggle_quiet_mode">อย่ารบกวน</string>
-    <string name="status_bar_toggle_ringtone">ริงโทน</string>
+    <string name="status_bar_toggle_ringtone">เสียงเรียกเข้า</string>
     <string name="status_bar_toggle_ring">เสียงกริ่ง</string>
     <string name="status_bar_toggle_sync_auto">ซิงค์อัตโนมัติ</string>
     <string name="status_bar_toggle_sync_manual">ซิงค์ด้วยตัวเอง</string>
