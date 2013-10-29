@@ -2910,7 +2910,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="wifi_advanced_ipv6_address_title">ที่อยู่ IPv6</string>
     <string name="wifi_ipv4_address">ที่อยู่ IPv4</string>
     <string name="wifi_ipv6_address">ที่อยู่ IPv6</string>
-    <string name="mtk_datausage_show_on_lockscreen">แสดงบนหน้าจอล็อกสกรีน</string>
+    <string name="mtk_datausage_show_on_lockscreen">แสดงบนหน้าจอล็อก</string>
     <string name="mtk_datausage_update">อัปเดตการใช้ข้อมูล</string>
     <string name="mtk_datausage_update_set">อัปเดต</string>
     <string name="mtk_datausage_amount_editor_title">ปริมาณข้อมูลที่ใช้</string>
