@@ -268,6 +268,10 @@
     <string name="biometric_weak_liveliness_summary">ต้องกะพริบตาในขณะที่ปลดล็อก</string>
     <string name="lock_after_timeout">ล็อกอัตโนมัติ</string>
     <string name="lock_after_timeout_summary">หลังจากหยุดการทำงาน %1$s</string>
+    <string name="lock_intro_message">"ปกป้องโทรศัพท์ของคุณ โดยใช้รูปแบบการล็อกส่วนตัว โดยเลื่อนนิ้วมือเพื่อวาดรูปแบบอย่างน้อย 4 จุด ตามลำดับ 
+
+พร้อมที่จะเริ่ม?"</string>
+    <string name="lock_title">รักษาความปลอดภัยโทรศัพท์</string>
     <string name="show_owner_info_on_lockscreen_label">แสดงข้อมูลเจ้าของเมื่อล็อกหน้าจอ</string>
     <string name="owner_info_settings_title">ข้อมูลเจ้าของ</string>
     <string name="owner_info_settings_summary" />
