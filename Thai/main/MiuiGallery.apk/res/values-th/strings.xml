@@ -243,7 +243,7 @@
     <string name="set_lock_or_wallpaper">ตั้งเป็นวอลเปเปอร์</string>
     <string name="set_lock_and_wallpaper">กำลังตั้งเป็นวอลเปอร์...</string>
     <string name="set_wallpaper">กำลังตั้งเป็นวอลเปเปอร์หน้าจอหลัก...</string>
-    <string name="set_lockscreen">กำลังตั้งเป็นวอลเปเปอร์หน้าจอล็อค...</string>
+    <string name="set_lockscreen">กำลังตั้งเป็นวอลเปเปอร์หน้าจอล็อก...</string>
     <string name="wallpaper">วอลเปเปอร์หน้าจอหลัก</string>
     <string name="contact_photo">ตั้งเป็นภาพรายชื่อ</string>
     <string name="projection">โปรแจ็คเตอร์</string>
