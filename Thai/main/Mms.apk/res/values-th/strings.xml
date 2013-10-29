@@ -122,8 +122,8 @@
     <string name="confirm_delete_all_SIM_messages">ข้อความทั้งหมดในซิมการ์ดจะถูกลบ</string>
     <string name="confirm_delete_SIM_message">ข้อความในซิมการ์ดนี้จะถูกลบ</string>
     <string name="confirm_restore_all_title">เรียกคืนข้อความจากหมายเลขนี้ทั้งหมดหรือไม่？</string>
-    <string name="confirm_no_block_title">ปลดล็อคหมายเลขนี้ และเรียกคืนข้อความทั้งหมดหรือไม่?</string>
-    <string name="confirm_no_block_positive">ปลดล็อค</string>
+    <string name="confirm_no_block_title">ปลดล็อกหมายเลขนี้ และเรียกคืนข้อความทั้งหมดหรือไม่?</string>
+    <string name="confirm_no_block_positive">ปลดล็อก</string>
     <string name="confirm_restore_title">เรียกคืนข้อความที่เลือกทั้งหมดหรือไม่?</string>
     <string name="confirm_restore_positive">เรียกคืน</string>
     <string name="delete_unlocked">ลบข้อความที่ล็อกไว้</string>
