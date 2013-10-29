@@ -308,7 +308,7 @@
     <string name="unlock_set_unlock_launch_picker_change_title">เปลี่ยนหน้าจอล็อก</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">เปลี่ยนหรือปิดการใช้งานรูปแบบ PIN หรือความปลอดภัยของรหัสผ่าน</string>
     <string name="unlock_set_unlock_launch_picker_enable_summary">เลือกวิธีที่จะล็อกหน้าจอ</string>
-    <string name="unlock_backup_info_summary">เมื่อปลดล็อคด้วยหน้าไม่สามารถระบุตัวคุณได้ คุณต้องการจะปลดล็อกอย่างไร</string>
+    <string name="unlock_backup_info_summary">เมื่อปลดล็อกด้วยหน้าไม่สามารถระบุตัวคุณได้ คุณต้องการจะปลดล็อกอย่างไร</string>
     <string name="unlock_set_unlock_off_title">ไม่มี</string>
     <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_none_title">เลื่อน</string>
@@ -324,7 +324,7 @@
     <string name="unlock_set_unlock_disabled_summary">ปิดใช้งานโดยผู้ดูแลระบบ นโยบายการเข้ารหัส หรือที่จัดเก็บข้อมูลรับรอง</string>
     <string name="unlock_set_unlock_mode_off">ไม่มี</string>
     <string name="unlock_set_unlock_mode_none">เลื่อน</string>
-    <string name="unlock_set_unlock_mode_biometric_weak">ปลดล็อคด้วยหน้า</string>
+    <string name="unlock_set_unlock_mode_biometric_weak">ปลดล็อกด้วยหน้า</string>
     <string name="unlock_set_unlock_mode_pattern">รูปแบบ</string>
     <string name="unlock_set_unlock_mode_pin">PIN</string>
     <string name="unlock_set_unlock_mode_password">รหัสผ่าน</string>
@@ -1053,7 +1053,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="dndm_repeated_call_summary_3min">หากโทรเข้าอีกครั้งภายใน 3 นาที โทรศัพท์จะดังขึ้น</string>
     <string name="dndm_repeated_call_summary_none">เงียบเสียงโทรซ้ำจากหมายเลขเดียวกัน</string>
     <string name="dndm_special_call_setting_group">ข้อยกเว้น</string>
-    <string name="dndm_summary">เมื่อโหมดห้ามรบกวนถูกใช้งาน สายโทรศัพท์และการแจ้งเตือนจะถูกล็อคและเงียบเสียง</string>
+    <string name="dndm_summary">เมื่อโหมดห้ามรบกวนถูกใช้งาน สายโทรศัพท์และการแจ้งเตือนจะถูกล็อกและเงียบเสียง</string>
     <string name="dndm_vip_call_button_title">อนุญาตสายโทรศัพท์จากข้อยกเว้น</string>
     <string name="dndm_vip_call_setting_title">ตั้งค่าข้อยกเว้น</string>
     <string name="dndm_vip_call_summary_contact">รายชื่อทั้งหมด</string>
@@ -1994,7 +1994,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="search_ringtone">เสียงเรียกเข้า</string>
     <string name="search_sms_received">SMS ที่ได้รับ</string>
     <string name="search_silent">เงียบ</string>
-    <string name="search_unlock_set">ชุดปลดล็อค</string>
+    <string name="search_unlock_set">ชุดปลดล็อก</string>
     <string name="search_access_control">ควบคุมการเข้าถึง</string>
     <string name="search_gps">GPS</string>
     <string name="search_status_bar">แถบสถานะ</string>
@@ -2052,7 +2052,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="touch_sensitive_turn_off_summary">คุณต้องการปิดการป้องการโทรเมื่ออยู่ในกระเป๋าหรือไม่?</string>
     <string name="screen_never_timeout_title">ไม่เคยสลีป</string>
     <string name="screen_on_proximity_sensor_title">ป้องการการโทรเมื่ออยู่ในกระเป๋า</string>
-    <string name="screen_on_proximity_sensor_summary">โทรศัพท์จะล็อคอัตโนมัติเมื่อใส่กระเป๋า</string>
+    <string name="screen_on_proximity_sensor_summary">โทรศัพท์จะล็อกอัตโนมัติเมื่อใส่กระเป๋า</string>
     <string name="preferred_launcher_title">ตัวเรียกใช้ที่ต้องการ</string>
     <string name="preferred_launcher_warning_title">แทนที่ตัวเรียกใช้เริ่มต้น</string>
     <string name="preferred_launcher_warning_message">กำลังแทนที่ตัวเรียกใช้เริ่มต้นอาจจะเพิ่มการใช้พลังงาน ลดความเร็ว เพิ่มความเสี่ยงโทรศัพท์</string>
@@ -2066,7 +2066,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="home_key">ปุ่มโฮม</string>
     <string name="back_key">ปุ่มย้อนกลับ</string>
     <string name="screen_key_long_press_timeout">กำหนดเวลาการกดปุ่มค้าง</string>
-    <string name="under_keyguard">ล็อคหน้าจอ</string>
+    <string name="under_keyguard">ล็อกหน้าจอ</string>
     <string name="enable_snapshot_screenlock">กดปุ่มย้อนกลับยาวเพื่อเปิดกล้อง</string>
     <string name="disable_power_key_long_press_under_keyguard">ปิดการทำงานเมนูปุ่มเปิดเครื่อง</string>
     <string name="trackball_wake_title">การเปิดการทำงานของ Trackball</string>
@@ -2086,7 +2086,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="camera_key_action_shortcut_screenshot">ภาพหน้าจอ</string>
     <string name="camera_key_action_shortcut_search">ค้นหา</string>
     <string name="camera_key_action_shortcut_call">โทร</string>
-    <string name="camera_key_action_shortcut_wake">ล็อคเครื่อง</string>
+    <string name="camera_key_action_shortcut_wake">ล็อกเครื่อง</string>
     <string name="multi_touch_points_category_title">การแตะหน้าจอหลายจุดสัมผัส</string>
     <string name="multi_touch_points_preference">เปิดการรีบูต</string>
     <string name="trackball_settings">Trackball</string>
@@ -2098,15 +2098,15 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="battery_indicator_style">ตัวบ่งชี้แบตเตอรี่</string>
     <string name="power_usage_history">การใช้แบตเตอรี่</string>
     <string name="default_usb_mode">การเชื่อมต่อ USB</string>
-    <string name="unlock_set_unlock_summary">กรุณาตั้งค่าล็อคหน้าจอ</string>
-    <string name="lock_settings_picker_settings">ตั้งค่าล็อคหน้าจอ</string>
+    <string name="unlock_set_unlock_summary">กรุณาตั้งค่าล็อกหน้าจอ</string>
+    <string name="lock_settings_picker_settings">ตั้งค่าล็อกหน้าจอ</string>
     <string name="lock_screen_unlock_show">ปิดใช้งานการปัดหน้าจอ</string>
     <string name="lock_screen_unlock_show_summary">ไปยังหน้าจอหลักโดยตรง หรือ ป้อนรหัสผ่านเมื่อเริ่มทำงาน</string>
     <string name="date_time_settings">วันที่ &amp; เวลา</string>
     <string name="timezone_settings">โซนเวลา</string>
     <string name="security_privacy_settings_title">ความปลอดภัย</string>
     <string name="nearby_wifi">เครือข่ายที่ใช้ได้</string>
-    <string name="unlock_set_enter_system">ข้ามการล็อคหน้าจอ</string>
+    <string name="unlock_set_enter_system">ข้ามการล็อกหน้าจอ</string>
     <string name="unlock_set_enter_system_summary">ไปยังหน้าจอหลักโดนตรงเมื่อเริ่มทำงาน</string>
     <string name="forget_wifi_message">หยุดการเชื่อมต่อจากเครือข่ายนี้อัตโนมัติ</string>
     <string name="button_disconnect_network">ตัดการเชื่อมต่อจากเครือข่าย</string>
@@ -2146,9 +2146,9 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="headset_calibrate_confirm">ใช้งานฟังก์ชันใหม่？</string>
     <string name="headset_no_contected">ไม่พบหูฟัง</string>
     <string name="headset_calibrate_wrong_key">ปุ่มผิดพลาด</string>
-    <string name="sim_change_failed_enable_sim_lock">เปิดใช้งานล็อคซิมเพื่อเปลี่ยน PIN</string>
-    <string name="sim_lock_change_not_supported">"ไม่สามารถเปลี่ยนการล็อคซิมได้
- ซิมไม่รองรับการล็อค"</string>
+    <string name="sim_change_failed_enable_sim_lock">เปิดใช้งานล็อกซิมเพื่อเปลี่ยน PIN</string>
+    <string name="sim_lock_change_not_supported">"ไม่สามารถเปลี่ยนการล็อกซิมได้
+ ซิมไม่รองรับการล็อก"</string>
     <string name="apn_new">จุดเชื่อมต่อใหม่</string>
     <string name="apn_save">บันทึก?</string>
     <string name="apn_save_msg">บันทึกการเปลี่ยนแปลง APN หรือไม่?</string>
@@ -2226,7 +2226,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="input_settings">การตั้งค่าการป้อนข้อมูล</string>
     <string name="show_magnifier_when_input">แว่นขยายข้อความ</string>
     <string name="volume_voice_description">เสียง</string>
-    <string name="volume_system_description">ชัตเตอร์กล้อง ล็อคหน้าจอ และการแจ้งเตือนระบบอื่นๆ</string>
+    <string name="volume_system_description">ชัตเตอร์กล้อง ล็อกหน้าจอ และการแจ้งเตือนระบบอื่นๆ</string>
     <string name="volume_bluetooth_description">บลูทูธ</string>
     <string name="volume_restore">ตั้งค่าระดับใหม่</string>
     <string name="volume_restore_alert">คืนค่าระดับเสียงเป็นค่าเริ่มต้น?</string>
@@ -2436,7 +2436,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="brightness_auto_adjust_on">ความสว่างหน้าจอจะเปลี่ยนแปลงตามสภาพแวดล้อม</string>
     <string name="private_sms_need_to_unlock">ต้องการรหัสผ่าน:</string>
     <string name="private_sms_reset_by_account">เข้าสู่ระบบบัญชี Xiaomi เพื่อรีเซ็ตรหัสผ่าน</string>
-    <string name="private_sms_recording_intro_header">ลากรูปแบบการปลดล็อค:</string>
+    <string name="private_sms_recording_intro_header">ลากรูปแบบการปลดล็อก:</string>
     <string name="dirac_control">MI Sound</string>
     <string name="cancel_alert">ยกเลิกการเปลี่ยนแปลงของคุณ?</string>
     <string name="android_beam_witch_label">เปิดใช้งาน Android Beam</string>
@@ -2521,10 +2521,10 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="hdmi_3d_display_enable_summary">เปิดทำงานเพื่อแสดงผลเกม 3D</string>
     <string name="noise_suppression">ลดเสียงรบกวน</string>
     <string name="phone_call_noise_suppression">ลดเสียงรบกวนขณะโทร</string>
-    <string name="lock_settings_common_title">ตั้งค่าการล็อค</string>
-    <string name="turn_off_security_lock">ปิดล็อค</string>
+    <string name="lock_settings_common_title">ตั้งค่าการล็อก</string>
+    <string name="turn_off_security_lock">ปิดล็อก</string>
     <string name="change_password">เปลี่ยนรหัสผ่าน</string>
-    <string name="change_security_lock">ลองวิธีการอื่นเพื่อปลดล็อค</string>
+    <string name="change_security_lock">ลองวิธีการอื่นเพื่อปลดล็อก</string>
     <string name="sync_wifi_only">Wi-Fi เท่านั้น</string>
     <string name="bluetooth_advanced_settings">การตั้งค่าขั้นสูงของบลูทูธ</string>
     <string name="bluetooth_profile_ftp">การถ่ายโอนไฟล์</string>
@@ -2910,7 +2910,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="wifi_advanced_ipv6_address_title">ที่อยู่ IPv6</string>
     <string name="wifi_ipv4_address">ที่อยู่ IPv4</string>
     <string name="wifi_ipv6_address">ที่อยู่ IPv6</string>
-    <string name="mtk_datausage_show_on_lockscreen">แสดงบนหน้าจอล็อคสกรีน</string>
+    <string name="mtk_datausage_show_on_lockscreen">แสดงบนหน้าจอล็อกสกรีน</string>
     <string name="mtk_datausage_update">อัปเดตการใช้ข้อมูล</string>
     <string name="mtk_datausage_update_set">อัปเดต</string>
     <string name="mtk_datausage_amount_editor_title">ปริมาณข้อมูลที่ใช้</string>
@@ -2971,7 +2971,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="lock_screen_notifications_summary">แสดงการแจ้งเตือนบนหน้าจอล็อก</string>
     <string name="lock_screen_style_title">รูปแบบหน้าจอล็อก</string>
     <string name="current_suffix">(ปัจจุบัน)</string>
-    <string name="lockscreen_style_set">ตั้งค่าหน้าจอล็อค</string>
+    <string name="lockscreen_style_set">ตั้งค่าหน้าจอล็อก</string>
     <string name="lockscreen_style_default_desc">การเข้าถึงแอปพลิเคชันแบบเร็วในหน้าจอล็อก</string>
     <string name="evdo_signal_strength_info">Evdo</string>
     <string name="security_not_set">ยังไม่ได้ตั้งค่าความปลอดภัย</string>
@@ -2979,7 +2979,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="wifi_ap_no_connected">0 ผู้ใช้ที่มีการเชื่อมต่อ</string>
     <string name="wifi_ap_no_blocked">0 ผู้ใช้ที่ถูกบล็อก</string>
     <string name="enable_sim">เปิดใช้งาน</string>
-    <string name="sim_lock">ล็อค</string>
+    <string name="sim_lock">ล็อก</string>
     <string name="enable_wifi_tether">เปิดใช้งาน Wi-Fi ฮอตสปอต</string>
     <string name="enable_gps">เปิดใช้งานจีพีเอส</string>
     <string name="enable_gps_confirm_message">ต้องเชื่อมต่อข้อมูลแบบไร้สายเพื่อจะได้รับความช่วยเหลือข้อมูลจีพีเอส (EPO, A-GPS) ซึ่งอาจทำให้เกิดค่าใช้จ่าย คุณแน่ใจว่าจะเปิด GPS หรือไม่?</string>
