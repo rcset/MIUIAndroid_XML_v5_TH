@@ -18,7 +18,7 @@
     <string name="theme_component_title_framework">โครงร่าง</string>
     <string name="theme_component_title_mms">SMS</string>
     <string name="theme_component_title_wallpaper">วอลเปเปอร์</string>
-    <string name="theme_component_title_lockwallpaper">ล็อควอลเปเปอร์</string>
+    <string name="theme_component_title_lockwallpaper">ล็อกวอลเปเปอร์</string>
     <string name="theme_component_title_miwallpaper">วอลเปเปอร์</string>
     <string name="theme_component_title_icon">ไอคอน</string>
     <string name="theme_component_title_boot_animation">บูตภาพเคลื่อนไหว</string>
@@ -28,7 +28,7 @@
     <string name="theme_component_title_notification">การแจ้งเตือน</string>
     <string name="theme_component_title_alarm">ปลุก</string>
     <string name="theme_component_title_contact">การโทรออก</string>
-    <string name="theme_component_title_lockstyle">ล็อคหน้าจอ</string>
+    <string name="theme_component_title_lockstyle">ล็อกหน้าจอ</string>
     <string name="theme_component_title_statusbar">แถบสถานะ</string>
     <string name="theme_component_title_launcher">หน้าแรก</string>
     <string name="theme_component_title_audio_effect">เอฟเฟคเสียง</string>
@@ -38,7 +38,7 @@
     <string name="theme_component_title_others">อื่น ๆ</string>
     <string name="theme_component_title_all">ธีม</string>
     <string name="apply_theme_no_select_message">กรุณาเลือกส่วนประกอบ</string>
-    <string name="apply_lockscreen_paper_tips">การเปลี่ยนวอลเปเปอร์ใช้ไม่ได้กับการล็อคหน้าจอปัจจุบัน วอลเปเปอร์ล็อคหน้าจอใหม่อาจไม่สามารถมองเห็นได้</string>
+    <string name="apply_lockscreen_paper_tips">การเปลี่ยนวอลเปเปอร์ใช้ไม่ได้กับการล็อกหน้าจอปัจจุบัน วอลเปเปอร์ล็อกหน้าจอใหม่อาจไม่สามารถมองเห็นได้</string>
     <string name="theme_import_from_sdcard">นำเข้าจากความจำการ์ด</string>
     <string name="theme_select_others">อื่น ๆ</string>
     <string name="third_party_pickers_activity_title">ตั้งค่า %1$s</string>
@@ -47,7 +47,7 @@
     <string name="desktop_wallpaper">เดสก์ท็อป</string>
     <string name="live_wallpaper">วอลเปเปอร์เคลื่อนไหว</string>
     <string name="mi_wallpaper">วอลเปเปอร์</string>
-    <string name="lockscreen_wallpaper">ล็อคหน้าจอ</string>
+    <string name="lockscreen_wallpaper">ล็อกหน้าจอ</string>
     <string name="change_wallpaper">วอลเปเปอร์</string>
     <string name="component_settings_title">กำหนดรูปแบบธีมเอง</string>
     <string name="component_select_title">เลือกส่วนประกอบ %1$s ส่วน</string>
@@ -65,7 +65,7 @@
     <string name="resource_preview">แสดงตัวอย่าง</string>
     <string name="wallpaper_set_as_both">ตั้งค่าทั้งหมด</string>
     <string name="wallpaper_set_as_destop">ตั้งเป็นวอลเปเปอร์</string>
-    <string name="wallpaper_set_as_lockscreen">ตั้งเป็นล็อคหน้าจอ</string>
+    <string name="wallpaper_set_as_lockscreen">ตั้งเป็นล็อกหน้าจอ</string>
     <string name="wallpaper_crop">ตัดบางส่วน</string>
     <string name="wallpaper_loading_text">กำลังโหลด ...</string>
     <string name="wallpaper_decoded_error">การถอดรหัสล้มเหลว</string>
