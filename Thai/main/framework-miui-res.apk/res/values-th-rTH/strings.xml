@@ -5,7 +5,7 @@
     <string name="activating">กำลังเปิดใช้งาน...</string>
     <string name="alarm_message_12_hour_formate">aah:mm</string>
     <string name="alwaysUsePrompt">ตั้งเป็นค่าเริ่มต้น (ไม่ต้องเตือนอีก)</string>
-    <string name="android_lockscreen_glogin_instructions">เพื่อปลดล็อค กรุณาลงชื่อเข้าใช้</string>
+    <string name="android_lockscreen_glogin_instructions">เพื่อปลดล็อก กรุณาลงชื่อเข้าใช้</string>
     <string name="today">วันนี้</string>
     <string name="tomorrow">พรุ่งนี้</string>
     <string name="yesterday">เมื่อวาน</string>
@@ -67,7 +67,7 @@
     <string name="labour_day" />
     <string name="lantern_festival" />
     <string name="light_snow" />
-    <string name="lockscreen_unlock_sim_via_puk">ป้อนรหัส PUK เพื่อปลดล็อคซิมการ์ด</string>
+    <string name="lockscreen_unlock_sim_via_puk">ป้อนรหัส PUK เพื่อปลดล็อกซิมการ์ด</string>
     <string name="lunar_ba" />
     <string name="lunar_calendar" />
     <string name="lunar_chu" />
@@ -197,7 +197,7 @@
     <string name="lockscreen_forgot_pattern_button_text">ลืมรูปแบบ?</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">ลองอีกครั้งใน %d วินาที</string>
     <string name="lockscreen_pattern_wrong">ลองอีกครั้ง</string>
-    <string name="lockscreen_pattern_instructions">วาดรูปแบบการปลดล็อค</string>
+    <string name="lockscreen_pattern_instructions">วาดรูปแบบการปลดล็อก</string>
     <string name="lockscreen_transport_next_description">ปุ่มถัดไป</string>
     <string name="lockscreen_access_pattern_cleared">รูปแบบเคลียร์</string>
     <string name="lockscreen_access_pattern_start">เริ่มต้นรูปแบบ</string>
@@ -239,7 +239,7 @@
     <string name="device_xiaomi">โทรศัพท์ Xiaomi</string>
     <string name="miui_device_name">Android</string>
     <string name="sim_unavailable">ไม่มีซิมการ์ดที่ใช้งานได้</string>
-    <string name="sim_locked">ซิมการ์ดถูกล็อค</string>
+    <string name="sim_locked">ซิมการ์ดถูกล็อก</string>
     <string name="sim_not_ready">ซิมการ์ดถูกใช้งานอยู่ กรุณาลองอีกครั้งในภายหลัง</string>
     <string name="sim_in_airplane_mode">โปรดปิดการใช้งานโหมดเครื่องบิน</string>
     <string name="sim_changed_reactivate_int_notice">ซิมปัจจุบันยังไม่ได้รับการยืนยัน จำเป็นต้องส่งข้อความอินเตอร์เพื่อยืนยันบริการ ยืนยันตอนนี้?</string>
@@ -248,7 +248,7 @@
     <string name="app_no_notification">ไม่เลย</string>
     <string name="app_notificaiton_on_notificationBar">แถบการแจ้งเตือน</string>
     <string name="device_hongmi">โทรศัพท์ Hongmi</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"คุณใส่รหัสผ่านไม่ถูกต้อง %d ครั้ง หลังจาก %d ครั้ง คุณจะปลดล็อคโดยใช้บัญชีที่คุณสมัคร
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"คุณใส่รหัสผ่านไม่ถูกต้อง %d ครั้ง หลังจาก %d ครั้ง คุณจะปลดล็อกโดยใช้บัญชีที่คุณสมัคร
 
  ลองใหม่ใน %d วินาที"</string>
     <string name="login_website_in_case_forget_password">ไปที่ i.xiaomi.com เพื่อรีเซ็ทรหัสผ่านใหม่ ในกรณีที่คุณลืม</string>
