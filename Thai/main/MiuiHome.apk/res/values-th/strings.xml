@@ -162,7 +162,7 @@
     <string name="status_bar_toggle_divider">เพิ่มเติม</string>
     <string name="status_bar_toggle_flight_mode">โหมดเครื่องบิน</string>
     <string name="status_bar_toggle_gps">Gps</string>
-    <string name="status_bar_toggle_lock">ล็อค</string>
+    <string name="status_bar_toggle_lock">ล็อก</string>
     <string name="status_bar_toggle_mute">เงียบ</string>
     <string name="status_bar_toggle_network_type">เครือข่าย</string>
     <string name="status_bar_toggle_privacy_mode">ป้องกัน</string>
@@ -187,7 +187,7 @@
     <string name="status_bar_toggle_power_low">ประหยัดพลังงาน</string>
     <string name="status_bar_toggle_power_mid">ปกติ</string>
     <string name="status_bar_toggle_power_high">ประสิทธิภาพ</string>
-    <string name="screen_rotation_freeze_message">การหมุนหน้าจอล็อคในแนวนอน</string>
+    <string name="screen_rotation_freeze_message">การหมุนหน้าจอล็อกในแนวนอน</string>
     <string name="screen_button_disabled_message">ปุ่มบนหน้าจอข้างล่างถูกปิดใช้งาน คุณอาจจะเปิดใช้งานโดยการกดที่ \"ปุ่มโฮม\" และ \"ปุ่มเปิดเครื่อง\"</string>
     <string name="screen_button_enabled_message">ปุ่มบนหน้าจอด้านล่างเปิดใช้งานแล้ว</string>
     <string name="account_abnormal_state">ข้อมูลบัญชีผิดปกติ ลองเข้าสู่ระบบอีกครั้งหรือลองอีกครั้งในภายหลัง</string>
