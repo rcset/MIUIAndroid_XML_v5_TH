@@ -107,7 +107,7 @@
     <string name="find_device_success_title">การค้นหาอุปกรณ์ถูกเปิดใช้งาน"</string>
     <string name="find_device_notice_p1">เมื่อโทรศัพท์หาย กรุณาเข้าไปที่"</string>
     <string name="find_device_notice_p2">i.xiaomi.com"</string>
-    <string name="find_device_notice_p3">เพื่อ ค้นหา ล็อคเครื่อง หรือ ล้างข้อมูล"</string>
+    <string name="find_device_notice_p3">เพื่อ ค้นหา ล็อกเครื่อง หรือ ล้างข้อมูล"</string>
     <string name="i_know">ตกลง"</string>
     <string name="find_device_disabled_title">การค้นหาอุปกรณ์ถูกปิด"</string>
     <string name="find_device_disabled_notice">สามารถเปิดอีกครั้งได้ที่ การตั้งค่า - บัญชีและการซิงค์ - บัญชี Xiaomi"</string>
@@ -144,7 +144,7 @@
     <string name="button_pay">จ่ายเงิน"</string>
     <string name="button_recharge">เติมเงิน"</string>
     <string name="balance">ยอดคงเหลือ: %1$s Mi เครดิต"</string>
-    <string name="frozen">(ถูกล็อค)"</string>
+    <string name="frozen">(ถูกล็อก)"</string>
     <string name="mili_center">Mi เครดิต"</string>
     <string name="memu_refresh">รีเฟรช"</string>
     <string name="error_mili_title">Mi เครดิตไม่พอ"</string>
@@ -165,8 +165,8 @@
     <string name="error_verify_title">ไม่ได้รับอนุญาต"</string>
     <string name="error_verify_summary">แอปไม่ได้รับอนุญาตในการขอบริการ"</string>
     <string name="error_expired_summary">คำสั่งของคุณหมดอายุ"</string>
-    <string name="error_frozen_title">บัญชีถูกล็อค!"</string>
-    <string name="error_frozen_summary">บัญชีของคุณถูกล็อค"</string>
+    <string name="error_frozen_title">บัญชีถูกล็อก!"</string>
+    <string name="error_frozen_summary">บัญชีของคุณถูกล็อก"</string>
     <string name="error_account_changed_title">บัญชีได้รับการปรับปรุง"</string>
     <string name="error_account_changed_summary">บัญชี Xiaomi ของคุณได้รับการปรับปรุงแล้ว กรุณาตรวจสอบรายละเอียดของคุณและลองอีกครั้ง"</string>
     <string name="error_too_frequent_visits_title">คำเตือน!"</string>
@@ -361,7 +361,7 @@
     <string name="micloud_intro_02_part_01">ไม่จำเป็นต้องทำอะไร"</string>
     <string name="micloud_intro_02_part_02">บริการ Cloud จะช่วยให้คุณซิงค์รายชื่อผู้ติดต่อ, ข้อความ, รูปภาพและข้อมูลอื่น ๆ ไปยังอุปกรณ์มือถือต่างๆ"</string>
     <string name="micloud_intro_03_part_01">ไม่สูญเสียข้อมูลของคุณอีกต่อไป และ มั่นใจได้ว่าเนื้อหาได้รับการปกป้อง"</string>
-    <string name="micloud_intro_03_part_02">จัดการข้อมูล และ ช่วยค้นหา, ล็อคหรือลบข้อมูล บนอุปกรณ์ของคุณได้ที่ i.xiaomi.com"</string>
+    <string name="micloud_intro_03_part_02">จัดการข้อมูล และ ช่วยค้นหา, ล็อกหรือลบข้อมูล บนอุปกรณ์ของคุณได้ที่ i.xiaomi.com"</string>
     <string name="micloud_dspt">บริการ Cloud รวมถึง การส่งข้อความ MiCloud ซิงค์มือถือ ค้นหาตำแหน่งของอุปกรณ์ และคุณสมบัติอื่น ๆ คุณสามารถจัดการข้อมูลออนไลน์ของคุณได้ทุกเวลา"</string>
     <string name="cmcc_micloud_dspt">บริการ Cloud รวมถึง ซิงค์มือถือ ค้นหาตำแหน่งของอุปกรณ์ และคุณสมบัติอื่น ๆ คุณสามารถจัดการข้อมูลออนไลน์ของคุณได้ทุกเวลา"</string>
     <string name="start_micloud">เริ่มต้น"</string>
