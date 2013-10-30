@@ -198,7 +198,7 @@
     <string name="mediaplaybacklabel">เพลง</string>
     <string name="artists_title">ศิลปิน</string>
     <string name="albums_title">อัลบั้ม</string>
-    <string name="folders_title">เบราว์เซอร์โฟลเดอร์</string>
+    <string name="folders_title">เบราเซอร์โฟลเดอร์</string>
     <string name="tracks_title">เพลงทั้งหมด</string>
     <string name="playlists_title">เพลย์ลิส</string>
     <string name="online_title">ออนไลน์</string>
