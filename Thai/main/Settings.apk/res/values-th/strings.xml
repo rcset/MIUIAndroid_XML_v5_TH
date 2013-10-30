@@ -165,7 +165,7 @@
     <string name="proxy_error_empty_port">คุณต้องกรอกข้อมูลในฟิลด์พอร์ต</string>
     <string name="proxy_error_empty_host_set_port">ฟิลด์พอร์ตจะต้องว่างถ้าไม่ได้ใส่ข้อมูลฟิลด์โฮสต์</string>
     <string name="proxy_error_invalid_port">พอร์ตที่คุณพิมพ์ไม่ถูกต้อง</string>
-    <string name="proxy_warning_limited_support">พร็อกซี HTTP มีการใช้งานโดยเบราว์เซอร์ แต่อาจไม่มีการใช้งานโดยแอปพลิเคชันอื่น</string>
+    <string name="proxy_warning_limited_support">พร็อกซี HTTP มีการใช้งานโดยเบราเซอร์ แต่อาจไม่มีการใช้งานโดยแอปพลิเคชันอื่น</string>
     <string name="radio_info_signal_location_label">ตำแหน่ง:</string>
     <string name="radio_info_neighboring_location_label">CID ใกล้เคียง:</string>
     <string name="radio_info_cellinfo_label">ข้อมูลเซลล์:</string>
@@ -461,7 +461,7 @@
     <string name="android_beam_off_summary">ปิด</string>
     <string name="android_beam_disabled_summary">ใช้งานไม่ได้เนื่องจากปิด NFC อยู่</string>
     <string name="android_beam_label">Android Beam</string>
-    <string name="android_beam_explained">"เมื่อคุณลักษณะนี้เปิดอยู่ คุณสามารถส่งคลื่นสัญญาณของเนื้อหาของแอปพลิเคชันไปยังอุปกรณ์ที่สามารถใช้ NFC อีกอุปกรณ์หนึ่งได้โดยถืออุปกรณ์ไว้ใกล้กัน ตัวอย่างเช่น คุณสามารถส่งคลื่นสัญญาณของหน้าเบราว์เซอร์ วิดีโอ YouTube ที่อยู่ติดต่อใน People และอื่นๆ
+    <string name="android_beam_explained">"เมื่อคุณลักษณะนี้เปิดอยู่ คุณสามารถส่งคลื่นสัญญาณของเนื้อหาของแอปพลิเคชันไปยังอุปกรณ์ที่สามารถใช้ NFC อีกอุปกรณ์หนึ่งได้โดยถืออุปกรณ์ไว้ใกล้กัน ตัวอย่างเช่น คุณสามารถส่งคลื่นสัญญาณของหน้าเบราเซอร์ วิดีโอ YouTube ที่อยู่ติดต่อใน People และอื่นๆ
 
 เพียงแค่นำอุปกรณ์มาไว้ใกล้กัน (โดยปกติจะให้ด้านหลังชนกัน) จากนั้นแตะที่หน้าจอ แอปพลิเคชันจะตัดสินใจว่าจะรับคลื่นสัญญาณสำหรับสิ่งใด"</string>
     <string name="nsd_quick_toggle_title">การค้นหาบริการเครือข่าย</string>
