@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="pref_default_text_encoding_default">UTF-8</string>
-    <string name="application_name">เบราว์เซอร์</string>
+    <string name="application_name">เบราเซอร์</string>
     <string name="choose_upload">เลือกไฟล์ที่จะอัปโหลด</string>
     <string name="uploads_disabled">การอัปโหลดไฟล์ถูกปิดใช้งาน</string>
     <string name="new_tab">แท็บใหม่</string>
@@ -16,7 +16,7 @@
     <string name="username">ชื่อ</string>
     <string name="password">รหัสผ่าน</string>
     <string name="action">ลงชื่อเข้าใช้</string>
-    <string name="bookmarks_search">เบราว์เซอร์</string>
+    <string name="bookmarks_search">เบราเซอร์</string>
     <string name="cancel">ยกเลิก</string>
     <string name="ok">ตกลง</string>
     <string name="title_bar_loading">กำลังโหลด…</string>
@@ -156,8 +156,8 @@
     <string name="autofill_profile_successful_save">บันทึกการป้อนข้อความอัตโนมัติแล้ว</string>
     <string name="autofill_profile_successful_delete">ลบการป้อนข้อความอัตโนมัติแล้ว</string>
     <string name="autofill_profile_editor_delete_profile">ลบ</string>
-    <string name="autofill_setup_dialog_message">เบราว์เซอร์สามารถกรอกเว็บฟอร์มโดยอัตโนมัติได้เหมือนกับฟอร์มนี้ คุณต้องการตั้งค่าการป้อนข้อความอัตโนมัติหรือไม่</string>
-    <string name="autofill_setup_dialog_negative_toast">คุณสามารถตั้งค่าการป้อนข้อความอัตโนมัติจากหน้าจอเบราว์เซอร์ > การตั้งค่า > ทั่วไป ได้เสมอ</string>
+    <string name="autofill_setup_dialog_message">เบราเซอร์สามารถกรอกเว็บฟอร์มโดยอัตโนมัติได้เหมือนกับฟอร์มนี้ คุณต้องการตั้งค่าการป้อนข้อความอัตโนมัติหรือไม่</string>
+    <string name="autofill_setup_dialog_negative_toast">คุณสามารถตั้งค่าการป้อนข้อความอัตโนมัติจากหน้าจอเบราเซอร์ > การตั้งค่า > ทั่วไป ได้เสมอ</string>
     <string name="disable_autofill">ปิดใช้งานการป้อนอัตโนมัติ</string>
     <string name="pref_privacy_security_title">ข้อมูลส่วนบุคคลและความปลอดภัย</string>
     <string name="pref_privacy_clear_cache">ล้างแคช</string>
@@ -165,11 +165,11 @@
     <string name="pref_privacy_clear_cache_dlg">ลบเนื้อหาและฐานข้อมูลที่เก็บไว้ในเครื่องหรือไม่</string>
     <string name="pref_privacy_cookies_title">คุกกี้</string>
     <string name="pref_privacy_clear_cookies">ล้างข้อมูลคุกกี้ทั้งหมด</string>
-    <string name="pref_privacy_clear_cookies_summary">ล้างคุกกี้ทั้งหมดของเบราว์เซอร์</string>
+    <string name="pref_privacy_clear_cookies_summary">ล้างคุกกี้ทั้งหมดของเบราเซอร์</string>
     <string name="pref_privacy_clear_cookies_dlg">ลบคุกกี้ทั้งหมดหรือไม่</string>
     <string name="pref_privacy_clear_history">ล้างประวัติ</string>
-    <string name="pref_privacy_clear_history_summary">ล้างประวัติการนำทางเบราว์เซอร์</string>
-    <string name="pref_privacy_clear_history_dlg">ลบประวัติการนำทางในเบราว์เซอร์หรือไม่</string>
+    <string name="pref_privacy_clear_history_summary">ล้างประวัติการนำทางเบราเซอร์</string>
+    <string name="pref_privacy_clear_history_dlg">ลบประวัติการนำทางในเบราเซอร์หรือไม่</string>
     <string name="pref_privacy_formdata_title">ข้อมูลฟอร์ม</string>
     <string name="pref_privacy_clear_form_data">ล้างข้อมูลในฟอร์ม</string>
     <string name="pref_privacy_clear_form_data_summary">ล้างข้อมูลในฟอร์มที่บันทึกไว้ทั้งหมด</string>
@@ -239,7 +239,7 @@
     <string name="pref_lab_fullscreen_summary">ใช้โหมดเต็มหน้าจอเพื่อซ่อนแถบสถานะ</string>
     <string name="pref_data_title">การจัดการแบนด์วิดท์</string>
     <string name="pref_data_preload_title">การโหลดผลการค้นหาล่วงหน้า</string>
-    <string name="pref_data_preload_summary">อนุญาตให้เบราว์เซอร์โหลดผลการค้นหาที่เชื่อถือได้สูงก่อนล่วงหน้าในเบื้องหลัง</string>
+    <string name="pref_data_preload_summary">อนุญาตให้เบราเซอร์โหลดผลการค้นหาที่เชื่อถือได้สูงก่อนล่วงหน้าในเบื้องหลัง</string>
     <string name="pref_data_preload_dialogtitle">การโหลดผลการค้นหาล่วงหน้า</string>
     <string name="pref_link_prefetch_title">กำลังโหลดเว็บเพจล่วงหน้า</string>
     <string name="pref_link_prefetch_summary">" อนุญาตเบราเซอร์โหลดหน้าลิงค์ล่วงหน้าในพื้นหลัง"</string>
@@ -252,14 +252,14 @@
     <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">หน้าเว็บที่คุณพยายามดูมีข้อมูลที่ส่งไปแล้ว (\"POSTDATA\") หากคุณส่งข้อมูลซ้ำ การทำงานใดๆ ของแบบฟอร์มบนหน้าเว็บนั้น (เช่น การค้นหาหรือซื้อออนไลน์) จะถูกทำซ้ำ</string>
     <string name="loadSuspendedTitle">ไม่มีการเชื่อมต่อ</string>
-    <string name="loadSuspended">เบราว์เซอร์ไม่สามารถโหลดหน้าเว็บนี้ได้เนื่องจากไม่มีการเชื่อมต่ออินเตอร์เน็ต</string>
+    <string name="loadSuspended">เบราเซอร์ไม่สามารถโหลดหน้าเว็บนี้ได้เนื่องจากไม่มีการเชื่อมต่ออินเตอร์เน็ต</string>
     <string name="clear_history">ล้างประวัติ</string>
     <string name="browser_history">หน้าเว็บที่เยี่ยมชมเมื่อเร็วๆ นี้</string>
-    <string name="empty_history">ไม่มีประวัติเบราว์เซอร์</string>
+    <string name="empty_history">ไม่มีประวัติเบราเซอร์</string>
     <string name="go_home">หน้าแรก</string>
     <string name="add_new_bookmark">เพิ่มบุ๊กมาร์ก</string>
     <string name="add_bookmark_short">เพิ่ม</string>
-    <string name="search_label">เบราว์เซอร์</string>
+    <string name="search_label">เบราเซอร์</string>
     <string name="search_hint">ค้นหาหรือพิมพ์ URL</string>
     <string name="search_button_text">ไป</string>
     <string name="search_settings_description">บุ๊กมาร์กและประวัติเว็บ</string>
@@ -280,7 +280,7 @@
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="picasa">Picasa</string>
     <string name="search_the_web">ค้นหาเว็บ</string>
-    <string name="webstorage_outofspace_notification_title">พื้นที่จัดเก็บของเบราว์เซอร์เต็ม</string>
+    <string name="webstorage_outofspace_notification_title">พื้นที่จัดเก็บของเบราเซอร์เต็ม</string>
     <string name="webstorage_outofspace_notification_text">แตะเพื่อเพิ่มพื้นที่ว่าง</string>
     <string name="webstorage_clear_data_title">ล้างข้อมูลที่เก็บไว้</string>
     <string name="webstorage_clear_data_dialog_message">ลบข้อมูลทั้งหมดที่เก็บไว้โดยเว็บไซต์นี้หรือไม่</string>
