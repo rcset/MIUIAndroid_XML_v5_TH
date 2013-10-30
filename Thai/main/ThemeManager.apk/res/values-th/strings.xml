@@ -13,7 +13,7 @@
     <string name="backup_theme_name">แบคอัพของฉัน</string>
     <string name="theme_description_title_default">ค่าเริ่มต้น</string>
     <string name="theme_description_title_customized">กำหนดเอง</string>
-    <string name="component_category_finest_title">ถูกแสดง</string>
+    <string name="component_category_finest_title">มาใหม่</string>
     <string name="component_category_more_title">เพิ่มเติม</string>
     <string name="theme_component_title_framework">โครงร่าง</string>
     <string name="theme_component_title_mms">SMS</string>
@@ -135,8 +135,12 @@
     <string name="resource_app_name">เบราเซอร์แหล่งข้อมูล</string>
     <string name="resource_price_free">ฟรี</string>
     <string name="resource_price_unit">Mi เครดิต</string>
+    <string name="resource_ranking">ยอดนิยม</string>
+    <string name="resource_ranking_free">ฟรี</string>
+    <string name="resource_ranking_purchase">เสียเงิน</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="sdcard_status_changed_dialog_title">สถานะการ์ดความจำถูกเปลี่ยน</string>
+    <string name="resource_my">ภายใน</string>
     <string name="sdcard_status_changed_dialog_message">กำลังออก กรุณาเปิดแอปอีกครั้งเพื่อรีเฟชแหล่งข้อมูล</string>
     <string name="resource_mute">ไม่มี</string>
     <string name="resource_default">เสียงเรียกเข้าเริ่มต้น</string>
@@ -172,6 +176,12 @@
     <string name="resource_delete_confirm">คุณแน่ใจหรือว่าต้องการลบแหล่งข้อมูลนี้?</string>
     <string name="all_resources">ทั้งหมด</string>
     <string name="resource_default_name">แหล่งข้อมูล</string>
+    <string name="resource_category">หมวดหมู่</string>
+    <string name="resource_comment_1_star">1 ดาว</string>
+    <string name="resource_comment_2_star">2 ดาว</string>
+    <string name="resource_comment_3_star">3 ดาว</string>
+    <string name="resource_comment_4_star">4 ดาว</string>
+    <string name="resource_comment_5_star">5 ดาว</string>
     <string name="resource_detail">รายละเอียด</string>
     <string name="resource_delete_all">คุณแน่ใจหรือว่าต้องการลบ %1$d แหล่งข้อมูลที่เลือก?</string>
     <string name="resource_can_not_selected">%1$s ไม่สามารถเลือกได้!</string>
