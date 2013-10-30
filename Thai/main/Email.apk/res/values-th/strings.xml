@@ -363,7 +363,7 @@
     <string name="mailbox_shortcut_picker_title">เลือกโฟลเดอร์</string>
     <string name="toast_account_not_found">ไม่พบบัญชี อาจถูกลบไปแล้ว</string>
     <string name="toast_mailbox_not_found">ไม่พบโฟลเดอร์ อาจถูกลบไปแล้ว</string>
-    <string name="provider_note_live">มีเพียงบัญชีแบบ \"Plus\" บางประเภทเท่านั้นที่มีการเข้าถึงแบบ POP ที่โปรแกรมสามารถเชื่อมต่อได้ หากคุณไม่สามารถลงชื่อเข้าใช้ด้วยที่อยู่อีเมลและรหัสผ่านที่ถูกต้องได้ อาจเป็นเพราะคุณไม่มีบัญชี \"Plus\" แบบเสียค่าใช้จ่าย โปรดเปิดเว็บเบราว์เซอร์เพื่อเข้าถึงบัญชีอีเมลเหล่านี้</string>
+    <string name="provider_note_live">มีเพียงบัญชีแบบ \"Plus\" บางประเภทเท่านั้นที่มีการเข้าถึงแบบ POP ที่โปรแกรมสามารถเชื่อมต่อได้ หากคุณไม่สามารถลงชื่อเข้าใช้ด้วยที่อยู่อีเมลและรหัสผ่านที่ถูกต้องได้ อาจเป็นเพราะคุณไม่มีบัญชี \"Plus\" แบบเสียค่าใช้จ่าย โปรดเปิดเว็บเบราเซอร์เพื่อเข้าถึงบัญชีอีเมลเหล่านี้</string>
     <string name="provider_note_t_online">ก่อนที่จะตั้งค่าบัญชีอีเมลนี้ ให้ไปที่เว็บไซต์ T-Online และสร้างรหัสผ่านสำหรับการเข้าถึงอีเมลแบบ POP3</string>
     <string name="exchange_name">องค์กร</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
@@ -548,7 +548,7 @@
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
     <string name="choosertitle_sharevia">แบ่งปันผ่าน</string>
-    <string name="contextmenu_openlink">เปิดในเบราว์เซอร์</string>
+    <string name="contextmenu_openlink">เปิดในเบราเซอร์</string>
     <string name="contextmenu_copy">คัดลอก</string>
     <string name="contextmenu_copylink">คัดลอก URL ของลิงก์</string>
     <string name="contextmenu_dial_dot">หมุนหมายเลข...</string>
