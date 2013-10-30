@@ -213,7 +213,7 @@
     <string name="online_no_network">สามารถเชื่อมต่อกับเครือข่าย</string>
     <string name="online_search_hint">ค้นหาแหล่งข้อมูลออนไลน์</string>
     <string name="resource_alarm_default">สัญญาณเตือน</string>
-    <string name="resource_app_name">แหล่งข้อมูลเบราว์เซอร์</string>
+    <string name="resource_app_name">แหล่งข้อมูลเบราเซอร์</string>
     <string name="resource_apply">นำไปใช้</string>
     <string name="resource_buy">ซื้อ</string>
     <string name="resource_can_not_selected">%1$s ไม่สามารถเลือกได้!</string>
