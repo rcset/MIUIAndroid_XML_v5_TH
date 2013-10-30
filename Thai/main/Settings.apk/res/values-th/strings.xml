@@ -2312,6 +2312,10 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="eq_preset_hint">กรุณาใส่ชือ preset</string>
     <string name="eq_preset_select">เลือก preset</string>
     <string name="dolby_eq_enter_alert_title">เปิดเสียงในระบบ Dolby Music</string>
+    <string name="dolby_ieq_flat">ปิด</string>
+    <string name="dolby_ieq_focused">หนัก</string>
+    <string name="dolby_ieq_open">เปิด</string>
+    <string name="dolby_ieq_rich">คงที่</string>
     <string name="dolby_eq_enter_alert_msg">คุณสามารถใช้ EQ ในโหมด Dolby Music เท่านั้น เปิดการทำงานในขณะนี้หรือไม่?</string>
     <string name="dirac_switch_title">เปิดใช้ MiSound enhancer</string>
     <string name="dirac_switch_summary">เปิดใช้ MiSound enhancer เสมอ เมือใช้งานร่วมกับลำโพง</string>
