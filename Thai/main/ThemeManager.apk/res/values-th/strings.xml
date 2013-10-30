@@ -132,7 +132,7 @@
     <string name="restore_default_theme_alert">คุณอาจถูกหลอกจากธีมปลอมแปลง โปรดค้นหาจากธีมมาร์เก็ตเพื่อซื้อหรือดาวน์โหลดใหม่</string>
     <string name="maml_component_customization_title">การตั้งค่าส่วนประกอบ</string>
     <string name="default_name">ค่าเริ่มต้น</string>
-    <string name="resource_app_name">เบราว์เซอร์แหล่งข้อมูล</string>
+    <string name="resource_app_name">เบราเซอร์แหล่งข้อมูล</string>
     <string name="resource_price_free">ฟรี</string>
     <string name="resource_price_unit">Mi เครดิต</string>
     <string name="resource_price_format">(%1$s)</string>
