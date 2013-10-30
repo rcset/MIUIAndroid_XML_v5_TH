@@ -601,7 +601,7 @@
     <string name="toast_displaying_all_contacts">แสดงรายชื่อทั้งหมด</string>
     <string name="no_account_prompt">"People ทำงานได้ดีกว่าหากมีบัญชี Google
 
-•เข้าถึงจากทุกเว็บเบราว์เซอร์
+•เข้าถึงจากทุกเว็บเบราเซอร์
 •สำรองข้อมูลสมุดโทรศัพท์ของคุณอย่างปลอดภัย"</string>
     <string name="generic_no_account_prompt">เก็บรายชื่อของคุณไว้ให้อย่างปลอดภัยแม้ว่าโทรศัพท์คุณจะหาย: ซิงค์ด้วยบริการแบบออนไลน์</string>
     <string name="generic_no_account_prompt_title">เพิ่มบัญชี</string>
