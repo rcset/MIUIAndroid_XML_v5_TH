@@ -2460,8 +2460,8 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="wifi_priority_settings_label">การตั้งค่าลำดับความสำคัญ</string>
     <string name="audio_profile_settings_title">โปรไฟล์เสียง</string>
     <string name="enable_wifi_display">เปิดใช้งานการแสดงผลไร้สาย</string>
-    <string name="xiaomi_cloud_service">MiCloud</string>
-    <string name="xiaomi_money_service">MiCredit</string>
+    <string name="xiaomi_cloud_service">Mi คลาวด์</string>
+    <string name="xiaomi_money_service">Mi เครดิต</string>
     <string name="wifi_auto_connect">เชื่อมต่ออัตโนมัติ</string>
     <string name="wifi_share">แบ่งปัน Wi-Fi</string>
     <string name="wifi_share_turn_on">แบ่งปัน Wi-Fi ถูกเปิด</string>
