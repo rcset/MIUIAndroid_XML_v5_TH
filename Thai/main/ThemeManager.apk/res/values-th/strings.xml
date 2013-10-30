@@ -39,8 +39,8 @@
     <string name="theme_component_title_all">ธีม</string>
     <string name="apply_theme_no_select_message">กรุณาเลือกส่วนประกอบ</string>
     <string name="apply_lockscreen_paper_tips">การเปลี่ยนวอลเปเปอร์ใช้ไม่ได้กับการล็อกหน้าจอปัจจุบัน วอลเปเปอร์ล็อกหน้าจอใหม่อาจไม่สามารถมองเห็นได้</string>
-    <string name="theme_import_from_sdcard">นำเข้าจากความจำการ์ด</string>
-    <string name="theme_select_others">อื่น ๆ</string>
+    <string name="theme_import_from_sdcard">นำเข้าจากการ์ดความจำ</string>
+    <string name="theme_select_others">อื่นๆ</string>
     <string name="third_party_pickers_activity_title">ตั้งค่า %1$s</string>
     <string name="lockstyle_personal_settings">การปรับแต่ง</string>
     <string name="wallpaper_settings">การตั้งค่าวอลเปเปอร์</string>
