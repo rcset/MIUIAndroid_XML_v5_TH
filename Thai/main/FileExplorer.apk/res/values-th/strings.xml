@@ -96,7 +96,7 @@
     <string name="favorite_ringtone">เสียงเรียกเข้า</string>
     <string name="file_loading">กำลังโหลด ...</string>
     <string name="multi_select_title">%1$s เลือก</string>
-    <string name="tab_networkdisk">KuaiPan</string>
+    <string name="tab_networkdisk">Mi ไดร์ฟ</string>
     <string name="operation_download_link">สร้างการเชื่อมโยงดาวน์โหลด</string>
     <string name="ui_filechange_btn_download">ดาวน์โหลดไฟล์</string>
     <string name="show_message">คุณต้องดาวน์โหลดไฟล์นี้ ก่อนที่คุณจะสามารถเปิดได้</string>
@@ -104,7 +104,7 @@
     <string name="networkView_notConnected">ไม่มีเครือข่าย</string>
     <string name="ui_main_toast_favorite_removed">ไม่ให้คะแนน</string>
     <string name="ui_main_toast_operation_failed">การยกเลิกการให้คะแนนล้มเหลว %1$s .</string>
-    <string name="user_guide">ความรู้เบื้องต้นเกี่ยวกับ KuaiPan</string>
+    <string name="user_guide">ความรู้เบื้องต้นเกี่ยวกับ Mi ไดร์ฟ</string>
     <string name="user_guide_summary">ภาพรวมคร่าวๆ</string>
     <string name="rename_failed">การเปลี่ยนชื่อล้มเหลว %1$s .</string>
     <string name="directory_no_item">โฟลเดอร์ว่าง</string>
@@ -116,12 +116,12 @@
     <string name="ui_bar_txt_download_progress">เหลือ %1$d ไฟล์ที่จะดาวน์โหลด</string>
     <string name="ui_bar_txt_upload_progress">&gt; %1$d ไฟล์ที่จะอัปโหลด</string>
     <string name="ui_main_menu_option_task_manage">จัดการโอน</string>
-    <string name="kuaipan_label">Kuaipan</string>
+    <string name="kuaipan_label">Mi ไดร์ฟ</string>
     <string name="create_kuaipan_shortcut_pref">สถานที่บนหน้าจอหลัก</string>
-    <string name="login_reg_content0">ใช้ Kuaipan จากที่ใดก็ได้</string>
+    <string name="login_reg_content0">ใช้ Mi ไดร์ฟ จากที่ใดก็ได้</string>
     <string name="login_reg_content">จัดเก็บไฟล์และซิงค์กับหลายๆ อุปกรณ์</string>
-    <string name="start_use_xiaomi_account">เริ่มต้นใช้งาน KuaiPan</string>
-    <string name="pan_settting">การตั้งค่า KuaiPan</string>
+    <string name="start_use_xiaomi_account">เริ่มต้นใช้งาน Mi ไดร์ฟ</string>
+    <string name="pan_settting">การตั้งค่า Mi ไดร์ฟ</string>
     <string name="xiaomi_account">บัญชี Xiaomi</string>
     <string name="space_usage">พื้นที่ที่ใช้</string>
     <string name="used">ใช้ไป</string>
@@ -138,8 +138,8 @@
     <string name="file_too_large">การอัปโหลดล้มเหลว: ไฟล์มีขนาดใหญ่เกินไป</string>
     <string name="create_new_folder_failed">สร้างโฟลเดอร์ไม่ได้</string>
     <string name="user_guide_kuaipan_copy">เข้าถึงไฟล์ของคุณจากหลายๆ อุปกรณ์ </string>
-    <string name="user_guide_upload_to_kuaipan">จัดเก็บรายการ Kuaipan จากโทรศัพท์ของคุณ</string>
-    <string name="user_guide_download_other_version">ดาวน์โหลด Kuaipan สำหรับ Windows หรือ OSX</string>
+    <string name="user_guide_upload_to_kuaipan">จัดเก็บรายการ Mi ไดร์ฟ จากโทรศัพท์ของคุณ</string>
+    <string name="user_guide_download_other_version">ดาวน์โหลด Mi ไดร์ฟ สำหรับ Windows หรือ OSX</string>
     <string name="user_guide_other_version">นอกจากนี้ยังมีบนแพลตฟอร์มอื่น ๆ</string>
     <string name="upload_file_toolarge_message">%1$d การอัปโหลดล้มเหลว: คุณสามารถ \ u0009 อัปโหลดไฟล์ขนาดใหญ่กว่า 300 เมก.</string>
     <string name="cution">เคล็ดลับ</string>
@@ -150,11 +150,11 @@
     <string name="trash_box_message1">ลบไฟล์ที่ไม่จำเป็นออกเพื่อเพิ่มพื้นที่ว่าง</string>
     <string name="trash_box_message2">ทำความสะอาดถังรีไซเคิล เพื่อเพิ่มพื้นที่ว่าง</string>
     <string name="close">ปิด</string>
-    <string name="space_info">KuaiPan: %1$s เหลือ %2$s จากทั้งหมด</string>
+    <string name="space_info">Mi ไดร์ฟ: %1$s เหลือ %2$s จากทั้งหมด</string>
     <string name="trash_box_capacity">ถังรีไซเคิล %1$s</string>
     <string name="data_capacity">ข้อมูล %1$s</string>
-    <string name="send_to_midrive">KuaiPan</string>
-    <string name="choose_upload_location">อัปโหลดไปยังโฟลเดอร์ KuaiPan</string>
+    <string name="send_to_midrive">Mi ไดร์ฟ</string>
+    <string name="choose_upload_location">อัปโหลดไปยังโฟลเดอร์ Mi ไดร์ฟ</string>
     <string name="send_to_midrive_failed_message">ไม่สนับสนุนไฟล์ประเภทนี้</string>
     <string name="operation_compress">บีบอัด</string>
     <string name="compress_title">บีบอัด</string>
@@ -209,7 +209,7 @@
     <string name="rename_description">กำลังเปลี่ยนชื่อ ...</string>
     <string name="share_link_failed">การเชื่อมโยงล้มเหลว</string>
     <string name="choose_send_type">เลือกวิธีการ</string>
-    <string name="download_link_completed">%1$s แบ่งปันผ่าน KuaiPan แตะที่ลิงค์ข้างล่างเพื่อดู:</string>
+    <string name="download_link_completed">%1$s แบ่งปันผ่าน Mi ไดร์ฟ แตะที่ลิงค์ข้างล่างเพื่อดู:</string>
     <string name="transing">กำลังส่ง</string>
     <string name="finished">เสร็จสมบูรณ์</string>
     <string name="uploading">กำลังอัปโหลด</string>
@@ -234,9 +234,9 @@
     <string name="storage_sd_card">การ์ดความจำ</string>
     <string name="storage_usb">ที่เก็บข้อมูล USB</string>
     <string name="bind_account">ซิงค์กับบัญชีที่มีอยู่</string>
-    <string name="bind_account_summary">ซิงค์บัญชี KuaiPan กับบัญชี Xiaomi ของคุณ</string>
+    <string name="bind_account_summary">ซิงค์บัญชี Mi ไดร์ฟ กับบัญชี Xiaomi ของคุณ</string>
     <string name="binded_accout_title">บัญชีซิงค์</string>
-    <string name="binded_accout_description">บัญชี Xiaomi ของคุณได้รับการซิงค์กับ KuaiPan ตอนนี้คุณสามารถใช้บัญชี Xiaomi ของคุณในการเข้าถึงข้อมูลที่คุณเก็บไว้ใน KuaiPan</string>
+    <string name="binded_accout_description">บัญชี Xiaomi ของคุณได้รับการซิงค์กับ Mi ไดร์ฟ ตอนนี้คุณสามารถใช้บัญชี Xiaomi ของคุณในการเข้าถึงข้อมูลที่คุณเก็บไว้ใน Mi ไดร์ฟ</string>
     <string name="file_cleanup">ล้างไฟล์</string>
     <string name="scanning_on_going">กำลังสแกน ...</string>
     <string name="scanning" formatted="false">กำลังสแกน %d แอป … (รวม %d แอป)</string>
@@ -289,8 +289,8 @@
     <string name="garbage_item_path_format" formatted="false">%s %s</string>
     <string name="account_bind_prompt">ย้ายข้อมูลผู้ใช้ ... อาจใช้เวลาหลายนาที</string>
     <string name="migrate_announcement_title">การย้ายข้อมูลเสร็จสิ้น</string>
-    <string name="migrate_announcement_msg">ซิงค์บัญชี KuaiPan กับบัญชี Xiaomi ของคุณในการตั้งค่า KuaiPan</string>
-    <string name="query_bind_state">เชื่อมต่อกับ ... KuaiPan</string>
+    <string name="migrate_announcement_msg">ซิงค์บัญชี Mi ไดร์ฟ กับบัญชี Xiaomi ของคุณในการตั้งค่า Mi ไดร์ฟ</string>
+    <string name="query_bind_state">เชื่อมต่อกับ ... Mi ไดร์ฟ</string>
     <string name="operation_deleting_detail">กำลังลบ ( %1$d / %2$d )</string>
     <string name="operation_moving_detail">กำลังย้าย ( %1$d / %2$d )</string>
     <string name="operation_copying">กำลังคัดลอก ...</string>
@@ -299,7 +299,7 @@
     <string name="open_changed_file_title">เปลี่ยนการใช้งาน</string>
     <string name="open_changed_file_message">ไฟล์ที่คุณกำลังเปิดมีการเปลี่ยนแปลง กรุณา: 
     1 ดาวน์โหลดไฟล์อีกครั้งเพื่อปรับปรุง 
-    2 อัปโหลดไปยังบัญชี KuaiPan ของคุณ</string>
+    2 อัปโหลดไปยังบัญชี Mi ไดร์ฟ ของคุณ</string>
     <string name="ui_filechange_btn_upload">อัปโหลดไฟล์</string>
     <string name="folder_exist">โฟลเดอร์นี้มีอยู่แล้ว</string>
     <string name="unmount_inform_text">ยกเลิกการเชื่อมต่อที่จัดเก็บข้อมูล USB หรือไม่?</string>
