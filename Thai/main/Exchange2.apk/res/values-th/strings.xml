@@ -24,7 +24,7 @@
     <string name="policy_dont_allow_pop_imap">ไม่อนุญาตให้ใช้บัญชี POP3 หรือ IMAP</string>
     <string name="policy_dont_allow_irda">ไม่อนุญาตให้มีการสื่อสารอินฟราเรด</string>
     <string name="policy_dont_allow_html">ไม่อนุญาตให้รับอีเมลแบบ HTML</string>
-    <string name="policy_dont_allow_browser">ไม่อนุญาตให้ใช้เบราว์เซอร์</string>
+    <string name="policy_dont_allow_browser">ไม่อนุญาตให้ใช้เบราเซอร์</string>
     <string name="policy_dont_allow_consumer_email">ไม่อนุญาตให้รับอีเมลลูกค้า</string>
     <string name="policy_dont_allow_internet_sharing">ไม่อนุญาตการแบ่งปันอินเตอร์เน็ต</string>
     <string name="policy_require_smime">ต้องมีข้อความรูปแบบ SMIME</string>
