@@ -575,7 +575,7 @@
     <string name="permlab_accessNetworkState">ดูการเชื่อมต่อเครือข่าย</string>
     <string name="permdesc_accessNetworkState">อนุญาตให้แอปพลิเคชันดูข้อมูลเกี่ยวกับการเชื่อมต่อเครือข่าย เช่น มีเครือข่ายใดอยู่บ้าง และมีการเชื่อมต่อเครือข่ายใด</string>
     <string name="permlab_createNetworkSockets">การเข้าถึงเครือข่ายเต็มรูปแบบ</string>
-    <string name="permdesc_createNetworkSockets">อนุญาตให้แอปพลิเคชันสร้างซ็อกเก็ตเครือข่ายและใช้โปรโตคอลเครือข่ายที่กำหนดเอง เบราว์เซอร์และแอปพลิเคชันอื่นๆ ให้วิธีการในการส่งข้อมูลไปยังอินเทอร์เน็ต จึงไม่จำเป็นต้องได้รับการอนุญาตนี้เพื่อที่จะส่งข้อมูลไปยังอินเทอร์เน็ต</string>
+    <string name="permdesc_createNetworkSockets">อนุญาตให้แอปพลิเคชันสร้างซ็อกเก็ตเครือข่ายและใช้โปรโตคอลเครือข่ายที่กำหนดเอง เบราเซอร์และแอปพลิเคชันอื่นๆ ให้วิธีการในการส่งข้อมูลไปยังอินเทอร์เน็ต จึงไม่จำเป็นต้องได้รับการอนุญาตนี้เพื่อที่จะส่งข้อมูลไปยังอินเทอร์เน็ต</string>
     <string name="permlab_writeApnSettings">เปลี่ยน/ขัดขวางการตั้งค่าเครือข่ายและการเข้าชม</string>
     <string name="permdesc_writeApnSettings">อนุญาตให้แอปพลิเคชันเปลี่ยนการตั้งค่าเครือข่าย สกัดกั้นและตรวจสอบปริมาณการเข้าชมของเครือข่ายทั้งหมด ตัวอย่างเช่น เปลี่ยนพร็อกซีและพอร์ตของ APN ใดๆ แอปพลิเคชันที่เป็นอันตรายอาจตรวจสอบ เปลี่ยนเส้นทาง หรือแก้ไขแพ็คเก็ตในเครือข่ายโดยที่คุณไม่ทราบ</string>
     <string name="permlab_changeNetworkState">เปลี่ยนการเชื่อมต่อเครือข่าย</string>
@@ -837,15 +837,15 @@
     <string name="autofill_area">พื้นที่</string>
     <string name="autofill_emirate">เอมิเรต</string>
     <string name="permlab_readHistoryBookmarks">อ่านบุ๊กมาร์กและประวัติเว็บของคุณ</string>
-    <string name="permdesc_readHistoryBookmarks">อนุญาตให้แอปพลิเคชันอ่านประวัติของ URL ทั้งหมดที่เบราว์เซอร์เคยไป และบุ๊กมาร์กทั้งหมดของเบราว์เซอร์ หมายเหตุ: การอนุญาตนี้อาจไม่สามารถใช้งานได้กับเบราว์เซอร์ของบุคคลที่สามหรือแอปพลิเคชันอื่นๆ ที่มีความสามารถในการเรียกดูบนเว็บ</string>
+    <string name="permdesc_readHistoryBookmarks">อนุญาตให้แอปพลิเคชันอ่านประวัติของ URL ทั้งหมดที่เบราเซอร์เคยไป และบุ๊กมาร์กทั้งหมดของเบราเซอร์ หมายเหตุ: การอนุญาตนี้อาจไม่สามารถใช้งานได้กับเบราเซอร์ของบุคคลที่สามหรือแอปพลิเคชันอื่นๆ ที่มีความสามารถในการเรียกดูบนเว็บ</string>
     <string name="permlab_writeHistoryBookmarks">เขียนบุ๊กมาร์กและประวัติเว็บ</string>
-    <string name="permdesc_writeHistoryBookmarks">อนุญาตให้แอปพลิเคชันเปลี่ยนแปลงประวัติหรือบุ๊กมาร์กของเบราว์เซอร์ที่จัดเก็บไว้ในโทรศัพท์ ซึ่งทำให้แอปพลิเคชันสามารถลบหรือเปลี่ยนข้อมูลเบราว์เซอร์ได้ หมายเหตุ: การอนุญาตนี้อาจไม่สามารถใช้งานได้กับเบราว์เซอร์ของบุคคลที่สามหรือแอปพลิเคชันอื่นๆ ที่มีความสามารถในการเรียกดูบนเว็บ</string>
+    <string name="permdesc_writeHistoryBookmarks">อนุญาตให้แอปพลิเคชันเปลี่ยนแปลงประวัติหรือบุ๊กมาร์กของเบราเซอร์ที่จัดเก็บไว้ในโทรศัพท์ ซึ่งทำให้แอปพลิเคชันสามารถลบหรือเปลี่ยนข้อมูลเบราเซอร์ได้ หมายเหตุ: การอนุญาตนี้อาจไม่สามารถใช้งานได้กับเบราเซอร์ของบุคคลที่สามหรือแอปพลิเคชันอื่นๆ ที่มีความสามารถในการเรียกดูบนเว็บ</string>
     <string name="permlab_setAlarm">ตั้งปลุก</string>
     <string name="permdesc_setAlarm">อนุญาตให้แอปพลิเคชันตั้งเวลาปลุกในแอปพลิเคชันนาฬิกาปลุกที่ติดตั้ง แอปพลิเคชันนาฬิกาปลุกบางรายการอาจไม่ใช้คุณลักษณะนี้</string>
     <string name="permlab_addVoicemail">เพิ่มข้อวามเสียง</string>
     <string name="permdesc_addVoicemail">อนุญาตให้แอปพลิเคชันเพิ่มข้อความลงในกล่องข้อความเสียงของคุณ</string>
-    <string name="permlab_writeGeolocationPermissions">แก้ไขการอนุญาตเกี่ยวกับการระบุตำแหน่งทางภูมิศาสตร์ของเบราว์เซอร์</string>
-    <string name="permdesc_writeGeolocationPermissions">อนุญาตให้แอปพลิเคชันแก้ไขการอนุญาตตำแหน่งทางภูมิศาสตร์ของเบราว์เซอร์ แอปพลิเคชันที่เป็นอันตรายอาจใช้การอนุญาตนี้ในการส่งข้อมูลตำแหน่งไปยังเว็บไซต์ต่างๆ ได้ตามต้องการ</string>
+    <string name="permlab_writeGeolocationPermissions">แก้ไขการอนุญาตเกี่ยวกับการระบุตำแหน่งทางภูมิศาสตร์ของเบราเซอร์</string>
+    <string name="permdesc_writeGeolocationPermissions">อนุญาตให้แอปพลิเคชันแก้ไขการอนุญาตตำแหน่งทางภูมิศาสตร์ของเบราเซอร์ แอปพลิเคชันที่เป็นอันตรายอาจใช้การอนุญาตนี้ในการส่งข้อมูลตำแหน่งไปยังเว็บไซต์ต่างๆ ได้ตามต้องการ</string>
     <string name="permlab_packageVerificationAgent">ยืนยันแพคเกจ</string>
     <string name="permdesc_packageVerificationAgent">อนุญาตให้แอปพลิเคชันยืนยันว่าแพคเกจสามารถติดตั้งได้หรือไม่</string>
     <string name="permlab_bindPackageVerifier">เชื่อมโยงกับการยืนยันแพคเกจ</string>
@@ -856,7 +856,7 @@
     <string name="permdesc_accessContentProvidersExternally">ช่วยให้เจ้าของสามารถเข้าถึงผู้ให้บริการเนื้อหาจากหน้าจอรับคำสั่งเชลล์ แอปพลิเคชันทั่วไปไม่จำเป็นต้องใช้</string>
     <string name="permlab_updateLock">ป้องกันการอัปเดตอุปกรณ์อัตโนมัติ</string>
     <string name="permdesc_updateLock">ช่วยให้เจ้าของแจ้งข้อมูลเกี่ยวกับเวลาที่เหมาะสมในการรีบูตแบบไม่โต้ตอบเพื่ออัปเกรดอุปกรณ์ไปยังระบบได้</string>
-    <string name="save_password_message">คุณต้องการให้เบราว์เซอร์จำรหัสผ่านนี้หรือไม่</string>
+    <string name="save_password_message">คุณต้องการให้เบราเซอร์จำรหัสผ่านนี้หรือไม่</string>
     <string name="save_password_notnow">ยังไม่ใช้งานขณะนี้</string>
     <string name="save_password_remember">จำไว้</string>
     <string name="save_password_never">ไม่ต้องเลย</string>
@@ -1121,9 +1121,9 @@
     <string name="progress_unmounting">กำลังยกเลิกการต่อเชื่อมที่จัดเก็บข้อมูล USB...</string>
     <string name="progress_erasing">กำลังลบที่จัดเก็บข้อมูล USB...</string>
     <string name="format_error">ไม่สามารถลบที่เก็บข้อมูล USB</string>
-    <string name="media_bad_removal">การ์ด SD ถูกนำออกก่อนที่จะยกเลิกการต่อเชื่อม</string>
+    <string name="media_bad_removal">การ์ดความจำถูกนำออกก่อนที่จะยกเลิกการต่อเชื่อม</string>
     <string name="media_checking">กำลังตรวจสอบที่เก็บข้อมูล USB อยู่ในขณะนี้</string>
-    <string name="media_removed">การ์ด SD ถูกนำออกแล้ว</string>
+    <string name="media_removed">การ์ดความจำถูกนำออกแล้ว</string>
     <string name="media_shared">ขณะนี้ที่เก็บข้อมูล USB ถูกใช้งานอยู่โดยคอมพิวเตอร์</string>
     <string name="media_unknown_state">สื่อภายนอกอยู่ในสถานะที่ไม่รู้จัก</string>
     <string name="share">แบ่งปัน</string>
@@ -1185,7 +1185,7 @@
     <string name="action_bar_up_description">นำทางขึ้น</string>
     <string name="action_menu_overflow_description">ตัวเลือกเพิ่มเติม</string>
     <string name="storage_internal">ที่จัดเก็บข้อมูลภายใน</string>
-    <string name="storage_sd_card">การ์ด SD</string>
+    <string name="storage_sd_card">การ์ดความจำ</string>
     <string name="storage_usb">ที่เก็บข้อมูล USB</string>
     <string name="extract_edit_menu_button">แก้ไข</string>
     <string name="data_usage_warning_title">คำเตือนการใช้ข้อมูล</string>
@@ -1222,7 +1222,7 @@
     <string name="status_bar_device_locked">ล็อกอุปกรณ์อยู่</string>
     <string name="list_delimeter">", "</string>
     <string name="sending">กำลังส่ง…</string>
-    <string name="launchBrowserDefault">เปิดเบราว์เซอร์หรือไม่</string>
+    <string name="launchBrowserDefault">เปิดเบราเซอร์หรือไม่</string>
     <string name="SetupCallDefault">รับสายหรือไม่</string>
     <string name="activity_resolver_use_always">ทุกครั้ง</string>
     <string name="activity_resolver_use_once">เฉพาะครั้งนี้</string>
