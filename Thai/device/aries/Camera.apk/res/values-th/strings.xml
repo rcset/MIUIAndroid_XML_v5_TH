@@ -6,12 +6,12 @@
     <string name="camera_label">กล้อง</string>
     <string name="video_camera_label">กล้องวีดีโอ</string>
     <string name="wait">โปรดรอสักครู่ ...</string>
-    <string name="no_storage">ใส่การ์ด SD ก่อนใช้งานกล้อง</string>
-    <string name="not_enough_space">การ์ด SD ของคุณเต็ม</string>
-    <string name="preparing_sd">กำลังเตรียมการ์ด SD ...</string>
-    <string name="access_sd_fail">ไม่สามารถเข้าถึงการ์ด SD</string>
+    <string name="no_storage">ใส่การ์ดความจำก่อนใช้งานกล้อง</string>
+    <string name="not_enough_space">การ์ดความจำของคุณเต็ม</string>
+    <string name="preparing_sd">กำลังเตรียมการ์ดความจำ...</string>
+    <string name="access_sd_fail">ไม่สามารถเข้าถึงการ์ดความจำ</string>
     <string name="access_phone_fail_no_product">ไม่สามารถเข้าถึงที่เก็บข้อมูล USB</string>
-    <string name="access_sd_fail_no_product">ไม่สามารถเข้าถึงการ์ด SD</string>
+    <string name="access_sd_fail_no_product">ไม่สามารถเข้าถึงการ์ดความจำ</string>
     <string name="confirm_restore_title">เรียกคืนค่าเริ่มต้น</string>
     <string name="confirm_restore_message">เรียกคืนการตั้งค่าเริ่มต้นของกล้อง</string>
     <string name="confirm_change_mode_title">สลับโหมด</string>
@@ -167,7 +167,7 @@
     <string name="pref_camera_antibanding_entry_2">60 Hz</string>
     <string name="pref_camera_antibanding_entry_3">อัตโนมัติ</string>
     <string name="dialog_ok">ตกลง</string>
-    <string name="spaceIsLow_content">พื้นที่ใน SD การ์ดของคุณไม่พอ ลบภาพหรือไฟล์บางส่วนออก</string>
+    <string name="spaceIsLow_content">พื้นที่ในความจำการ์ดของคุณไม่พอ ลบภาพหรือไฟล์บางส่วนออก</string>
     <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
     <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
     <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
@@ -289,7 +289,7 @@
     <string name="pref_camera_movie_solid_entry_on">เปิด</string>
     <string name="pref_camera_storage_external_title">อุปกรณ์จัดเก็บข้อมูล</string>
     <string name="pref_camera_storage_external_entry_off">ที่เก็บข้อมูลโทรศัพท์</string>
-    <string name="pref_camera_storage_external_entry_on">การ์ด SD</string>
+    <string name="pref_camera_storage_external_entry_on">การ์ดความจำ</string>
     <string name="unit_mm">mm</string>
     <string name="share">แบ่งปัน</string>
     <string name="send">ส่ง</string>
@@ -397,7 +397,7 @@
     <string name="qr_code_details">รายละเอียดรหัส QR:</string>
     <string name="import_contact">นำเข้ารายชื่อผู้ติดต่อ</string>
     <string name="secure_access_web_url">การเข้าถึงการรักษาความปลอดภัย</string>
-    <string name="download_by_browser">ดาวน์โหลดโดยเบราว์เซอร์</string>
+    <string name="download_by_browser">ดาวน์โหลดโดยเบราเซอร์</string>
     <string name="launch_market">เปิด AppStore</string>
     <string name="launch_wechat">เปิด WeChat</string>
     <string name="download_wechat">ดาวน์โหลด WeChat</string>
@@ -415,7 +415,7 @@
     <string name="contact_birthday">วันคล้ายวันเกิด</string>
     <string name="contact_note">หมายเหตุ</string>
     <string name="success_message_import_from_account">นำเข้าเสร็จแล้ว</string>
-    <string name="web_url_warning">เว็บไซต์ในรหัส QR อาจมีความเสี่ยง, เบราว์เซอร์ MIUI จะสแกนความปลอดภัยสำหรับคุณ กรุณาเข้าใช้งานได้อย่างปลอดภัย</string>
+    <string name="web_url_warning">เว็บไซต์ในรหัส QR อาจมีความเสี่ยง, เบราเซอร์ MIUI จะสแกนความปลอดภัยสำหรับคุณ กรุณาเข้าใช้งานได้อย่างปลอดภัย</string>
     <string name="web_url_apk_warning">รหัส QR มีการดาวน์โหลดแอปพลิเคชันที่อาจมีความเสี่ยง เราขอแนะนำให้คุณใช้จากตลาดในการค้นหาและติดตั้งแอปพลิเคชัน</string>
     <string name="wifi_ssid">SSID:</string>
     <string name="wifi_pwd">รหัสผ่าน:</string>
@@ -423,7 +423,7 @@
     <string name="wifi_details">รายละเอียด Wi-Fi:</string>
     <string name="connect_wifi">เชื่อมต่อกับ Wi-Fi นี้</string>
     <string name="qq_details">รายละเอียด QQ:</string>
-    <string name="launch_qq">เปิด QQ โดยเบราว์เซอร์</string>
+    <string name="launch_qq">เปิด QQ โดยเบราเซอร์</string>
     <string name="download_qq">ดาวน์โหลด QQ</string>
     <string name="wifi_warning">โปรดตรวจสอบให้มั่นใจว่าปลอดภัย ก่อนที่คุณจะเชื่อมต่อ Wi-Fi นี้</string>
     <string name="wifi_connecting">เชื่อมต่อ Wi-Fi ...</string>
