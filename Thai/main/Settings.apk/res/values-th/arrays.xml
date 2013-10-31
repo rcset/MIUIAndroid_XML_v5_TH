@@ -341,4 +341,21 @@
         <item>ผู้ใช้ 7 คน</item>
         <item>ผู้ใช้ 8 คน</item>
     </string-array>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>ลดเสียงรบกวนไมค์เดี่ยว</item>
+        <item>ลดเสียงรบกวนไมค์คู่</item>
+    </string-array>
+    <string-array name="screen_key_long_press_action">
+        <item>ไม่มี</item>
+        <item>เปิดรายการแอปล่าสุด</item>
+        <item>เปิดตัวช่วยเสียง</item>
+        <item>เปิด Google Now</item>
+        <item>ปิดแอปปัจจุบัน</item>
+    </string-array>
+    <string-array name="change_security_lock_picker">
+        <item>ปลดล็อกด้วยหน้า</item>
+        <item>รูปแบบ</item>
+        <item>รหัสผ่านตัวเลข</item>
+        <item>รหัสผ่านผสม</item>
+    </string-array>
 </resources>
