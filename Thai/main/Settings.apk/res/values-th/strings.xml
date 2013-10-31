@@ -190,9 +190,9 @@
     <string name="radio_info_network_type_label">ประเภทเครือข่าย:</string>
     <string name="radio_info_set_perferred_label">ตั้งค่าประเภทเครือข่ายที่ต้องการ:</string>
     <string name="radio_info_ping_ipaddr">ใช้คำสั่ง Ping ที่อยู่ IP:</string>
-    <string name="radio_info_ping_hostname">ใช้คำสั่ง ping ชื่อโฮสต์ (www.google.com):</string>
+    <string name="radio_info_ping_hostname">ใช้คำสั่ง Ping ชื่อโฮสต์ (www.google.com):</string>
     <string name="radio_info_http_client_test">การทดสอบไคลเอ็นต์ HTTP:</string>
-    <string name="ping_test_label">ทำการทดสอบโดยใช้คำสั่ง ping</string>
+    <string name="ping_test_label">ทำการทดสอบโดยใช้คำสั่ง Ping</string>
     <string name="radio_info_smsc_label">SMSC:</string>
     <string name="radio_info_smsc_update_label">อัปเดต</string>
     <string name="radio_info_smsc_refresh_label">รีเฟรช</string>
@@ -212,7 +212,7 @@
     <string name="sdcard_settings_unmounted_status">ขณะนี้คุณนำการ์ดความจำออกได้อย่างปลอดภัยแล้ว</string>
     <string name="sdcard_settings_bad_removal_status">มีการนำการ์ดความจำออกขณะใช้งาน!</string>
     <string name="sdcard_settings_used_bytes_label">ไบต์ที่ใช้ไป:</string>
-    <string name="sdcard_settings_scanning_status">กำลังสแกนการ์ดความจำสำหรับสื่อ...</string>
+    <string name="sdcard_settings_scanning_status">กำลังสแกนการ์ดความจำ...</string>
     <string name="sdcard_settings_read_only_status">การ์ดความจำต่อเชื่อมแบบอ่านอย่างเดียว</string>
     <string name="skip_label">ข้าม</string>
     <string name="next_label">ถัดไป</string>
@@ -317,7 +317,7 @@
     <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_none_title">เลื่อน</string>
     <string name="unlock_set_unlock_none_summary">ไม่มีการรักษาความปลอดภัย</string>
-    <string name="unlock_set_unlock_biometric_weak_title">Face Unlock</string>
+    <string name="unlock_set_unlock_biometric_weak_title">ปลดล็อกด้วยหน้า</string>
     <string name="unlock_set_unlock_biometric_weak_summary">ความปลอดภัยระดับต่ำ เป็นการทดลอง</string>
     <string name="unlock_set_unlock_pattern_title">รูปแบบ</string>
     <string name="unlock_set_unlock_pattern_summary">ความปลอดภัยระดับปานกลาง</string>
