@@ -38,7 +38,7 @@
     <string name="download_pending">กำลังรอดาวน์โหลด</string>
     <string name="download_info_start_deleted_tasks">ลบดาวน์โหลด</string>
     <string name="download_info_count_deleted_tasks">%s ถูกลบ</string>
-    <string name="menu_preferences">ตั้งค่า</string>
+    <string name="menu_preferences">การตั้งค่า</string>
     <string name="menu_enter_edit_mode">ตัวแก้ไข</string>
     <string name="delete_downloads_records">ลบดาวน์โหลด</string>
     <string name="pause_download">พัก</string>
