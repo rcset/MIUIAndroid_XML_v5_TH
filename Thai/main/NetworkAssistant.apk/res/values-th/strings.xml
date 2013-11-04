@@ -15,7 +15,7 @@
     <string name="app_name">ตรวจสอบ</string>
     <string name="used_flux">ทราฟฟิกที่ใช้</string>
     <string name="sorted_flux">สถิติทราฟฟิก</string>
-    <string name="menu_settings">ตั้งค่าเครือข่าย</string>
+    <string name="menu_settings">การตั้งค่าเครือข่าย</string>
     <string name="menu_traffic_adjust">แก้ไขทราฟฟิก</string>
     <string name="menu_traffic_settings">ตั้งค่าทราฟฟิก</string>
     <string name="powered_by">สนับสนุนทางเทคนิคโดย MIUI.com</string>
