@@ -15,7 +15,7 @@
     <string name="pound_search_tip">ป้อนหมายเลขหลังจาก \"#\" เพื่อค้นหารายชื่อผู้ติดต่อ</string>
     <string name="create_contact">รายชื่อผู้ติดต่อใหม่</string>
     <string name="send_sms">ส่งข้อความ</string>
-    <string name="edit_contact">เพืิ่มไปยังรายชื่อผู้ติดต่อ</string>
+    <string name="edit_contact">เพิ่มไปยังรายชื่อผู้ติดต่อ</string>
     <string name="call_log_provider_label">บันทึกข้อมูลการโทร</string>
     <string name="debug_dump_database_message">คุณกำลังจะ 1) ทำสำเนาฐานข้อมูลของคุณซึ่งรวมถึงข้อมูลที่เกี่ยวข้องกับผู้ติดต่อทั้งหมดและบันทึกการโทรทั้งหมดลงในที่จัดเก็บข้อมูลภายใน และ 2) ส่งอีเมล อย่าลืมลบสำเนาออกจากอุปกรณ์ทันทีที่คุณคัดลอกเสร็จเรียบร้อยแล้วหรือเมื่ออีเมลส่งไปถึงผู้รับแล้ว</string>
     <string name="debug_dump_delete_button">ลบเดี๋ยวนี้</string>
