@@ -2012,7 +2012,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="search_power_mode">โหมดเปิดเครื่อง</string>
     <string name="debug_log">ประสบการณ์การใช้งาน</string>
     <string name="upload_debug_log_title">ประสบการณ์การใช้งาน</string>
-    <string name="upload_debug_log_summary">อัปโหลดแฟ้มบันทึกการดีบักเมื่อการเชื่อมต่อ Wi-fi ช่วย MIUI พัฒนารอมให้ดีขึ้น</string>
+    <string name="upload_debug_log_summary">อัปโหลดแฟ้มบันทึกการดีบักเมื่อการเชื่อมต่อ Wi-Fi ช่วย MIUI พัฒนารอมให้ดีขึ้น</string>
     <string name="device_miui_version">เวอร์ชัน MIUI</string>
     <string name="device_cpu">ซีพียู</string>
     <string name="device_memory">แรม</string>
