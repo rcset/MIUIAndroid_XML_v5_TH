@@ -635,7 +635,7 @@
     <string name="ring_volume_title">ระดับความดังเสียงเรียกเข้า</string>
     <string name="vibrate_in_silent_title">สั่นเตือนเมื่อปิดเสียง</string>
     <string name="notification_sound_title">ค่าการแจ้งเตือนเริ่มต้น</string>
-    <string name="notification_pulse_title">ไฟแจ้งเตือนพัลซ์</string>
+    <string name="notification_pulse_title">ไฟแจ้งเตือนแบบจังหวะ</string>
     <string name="incoming_call_volume_title">เสียงเรียกเข้า</string>
     <string name="notification_volume_title">การแจ้งเตือน</string>
     <string name="checkbox_notification_same_as_incoming_call">ใช้ระดับเสียงของสายเรียกเข้าเพื่อแจ้งเตือน</string>
