@@ -289,7 +289,7 @@
     <string name="pref_camera_movie_solid_entry_on">เปิด</string>
     <string name="pref_camera_storage_external_title">อุปกรณ์จัดเก็บข้อมูล</string>
     <string name="pref_camera_storage_external_entry_off">ที่เก็บข้อมูลโทรศัพท์</string>
-    <string name="pref_camera_storage_external_entry_on">การ์ด ความจำ</string>
+    <string name="pref_camera_storage_external_entry_on">การ์ดความจำ</string>
     <string name="unit_mm">mm</string>
     <string name="share">แบ่งปัน</string>
     <string name="send">ส่ง</string>
