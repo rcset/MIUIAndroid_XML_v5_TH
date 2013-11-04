@@ -177,7 +177,7 @@ yyyy.M.d"</string>
     <string name="camera_key_action_shortcut_call">โทร</string>
     <string name="camera_key_action_shortcut_wake">ล็อก / เปิด อุปกรณ์</string>
     <string name="torch_activity_name">ไฟฉาย</string>
-    <string name="torch_activity_hint">เปิดไฟฉายได้รวดเร็ว โดยแดะ [icon] ค้าง ขณะล็อกหน้าจอ</string>
+    <string name="torch_activity_hint">เปิดไฟฉายได้รวดเร็ว โดยแตะ [icon] ค้าง ขณะล็อกหน้าจอ</string>
     <string name="lockscreen_carrier_default">ไม่มีบริการ</string>
     <string name="chooseUsbActivity">เลือกแอปพลิเคชันสำหรับอุปกรณ์ USB</string>
     <string name="usb_storage_title">เชื่อมต่อ USB แล้ว</string>
