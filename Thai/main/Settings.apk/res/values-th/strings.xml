@@ -1285,9 +1285,13 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">อัปเดตการขยายหน้าจอโดยอัตโนมัติ</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">อัปเดตการขยายหน้าจอเมื่อเปลี่ยนแอปพลิเคชัน</string>
     <string name="accessibility_power_button_ends_call_prerefence_title">กดปุ่มเปิด/ปิดเพื่อวางสาย</string>
+    <string name="accessibility_power_button_ends_call_title">กดปุ่มเปิด/ปิดเพื่อวางสาย</string>
     <string name="accessibility_toggle_speak_password_preference_title">พูดรหัสผ่าน</string>
+    <string name="accessibility_speak_password_title">พูดรหัสผ่าน</string>
     <string name="accessibility_long_press_timeout_preference_title">การหน่วงเวลาด้วยการแตะค้างไว้</string>
+    <string name="accessibility_long_press_timeout_title">การหน่วงเวลาด้วยการแตะค้างไว้</string>
     <string name="accessibility_toggle_script_injection_preference_title">การปรับปรุงการเข้าถึงเว็บให้ดีขึ้น</string>
+    <string name="accessibility_script_injection_title">การปรับปรุงการเข้าถึงเว็บให้ดีขึ้น</string>
     <string name="accessibility_menu_item_settings">การตั้งค่า</string>
     <string name="accessibility_feature_state_on">เปิด</string>
     <string name="accessibility_feature_state_off">ปิด</string>
