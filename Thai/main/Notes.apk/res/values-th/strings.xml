@@ -20,7 +20,7 @@
     <string name="note_link_select">เลือกลิงค์ข้อความ</string>
     <string name="format_folder_files_count">(%d)</string>
     <string name="menu_create_folder">โฟลเดอร์ใหม่</string>
-    <string name="menu_setting">ตั้งค่า</string>
+    <string name="menu_setting">การตั้งค่า</string>
     <string name="menu_delete">ลบ</string>
     <string name="menu_discard">ทิ้ง</string>
     <string name="menu_move">ย้ายไปยังโฟลเดอร์</string>
