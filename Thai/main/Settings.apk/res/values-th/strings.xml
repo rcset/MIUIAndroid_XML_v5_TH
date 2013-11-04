@@ -1085,7 +1085,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="computing_size">กำลังคำนวณ...</string>
     <string name="invalid_size_value">คำนวณขนาดแพคเกจไม่ได้</string>
     <string name="empty_list_msg">คุณไม่ได้ติดตั้งแอปพลิเคชันของบุคคลที่สามไว้เลย</string>
-    <string name="version_text">เวอร์ชันของ %1$s</string>
+    <string name="version_text">เวอร์ชัน %1$s</string>
     <string name="move_app">ย้าย</string>
     <string name="move_app_to_internal">ย้ายไปที่โทรศัพท์</string>
     <string name="move_app_to_sdcard">ย้ายไปยังการ์ดความจำ</string>
