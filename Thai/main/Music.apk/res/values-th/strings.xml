@@ -34,7 +34,7 @@
     <string name="lyric_display_settings">แสดงเนื้อเพลง</string>
     <string name="lyric_display_summary">แสดงเนื้อเพลงที่กำลังเล่นบนหน้าจอ</string>
     <string name="album_display_settings">แสดงรูปอัลบั้ม</string>
-    <string name="album_display_summary">แสดงรูปปกอัลบั้มขณะี้เล่นเพลงบนหน้าจอ</string>
+    <string name="album_display_summary">แสดงรูปปกอัลบั้มขณะเล่นเพลงบนหน้าจอ</string>
     <string name="lyric_and_album">เนื้อเพลงและอัลบั้ม</string>
     <string name="android_album_settings">แสดงรูปปกที่ฝังตัวในไฟล์</string>
     <string name="android_album_summary">แสดงรูปปกที่ฝังตัวในไฟล์</string>
