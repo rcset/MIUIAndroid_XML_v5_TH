@@ -11,7 +11,7 @@
     <string name="backup_items_app_tailer">" ไฟล์ข้อมูลแอป"</string>
     <string name="backup_failed">สำรองข้อมูลล้มเหลว กรุณาลองใหม่</string>
     <string name="backup_recently">" (ล่าสุด)"</string>
-    <string name="sdcard_unmounted">ไม่พบ SD card!</string>
+    <string name="sdcard_unmounted">ไม่พบการ์ดความจำ!</string>
     <string name="backup_progress">กำลังสำรองข้อมูล...</string>
     <string name="button_ok">ตกลง</string>
     <string name="backup_finished">สำรองข้อมูลเสร็จสิ้น</string>
@@ -35,7 +35,7 @@
     <string name="restore_contacts_hit">(บันทึก: คุณจำเป็นต้องคืนค่ารายชื่อด้วยตัวเองก่อน)</string>
     <string name="restore_telephony_hit">(บันทึก: การคืนค่าจะทำการรีสาร์ตแอปพลิเคชันโทรศัพท์ใหม่)</string>
     <string name="restore_launcher_layout_hit">(บันทึก: คืนค่าการตั้งค่าเดสท็อบ)</string>
-    <string name="settings_summary">สำรองข้อมูลการตั้งค่าโทรศัพท์และข้อความ</string>
+    <string name="settings_summary">การตั้งค่าสำรองข้อมูลโทรศัพท์และข้อความ</string>
     <string name="account_summary">สำรองข้อมูล Gmail, E-mail และ บัญชี Xiaomi</string>
     <string name="cloud_app_name">สำรองข้อมูล Cloud</string>
     <string name="cloud_home_title">Cloud</string>
@@ -127,7 +127,7 @@
     <string name="local_select_userapp">แอปพลิเคชัน</string>
     <string name="local_select_account_contact">บัญชี / รายชื่อ</string>
     <string name="local_no_backup">ไม่มีสำรองข้อมูลภายใน</string>
-    <string name="auto_backup_setting">สำรองข้อมูลการตั้งค่าอัตโนมัติ</string>
+    <string name="auto_backup_setting">การตั้งค่าสำรองข้อมูลอัตโนมัติ</string>
     <string name="auto_backup_open">เปิดการทำงานสำรองข้อมูลอัตโนมัติ</string>
     <string name="auto_backup_only_wifi">สำรองข้อมูลอัตโนมัติเมื่อเชื่อมต่อ Wi-Fi </string>
     <string name="auto_backup_date">ความถี่ในการสำรองข้อมูล (ในวัน)</string>
