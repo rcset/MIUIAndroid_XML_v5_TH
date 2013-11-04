@@ -59,8 +59,8 @@
     <string name="pref_video_time_lapse_frame_interval_entry_1800">ช่วงเวลา 60 วินาที (1800 ครั้ง)</string>
     <string name="pref_camera_settings_category">การตั้งค่ากล้อง</string>
     <string name="pref_camcorder_settings_category">การตั้งค่ากล้องวีดีโอ</string>
-    <string name="pref_camera_picturesize_title">ขนาดของภาพ</string>
-    <string name="pref_camera_picturesize_title_simple_mode">กรอบภาพ</string>
+    <string name="pref_camera_picturesize_title">ขนาดภาพ</string>
+    <string name="pref_camera_picturesize_title_simple_mode">ขนาดภาพ</string>
     <string name="pref_camera_picturesize_entry_standard">มาตรฐาน 4:3</string>
     <string name="pref_camera_picturesize_entry_full_screen">เต็มหน้าจอ 16:9</string>
     <string name="pref_camera_picturesize_professional_entry_4208x3120">13M(4208x3120)</string>
