@@ -8,7 +8,7 @@
     <string name="scan_title">กรุณาเน้นรหัส 2 มิติ</string>
     <string name="recv_sound">รับเสียง</string>
     <string name="scan_2d_code">สแกนรหัส 2 มิติ</string>
-    <string name="app_name">รับส่งข้อมูล</string>
+    <string name="app_name">Miแชร์</string>
     <string name="ok">ตกลง</string>
     <string name="cancel">ยกเลิก</string>
     <string name="canceling">กำลังยกเลิก</string>
@@ -70,7 +70,7 @@
     <string name="connect_confirm">%1$s ต้องการเชื่อมต่อ</string>
     <string name="about_to_receive">เกี่ยวกับการรับไฟล์</string>
     <string name="receive_canceled">ถูกยกเลิก</string>
-    <string name="sdcard_unavailable">การ์ด SD ไม่สามารถใช้งานได้</string>
+    <string name="sdcard_unavailable">การ์ดความจำไม่สามารถใช้งานได้</string>
     <string name="receive_cannot_created_file">การสร้างไฟล์ล้มเหลว</string>
     <string name="error_transmit">การรับส่งข้อมูลผิดพลาด</string>
     <string name="error_bad_file">ไฟล์เสียหาย</string>
@@ -108,13 +108,13 @@
     <string name="settings_receive_confirm_summary">ยืนยันคำขอรับส่งข้อมูลไฟล์</string>
     <string name="guide_label">คู่มือการรับส่งข้อมูล</string>
     <string name="title_step_one">1 สามารถรับส่งข้อมูลไฟล์ได้อย่างรวดเร็วโดยไม่ต้องใช้ข้อมูลมือถือ</string>
-    <string name="title_step_two">2 MiShare เป็นโปรโตคอลการรับส่งข้อมูลที่เป็นสากล</string>
+    <string name="title_step_two">2 Miแชร์ เป็นโปรโตคอลการรับส่งข้อมูลที่เป็นสากล</string>
     <string name="title_step_three">3 ใช้ไฟล์ร่วมกับเพื่อน</string>
     <string name="summary_step_one">ส่งรูปภาพ, เพลง, รายชื่อผู้ติดต่อและไฟล์อื่น ๆ อีกมากมาย</string>
-    <string name="summary_step_two">ชวนเพื่อนมาติดตั้ง MiShare</string>
+    <string name="summary_step_two">ชวนเพื่อนมาติดตั้ง Miแชร์</string>
     <string name="button_pre">กลับ</string>
     <string name="button_next">ต่อไป</string>
     <string name="button_last">เริ่มต้นทันที</string>
-    <string name="support_tip">MiShare จะให้คำแนะนำ</string>
+    <string name="support_tip">คำแนะนำ Miแชร์</string>
     <string name="share_text">MIUI V5 รองรับการรับส่งข้อมูลไฟล์โดยไม่ต้องใช้ข้อมูลมือถือ ผู้ที่ไม่ได้ใช้ MIUI V5 กรุณาดาวน์โหลด: %1$s</string>
 </resources>
