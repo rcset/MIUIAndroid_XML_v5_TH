@@ -12,11 +12,11 @@
     <string name="err_type">ประเภทข้อเสนอแนะ</string>
     <string name="err_type_reboot">รีบูตระบบ</string>
     <string name="err_type_force_close">ปิดด่วน</string>
-    <string name="err_type_network">ปัญหาเน็ตเวิร์ค</string>
+    <string name="err_type_network">ปัญหาเครือข่าย</string>
     <string name="err_type_others">อื่นๆ</string>
     <string name="err_type_power_consuming">การใช้พลังงาน</string>
     <string name="err_type_call">ปัญหาการโทร</string>
-    <string name="err_type_suggestion">Suggestion</string>
+    <string name="err_type_suggestion">ข้อเสนอแนะ</string>
     <string name="err_type_data_lost">ข้อมูลสูญหาย</string>
     <string name="status_msg_pending_upload">%d ข้อเสนอแนะกำลังอัพโหลด...</string>
     <string name="status_msg_collecting_log">กำลังรับบันทึกการใช้งาน...</string>
@@ -35,10 +35,10 @@
     <string name="discard_draft_dialog_content">รายงานถูกแก้ไข้ คุณต้องกด ตกลง เพื่อยกเลิกแบบร่าง</string>
     <string name="discard_draft_dialog_button_discard">ตกลง</string>
     <string name="discard_draft_dialog_button_cancel">ยกเลิก</string>
-    <string name="network_unavailable_dialog_title">เน็ตเวิร์คไม่ว่าง</string>
+    <string name="network_unavailable_dialog_title">เครือข่ายไม่ว่าง</string>
     <string name="network_unavailable_dialog_content">ข้อเสนอแนะจะถูกส่งหากบริการข้อมูลทำงาน</string>
     <string name="network_unavailable_dialog_button_ok">ตกลง</string>
-    <string name="wlan_unavailable_dialog_title">Wi-Fi ไม่ว่าง</string>
+    <string name="wlan_unavailable_dialog_title">Wi-Fi ไม่สามารถใช้งานได้</string>
     <string name="wlan_unavailable_dialog_content">%s จำเป็นต้องใช้บริการข้อมูล 2G/3G กด ตกลง เพื่อส่งข้อมูลโดยใช้ Wi-fi เท่านั้น</string>
     <string name="wlan_unavailable_dialog_button_sent">ส่งเดี๋ยวนี้</string>
     <string name="wlan_unavailable_dialog_button_ok">ตกลง</string>
