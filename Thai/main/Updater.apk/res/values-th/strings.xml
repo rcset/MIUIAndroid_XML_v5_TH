@@ -109,7 +109,7 @@
     <string name="moving_data_to_sdcard_progress_format">ถ่ายโอน %1$ddKb ของ %2$dKb</string>
     <string name="finish_download">ดาวน์โหลดเสร็จสิ้น</string>
     <string name="install_whole_rom">แนะนำดาวน์โหลดรอมเต็มรูปแบบ</string>
-    <string name="check_update_policy">ตั้งค่าตรวจสอบอัปเดต</string>
+    <string name="check_update_policy">การตั้งค่าตรวจสอบอัปเดต</string>
     <string name="check_update_when_wifi_available">ตรวจสอบการอัปเดตเมื่อใช้ Wi-Fi เท่านั้น</string>
     <string name="update_monthly_build_only">อัปเดตเวอร์ชันรายเดือนเท่านั้น</string>
     <string name="install_file_explorer">กรุณาติดตั้งจัดการไฟล์</string>
