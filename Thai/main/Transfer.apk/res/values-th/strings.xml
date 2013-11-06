@@ -116,5 +116,6 @@
     <string name="button_next">ต่อไป</string>
     <string name="button_last">เริ่มต้นทันที</string>
     <string name="support_tip">คำแนะนำ Miแชร์</string>
+    <string name="wanna_receive">รับไฟล์</string>
     <string name="share_text">MIUI V5 รองรับการรับส่งข้อมูลไฟล์โดยไม่ต้องใช้ข้อมูลมือถือ ผู้ที่ไม่ได้ใช้ MIUI V5 กรุณาดาวน์โหลด: %1$s</string>
 </resources>
