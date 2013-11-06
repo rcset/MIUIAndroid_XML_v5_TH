@@ -587,4 +587,5 @@
     <string name="readmode_pay">ซื้อตอน</string>
     <string name="readmode_recommend">แสดงแนะนำ</string>
     <string name="readmode_refresh">รีเฟรช</string>
+    <string name="general_set_default_browser_title">ตั้งเป็นเบราเซอร์เริ่มต้น</string>
 </resources>
