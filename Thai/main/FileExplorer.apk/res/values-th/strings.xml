@@ -252,13 +252,13 @@
     <string name="header_text_scanning">กำลังสแกน ...</string>
     <string name="header_text_scanned">เสร็จสิ้นการสแกน</string>
     <string name="header_text_cleaning">กำลังทำความสะอาด ...</string>
-    <string name="header_text_cleaned">ทำแล้ว</string>
+    <string name="header_text_cleaned">ลบไฟล์ขยะแล้ว</string>
     <string name="waiting_for_cleaning">รอสักครู่ ...</string>
     <string name="item_name">โฟลเดอร์ไม่มีชื่อ</string>
     <string name="waiting_for_scanning">รอสักครู่ ...</string>
     <string name="scanned">การสแกนเสร็จแล้ว</string>
     <string name="cleaning">กำลังทำความสะอาด ...</string>
-    <string name="cleaned">ทำแล้ว</string>
+    <string name="cleaned">ทำความสะอาดเสร็จสิ้น</string>
     <string name="cleanup_stopped">การล้างหยุด</string>
     <string name="temp_file_title">แฟ้มชั่วคราว</string>
     <string name="thumbnail_title">รูปขนาดเล็ก</string>
@@ -280,7 +280,7 @@
     <string name="app_garbage_path">ตำแหน่ง:</string>
     <string name="give_up_cleaning">ยกเลิก</string>
     <string name="restart_cleaning">เริ่มต้นใหม่</string>
-    <string name="cleanup_complete">ทำแล้ว</string>
+    <string name="cleanup_complete">ทำความสะอาดเสร็จแล้ว</string>
     <string name="count_down_time">เริ่มต้นใน %d วินาที</string>
     <string name="cancel_with_count_down">ยกเลิก ( %d )</string>
     <string name="garbage_size_metric">ถังขยะ %s
