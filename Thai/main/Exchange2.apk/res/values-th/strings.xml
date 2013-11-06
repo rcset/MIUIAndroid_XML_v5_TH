@@ -19,7 +19,7 @@
     <string name="policy_dont_allow_storage_cards">ไม่อนุญาตให้มีการ์ดบันทึกข้อมูล</string>
     <string name="policy_dont_allow_unsigned_apps">ไม่อนุญาตแอปพลิเคชันที่ไม่ได้ลงชื่อ</string>
     <string name="policy_dont_allow_unsigned_installers">ไม่อนุญาตตัวติดตั้งแอปฯ ที่ไม่ได้ลงชื่อ</string>
-    <string name="policy_dont_allow_wifi">ไม่อนุญาตให้ใช้ WiFi</string>
+    <string name="policy_dont_allow_wifi">ไม่อนุญาตให้ใช้ Wi-Fi</string>
     <string name="policy_dont_allow_text_messaging">ไม่อนุญาตการรับส่งข้อความ</string>
     <string name="policy_dont_allow_pop_imap">ไม่อนุญาตให้ใช้บัญชี POP3 หรือ IMAP</string>
     <string name="policy_dont_allow_irda">ไม่อนุญาตให้มีการสื่อสารอินฟราเรด</string>
