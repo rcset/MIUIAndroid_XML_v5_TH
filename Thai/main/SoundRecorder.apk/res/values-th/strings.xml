@@ -62,6 +62,8 @@
     <string name="record_name_hour">.</string>
     <string name="sound_recorder_settings">การตั้งค่าการบันทึกเสียง</string>
     <string name="menu_settings">การตั้งค่า</string>
+    <string name="preference_enable_earpiece_summary">ใช้ตัวรับเสียงจากอุปกรณ์ภายนอก</string>
+    <string name="preference_enable_earpiece_title">ใช้ตัวรับเสียงเพื่อเล่นเสียง</string>
     <string name="preference_led_indicator">แสดงการบันทึกเมื่อหน้าจอถูกล็อก</string>
     <string name="preference_led_indicator_prompt">แสดงสถานะไฟ LED ที่แถบสถานะ เมื่อกำลังบัน​​ทึกแล้วหน้าจอล็อก</string>
     <string name="preference_record_type_title">ประเภทการบันทึกเสียง</string>
