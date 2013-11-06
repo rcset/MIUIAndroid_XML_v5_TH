@@ -114,7 +114,7 @@
     <string name="pref_allow_apptabs">อนุญาตเปิดหลายแท็บ</string>
     <string name="pref_content_load_images">โหลดภาพ</string>
     <string name="pref_content_load_images_summary">แสดงรูปภาพบนหน้าเว็บ</string>
-    <string name="pref_content_block_popups">ปิดกั้นป๊อปอัป</string>
+    <string name="pref_content_block_popups">ปิดกั้นป๊อปอัพ</string>
     <string name="pref_content_javascript">เปิดการใช้งาน JavaScript</string>
     <string name="pref_content_open_in_background">เปิดในพื้นหลัง</string>
     <string name="pref_content_plugins">เปิดการใช้งานปลั๊กอิน</string>
@@ -484,7 +484,7 @@
     <string name="pref_images_preload_title">โหลดภาพล่วงหน้า</string>
     <string name="pref_images_preload_dialogtitle">โหลดภาพล่วงหน้า</string>
     <string name="pref_images_preload_value_never_summary">ไม่โหลดภาพล่วงหน้า</string>
-    <string name="pref_images_preload_value_wifi_only_summary">อนุญาตเบราเซอร์โหลดภาพล่วงหน้าเมื่อเชื่อมต่อ Wifi</string>
+    <string name="pref_images_preload_value_wifi_only_summary">อนุญาตเบราเซอร์โหลดภาพล่วงหน้าเมื่อเชื่อมต่อ Wi-fi</string>
     <string name="pref_images_preload_value_always_summary">อนุญาตเบราเซอร์โหลดภาพล่วงหน้าเสมอ</string>
     <string name="pref_data_preload_value_never_summary">ไม่โหลดผลการค้นหาล่วงหน้าในพื้นหลัง</string>
     <string name="pref_link_prefetch_value_never_summary">ไม่โหลดหน้าลิงค์ล่วงหน้าในพื้นหลัง</string>
