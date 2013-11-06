@@ -316,7 +316,7 @@
     <string name="account_settings_default_label">บัญชีเริ่มต้น</string>
     <string name="account_settings_default_summary">ส่งอีเมลจากบัญชีนี้เป็นค่าเริ่มต้น</string>
     <string name="account_settings_background_attachments_label">ดาวน์โหลดไฟล์แนบ</string>
-    <string name="account_settings_background_attachments_summary">ดาวน์โหลดไฟล์แนบของข้อความล่าสุดผ่าน WiFi โดยอัตโนมัติ</string>
+    <string name="account_settings_background_attachments_summary">ดาวน์โหลดไฟล์แนบของข้อความล่าสุดผ่าน Wi-Fi โดยอัตโนมัติ</string>
     <string name="account_settings_notify_label">การแจ้งเตือนทางอีเมล</string>
     <string name="account_settings_summary">ความถี่ในการซิงค์ การแจ้งเตือน ฯลฯ</string>
     <string name="account_settings_notify_summary">แจ้งในแถบระบบเมื่อได้รับอีเมล</string>
