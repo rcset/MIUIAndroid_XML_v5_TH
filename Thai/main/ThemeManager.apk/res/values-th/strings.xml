@@ -134,7 +134,7 @@
     <string name="default_name">ค่าเริ่มต้น</string>
     <string name="resource_app_name">เบราเซอร์แหล่งข้อมูล</string>
     <string name="resource_price_free">ฟรี</string>
-    <string name="resource_price_unit">Mi เครดิต</string>
+    <string name="resource_price_unit">Miเครดิต</string>
     <string name="resource_ranking">ยอดนิยม</string>
     <string name="resource_ranking_free">ฟรี</string>
     <string name="resource_ranking_purchase">เสียเงิน</string>
