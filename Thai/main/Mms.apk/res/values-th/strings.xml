@@ -130,10 +130,10 @@
     <string name="delete">ลบ</string>
     <string name="stick">ปักหมุด</string>
     <string name="unstick">ยกเลิกปักหมุด</string>
-    <string name="stick_conversation">ปักหมดการสนทนาล่าสุด</string>
-    <string name="unstick_conversation">ยกเลิกปักหมดการสนทนาล่าสุด</string>
-    <string name="sticked_conversation">ปักหมดการสนทนาล่าสุดแล้ว</string>
-    <string name="unsticked_conversation">ยกเลิกปักหมดการสนทนาล่าสุดแล้ว</string>
+    <string name="stick_conversation">ปักหมุดการสนทนาล่าสุด</string>
+    <string name="unstick_conversation">ยกเลิกปักหมุดการสนทนาล่าสุด</string>
+    <string name="sticked_conversation">ปักหมุดการสนทนาล่าสุดแล้ว</string>
+    <string name="unsticked_conversation">ยกเลิกปักหมุดการสนทนาล่าสุดแล้ว</string>
     <string name="invalid_conversation">การสนทนาผิดพลาด</string>
     <string name="no_conversations">ไม่มีการสนทนา</string>
     <string name="loading_conversations">กำลังโหลดบทสนทนา...</string>
@@ -308,7 +308,7 @@
     <string name="pref_summary_notification_body_enabled_when_secure">การแสดงตัวอย่างข้อความถูกยกเลิกเมือมีการเข้าถึงการควบคุม</string>
     <string name="pref_title_new_message_popup">ป๊อปอัพ SMS</string>
     <string name="pref_summary_new_message_popup">ป๊อปอัพ SMS เมื่อมีข้อความใหม่เข้ามา</string>
-    <string name="pref_summary_new_message_popup_when_secure">ไม่มีการแจ้งเตือนแบบพ๊อพอัพเมื่อมีการเข้าถึงการควบคุม</string>
+    <string name="pref_summary_new_message_popup_when_secure">ไม่มีการแจ้งเตือนแบบป๊อปอัพเมื่อมีการเข้าถึงการควบคุม</string>
     <string name="pref_title_wake_up_screen">ปลุก-หน้าจอ</string>
     <string name="pref_summary_wake_up_screen">แสดงหน้าจอเมื่อมี SMS ใหม่เข้ามา</string>
     <string name="pref_title_delivery_reports">รายการการส่ง</string>
@@ -339,7 +339,7 @@
     <string name="fetion_prefix">[Fetion]</string>
     <string name="chenghu_disable_mms">ไม่สามารถใช้ชื่อเล่นกับ MMS. ต้องการลบชื่อเล่นออก?</string>
     <string name="non_english_subject_limit">อย่างมาก 13 ตัวอักษรกรณีที่หัวเรื่องไม่ใช่ภาษาอังกฤษ</string>
-    <string name="text_in_popup_saved_to_clipboard">ข้อความที่ถูกแก้ในพ๊อพอัพจะถูกบันทึกไปยังคลิปบอร์ด</string>
+    <string name="text_in_popup_saved_to_clipboard">ข้อความที่ถูกแก้ในป๊อปอัพจะถูกบันทึกไปยังคลิปบอร์ด</string>
     <string name="guild_add_recipients">กดตรงนี้เพื่อเพิ่มผู้รับในสมุดที่อยู่</string>
     <string name="guild_add_attachments">กดตรงนี้เพื่อเพิ่มไฟล์แนบหรือหน้ายิ้มในข้อความ</string>
     <string name="privacy_mode_hint">ไม่สามารถส่งข้อความได้เมื่ออยู่ในโหมดป้องกัน</string>
