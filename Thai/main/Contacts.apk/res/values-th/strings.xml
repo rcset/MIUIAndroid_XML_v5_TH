@@ -2,7 +2,7 @@
 <resources>
     <string name="resource_app_name">เบราเซอร์แหล่งที่มา</string>
     <string name="resource_price_free">ฟรี</string>
-    <string name="resource_price_unit">MI เครดิต</string>
+    <string name="resource_price_unit">MIเครดิต</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="sdcard_status_changed_dialog_title">สถานะของการ์ดความจำเปลี่ยนแล้ว</string>
     <string name="sdcard_status_changed_dialog_message">"ไปยังออก
