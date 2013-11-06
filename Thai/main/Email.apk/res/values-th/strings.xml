@@ -460,7 +460,7 @@
     <string name="pause_state_need_charger">พักชั่วคราว - เลื่อนออกไปจนกำลังชาร์ต</string>
     <string name="pause_state_need_connectivity">พักชั่วคราว - กำลังรอการเชื่อมต่อ</string>
     <string name="pause_state_need_photos_quota">พักชั่วคราว - ไม่มี PWA quota</string>
-    <string name="pause_state_need_wifi">พักชั่วคราว - กำลังรอ wifi</string>
+    <string name="pause_state_need_wifi">พักชั่วคราว - กำลังรอ Wi-Fi</string>
     <string name="pause_state_roaming">พักชั่วคราว - กำลังโรมมิ่ง</string>
     <string name="pause_state_retrying">กำลังรอเพื่อลองใหม่</string>
     <string name="retry_in_1min">1 นาที</string>
