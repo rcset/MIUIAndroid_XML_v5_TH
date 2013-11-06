@@ -10,11 +10,11 @@
     </plurals>
     <plurals name="deleted_conversations">
         <item quantity="other">%1$s บทสนทนาถูกลบออกแล้ว</item>
-        <item quantity="one">หนึ่งบทสนทนาถูกลบออกแล้ว</item>
+        <item quantity="one">1 บทสนทนาถูกลบออกแล้ว</item>
     </plurals>
     <plurals name="search_results_title">
-        <item quantity="other">ผลลัพธ์ %1$s รายการสำหรับ \"%2$s\"</item>
-        <item quantity="one">ผลลัพธ์ %1$s รายการสำหรับ \"%2$s\"</item>
+        <item quantity="other">ผลค้นหา %1$s รายการสำหรับ \"%2$s\"</item>
+        <item quantity="one">ผลค้นหา %1$s รายการสำหรับ \"%2$s\"</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%s วินาที</item>
@@ -23,7 +23,7 @@
     </plurals>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">%1$s การสนทนาจะถูกลบ</item>
-        <item quantity="one">การสนทนาหนึ่งจะถูกลบ</item>
+        <item quantity="one">1 การสนทนาจะถูกลบ</item>
     </plurals>
     <plurals name="notification_multiple">
         <item quantity="other">%d ข้อความที่ยังไม่อ่าน</item>
