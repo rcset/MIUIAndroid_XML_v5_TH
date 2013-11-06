@@ -322,7 +322,7 @@
     <string name="error_should_not_select_video">คำเตือน: โปรดอย่าเลือกไฟล์วิดีโอ</string>
     <string name="storage_all_volumes">อุปกรณ์จัดเก็บข้อมูลทั้งหมด</string>
     <string name="settings_i_xiaomi_com">ไปยัง i.xiaomi.com เพื่อใช้งานอัลบั้มได้ตลอดเวลา</string>
-    <string name="cloud_album_more_settings">ซิงค์อัลบั้ม Cloud</string>
+    <string name="cloud_album_more_settings">ซิงค์คลาวด์อัลบั้ม</string>
     <string name="browse_category">เรียกดู</string>
     <string name="photo_page_save_image">บันทึก</string>
     <string name="photo_page_save_uri_image_ok">ภาพจะถูกบันทึกไปยังไดเรกเทอรี่รูปภาพ</string>
