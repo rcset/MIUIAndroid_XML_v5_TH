@@ -166,6 +166,7 @@
     <string name="resource_apply">นำไปใช้</string>
     <string name="resource_update">อัปเดต</string>
     <string name="resource_select">เลือก</string>
+    <string name="resource_selected">มาใหม่</string>
     <string name="resource_buy">ซื้อ</string>
     <string name="resource_importing">การนำเข้า</string>
     <string name="online_no_network">ไม่สามารถเชื่อมต่อกับเครือข่าย</string>
