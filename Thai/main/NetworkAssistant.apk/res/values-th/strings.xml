@@ -12,7 +12,7 @@
     <string name="widget_color_exceed_warn">\#F9882C</string>
     <string name="widget_color_uesd_none_exceed_warn">\#579D00</string>
     <string name="widget_color_used_all">\#C00203</string>
-    <string name="app_name">ตรวจสอบ</string>
+    <string name="app_name">ทราฟฟิก</string>
     <string name="used_flux">ทราฟฟิกที่ใช้</string>
     <string name="sorted_flux">สถิติทราฟฟิก</string>
     <string name="menu_settings">การตั้งค่าเครือข่าย</string>
