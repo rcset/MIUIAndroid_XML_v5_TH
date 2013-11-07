@@ -57,7 +57,7 @@
     <string name="apply_font_btn_exclude">ปรับใช้โดยไม่ใช้ฟอนต์</string>
     <string name="title_local">ในเครื่อง</string>
     <string name="title_online">ออนไลน์</string>
-    <string name="title_component">ผสม</string>
+    <string name="title_component">ทั้งหมด</string>
     <string name="title_system_resource">ข้อมูลระบบ</string>
     <string name="long_ringtone_resource">ยาว</string>
     <string name="short_ringtone_resource">สั้น</string>
