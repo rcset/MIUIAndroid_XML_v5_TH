@@ -54,7 +54,7 @@
     <string name="format_exported_file_location">ส่งออกไฟล์ข้อความ ( %1$s ) ลงในไดเรกทอรีการ์ดความจำ( %2$s ) </string>
     <string name="error_unsupport_content">บันทึกนี้มีเนื้อหาที่ไม่ได้รับการสนับสนุน คลิกเพื่ออัพเกรดระบบ</string>
     <string name="error_contact_not_exist">ไม่มีรายชื่อผู้ติดต่อ</string>
-    <string name="preferences_title">ตั้งค่า</string>
+    <string name="preferences_title">การตั้งค่า</string>
     <string name="preferences_bg_random_appear_title">สีบันทึกแบบสุ่ม</string>
     <string name="call_record_folder_name">บันทึกการสนทนา</string>
     <string name="hint_foler_name">ป้อนชื่อโฟลเดอร์</string>
