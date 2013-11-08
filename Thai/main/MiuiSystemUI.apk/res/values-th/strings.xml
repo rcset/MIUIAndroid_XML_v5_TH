@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">การประสานงานผู้ใช้กับระบบ</string>
+    <string name="audio_effect_custom">การตั้งค่าเสียง</string>
+    <string name="audio_effect_info">เพิ่มประสิทธิภาพเสียง</string>
+    <string name="audio_effect_settings">เลือกประเภทหูฟัง</string>
     <string name="status_bar_recent_remove_item_title">ลบออกจากรายการ</string>
     <string name="status_bar_recent_inspect_item_title">ข้อมูลแอปพลิเคชัน</string>
     <string name="status_bar_no_recent_apps">ไม่มีแอปพลิเคชันล่าสุด</string>
