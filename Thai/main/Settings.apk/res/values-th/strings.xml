@@ -1217,6 +1217,8 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="input_methods_settings_label_format">การตั้งค่าของ %1$s</string>
     <string name="input_methods_and_subtype_enabler_title">เลือกวิธีการป้อนข้อมูลที่ใช้งาน</string>
     <string name="onscreen_keyboard_settings_summary">การตั้งค่าแป้นพิมพ์บนหน้าจอ</string>
+    <string name="open_wifi_connect_summary">คลิกเพื่อจัดการ</string>
+    <string name="open_wifi_connect_title">เชื่อมต่อไปยังเครือข่าย %1$s</string>
     <string name="builtin_keyboard_settings_title">แป้นพิมพ์บนเครื่อง</string>
     <string name="builtin_keyboard_settings_summary">การตั้งค่าแป้นพิมพ์บนเครื่อง</string>
     <string name="development_settings_title">สำหรับนักพัฒนาซอฟต์แวร์</string>
@@ -2393,6 +2395,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="accessibility_enable">การเข้าถึง</string>
     <string name="development_enable">ตัวเลือกของนักพัฒนา</string>
     <string name="device_name">ชื่ออุปกรณ์</string>
+    <string name="device_name_input_error">บันทึกชื่ออุปกรณ์ล้มเหลว กรุณาลองใหม่</string>
     <string name="device_edit_title">เปลี่ยนชื่ออุปกรณ์</string>
     <string name="device_name_input_hint">ใส่ชื่อ</string>
     <string name="device_name_usage_point">ชื่อนี้จะถูกมองเห็นบนอุปกรณ์บลูทูธในพื้นที่ใกล้เคียง</string>
