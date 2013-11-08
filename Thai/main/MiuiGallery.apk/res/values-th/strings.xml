@@ -133,7 +133,7 @@
     <string name="no_albums_alert">ไม่มีอัลบั้ม</string>
     <string name="empty_album">O ภาพ/วิดีโอ</string>
     <string name="local_albums">รูปภาพในเครื่อง</string>
-    <string name="cloud_albums">คลาวด์อัลบั้ม</string>
+    <string name="cloud_albums">อัลบั้มคลาวด์</string>
     <string name="home_my_captured_items">ภาพหน้าจอ</string>
     <string name="done">เสร็จสิ้น</string>
     <string name="title">ชื่อ</string>
@@ -162,7 +162,7 @@
     <string name="flash_off">ไม่เปิดแฟลช</string>
     <string name="set_label_all_albums">อัลบั้มทั้งหมด</string>
     <string name="set_label_local_albums">อัลบั้มในเครื่อง</string>
-    <string name="cloud_media_set_set">คลาวด์อัลบั้ม</string>
+    <string name="cloud_media_set_set">อัลบั้มคลาวด์</string>
     <string name="set_label_mtp_devices">อุปกรณ์ MTP</string>
     <string name="size_below">ไม่เกิน %1$s</string>
     <string name="size_above">%1$s ขึ้นไป</string>
@@ -200,7 +200,7 @@
     <string name="sync_only_in_wifi_summary">แนะนำให้เปิดใช้งาน มิฉะนั้นอาจทำให้เครือข่ายติดขัด</string>
     <string name="sync_only_in_wifi_alert">ปิดอัปโหลดด้วย Wi-Fi เท่านั้น อาจจะใช้เครือข่ายมือถือ คุณแน่ใจที่จะปิด?</string>
     <string name="alert">การเตือน</string>
-    <string name="gallery_cloud_provider_name">คลาวด์อัลบั้ม</string>
+    <string name="gallery_cloud_provider_name">อัลบั้มคลาวด์</string>
     <string name="sync_album">ซิงค์อัลบั้ม</string>
     <string name="sync_album_summary">อัปโหลดภาพและสกรีนช็อตของคุณในอัลบั้มคลาวด์</string>
     <string name="open_sync_title">กรุณาเปิดซิงค์</string>
@@ -221,7 +221,7 @@
     <string name="share_album_qr_code">รหัส QR</string>
     <string name="share_album_owner">เจ้าของ</string>
     <string name="share_album_share_to">แบ่งปันไปยัง</string>
-    <string name="scan_qr_code">Let people scan QR code to get this shared album.</string>
+    <string name="scan_qr_code">แสกนรหัส QR เพื่อแบ่งปันอัลบั้มนี้</string>
     <string name="request_qr_code">คำขอรหัส QR กรุณารอ...</string>
     <string name="request_qr_code_failed">คำขอ QR ล้มเหลว คลิกเพื่อลองใหม่</string>
     <string name="add_sharer">เพิ่มแบ่งปัน</string>
@@ -323,7 +323,7 @@
     <string name="error_should_not_select_video">คำเตือน: โปรดอย่าเลือกไฟล์วิดีโอ</string>
     <string name="storage_all_volumes">อุปกรณ์จัดเก็บข้อมูลทั้งหมด</string>
     <string name="settings_i_xiaomi_com">ไปยัง i.xiaomi.com เพื่อใช้งานอัลบั้มได้ตลอดเวลา</string>
-    <string name="cloud_album_more_settings">ซิงค์คลาวด์อัลบั้ม</string>
+    <string name="cloud_album_more_settings">ซิงค์อัลบั้มคลาวด์</string>
     <string name="browse_category">เรียกดู</string>
     <string name="photo_page_save_image">บันทึก</string>
     <string name="photo_page_save_uri_image_ok">ภาพจะถูกบันทึกไปยังไดเรกเทอรี่รูปภาพ</string>
