@@ -1370,4 +1370,6 @@
     <string name="oldman_end_call_button_text">วางสาย</string>
     <string name="oldman_dialpad_button_text">แป้นหมายเลข</string>
     <string name="oldman_speaker_button_text" />
+    <string name="auto_record_unknown_miui">หมายเลขไม่รู้จัก</string>
+    <string name="auto_record_yellowpage_miui">หน้าเหลือง</string>
 </resources>
