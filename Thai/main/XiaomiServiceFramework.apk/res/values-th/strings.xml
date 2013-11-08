@@ -429,7 +429,7 @@
     <string name="input_vcode_prompt">กรุณาใส่รหัสยืนยัน</string>
     <string name="master_alert_notif_dspt" formatted="false">"ในช่วงเวลานี้คุณได้เพิ่ม %s หมายเลขโทรศัพท์ %s SMS %s รูปถ่าย %s โน๊ตและข้อมูลอื่นๆ
 
- หากโทรศัพท์สูยหายหรือถูกลบข้อมูล ข้อมูลจะหายไปอย่างถาวร แนะนำให้คุณคืนค่าซิงค์เพื่อความปลอดภัยของข้อมูล"</string>
+ หากโทรศัพท์สูญหายหรือถูกลบข้อมูล ข้อมูลจะหายไปอย่างถาวร แนะนำให้คุณคืนค่าซิงค์เพื่อความปลอดภัยของข้อมูล"</string>
     <string name="master_alert_notif_title">ข้อมูลซิงค์ไม่ตรงกันกับภายนอก %s วัน</string>
     <string name="micloud_error_empty_captcha_code">ใส่รหัส captcha</string>
     <string name="micloud_error_empty_vcode">ใส่รหัสยืนยัน</string>
@@ -437,5 +437,17 @@
     <string name="quick_login_step2_title">เข้าระบบความปลอดภัย</string>
     <string name="restoreSync">คืนค่าซิงค์</string>
     <string name="skip_login_u">&lt;u&gt;ข้ามเข้าระบบ&lt;/u&gt;</string>
-    
+    <string name="sub_alert_notif_dspt" formatted="false">"คุณมี %s รายชื่อ %s SMS %s รูปภาพ %s โน๊ตและข้อมูลอื่นๆยังไม่ได้ซิงค์
+
+หากโทรศัพท์สูญหายหรือถูกลบข้อมูล ข้อมูลจะหายไปอย่างถาวร แนะนำให้คุณคืนค่าซิงค์เพื่อความปลอดภัยของข้อมูล"</string>
+    <string name="sub_alert_notif_title">บริการรหัสซิงค์ยังไม่เปิดใช้งาน</string>
+    <string name="trust_device">เชื่อถืออุปกรณ์</string>
+    <string name="vcode">รหัสยืนยัน</string>
+    <string name="vcode_notification_title">เข้าระบบยืนยันไม่เสร็จสิ้น</string>
+    <string name="vcode_prompt_long">กรุณาใส่รหัสยืนยันเพื่อรักษาความปลอดภัย Xiaomi</string>
+    <string name="wipe_data_dialog_msg">%s ยังไม่ได้ซิงค์ (ข้อมูลนี้จะหายหากคุณเริ่มต่อ)</string>
+    <string name="wipe_data_dialog_msg_separator">, </string>
+    <string name="wipe_data_dialog_title">"บางรายการยังไม่ได้ซิงค์"</string>
+    <string name="wrong_captcha">รหัส captcha ไม่ถูกต้อง</string>
+    <string name="wrong_vcode">Vcode ไม่ถูกต้อง</string>
 </resources>
