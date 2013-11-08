@@ -7,6 +7,11 @@
     <string name="alwaysUsePrompt">ตั้งเป็นค่าเริ่มต้น (ไม่ต้องเตือนอีก)</string>
     <string name="android_lockscreen_glogin_instructions">เพื่อปลดล็อก กรุณาลงชื่อเข้าใช้</string>
     <string name="toast_lockscreen_glogin_empty_password">จำเป็นต้องใช้รหัสผ่าน</string>
+    <string name="yellow_page_module_sms_sent">ข้อความถูกส่งแล้ว</string>
+    <string name="yellow_page_sms_disabled_in_privacy_mode">ไม่สามารถส่งข้อความในโหมดผู้เยี่ยมชม</string>
+    <string name="yellow_page_sms_send_failed">ส่งข้อความล้มเหลว!</string>
+    <string name="yellow_page_sms_sending">กำลังส่ง…</string>
+    <string name="yellow_page_unable_send_sms">ไม่สามารถส่งข้อความ!</string>
     <string name="today">วันนี้</string>
     <string name="tomorrow">พรุ่งนี้</string>
     <string name="yesterday">เมื่อวาน</string>
