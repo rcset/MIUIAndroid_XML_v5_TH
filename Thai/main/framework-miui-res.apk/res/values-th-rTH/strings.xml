@@ -6,6 +6,7 @@
     <string name="alarm_message_12_hour_formate">aah:mm</string>
     <string name="alwaysUsePrompt">ตั้งเป็นค่าเริ่มต้น (ไม่ต้องเตือนอีก)</string>
     <string name="android_lockscreen_glogin_instructions">เพื่อปลดล็อก กรุณาลงชื่อเข้าใช้</string>
+    <string name="toast_lockscreen_glogin_empty_password">จำเป็นต้องใช้รหัสผ่าน</string>
     <string name="today">วันนี้</string>
     <string name="tomorrow">พรุ่งนี้</string>
     <string name="yesterday">เมื่อวาน</string>
