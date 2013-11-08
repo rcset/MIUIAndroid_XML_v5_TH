@@ -41,7 +41,7 @@
   <string name="btn_other_bankcard">ใช้บัตรอื่นๆ</string>
   <string name="btn_pay_large">ชำระเงิน</string>
   <string name="btn_prev">ย้อนกลับ</string>
-  <string name="btn_query">Inquire</string>
+  <string name="btn_query">สอบถาม</string>
   <string name="btn_recharge_confirm">ยืนยันการชำระเงิน</string>
   <string name="btn_recharge_large">เติมเงิน</string>
   <string name="btn_recharge_other">เติมเงิน</string>
