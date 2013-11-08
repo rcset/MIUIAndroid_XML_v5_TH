@@ -505,6 +505,11 @@
     <string name="stop_loading">หยุด</string>
     <string name="navigation_button_close">ปิด</string>
     <string name="navigation_button_view">แสดง</string>
+    <string name="network_show_wifi_setting_tip_dialog_description">พบการเชื่อมต่อ Wi-Fi คุณต้องการเชื่อมต่อ?</string>
+    <string name="network_show_wifi_setting_tip_dialog_notshow">บันทึก</string>
+    <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">เครือข่าย Wi-Fi ใช้งานได้</string>
+    <string name="network_show_wifi_setting_tip_dialog_setting_title">"หากคุณกำลังใช้งานเครือข่ายข้อมูลอินเตอร์เน็ตจะแจ้งเตือนคุณหากการเชื่อมต่อ Wi-Fi ใกล้เคียงสามารถใช้งานได้"</string>
+    <string name="network_show_wifi_setting_tip_dialog_title">การเชื่อมต่อ Wi-Fi ใช้งานได้</string>
     <string name="navigation_button_tab">แท็บ</string>
     <string name="navigation_button_newtab">ใหม่</string>
     <string name="close_all_tab_alert_title">ปิดแท็บทั้งหมด</string>
