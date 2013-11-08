@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">เอฟเฟคเพลง</string>
+  <string name="bass_boost_strength">เพิ่มเสียงเบส</string>
+  <string name="ci_extreme">ปรับแต่งเสียงเอฟเฟค</string>
+  <string name="eq_dialog_title">ปรับแต่งเสียง</string>
+  <string name="headset_plug">กรุณาเสียบหูฟังเพื่อใช้งานเอฟเฟค</string>
+  <string name="main_toggle_effects_title">เอฟเฟคเสียง</string>
+  <string name="no_effects">เอฟเฟคไม่สามารถใช้ได้</string>
+  <string name="picker_title">ควบคุมเอฟเฟคเสียง</string>
+  <string name="pr_dialog_title">รูปแบบเสียงสะท้อน</string>
+  <string name="pr_summary">เอฟเฟคเสียงก้องเพิ่มเติ่ม</string>
+  <string name="pr_title">สะท้อน:</string>
+  <string name="setup">ติดตั้ง</string>
+  <string name="user">ผู้ใช้</string>
+  <string name="virtualizer_strength">เอฟเฟค 3D</string>
+</resources>
