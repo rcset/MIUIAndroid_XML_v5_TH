@@ -33,7 +33,7 @@
     <string name="adjust_position_next_media_notice">ต่อไป</string>
     <string name="loading_video_netplay_label">กำลังโหลด โปรดรอสักครู่ ...</string>
     <string name="buffering">กำลังบัฟเฟอร์ ...</string>
-    <string name="airkan_video_playing_in">วิดีโอกำลังเล่น ...</string>
+    <string name="airkan_video_playing_in">กำลังเล่นวิดีโอ...</string>
     <string name="airkan_video_playing"></string>
     <string name="menu_item_orientation_auto_sensor_action">เปิดใช้งานการหมุนจอ</string>
     <string name="menu_item_orientation_fixed_by_videosize_action">ปิดใช้งานการหมุนจอ</string>
@@ -44,8 +44,8 @@
     <string name="toast_message_continue_play_minute">นาที</string>
     <string name="toast_message_continue_play_second_and_play">วินาที</string>
     <string name="vp_VideoView_error_network_not_available">ไม่มีเครือข่ายสามารถใช้งานได้</string>
-    <string name="top_status_local_media">สื่อในเครื่อง</string>
-    <string name="top_status_online_media">สื่อออนไลน์</string>
+    <string name="top_status_local_media">วิดีโอ</string>
+    <string name="top_status_online_media">วิดีโอออนไลน์</string>
     <string name="loading_video_netplay_label_v5">กำลังโหลดสตรีมมิ่ง กรุณารอสักครู่ ...</string>
     <string name="buffering_video_netplay_label_v5">บัฟเฟอร์...</string>
     <string name="to_be_play_label_v5">การเล่นเริ่มต้น</string>
