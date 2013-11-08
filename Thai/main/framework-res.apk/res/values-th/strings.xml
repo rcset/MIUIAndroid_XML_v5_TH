@@ -912,7 +912,7 @@
     <string name="loading">กำลังโหลด...</string>
     <string name="capital_on">เปิด</string>
     <string name="capital_off">ปิด</string>
-    <string name="whichApplication">ทำงานให้เสร็จโดยใช้</string>
+    <string name="whichApplication">เปิดใช้งานด้วย</string>
     <string name="alwaysUse">ใช้ค่าเริ่มต้นสำหรับการทำงานนี้</string>
     <string name="clearDefaultHintMsg">ล้างค่าเริ่มต้นในการตั้งค่าระบบ > แอปพลิเคชัน > ดาวน์โหลด</string>
     <string name="chooseActivity">เลือกการทำงาน</string>
