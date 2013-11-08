@@ -14,6 +14,7 @@
     <string name="install_failed_inconsistent_certificates">แพคเกจชื่อเดียวกันได้ถูกติดตั้งอยู่แล้ว</string>
     <string name="install_failed_older_sdk">แอปพลิเคชันนี้เหมือนกับแอนดรอยเวอร์ชันใหม่เท่านั้น</string>
     <string name="install_failed_cpu_abi_incompatible">"แอปพลิเคชันนี้ไม่สามารถใช้ได้กับเครื่องของคุณ"</string>
+    <string name="install_failed_system_incompatible">แอปนี้ไม่สามารถใช้งานกับรอม MIUI!</string>
     <string name="install_failed_file_not_found">แพคเกจที่ระบุไว้ถูกลบก่อนการติดตั้งถึงจะเสร็จสมบูรณ์</string>
     <string name="install_failed_verify_failed">แพคเกจนี้ไม่ผ่านการตรวจสอบและไม่สามารถติดตั้งได้</string>
     <string name="install_failed_verify_timeout">แพคเกจผิดพลาดขนาดทำการตรวจสอบแอปพลิเคชัน กรุณาลองใหม่</string>
