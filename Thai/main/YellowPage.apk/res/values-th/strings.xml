@@ -107,6 +107,6 @@
     <string name="packages_select_sim_cards_title">กรุณา้เลือกซิมการ์ด</string>
     <string name="packages_select_to_buy_title">ซื้อดังต่อไป:</string>
     <string name="packages_title">การตั้งค่าข้อมูลแพคเกจ</string>
-    <string name="packages_wait_for_op_reply">"Pกรุณารอข้อความยืนยันของผู้ให้บริการ"</string>
+    <string name="packages_wait_for_op_reply">"กรุณารอข้อความยืนยันของผู้ให้บริการ"</string>
     <string name="select_package_before_buy">กรุณาเลือกแพคเกจที่คุณต้องการจะซื้อ</string>
 </resources>
