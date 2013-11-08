@@ -416,5 +416,26 @@
     <string name="activate_status_desc_sms_sent">ข้อความเปิดใช้งาน ถูกส่งเสร็จสิ้น</string>
     <string name="activate_status_title_activating">กำลังเปิดใช้งานซิมการ์ด กรุณารอ...</string>
     <string name="activate_status_title_activating_msim">กำลังเปิดใช้งานซิมการ์ด %s...</string>
-    <string name="alert_notif_title_dspt">กรุณาคืนค่าซิงค์เพื่อข้อมูลความปลอดภัย</string>
+    <string name="alert_notif_title_dspt">กรุณาคืนค่าซิงค์เพื่อความปลอดภัยข้อมูล</string>
+    <string name="captcha">รหัส CAPTCHA</string>
+    <string name="checking_input">กำลังตรวจสอบการป้อนข้อมูล...</string>
+    <string name="dirty_contacts_count">%d รายชื่อ</string>
+    <string name="dirty_mms_count">%d ข้อความ</string>
+    <string name="dirty_note_count">%d โน๊ต</string>
+    <string name="enableAll">เปิดใช้งานทั้งหมด</string>
+    <string name="error_user_name">ชื่อผู้ใช้ผิดพลาด!</string>
+    <string name="input_captcha_hint">ใส่ captcha</string>
+    <string name="input_vcode_hint">ใส่รหัสยืนยัน</string>
+    <string name="input_vcode_prompt">กรุณาใส่รหัสยืนยัน</string>
+    <string name="master_alert_notif_dspt" formatted="false">"ในช่วงเวลานี้คุณได้เพิ่ม %s หมายเลขโทรศัพท์ %s SMS %s รูปถ่าย %s โน๊ตและข้อมูลอื่นๆ
+
+ หากโทรศัพท์สูยหายหรือถูกลบข้อมูล ข้อมูลจะหายไปอย่างถาวร แนะนำให้คุณคืนค่าซิงค์เพื่อความปลอดภัยของข้อมูล"</string>
+    <string name="master_alert_notif_title">ข้อมูลซิงค์ไม่ตรงกันกับภายนอก %s วัน</string>
+    <string name="micloud_error_empty_captcha_code">ใส่รหัส captcha</string>
+    <string name="micloud_error_empty_vcode">ใส่รหัสยืนยัน</string>
+    <string name="noRemind">"ไม่เตือน"</string>
+    <string name="quick_login_step2_title">เข้าระบบความปลอดภัย</string>
+    <string name="restoreSync">คืนค่าซิงค์</string>
+    <string name="skip_login_u">&lt;u&gt;ข้ามเข้าระบบ&lt;/u&gt;</string>
+    
 </resources>
