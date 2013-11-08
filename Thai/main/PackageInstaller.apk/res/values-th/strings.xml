@@ -52,7 +52,7 @@
     <string name="uninstall_failed_retained_app_msg">แอปพลิเคชันนี้ปรับแต่งโดยผู้ให้บริการไม่สามารถติดตั้งได้</string>
     <string name="Parse_error_dlg_title">แยกไฟล์ผิดพลาด</string>
     <string name="Parse_error_dlg_text">เกิดปัญหาในการแยกไฟล์</string>
-    <string name="caller_app">Caller: %1$s</string>
+    <string name="caller_app">ชื่อ: %1$s</string>
     <string name="safe_guard_support">สนับสนุนระบบโดย %1$s</string>
     <string name="safe_relative">การอนุญาตปลอดภัย</string>
     <string name="privacy_relative">การอนุญาตส่วนตัว</string>
