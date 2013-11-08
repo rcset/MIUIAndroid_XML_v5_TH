@@ -192,7 +192,7 @@
     <string name="big5_title">BIG5</string>
     <string name="big5_summary">ค่าเริ่มต้นการเข้ารหัสภาษาจีนดั้งเดิมของ Windows</string>
     <string name="stay_awake_title">เปิดตลอด</string>
-    <string name="stay_awake_summary">หน้าจอจหลับขณะที่ใช้ FTP</string>
+    <string name="stay_awake_summary">หน้าจอหลับขณะที่ใช้ FTP</string>
     <string name="ftp_transfer_secure">ความปลอดภัย</string>
     <string name="ftp_port_number">หมายเลขพอร์ต</string>
     <string name="ftp_account_req_notice">4 ~ 16 ตัวอักษร ตัวหนังสือและตัวเลข แยกแยะตัวพิมพ์ใหญ่-เล็ก</string>
