@@ -90,4 +90,23 @@
     <string name="express_inquiry_internal_failure">ไม่สามารถให้บริการได้</string>
     <string name="express_inquiry_data_owner">ให้บริการข้อมูลในการติดตามโดย %s</string>
     <string name="scan">สแกน</string>
+    <string name="balance_inquiry_default_sp_name">ผู้ให้บริการ</string>
+    <string name="balance_inquiry_send_sms_hint">ส่งข้อความฟรีจะส่งไปสอบถามยอดคงเหลือ</string>
+    <string name="balance_inquiry_title">สอบถามยอดคงเหลือ</string>
+    <string name="express_inqiury_select_logistics">เลือกการจัดส่ง</string>
+    <string name="express_inquiry_logistics_indication">ชื่อจัดส่ง</string>
+    <string name="express_inquiry_serial_number_indication">หมายเลขติดตามสินค้า</string>
+    <string name="expresss_inquiry_all_logistics">ทั้งหมด</string>
+    <string name="expresss_inquiry_frequently_used_logistics">ความถี่ใช้งาน</string>
+    <string name="packages_no_package">ไม่พบแพคเกจทราฟฟิกใช้งานได้</string>
+    <string name="packages_pay">ซื้อ</string>
+    <string name="packages_pay_confirm">ยืนยันการชำระเงิน</string>
+    <string name="packages_pay_hint">ส่งข้อความฟรี</string>
+    <string name="packages_pay_success">ข้อความถูกส่งเรียบร้อยแล้ว!</string>
+    <string name="packages_select_sim_cards_summmary">ระบบแนะนำแพคเกจตามการใช้งาน</string>
+    <string name="packages_select_sim_cards_title">กรุณา้เลือกซิมการ์ด</string>
+    <string name="packages_select_to_buy_title">ซื้อดังต่อไป:</string>
+    <string name="packages_title">การตั้งค่าข้อมูลแพคเกจ</string>
+    <string name="packages_wait_for_op_reply">"Pกรุณารอข้อความยืนยันของผู้ให้บริการ"</string>
+    <string name="select_package_before_buy">กรุณาเลือกแพคเกจที่คุณต้องการจะซื้อ</string>
 </resources>
