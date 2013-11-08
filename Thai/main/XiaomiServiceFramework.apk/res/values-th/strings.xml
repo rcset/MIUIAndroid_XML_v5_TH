@@ -381,7 +381,7 @@
     <string name="title_paytool">เติมเงินผ่านทาง %1$s"</string>
     <string name="title_prepaid">เติมเงินผ่านบัตร"</string>
     <string name="title_voucher">ยอดการใช้บัตรกำนัล Miเครดิต"</string>
-    <string name="activate_phone_failed_notif_title_msim">เริ่ม Miคลาวด์ สำหรับซิม %s ล้มเหลว
+    <string name="activate_phone_failed_notif_title_msim">เริ่ม Miคลาวด์ สำหรับซิม %s ล้มเหลว</string>
     <string name="activate_status_desc_acquire_phone_number">กำลังรับหมายเลขโทรศัพท์จากเซิร์ฟเวอร์</string>
     <string name="activate_status_desc_acquire_phone_number_server_error">เซิร์ฟเวอร์ผิดพลาดขณะกำลังรับหมายเลขโทรศัพท์</string>
     <string name="activate_status_desc_acquire_phone_number_server_error_wait">เซิร์ฟเวอร์ผิดพลาดขณะกำลังรับหมายเลขโทรศัพท์ กรุณารอเพื่อลองใหม่...</string>
