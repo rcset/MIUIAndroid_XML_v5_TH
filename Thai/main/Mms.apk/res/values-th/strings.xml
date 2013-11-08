@@ -59,6 +59,7 @@
     <string name="discard_message_reason">ข้อความของคุณจะถูกทิ้งไปเพราะไม่มีผู้รับที่ถูกต้อง</string>
     <string name="has_invalid_recipient">ผู้รับไม่ถูกต้อง: &lt;%1$s></string>
     <string name="invalid_destination">ที่อยู่ปลายทางไม่ถูกต้อง</string>
+    <string name="invalid_private_contact">รายชื่อส่วนตัวไม่ถูกต้อง</string>
     <string name="service_not_activated">ไม่ได้เปิดใช้บริการบนเครือข่าย</string>
     <string name="service_message_not_found">ข้อความหมดอายุหรือไม่สามารถใช้ได้</string>
     <string name="service_network_problem">ไม่สามารถส่งได้เนื่องจากปัญหาของเครือข่าย</string>
