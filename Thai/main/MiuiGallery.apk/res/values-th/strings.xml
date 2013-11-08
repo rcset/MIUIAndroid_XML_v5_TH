@@ -202,7 +202,7 @@
     <string name="alert">การเตือน</string>
     <string name="gallery_cloud_provider_name">คลาวด์อัลบั้ม</string>
     <string name="sync_album">ซิงค์อัลบั้ม</string>
-    <string name="sync_album_summary">อัปโหลดภาพและสกรีนช็อตของคุณในอัลบั้ม cloud</string>
+    <string name="sync_album_summary">อัปโหลดภาพและสกรีนช็อตของคุณในอัลบั้มคลาวด์</string>
     <string name="open_sync_title">กรุณาเปิดซิงค์</string>
     <string name="alert_message_open_sync">คุณต้องเปิดใช้งานซิงค์ก่อน เปิดใช้งานตอนนี้?</string>
     <string name="open">เปิดใช้งาน</string>
@@ -230,9 +230,10 @@
     <string name="sharer_status_waiting">รอสักครู่</string>
     <string name="sharer_status_accepted">ยอมรับ</string>
     <string name="sharer_status_refused">ปฎิเสธ</string>
-    <string name="initializing_cloud">กำลังเริ่มต้นอัลบั้ม Cloud...</string>
+    <string name="initializing_cloud">กำลังเริ่มต้นอัลบั้มคลาวด์...</string>
     <string name="click_to_enter_camera">ไม่มีภาพหรือวิดีโอ</string>
-    <string name="camera_view_none_message">จะแสดงภาพที่ถ่ายมาที่นี่</string>
+    <string name="click_top_right">แตะไอคอนด้านขวาบน</string>
+    <string name="camera_view_none_message">แสดงภาพที่ถ่ายมาที่นี่</string>
     <string name="none_picture">ไม่พบรูปภาพในแกลลอรี่</string>
     <string name="show_hidden_albums">แสดงอัลบั้มที่ถูกซ่อน</string>
     <string name="not_show_hidden_albums">ไม่แสดงอัลบั้มที่ถูกซ่อน</string>
