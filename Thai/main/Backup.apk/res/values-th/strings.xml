@@ -189,10 +189,10 @@
     <string name="select_backup_item">เลือกรายการสำรองข้อมูล</string>
     <string name="restore_data">คืนค่าข้อมูล</string>
     <string name="backup_data">สำรองข้อมูล</string>
-	<string name="button_abandon">ยกเลิก</string>
-	<string name="button_delete">ลบ</string>
-	<string name="button_restore">คืนค่า</string>
-	<string name="cloud_app_backup_date">"สำรองข้อมูลบน "</string>
+    <string name="button_abandon">ยกเลิก</string>
+    <string name="button_delete">ลบ</string>
+    <string name="button_restore">คืนค่า</string>
+    <string name="cloud_app_backup_date">"สำรองข้อมูลบน "</string>
     <string name="cloud_app_backup_pending">กำลังรอ...</string>
     <string name="cloud_app_backup_progress">กำลังสำรองข้อมูล...</string>
     <string name="cloud_app_backup_summary">สำรองข้อมูลแอปอัตโนมัติและข้อมูลผู้ใช้เมื่อโทรศัพท์กำลังชาร์ตและเชื่อมต่อ Wi-Fi</string>
@@ -228,9 +228,8 @@
     <string name="cloud_app_restore_wifi_prompt">เชื่อมต่อไปยังอินเตอร์เน็ตด้วย Wi-Fi เพื่อคืนค่าแอปและข้อมูลผู้ใช้</string>
     <string name="cloud_app_total_size">ขนาดสำรองข้อมูล Miคลาวด์ ทั้งหมด: %1$s</string>
     <string name="cloud_app_version_size">เวอร์ชัน: %1$s, ขนาด: %2$s</string>
-	<string name="customization">&lt;u&gt;ปรับแต่ง&lt;/u&gt;</string>
+    <string name="customization">&lt;u&gt;ปรับแต่ง&lt;/u&gt;</string>
     <string name="customization_under_wifi_prompt">รองรับเมื่อใช้งาน Wi-Fi เท่านั้น</string>
-	<string name="just_support_op_with_wifi_connected">รองรับเมื่อใช้งาน Wi-Fi เท่านั้นi</string>
-	<string name="my_phone">อุปกรณ์ชองฉัน</string>
-	
+    <string name="just_support_op_with_wifi_connected">รองรับเมื่อใช้งาน Wi-Fi เท่านั้นi</string>
+    <string name="my_phone">อุปกรณ์ของฉัน</string>
 </resources>
