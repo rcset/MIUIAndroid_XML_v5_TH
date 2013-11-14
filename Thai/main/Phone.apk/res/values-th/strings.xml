@@ -1372,8 +1372,8 @@
     <string name="oldman_speaker_button_text" />
     <string name="auto_record_unknown_miui">หมายเลขไม่รู้จัก</string>
     <string name="auto_record_yellowpage_miui">หน้าเหลือง</string>
-	<string name="antispam_provider">วิเคราะห์โดย %s</string>
-	<string name="data_connected_change">ไม่สามารถเปลี่ยนเครือข่ายขณะใช้บริการข้อมูล หยุดบริการข้อมูลปัจจุบันและเลือกเครือข่ายอื่นที่สามารถใช้งานได้?</string>
-	<string name="duringcall">การดำเนินการไม่ได้รับอนุญาตระหว่างโทร</string>
-	<string name="information">ข้อมูล</string>
+    <string name="antispam_provider">วิเคราะห์โดย %s</string>
+    <string name="data_connected_change">ไม่สามารถเปลี่ยนเครือข่ายขณะใช้บริการข้อมูล หยุดบริการข้อมูลปัจจุบันและเลือกเครือข่ายอื่นที่สามารถใช้งานได้?</string>
+    <string name="duringcall">การดำเนินการไม่ได้รับอนุญาตระหว่างโทร</string>
+    <string name="information">ข้อมูล</string>
 </resources>
