@@ -3018,4 +3018,8 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="change_data_conn_message">%1$s ไม่พร้อม เปลี่ยนค่าเริ่มต้นการเชื่อมต่อข้อมูลไปยัง %2$s หรือไม่?</string>
 	<string name="later">รีบูตภายหลัง</string>
 	<string name="now">รีบูตตอนนี้</string>
+	<string name="connected_wifi">Wi-Fi เชื่อมต่อแล้ว</string>
+	<string name="nfc_category_title">NFC</string>
+	<string name="android_beam_tips">แน่ใจว่าอุปกรณ์ทั้งสองกำลังสัมผัสกัน จากนั้นเลือกข้อมูลที่ต้องการบีม</string>
+	<string name="breathing_light_color_menu_title">สีไฟ</string>
 </resources>

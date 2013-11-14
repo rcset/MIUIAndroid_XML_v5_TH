@@ -276,5 +276,13 @@
 	<string name="synchronize_playlist_setting">ซิงค์เพลย์ลิส</string>
     <string name="synchronize_playlist_summary">ซิงค์เพลย์ลิสไปยัง Miคลาวด์</string>
 	<string name="xiaomi_account_setting">บัญชี Xiaomi</string>
-	
+	<string name="dirac_mode_earbuds">หูฟัง Xiaomi</string>
+    <string name="dirac_mode_in_ear">หูฟังแบบใส่หู Xiaomi</string>
+    <string name="dirac_mode_off">ปิด Dirac</string>
+    <string name="dirac_mode_piston_100">หูฟังแบบลูกสูบ Xiaomi</string>
+	<string name="headphone_settings">การตั้งค่าประเภทหูฟัง</string>
+	<string name="mi_effect">MI เอฟเฟค</string>
+    <string name="mi_effect_summary">ใช้เพิ่มประสิทธิภาพ Miซาวด์ เสมอเมื่อใช้งานลำโพง</string>
+    <string name="mi_effect_title">ใช้เพิ่มประสิทธิภาพ Miซาวด์</string>
+	<string name="music_not_loaded">ไม่พบไฟล์เสียง!</string>
 </resources>

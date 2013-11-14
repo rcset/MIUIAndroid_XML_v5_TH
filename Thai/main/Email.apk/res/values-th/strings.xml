@@ -573,4 +573,6 @@
     <string name="account_setup_basic_description_label">ชื่อบัญชี (จำเป็น)</string>
     <string name="add_quick_responses_action">สร้างใหม่</string>
     <string name="account_security_waiting_policy_key_message">%s ต้องการข้อมูลการตั้งค่าความปลอดภัยจากเซิร์ฟเวอร์ กรุณารอ...</string>
+	<string name="newer_action">ใหม่กว่า</string>
+	<string name="older_action">เก่ากว่า</string>
 </resources>
