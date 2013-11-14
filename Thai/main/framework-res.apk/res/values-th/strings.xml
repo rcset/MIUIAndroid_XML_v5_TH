@@ -1185,7 +1185,7 @@
     <string name="action_bar_up_description">นำทางขึ้น</string>
     <string name="action_menu_overflow_description">ตัวเลือกเพิ่มเติม</string>
     <string name="storage_internal">ที่จัดเก็บข้อมูลภายใน</string>
-    <string name="storage_sd_card">การ์ด SD</string>
+    <string name="storage_sd_card">การ์ดความจำ</string>
     <string name="storage_usb">ที่เก็บข้อมูล USB</string>
     <string name="extract_edit_menu_button">แก้ไข</string>
     <string name="data_usage_warning_title">คำเตือนการใช้ข้อมูล</string>

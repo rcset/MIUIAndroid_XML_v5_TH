@@ -1166,7 +1166,7 @@
     <string name="delete_sim_entries_finish">ลบรายชื่อซิมการ์ดเสร็จสิ้น</string>
     <string name="import_sim_entry_miui">นำเข้า</string>
     <string name="incall_screen_background_title_miui">พื้นหลังหน้าจอโทร</string>
-    <string name="incall_screen_background_summary_miui">"ใช้ภาพพื้นหลังหน้าจอล็อกเมื่อรายชื่อไม่ได้ตั้งภาพเอาไว้"</string>
+    <string name="incall_screen_background_summary_miui">"ใช้ภาพพื้นหลังล็อกหน้าจอเมื่อรายชื่อไม่ได้ตั้งภาพเอาไว้"</string>
     <string name="invalid_new_pin2_miui">PIN2 ใหม่ผิดพลาด กรุณาใส่ PIN2 4 ถึง 8 หมายเลข</string>
     <string name="invalid_new_pin_miui">PIN ใหม่ผิดพลาด กรุณาใส่ PIN 4 ถึง 8 หมายเลข</string>
     <string name="invalid_pin2_miui">PIN2 ผิดพลาด กรุณาใส่ PIN2 4 ถึง 8 หมายเลข</string>

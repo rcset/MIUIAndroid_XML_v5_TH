@@ -275,8 +275,8 @@
     <string name="show_owner_info_on_lockscreen_label">แสดงข้อมูลเจ้าของเมื่อล็อกหน้าจอ</string>
     <string name="owner_info_settings_title">ข้อมูลเจ้าของ</string>
     <string name="owner_info_settings_summary" />
-    <string name="owner_info_settings_edit_text_hint">พิมพ์ข้อความที่ต้องการให้แสดงบนหน้าจอล็อก</string>
-    <string name="show_user_info_on_lockscreen_label">แสดงข้อมูลผู้ใช้บนหน้าจอล็อก</string>
+    <string name="owner_info_settings_edit_text_hint">พิมพ์ข้อความที่ต้องการให้แสดงบนล็อกหน้าจอ</string>
+    <string name="show_user_info_on_lockscreen_label">แสดงข้อมูลผู้ใช้บนล็อกหน้าจอ</string>
     <string name="user_info_settings_title">ข้อมูลผู้ใช้</string>
     <string name="location_settings_title">การเข้าถึงตำแหน่ง</string>
     <string name="security_settings_title">ความปลอดภัย</string>
@@ -309,7 +309,7 @@
     <string name="lock_settings_picker_title">เลือกการล็อกหน้าจอ</string>
     <string name="backup_lock_settings_picker_title">เลือกการล็อกข้อมูลสำรอง</string>
     <string name="unlock_set_unlock_launch_picker_title">ล็อกหน้าจอ</string>
-    <string name="unlock_set_unlock_launch_picker_change_title">เปลี่ยนหน้าจอล็อก</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">เปลี่ยนล็อกหน้าจอ</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">เปลี่ยนหรือปิดการใช้งานรูปแบบ PIN หรือความปลอดภัยของรหัสผ่าน</string>
     <string name="unlock_set_unlock_launch_picker_enable_summary">เลือกวิธีที่จะล็อกหน้าจอ</string>
     <string name="unlock_backup_info_summary">เมื่อปลดล็อกด้วยหน้าไม่สามารถระบุตัวคุณได้ คุณต้องการจะปลดล็อกอย่างไร</string>
@@ -1281,7 +1281,7 @@ PIN อาจไม่ถูกต้อง"</string>
 
 ขั้นตอนที่ 2: ใช้สองนิ้วแตะค้างไว้จนกว่าจะได้ยินเสียงยืนยัน
 
-หากมีผู้ใช้อุปกรณ์หลายคน การใช้ทางลัดนี้ในหน้าจอล็อกจะเป็นการเปิดใช้งานการเข้าถึงชั่วคราวจนกว่าจะปลดล็อกอุปกรณ์"</string>
+หากมีผู้ใช้อุปกรณ์หลายคน การใช้ทางลัดนี้ในล็อกหน้าจอจะเป็นการเปิดใช้งานการเข้าถึงชั่วคราวจนกว่าจะปลดล็อกอุปกรณ์"</string>
     <string name="accessibility_toggle_large_text_preference_title">ข้อความขนาดใหญ่</string>
     <string name="accessibility_toggle_screen_magnification_preference_title">การขยายหน้าจอ</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">อัปเดตการขยายหน้าจอโดยอัตโนมัติ</string>
@@ -2925,7 +2925,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="wifi_advanced_ipv6_address_title">ที่อยู่ IPv6</string>
     <string name="wifi_ipv4_address">ที่อยู่ IPv4</string>
     <string name="wifi_ipv6_address">ที่อยู่ IPv6</string>
-    <string name="mtk_datausage_show_on_lockscreen">แสดงบนหน้าจอล็อก</string>
+    <string name="mtk_datausage_show_on_lockscreen">แสดงบนล็อกหน้าจอ</string>
     <string name="mtk_datausage_update">อัปเดตการใช้ข้อมูล</string>
     <string name="mtk_datausage_update_set">อัปเดต</string>
     <string name="mtk_datausage_amount_editor_title">ปริมาณข้อมูลที่ใช้</string>
@@ -2982,12 +2982,12 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="alarm_command_summary_format">คุณสามารถพูดว่า %1$s หรือ %2$s เพื่อควบคุมการแจ้งเตือน</string>
     <string name="camera_command_summary_format">คุณสามารถพูดว่า %1$s หรือ %2$s เพื่อจับภาพ</string>
     <string name="music_command_summary_format">คุณสามารถพูดว่า %1$s และ %2$s เพื่อควบคุมการเล่นเพลง</string>
-    <string name="lock_screen_notifications_title">การแจ้งเตือนที่หน้าจอล็อก</string>
-    <string name="lock_screen_notifications_summary">แสดงการแจ้งเตือนบนหน้าจอล็อก</string>
-    <string name="lock_screen_style_title">รูปแบบหน้าจอล็อก</string>
+    <string name="lock_screen_notifications_title">การแจ้งเตือนที่ล็อกหน้าจอ</string>
+    <string name="lock_screen_notifications_summary">แสดงการแจ้งเตือนบนล็อกหน้าจอ</string>
+    <string name="lock_screen_style_title">รูปแบบล็อกหน้าจอ</string>
     <string name="current_suffix">(ปัจจุบัน)</string>
-    <string name="lockscreen_style_set">ตั้งค่าหน้าจอล็อก</string>
-    <string name="lockscreen_style_default_desc">การเข้าถึงแอปพลิเคชันแบบเร็วในหน้าจอล็อก</string>
+    <string name="lockscreen_style_set">ตั้งค่าล็อกหน้าจอ</string>
+    <string name="lockscreen_style_default_desc">การเข้าถึงแอปพลิเคชันแบบเร็วในล็อกหน้าจอ</string>
     <string name="evdo_signal_strength_info">Evdo</string>
     <string name="security_not_set">ยังไม่ได้ตั้งค่าความปลอดภัย</string>
     <string name="lockdown_vpn_already_connected">ได้เปิดการออนไลน์บน VPN เสมอสำหรับการเชื่อมต่อแล้ว</string>

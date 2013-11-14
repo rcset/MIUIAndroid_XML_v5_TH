@@ -7,7 +7,7 @@
     <string name="notelist_string_info">...</string>
     <string name="notelist_menu_new">เพิ่มบันทึก</string>
     <string name="note_alert_expired">หมดอายุ</string>
-    <string name="format_date_ymd">MMddyyyy</string>
+    <string name="format_date_ymd">ddMMyyyy</string>
     <string name="format_datetime_mdhm">MMMd kk:mm</string>
     <string name="notealert_ok">รับทราบ</string>
     <string name="notealert_enter">ตรวจดู</string>
@@ -44,7 +44,7 @@
     <string name="alert_message_edit_anyway">บันทึกบรรจุข้อมูลที่ไม่สนับสนุน การแก้ไขอาจะทำให้สูญเสียข้อมูลได้</string>
     <string name="alert_action_edit_anyway">แก้ไขต่อไป</string>
     <string name="error_sdcard_unmounted">การ์ดความจำไม่ว่างหรือไม่สามารถอ่านได้ โปรดลองอีกครั้ง</string>
-    <string name="error_sdcard_export">การส่งออกล้มเหลว โปรดตรวจสอบการ์ด SD</string>
+    <string name="error_sdcard_export">การส่งออกล้มเหลว โปรดตรวจสอบการ์ดความจำ</string>
     <string name="error_note_not_exist">ไม่มีบันทึกนี่อยู่</string>
     <string name="error_note_empty_for_clock">ขออภัย ไม่สามารถตั้งเวลากับบันทึกเปล่าได้</string>
     <string name="error_note_empty_for_send_to_desktop">ขออภัย ไม่สามารถส่งบันทึกเปล่าไปที่หน้าจอหลัก</string>
@@ -92,7 +92,7 @@
     <string name="pref_title_common">การตั้งค่าร่วม</string>
     <string name="pref_title_alarm_when_silent">การเตือนในโหมดเงียบ</string>
     <string name="pref_desc_alarm_when_silent">การเตือนจะส่งเสียงในโหมดเงียบ</string>
-    <string name="pref_title_data_export_to_sdcard">ส่งออกบันทึกไปยังการ์ด SD</string>
+    <string name="pref_title_data_export_to_sdcard">ส่งออกบันทึกไปยังการ์ดความจำ</string>
     <string name="dlg_title_confirm_alarm_silent">คุณต้องการเงียบเสียงสัญญาณเตือนในโหมดเงียบ?</string>
     <string name="dlg_desc_confirm_alarm_silent">นาฬิกาปลุกและบันทึกจะไม่ส่งเสียงในโหมดเงียบ</string>
     <string name="close">ปิด</string>

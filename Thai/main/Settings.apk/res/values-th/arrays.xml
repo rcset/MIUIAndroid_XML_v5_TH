@@ -183,7 +183,7 @@
     </string-array>
     <string-array name="app_install_location_entries">
         <item>ที่จัดเก็บข้อมูลอุปกรณ์ภายใน</item>
-        <item>การ์ด SD แบบนำออกได้</item>
+        <item>การ์ดความจำแบบนำออกได้</item>
         <item>ให้ระบบเลือก</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">

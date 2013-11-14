@@ -65,7 +65,7 @@
     <string name="preference_enable_earpiece_summary">ใช้ตัวรับเสียงจากอุปกรณ์ภายนอก</string>
     <string name="preference_enable_earpiece_title">ใช้ตัวรับเพื่อเล่นเสียง</string>
     <string name="preference_led_indicator">แสดงการบันทึกเมื่อหน้าจอถูกล็อก</string>
-    <string name="preference_led_indicator_prompt">แสดงสถานะไฟ LED ที่แถบสถานะ เมื่อกำลังบัน​​ทึกแล้วหน้าจอล็อก</string>
+    <string name="preference_led_indicator_prompt">แสดงสถานะไฟ LED ที่แถบสถานะ เมื่อกำลังบัน​​ทึกแล้วล็อกหน้าจอ</string>
     <string name="preference_record_type_title">ประเภทการบันทึกเสียง</string>
     <string name="preference_scenes">การตั้งค่าตามเหตุการณ์</string>
     <string name="preference_record_type_dialog_title">เลือกประเภทการบันทึกเสียง</string>
