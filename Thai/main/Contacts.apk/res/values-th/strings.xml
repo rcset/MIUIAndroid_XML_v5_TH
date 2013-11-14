@@ -318,7 +318,7 @@
     <string name="importing_vcard_finished_title">นำเข้า vCard %s เรียบร้อยแล้ว</string>
     <string name="importing_vcard_canceled_title">ยกเลิกการนำเข้า %s แล้ว</string>
     <string name="vcard_import_will_start_message">การนำเข้า %s จะเกิดขึ้นในไม่ช้า</string>
-    <string name="vcard_import_will_start_message_with_default_name">ไฟล์จะถููกนำเข้าในไม่ช้า</string>
+    <string name="vcard_import_will_start_message_with_default_name">ไฟล์จะถูกนำเข้าในไม่ช้า</string>
     <string name="vcard_import_request_rejected_message">คำขอนำเข้า vCard ถูกปฏิเสธ ลองใหม่ภายหลัง</string>
     <string name="vcard_export_will_start_message">การส่งออก %s จะเกิดขึ้นในไม่ช้า</string>
     <string name="vcard_export_request_rejected_message">คำขอส่งออก vCard ถูกปฏิเสธ ลองใหม่ภายหลัง</string>

@@ -260,4 +260,6 @@
 
  ลองใหม่ใน %d วินาที"</string>
     <string name="login_website_in_case_forget_password">ไปที่ i.xiaomi.com เพื่อรีเซ็ทรหัสผ่านใหม่ ในกรณีที่คุณลืม</string>
+	<string name="grant_permissions_account">อนุญาตการเข้าถึงบัญชี</string>
+    <string name="grant_permissions_apps">อนุญาตการเข้าถึงแอป</string>
 </resources>

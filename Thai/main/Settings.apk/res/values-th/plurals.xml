@@ -24,4 +24,16 @@
         <item quantity="other">รหัสผ่านต้องมีอักขระที่ไม่ใช่ตัวอักษรอย่างน้อย %d ตัว</item>
         <item quantity="one">รหัสผ่านต้องมีอักขระที่ไม่ใช่ตัวอักษรอย่างน้อย 1 ตัว</item>
     </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">%d วัน</item>
+        <item quantity="one">%d วัน</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">%d ชั่วโมง</item>
+        <item quantity="one">%d ชั่วโมง</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">%d นาที</item>
+        <item quantity="one">%d นาที</item>
+    </plurals>
 </resources>

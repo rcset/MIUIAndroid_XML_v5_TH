@@ -1372,4 +1372,5 @@
     <string name="oldman_speaker_button_text" />
     <string name="auto_record_unknown_miui">หมายเลขไม่รู้จัก</string>
     <string name="auto_record_yellowpage_miui">หน้าเหลือง</string>
+	<string name="antispam_provider">วิเคราะห์โดย %s</string>
 </resources>

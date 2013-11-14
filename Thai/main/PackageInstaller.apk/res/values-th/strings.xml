@@ -73,4 +73,8 @@
     <string name="perm_action_prompt">ถามก่อน</string>
     <string name="perm_action_reject">ปฎิเสธ</string>
     <string name="unknown_installer">ตัวติดตั้งที่ไม่รู้จัก</string>
+    <string name="virus_scan_clear">ลบ</string>
+    <string name="virus_scan_install">" "&lt;u&gt;&amp;#32487;&amp;#32493;&amp;#23433;&amp;#35013;&lt;/u&gt;" "</string>
+    <string name="virus_scan_is_risk">แอปนี้มีความเสี่ยง!</string>
+    <string name="virus_scan_is_virus">แอปนี้มีไวรัส กรุณาลบแอปโดยทันที!</string>
 </resources>

@@ -171,4 +171,12 @@
     <string name="notify_carrier_settings_title">คุณยังไม่ได้แก้ไขผู้ให้บริการ แก้ไขตอนนี้?</string>
     <string name="notify_traffic_settings_title">คุณยังไม่แก้ไขแผนข้อมูลของคุณ แก้ไขตอนนี้?</string>
     <string name="sync_traffic_fail_title">ซิงค์ล้มเหลว</string>
+	<string name="network_control_service_notification_text">เปิดการควบคุมเครือข่าย</string>
+    <string name="network_control_service_notification_title_mutiple">%1$d ได้ถูกปฎิเสธสำหรับ %2$s การเชื่อมต่อ</string>
+    <string name="network_control_service_notification_title_nettype_mobile">มือถือ</string>
+    <string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
+    <string name="network_control_service_notification_title_single">%1$s ได้ถูกปฏิเสธสำหรับ %2$s การเชื่อมต่อ</string>
+	<string name="pref_connect_settings_monitor_running_app">แสดงแอปปฏิเสธเครือข่ายเมื่อกำลังใช้งาน</string>
+    <string name="pref_connect_settings_monitor_running_app_summary">แสดงการแจ้งเตือนเมื่อแอปปฏิเสธเครือข่ายกำลังใช้งาน</string>
+	<string name="running_apps_activity_title">แอปกำลังใช้งาน</string>
 </resources>

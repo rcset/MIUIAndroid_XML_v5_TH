@@ -109,4 +109,9 @@
     <string name="packages_title">การตั้งค่าข้อมูลแพคเกจ</string>
     <string name="packages_wait_for_op_reply">"กรุณารอข้อความยืนยันของผู้ให้บริการ"</string>
     <string name="select_package_before_buy">กรุณาเลือกแพคเกจที่คุณต้องการจะซื้อ</string>
+	<string name="express_inquiry_delivered">จัดส่งแล้ว</string>
+    <string name="express_inquiry_history">ประวัติ</string>
+	<string name="express_inquiry_no_history">ไม่มีประวัติ</string>
+	<string name="mark_title_null_hint">การป้อนข้อมูลไม่สามารถว่างได้</string>
+	<string name="recharge_history_empty">ไม่มีประวัติการเติมเงิน</string>
 </resources>

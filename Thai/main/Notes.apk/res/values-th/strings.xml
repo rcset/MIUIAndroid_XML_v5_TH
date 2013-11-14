@@ -100,4 +100,5 @@
     <string name="alert_title_discard">ยกเลิกการเปลี่ยนแปลงหรือไม่</string>
     <string name="pref_title_data_export">ข้อมูลการส่งออก</string>
     <string name="toast_privacy_mode">ไม่สามารถแก้ไขข้อความในโหมดป้องกัน</string>
+	<string name="pref_title_font_size">ขนาดตัวอักษร</string>
 </resources>
