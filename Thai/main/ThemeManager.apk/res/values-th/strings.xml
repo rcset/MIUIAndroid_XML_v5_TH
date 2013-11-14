@@ -208,6 +208,6 @@
     <string name="mi_wallpaper_loading">กำลังโหลดวอลเปเปอร์ ...</string>
     <string name="mi_wallpaper_title">วอลเปเปอร์</string>
     <string name="processing">กำลังดำเนินการ ...</string>
-	<string name="resource_comment_no_average_score">0.0</string>
-	<string name="resource_pack_confirm">คุณสั่งซื้อแล้ว %1$d รายการ แต่ราคาปัจจุบันดีกว่าการสั่งซื้อรายการก่อนหน้า คุณต้องการเริ่มต่อ?</string>
+    <string name="resource_comment_no_average_score">0.0</string>
+    <string name="resource_pack_confirm">คุณสั่งซื้อแล้ว %1$d รายการ แต่ราคาปัจจุบันดีกว่าการสั่งซื้อรายการก่อนหน้า คุณต้องการเริ่มต่อ?</string>
 </resources>
