@@ -450,11 +450,11 @@
     <string name="select_recipient">เลือกผู้รับ</string>
     <string name="add_attachment">เพิ่มไฟล์แนบ</string>
     <string name="send_sms">ส่งข้อความ</string>
-	<string name="pref_collapse_sp_messages_summary">รวมผู้ให้บริการข้อความในรายการเดียว</string>
+    <string name="pref_collapse_sp_messages_summary">รวมผู้ให้บริการข้อความในรายการเดียว</string>
     <string name="sp_conversation_title">การแจ้งเตือนข้อความ</string>
     <string name="sp_mark_as_read">เลือกอ่านข้อความทั้งหมดแล้ว?</string>
     <string name="sp_mark_as_read_progress">กำลังเลือกอ่านข้อความทั้งหมดแล้ว...</string>
     <string name="sp_mark_as_read_title">เลือกอ่านข้อความทั้งหมดแล้ว</string>
-	<string name="title_collapse_sp_messages">รวมผู้ให้บริการข้อความ</string>
-	<string name="mx_activation_done">ข้อความคลาวด์เปิดใช้งานแล้ว</string>
+    <string name="title_collapse_sp_messages">รวมผู้ให้บริการข้อความ</string>
+    <string name="mx_activation_done">ข้อความคลาวด์เปิดใช้งานแล้ว</string>
 </resources>
