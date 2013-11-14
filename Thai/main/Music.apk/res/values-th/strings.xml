@@ -270,7 +270,7 @@
     <string name="channel_format" formatted="false">"%s  %s MHZ"</string>
 	<string name="account_and_synchronization">บัญชี &amp; ซิงค์</string>
     <string name="account_setting">การตั้งค่าบัญชี</string>
-	<string name="bind_baidu_account_setting">บัญชี Bind Baidu</string>
+	<string name="bind_baidu_account_setting">ผูกบัญชี Baidu</string>
     <string name="bind_baidu_account_summary">เพิ่มเพลย์ลิสและบริการอื่นๆโดยการผูกบัญชีเพลง Baidu</string>
 	<string name="not_login">เข้าระบบ</string>
 	<string name="synchronize_playlist_setting">ซิงค์เพลย์ลิส</string>
