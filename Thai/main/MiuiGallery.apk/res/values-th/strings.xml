@@ -440,4 +440,6 @@
     <string name="video_not_exist">ไม่พบวิดีโอ!</string>
     <string name="add_to_cloud_local_space_full_message">หน่วยความจำเต็มหรือยังไม่พร้อมใช้งาน</string>
     <string name="get_album_info_in_process">"กำลังร้องขอข้อมูลแบ่งปันอัลบั้ม กรุณารอ..."</string>
+    <string name="add_to_cloud_image_limit_exceeded_message">จำนวนภาพเกินแล้ว</string>
+    <string name="marked_by_others">%d คนทำเครื่องหมายนี้</string>
 </resources>
