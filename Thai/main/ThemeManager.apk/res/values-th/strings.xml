@@ -210,7 +210,7 @@
     <string name="processing">กำลังดำเนินการ ...</string>
     <string name="resource_comment_no_average_score">0.0</string>
     <string name="resource_pack_confirm">คุณสั่งซื้อแล้ว %1$d รายการ แต่ราคาปัจจุบันดีกว่าการสั่งซื้อรายการก่อนหน้า คุณต้องการเริ่มต่อ?</string>
-	<string name="account_info">บัญชีของฉัน</string>
+    <string name="account_info">บัญชีของฉัน</string>
     <string name="account_unactivated">บัญชียังไม่เปิดใช้งาน</string>
     <string name="apply_theme_with_ringtones">ใช้งานธีมกับเสียงเรียกเข้า</string>
     <string name="basic_info">ข้อมูลพื้นฐาน</string>
