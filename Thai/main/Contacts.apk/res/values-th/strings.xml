@@ -1051,4 +1051,5 @@
     <string name="resource_unknow_error">ข้อผิดพลากไม่รู้จัก</string>
     <string name="resource_user_know">ตกลง</string>
     <string name="to_activate_the_account">กรุณาเปิดใช้งานบัญชี Xiaomi</string>
+    <string name="resource_account_login">เข้าระบบ</string>
 </resources>
