@@ -458,5 +458,5 @@
     <string name="title_collapse_sp_messages">รวมผู้ให้บริการข้อความ</string>
     <string name="mx_activation_done">ข้อความคลาวด์เปิดใช้งานแล้ว</string>
     <string name="mx_activate_int_popup_msg">Miข้อความ จะช่วยให้ผู้ใช้ MIUI ส่งข้อความหาคนอื่นโดยไม่ใช้บริการข้อมูลมือถือ</string>
-    <string name="mx_btn_enable_now">เปิดฝช้งาน Miข้อความ</string>
+    <string name="mx_btn_enable_now">เปิดใช้งาน Miข้อความ</string>
 </resources>
