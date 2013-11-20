@@ -32,7 +32,7 @@
  %s（%s）
 
  ดาวน์โหลดไฟล์อาจจะทำให้เกิดมีค่าใช้จ่ายสูง"</string>
-    <string name="button_queue_for_wifi">คิว</string>
+    <string name="button_queue_for_wifi">เรียงไฟล์ดาวน์โหลด</string>
     <string name="button_cancel_download">ยกเลิก</string>
     <string name="button_start_now">เริ่มเดี๋ยวนี้</string>
     <string name="download_percent">%d%%</string>

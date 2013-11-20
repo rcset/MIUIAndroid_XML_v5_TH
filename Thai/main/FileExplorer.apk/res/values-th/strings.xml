@@ -40,18 +40,18 @@
     <string name="category_zip">บีบอัด</string>
     <string name="category_apk">แอป</string>
     <string name="category_other">อื่น ๆ</string>
-    <string name="category_favorite">ให้คะแนน</string>
+    <string name="category_favorite">คะแนน</string>
     <string name="category_bluetooth">บลูทูธ</string>
     <string name="category_log">บันทึก</string>
     <string name="operation_rename_message">ชื่อโฟลเดอร์</string>
     <string name="operation_create_folder_message">ชื่อโฟลเดอร์</string>
     <string name="operation_delete_confirm_message">ลบ</string>
-    <string name="operation_delete_confirm_message_folder">เนื้อหาของโฟลเดอร์ทั้งหมดจะถูกลบ
+    <string name="operation_delete_confirm_message_folder">ข้อมูลโฟลเดอร์ทั้งหมดจะถูกลบ
 </string>
     <string name="delete_folder">ลบโฟลเดอร์นี้หรือไม่?</string>
     <string name="delete_folders">ลบ %1$d หรือไม่?</string>
     <string name="delete_file">ลบไฟล์นี้หรือไม่?</string>
-    <string name="delete_files">ลบ %1$d ? ไฟล์</string>
+    <string name="delete_files">ลบ %1$d ไฟล์?</string>
     <string name="delete_files_and_folders">ลบ %1$d ไฟล์และ %2$d โฟลเดอร์?</string>
     <string name="new_folder_name">โฟลเดอร์ไม่มีชื่อ</string>
     <string name="sd_card_size">การ์ดความจำ: %1$s</string>
@@ -103,7 +103,7 @@
     <string name="ui_main_progress_txt_open_file">กำลังดาวน์โหลด ...</string>
     <string name="networkView_notConnected">ไม่มีเครือข่าย</string>
     <string name="ui_main_toast_favorite_removed">ไม่ให้คะแนน</string>
-    <string name="ui_main_toast_operation_failed">การยกเลิกการให้คะแนนล้มเหลว %1$s .</string>
+    <string name="ui_main_toast_operation_failed">การยกเลิกการให้คะแนนล้มเหลว %1$s</string>
     <string name="user_guide">ความรู้เบื้องต้นเกี่ยวกับ Miไดร์ฟ</string>
     <string name="user_guide_summary">ภาพรวมคร่าวๆ</string>
     <string name="rename_failed">การเปลี่ยนชื่อล้มเหลว %1$s .</string>
