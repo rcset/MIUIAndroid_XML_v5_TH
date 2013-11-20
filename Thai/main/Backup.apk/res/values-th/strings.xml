@@ -43,7 +43,7 @@
     <string name="prompt_sending">กำลังอัปโหลด...</string>
     <string name="prompt_writing">กำลังบันทึก...</string>
     <string name="backup_new">ใหม่:</string>
-    <string name="backup_update">อัปเดท</string>
+    <string name="backup_update">อัปเดต</string>
     <string name="backup_delete">ลบ:</string>
     <string name="findlost_contact">คืนค่าการลบรายชื่อ</string>
     <string name="findlost_contact_online">คืนค่าการลบรายชื่อจากคลาวด์</string>

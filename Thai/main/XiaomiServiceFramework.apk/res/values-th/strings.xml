@@ -340,7 +340,7 @@
     <string name="update_contacts">ปรับปรุงรายชื่อผู้ติดต่อ"</string>
     <string name="update_contacts_description">ปรับปรุงรายชื่อผู้ติดต่อและข้อมูลอื่น ๆ ของคุณ"</string>
     <string name="updated_contacts">อัปเดต %s รายชื่อผู้ติดต่อ"</string>
-    <string name="updated_nothing">ไม่มีอะไรอัพเดท!"</string>
+    <string name="updated_nothing">ไม่มีอัปเดต!"</string>
     <string name="process_result">ผลลัพธ์:"</string>
     <string name="access_token_expired_warning">บัญชี Weibo หมดอายุแล้ว โปรดเชื่อมต่อ"</string>
     <string name="access_token_invalid_warning">บัญชี Weibo ไม่ถูกต้อง โปรดเชื่อมต่อ"</string>

@@ -197,7 +197,7 @@
     <string name="resource_get_auth_exceed_max_limit_title">ถึงขีดจำกัดสิทธิ์เข้าใช้งาน</string>
     <string name="resource_get_auth_exceed_max_limit_tips">ธีมไม่สามารถทำงานบนอุปกรณ์ล่าสุด คุณได้ใช้บัญชี Xiaomi มากถึง 10 บัญชี กรุณาใช้บัญชีอื่น </string>
     <string name="resource_server_out_of_service">ไม่พบเซริฟเวอร์ กรุณาลองอีกครั้งในภายหลัง</string>
-    <string name="resource_switch_account">สลับ</string>
+    <string name="resource_switch_account">เปลี่ยน</string>
     <string name="deleting">กำลังลบ ...</string>
     <string name="resource_title_select_ringtone">เลือกเสียงเรียกเข้า</string>
     <string name="resource_tip_select_ringtone">ไม่มีเสียงเรียกเข้าถูกเลือก</string>
@@ -252,7 +252,7 @@
     <string name="resource_save_to_note">ส่งไปยังโน๊ต</string>
     <string name="resource_send">ส่ง</string>
     <string name="resource_unable_to_access">"ขออภัย
-ข้อมูลที่คุณกำลังดูไม่สามารถใช้งานได้ในประเทศของคุณ””</string>
+ข้อมูลที่คุณกำลังดูไม่สามารถใช้งานได้ในประเทศของคุณ"</string>
     <string name="resource_unknow_error">ข้อผิดพลากไม่รู้จัก</string>
     <string name="resource_user_know">ตกลง</string>
     <string name="settings">การตั้งค่า</string>
