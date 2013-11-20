@@ -425,7 +425,7 @@
     <string name="pref_reading_mode_enabled_title_summary">JavaScript จะต้องเปิดใช้งาน</string>
     <string name="pref_developer_options">ตัวเลือกนักพัฒนา</string>
     <string name="pref_developer_options_summary">ตัวเลือกแก้ไขข้อบกพร่องและรายงาน</string>
-    <string name="add_xiaomi_account_warning">กรุณาเข้าสู่ระบบบัญชี Xiaomi</string>
+    <string name="add_xiaomi_account_warning">กรุณาเข้าระบบบัญชี Xiaomi</string>
     <string name="report_reading_mode_issue">รายงานปัญหาไปยัง MIUI</string>
     <string name="pref_key_gesture_title">ปุ่มและท่าทาง</string>
     <string name="pref_key_title">ตั้งค่าปุ่ม</string>
@@ -585,10 +585,10 @@
     <string name="readmode_page_loading">กำลังโหลด…</string>
     <string name="readmode_page_load_error">โหลดหน้าล้มเหลว :(</string>
     <string name="readmode_already_add_to_bookshelf">เพิ่มไปยังตู้หนังสือ</string>
-    <string name="readmode_login_message">คุณต้องเข้าสู่ระบบเพื่ออ่านเพิ่มเติม</string>
-    <string name="readmode_pay_message">คุณต้องเข้าสู่ระบบเพื่ออ่านตอนต่อไป</string>
+    <string name="readmode_login_message">คุณต้องเข้าระบบเพื่ออ่านเพิ่มเติม</string>
+    <string name="readmode_pay_message">คุณต้องเข้าระบบเพื่ออ่านตอนต่อไป</string>
     <string name="readmode_recommend_message">"คุณอ่านหนังสือนี้แล้ว :)"</string>
-    <string name="readmode_login">เข้าสู่ระบบ</string>
+    <string name="readmode_login">เข้าระบบ</string>
     <string name="readmode_pay">ซื้อตอน</string>
     <string name="readmode_recommend">แสดงแนะนำ</string>
     <string name="readmode_refresh">รีเฟรช</string>

@@ -78,8 +78,8 @@
     <string name="module_sms_sent">ข้อความถูกส่ง.</string>
     <string name="sms_send_failed">การส่งข้อความล้มเหลว</string>
     <string name="sms_sending">กำลังส่ง…</string>
-    <string name="login_ok">เข้าสู่ระบบ</string>
-    <string name="login_before_recharging">คุณต้องเข้าสู่ระบบก่อนทำการเติมเงิน</string>
+    <string name="login_ok">เข้าระบบ</string>
+    <string name="login_before_recharging">คุณต้องเข้าระบบก่อนทำการเติมเงิน</string>
     <string name="unable_send_sms">ไม่สามารถส่งข้อความ</string>
     <string name="sms_disabled_in_privacy_mode">"ไม่สามารถส่งข้อความในโหมดผู้เยี่ยมชม"</string>
     <string name="express_inquiry">การติดตาม</string>

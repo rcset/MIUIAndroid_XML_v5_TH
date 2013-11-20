@@ -47,15 +47,15 @@
     <string name="backup_delete">ลบ:</string>
     <string name="findlost_contact">คืนค่าการลบรายชื่อ</string>
     <string name="findlost_contact_online">คืนค่าการลบรายชื่อจาก cloud</string>
-    <string name="cloud_backup_login">เข้าสู่ระบบโดยใช้บัญชี Xiaomi</string>
-    <string name="cloud_backup_hint">คุณจะต้องเข้าสู่ระบบและคืนค่าสำรองข้อมูล</string>
+    <string name="cloud_backup_login">เข้าระบบโดยใช้บัญชี Xiaomi</string>
+    <string name="cloud_backup_hint">คุณจะต้องเข้าระบบและคืนค่าสำรองข้อมูล</string>
     <string name="cloud_backup_window_title">สำรองข้อมูล Cloud</string>
     <string name="cloud_restore_window_title">คืนค่า Cloud</string>
     <string name="cloud_restore_title">คืนค่าสำรองข้อมูล</string>
     <string name="local_backup_window_title">ข้อมูลสำรองข้อมูลภายใน</string>
     <string name="local_restore_window_title">คืนค่าสำรองข้อมูลภายใน</string>
-    <string name="account_login">เข้าสู่ระบบ</string>
-    <string name="miliao_account_login">เข้าสู่ระบบ MiTalk</string>
+    <string name="account_login">เข้าระบบ</string>
+    <string name="miliao_account_login">เข้าระบบ MiTalk</string>
     <string name="miliao_account_guide">"บัญชี MiTalk อัปเกรดเป็น บัญชี Xiaomi"</string>
     <string name="auto_backup">สำรองข้อมูลอัตโนมัติ</string>
     <string name="contact_title">รายชื่อ</string>
@@ -146,7 +146,7 @@
     <string name="cloud_last_backup">สำรองข้อมูลล่าสุด:</string>
     <string name="cloud_search">กำลังค้นหา Cloud...</string>
     <string name="cloud_no_backup">ไม่มีสำรองข้อมูล cloud</string>
-    <string name="current_account">เข้าสู่ระบบในชื่อ: %s</string>
+    <string name="current_account">เข้าระบบในชื่อ: %s</string>
     <string name="current_sim">SIM card ปัจจุบัน</string>
     <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
     <string name="dir_date_format">yyyy-MM-dd_HH-mm-ss</string>
@@ -159,7 +159,7 @@
     <string name="total_num">%d บันทึกทั้งหมด</string>
     <string name="cloud_restore_guide">"คลิก เริ่ม เพื่อคืนค่าข้อมูล
  และจะคืนค่า %s ในสำรองข้อมูล"</string>
-    <string name="import_from_xiaomi_account_hint1">"1.ติดตั้ง MiTalk และเข้าสู่ระบบ
+    <string name="import_from_xiaomi_account_hint1">"1.ติดตั้ง MiTalk และเข้าระบบ
  http://www.miliao.com
 
 3. ตั้งค่า MiTalk และเลือก สำรองข้อมูลรายชื่อไปยัง บัญชี Xiaomi ”"</string>

@@ -190,7 +190,7 @@
     <string name="screen_rotation_freeze_message">การหมุนล็อกหน้าจอในแนวนอน</string>
     <string name="screen_button_disabled_message">ปุ่มบนหน้าจอข้างล่างถูกปิดใช้งาน คุณอาจจะเปิดใช้งานโดยการกดที่ \"ปุ่มโฮม\" และ \"ปุ่มเปิดเครื่อง\"</string>
     <string name="screen_button_enabled_message">ปุ่มบนหน้าจอด้านล่างเปิดใช้งานแล้ว</string>
-    <string name="account_abnormal_state">ข้อมูลบัญชีผิดปกติ ลองเข้าสู่ระบบอีกครั้งหรือลองอีกครั้งในภายหลัง</string>
+    <string name="account_abnormal_state">ข้อมูลบัญชีผิดปกติ ลองเข้าระบบอีกครั้งหรือลองอีกครั้งในภายหลัง</string>
     <string name="all_resources">ทั้งหมด</string>
     <string name="default_name">(ค่าเริ่มต้น)</string>
     <string name="default_shortcut_title_10086">google.com</string>

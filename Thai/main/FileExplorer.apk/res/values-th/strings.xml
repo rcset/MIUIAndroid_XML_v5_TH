@@ -131,7 +131,7 @@
     <string name="net_lose_connected">สูญเสียการเชื่อมต่อ</string>
     <string name="wangpan_root_path">ไดรฟ์ของฉัน</string>
     <string name="kuaipan_over_space">พื้นที่ไม่เพียงพอ</string>
-    <string name="kuaipan_tech_support">เข้าสู่ระบบที่ kuaipan.cn</string>
+    <string name="kuaipan_tech_support">เข้าระบบที่ kuaipan.cn</string>
     <string name="no_tasks">ไม่มีงาน</string>
     <string name="no_more_space">พื้นที่ไม่เพียงพอ</string>
     <string name="sd_full">ที่จัดเก็บข้อมูลโทรศัพท์ในอินเตอร์เน็ตของคุณเต็ม</string>
@@ -176,12 +176,12 @@
     <string name="copy_failed">การคัดลอกล้มเหลว</string>
     <string name="delete_failed">การลบล้มเหลว</string>
     <string name="toast_file_not_can_read">ไม่พบแอปพลิเคชันในการจัดการกับการกระทำนี้</string>
-    <string name="ui_main_menu_option_sign_in">เข้าสู่ระบบ</string>
-    <string name="sign_description">กำลังเข้าสู่ระบบ ...</string>
+    <string name="ui_main_menu_option_sign_in">เข้าระบบ</string>
+    <string name="sign_description">กำลังเข้าระบบ ...</string>
     <string name="signin_error">การเชื่อมต่อกับเซิร์ฟเวอร์ล้มเหลว ตรวจสอบการเชื่อมต่อเครือข่ายของคุณ</string>
     <string name="signin_success">พื้นที่ว่างเพิ่ม %1$s</string>
     <string name="already_signin_description">คุณได้ลงทะเบียนเรียบร้อยแล้ว</string>
-    <string name="release_to_signin">ปล่อยเข้าสู่ระบบ</string>
+    <string name="release_to_signin">ปล่อยเข้าระบบ</string>
     <string name="server_control_settings">การตั้งค่า</string>
     <string name="server_control_advanced_settings">การตั้งค่า FTP</string>
     <string name="server_control_charset">กำลังเข้ารหัสการโอนย้าย</string>
@@ -197,8 +197,8 @@
     <string name="ftp_port_number">หมายเลขพอร์ต</string>
     <string name="ftp_account_req_notice">4 ~ 16 ตัวอักษร ตัวหนังสือและตัวเลข แยกแยะตัวพิมพ์ใหญ่-เล็ก</string>
     <string name="ftp_open_port_error">พอร์ตผิดพลาด: ตรวจสอบการเชื่อมต่อเครือข่ายของคุณหรือตั้งค่าหมายเลขพอร์ตใหม่</string>
-    <string name="ftp_anonymous_login">เข้าสู่ระบบโดยไม่เปิดเผยตัว</string>
-    <string name="ftp_username_and_passworld">เข้าสู่ระบบ</string>
+    <string name="ftp_anonymous_login">เข้าระบบโดยไม่เปิดเผยตัว</string>
+    <string name="ftp_username_and_passworld">เข้าระบบ</string>
     <string name="ftp_username_hint">ชื่อผู้ใช้</string>
     <string name="ftp_password_hint">รหัสผ่าน</string>
     <string name="ftp_invalid_username_or_password">ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง</string>

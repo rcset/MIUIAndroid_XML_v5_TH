@@ -110,7 +110,7 @@
     <string name="resource_comment_upload_failed">ไม่สามารถส่งความคิดเห็น</string>
     <string name="resource_comment_upload_success">ส่งความคิดเห็นแล้ว! จะแสดงหลังจากผ่านการตรวจ</string>
     <string name="resource_comment_upload_data_invalid">ขออภัย ความคิดเห็นไม่สมบูรณ์</string>
-    <string name="resource_comment_upload_not_logined">ไม่ได้เข้าสู่ระบบ!</string>
+    <string name="resource_comment_upload_not_logined">ไม่ได้เข้าระบบ!</string>
     <string name="resource_comment_upload_not_bought">คุณต้องใช้ธีม ก่อนแสดงความคิดเห็น</string>
     <string name="resource_comment_invalid">แตะดาวเพื่อให้คะแนน</string>
     <string name="resource_comment_expand_full_text">ขยายข้อความแบบเต็ม</string>

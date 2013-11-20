@@ -5,7 +5,7 @@
     <string name="show_password">แสดงรหัสผ่าน"</string>
     <string name="account">บัญชี"</string>
     <string name="account_hint_text">อีเมล / หมายเลขโทรศัพท์"</string>
-    <string name="login">เข้าสู่ระบบ"</string>
+    <string name="login">เข้าระบบ"</string>
     <string name="next">ถัดไป"</string>
     <string name="prev">ย้อนกลับ"</string>
     <string name="forget_password">ลืมรหัสผ่าน"</string>
@@ -57,9 +57,9 @@
     <string name="reg_by_email_failure">การลงทะเบียนล้มเหลว: %1$s"</string>
     <string name="unactivated_user">ยังไม่ได้เปิดใช้"</string>
     <string name="reg_failed">การลงทะเบียนล้มเหลว"</string>
-    <string name="login_instead_reg">เข้าสู่ระบบโดยใช้หมายเลขโทรศัพท์นี้"</string>
+    <string name="login_instead_reg">เข้าระบบโดยใช้หมายเลขโทรศัพท์นี้"</string>
     <string name="get_back_pwd">การกู้คืนรหัสผ่านของบัญชี"</string>
-    <string name="login_failed">การเข้าสู่ระบบล้มเหลว"</string>
+    <string name="login_failed">การเข้าระบบล้มเหลว"</string>
     <string name="error_network">เครือข่ายผิดพลาด"</string>
     <string name="error_dup_phone">โทรศัพท์ได้รับการจดทะเบียน"</string>
     <string name="error_server">เซิร์ฟเวอร์ผิดพลาด"</string>
@@ -87,7 +87,7 @@
     <string name="access_denied">ปฏิเสธการเข้าใช้"</string>
     <string name="reging">กำลังลงทะเบียน กรุณารอสักครู่ ..."</string>
     <string name="reg_success">การลงทะเบียนเสร็จแล้ว"</string>
-    <string name="reg_success_summary">โทรศัพท์หมายเลข %1$s ได้กำหนดให้ใช้ MiLock แล้ว คุณสามารถใช้ เพื่อเข้าสู่ระบบและกู้คืนรหัสผ่าน"</string>
+    <string name="reg_success_summary">โทรศัพท์หมายเลข %1$s ได้กำหนดให้ใช้ MiLock แล้ว คุณสามารถใช้ เพื่อเข้าระบบและกู้คืนรหัสผ่าน"</string>
     <string name="sync_on">เปิด"</string>
     <string name="sync_off">ปิด"</string>
     <string name="btn_activate">เปิดใช้งาน"</string>
@@ -127,8 +127,8 @@
     <string name="remove_unactivated_account_notice">บัญชี Xiaomi ไม่ได้เปิดใช้งาน คุณจะต้องการที่จะเอาออกหรือไม่"</string>
     <string name="remove_confirm">ลบ"</string>
     <string name="find_password_on_web_msg">เพื่อกู้คืนรหัสผ่านของคุณ กรุณาเข้าไปที่ account.xiaomi.com "</string>
-    <string name="relogin">เข้าสู่ระบบ"</string>
-    <string name="skip_login">ข้ามการเข้าสู่ระบบ"</string>
+    <string name="relogin">เข้าระบบ"</string>
+    <string name="skip_login">ข้ามการเข้าระบบ"</string>
     <string name="removing_account">กำลังลบบัญชี ..."</string>
     <string name="checking_account">กำลังยืนยันบัญชี ..."</string>
     <string name="label_order_name">ชื่อสินค้า:"</string>
@@ -346,7 +346,7 @@
     <string name="access_token_invalid_warning">บัญชี Weibo ไม่ถูกต้อง โปรดเชื่อมต่อ"</string>
     <string name="service_error">การให้บริการผิดพลาด"</string>
     <string name="enable_micloud">เปิดใช้ Cloud"</string>
-    <string name="micloud_summary">เข้าสู่ระบบบัญชี Xiaomi เพื่อซิงค์รายชื่อผู้ติดต่อ อัลบัมแกลเลอรี่ และฟังก์ชั่นอื่น ๆ"</string>
+    <string name="micloud_summary">เข้าระบบบัญชี Xiaomi เพื่อซิงค์รายชื่อผู้ติดต่อ อัลบัมแกลเลอรี่ และฟังก์ชั่นอื่น ๆ"</string>
     <string name="micloud_is_what">Miคลาวด์ คืออะไร?"</string>
     <string name="available_functionality">ฟังก์ชั่นที่มีอยู่"</string>
     <string name="internet_message">การส่งข้อความ Miคลาวด์"</string>

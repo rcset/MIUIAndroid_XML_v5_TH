@@ -447,7 +447,7 @@
     <string name="toast_intent_error">เริ่มต้นอัปโหลดล้มเหลว</string>
     <string name="toast_file_error">ไฟล์ไม่ว่าง</string>
     <string name="account_error">รับข้อมูลบัญชีล้มเหลว</string>
-    <string name="toast_failed_auth">เกิดปัญหาในการเข้าสู่ระบบบัญชีของคุณ</string>
+    <string name="toast_failed_auth">เกิดปัญหาในการเข้าระบบบัญชีของคุณ</string>
     <string name="upload_state_queued" />
     <string name="upload_state_waiting_retry">กำลังรอเพื่อลองใหม่</string>
     <string name="upload_state_waiting_wifi">กำลังรอการเชื่อมต่อ Wi-Fi</string>

@@ -82,10 +82,10 @@
     <string name="snippet_image_template">[%1$s]</string>
     <string name="select_account_prompt">เปิดใช้งานการซิงค์บันทึก</string>
     <string name="enable_sync_desc">บันทึกสามารถซิงค์กับบัญชี Xiaomi %1$s ของคุณ , ซิงค์ตอนนี้</string>
-    <string name="add_account_desc">บันทึกสามารถซิงค์ไปยังบัญชี Xiaomi ของคุณ เข้าสู่ระบบและซิงค์ตอนนี้</string>
+    <string name="add_account_desc">บันทึกสามารถซิงค์ไปยังบัญชี Xiaomi ของคุณ เข้าระบบและซิงค์ตอนนี้</string>
     <string name="not_now">ไม่ใช่ตอนนี้</string>
     <string name="enable_sync">ซิงค์</string>
-    <string name="login_sync">เข้าสู่ระบบและซิงค์</string>
+    <string name="login_sync">เข้าระบบและซิงค์</string>
     <string name="pref_title_note_style">รูปแบบบันทึก</string>
     <string name="pref_desc_mode_list">รายการ</string>
     <string name="pref_desc_mode_grid">เส้นตาราง</string>
