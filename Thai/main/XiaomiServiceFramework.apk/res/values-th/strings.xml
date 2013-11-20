@@ -76,7 +76,7 @@
     <string name="data_wipe_from_phone">ลบออกจากอุปกรณ์ของฉัน"</string>
     <string name="login_notice">กำลังลงชื่อเข้าใช้ .."</string>
     <string name="data_sync_notice">ใช้บัญชี Xiaomi ของคุณ ซิงค์ ข้อความ รายชื่อผู้ติดต่อ และข้อมูลอื่นๆ"</string>
-    <string name="cmcc_data_sync_notice">ใช้บัญชี Xiaomi ของคุณ ซิงค์ข้อความ, รายชื่อและข้อมูลอื่น ๆ ในขณะที่เพลิดเพลินไปกับการใช้บริการ Xiaomi Cloud"</string>
+    <string name="cmcc_data_sync_notice">ใช้บัญชี Xiaomi ของคุณ ซิงค์ข้อความ รายชื่อและข้อมูลอื่น ๆ ในขณะที่เพลิดเพลินไปกับการใช้บริการคลาวด์ Xiaomi"</string>
     <string name="sync_dspt">ใช้บัญชี Xiaomi เพื่อซิงค์ข้อมูล"</string>
     <string name="sync_sub_dspt">SMS จะถูกส่งเพื่อใช้บริการ"</string>
     <string name="sync_sub_int_dspt">SMS ระหว่างประเทศอาจถูกส่งเพื่อเปิดใช้บริการ"</string>
@@ -122,8 +122,8 @@
     <string name="user_agreement_p4">นโยบายความเป็นส่วนตัว"</string>
     <string name="user_agreement_p5">โดยการลงชื่อเข้าใช้ คุณยอมรับใน "</string>
     <string name="skip_setup_account_title">ข้ามการตั้งค่าบัญชี"</string>
-    <string name="skip_setup_account_msg">การใช้บัญชี Xiaomi ของคุณ สามารถซิงค์และสำรองข้อมูล SMS รายชื่อผู้ติดต่อ รูปถ่าย บันทึก, ฯลฯ ของคุณ จะดำเนินการต่อไปหรือติดตั้งภายหลัง"</string>
-    <string name="account_dspt">บัญชี Xiaomi สามารถซิงค์และสำรองข้อมูลของคุณ เช่น ข้อความ, รายชื่อผู้ติดต่อ, ภาพ, และอื่น ๆ"</string>
+    <string name="skip_setup_account_msg">การใช้บัญชี Xiaomi ของคุณ สามารถซิงค์และสำรองข้อมูล SMS รายชื่อผู้ติดต่อ รูปถ่าย บันทึก ฯลฯ ของคุณ จะดำเนินการต่อไปหรือติดตั้งภายหลัง"</string>
+    <string name="account_dspt">บัญชี Xiaomi สามารถซิงค์และสำรองข้อมูลของคุณ เช่น ข้อความ รายชื่อผู้ติดต่อ ภาพ และอื่น ๆ"</string>
     <string name="remove_unactivated_account_notice">บัญชี Xiaomi ไม่ได้เปิดใช้งาน คุณจะต้องการที่จะเอาออกหรือไม่"</string>
     <string name="remove_confirm">ลบ"</string>
     <string name="find_password_on_web_msg">เพื่อกู้คืนรหัสผ่านของคุณ กรุณาเข้าไปที่ account.xiaomi.com "</string>
@@ -345,7 +345,7 @@
     <string name="access_token_expired_warning">บัญชี Weibo หมดอายุแล้ว โปรดเชื่อมต่อ"</string>
     <string name="access_token_invalid_warning">บัญชี Weibo ไม่ถูกต้อง โปรดเชื่อมต่อ"</string>
     <string name="service_error">การให้บริการผิดพลาด"</string>
-    <string name="enable_micloud">เปิดใช้ Cloud"</string>
+    <string name="enable_micloud">เปิดใช้คลาวด์"</string>
     <string name="micloud_summary">เข้าระบบบัญชี Xiaomi เพื่อซิงค์รายชื่อผู้ติดต่อ อัลบัมแกลเลอรี่ และฟังก์ชั่นอื่น ๆ"</string>
     <string name="micloud_is_what">Miคลาวด์ คืออะไร?"</string>
     <string name="available_functionality">ฟังก์ชั่นที่มีอยู่"</string>
@@ -359,9 +359,9 @@
     <string name="micloud_intro_01_part_01">ประหยัดค่าใช้จ่ายในการส่ง SMS"</string>
     <string name="micloud_intro_01_part_02">MIUI ช่วยให้คุณส่งข้อความคลาวด์ฟรีผ่านทางเครือข่าย"</string>
     <string name="micloud_intro_02_part_01">ไม่จำเป็นต้องทำอะไร"</string>
-    <string name="micloud_intro_02_part_02">บริการคลาวด์จะช่วยให้คุณซิงค์รายชื่อผู้ติดต่อ, ข้อความ, รูปภาพและข้อมูลอื่น ๆ ไปยังอุปกรณ์มือถือต่างๆ"</string>
+    <string name="micloud_intro_02_part_02">บริการคลาวด์จะช่วยให้คุณซิงค์รายชื่อผู้ติดต่อ ข้อความ รูปภาพและข้อมูลอื่น ๆ ไปยังอุปกรณ์มือถือต่างๆ"</string>
     <string name="micloud_intro_03_part_01">ไม่สูญเสียข้อมูลของคุณอีกต่อไป และ มั่นใจได้ว่าเนื้อหาได้รับการปกป้อง"</string>
-    <string name="micloud_intro_03_part_02">จัดการข้อมูล และ ช่วยค้นหา, ล็อกหรือลบข้อมูล บนอุปกรณ์ของคุณได้ที่ i.xiaomi.com"</string>
+    <string name="micloud_intro_03_part_02">จัดการข้อมูล และ ช่วยค้นหา ล็อกหรือลบข้อมูล บนอุปกรณ์ของคุณได้ที่ i.xiaomi.com"</string>
     <string name="micloud_dspt">บริการคลาวด์ รวมถึง การส่งข้อความ Miคลาวด์ ซิงค์มือถือ ค้นหาตำแหน่งของอุปกรณ์ และคุณสมบัติอื่น ๆ คุณสามารถจัดการข้อมูลออนไลน์ของคุณได้ทุกเวลา"</string>
     <string name="cmcc_micloud_dspt">บริการคลาวด์ รวมถึง ซิงค์มือถือ ค้นหาตำแหน่งของอุปกรณ์ และคุณสมบัติอื่น ๆ คุณสามารถจัดการข้อมูลออนไลน์ของคุณได้ทุกเวลา"</string>
     <string name="start_micloud">เริ่มต้น"</string>
@@ -375,7 +375,7 @@
     <string name="paytool_picker_hint">จำนวนการเติมเงิน Miเครดิต"</string>
     <string name="recharge_alipay_summary">เติมเงิน Alipay"</string>
     <string name="recharge_pcpay_summary">วิธีการการชำระเงินอื่นๆโดยใช้เครื่องคอมพิวเตอร์สนับสนุน และ ข้อจำกัดอื่น"</string>
-    <string name="recharge_prepaid_summary">บัตรเติมเงินของ China Mobile, China Unicom และ China Telecom สนับสนุน"</string>
+    <string name="recharge_prepaid_summary">บัตรเติมเงินของ China Mobile China Unicom และ China Telecom สนับสนุน"</string>
     <string name="recharge_tenpay_summary">บัตรเติมเงินของ TenPay สนับสนุน"</string>
     <string name="recharge_voucher_summary">สนับสนุนการเติม Miเครดิต"</string>
     <string name="title_paytool">เติมเงินผ่านทาง %1$s"</string>
@@ -446,7 +446,7 @@
     <string name="vcode_notification_title">เข้าระบบยืนยันไม่เสร็จสิ้น</string>
     <string name="vcode_prompt_long">กรุณาใส่รหัสยืนยันเพื่อรักษาความปลอดภัย Xiaomi</string>
     <string name="wipe_data_dialog_msg">%s ยังไม่ได้ซิงค์ (ข้อมูลนี้จะหายหากคุณเริ่มต่อ)</string>
-    <string name="wipe_data_dialog_msg_separator">, </string>
+    <string name="wipe_data_dialog_msg_separator"> </string>
     <string name="wipe_data_dialog_title">"บางรายการยังไม่ได้ซิงค์"</string>
     <string name="wrong_captcha">รหัส captcha ไม่ถูกต้อง</string>
     <string name="wrong_vcode">Vcode ไม่ถูกต้อง</string>

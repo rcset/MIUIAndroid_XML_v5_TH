@@ -214,8 +214,8 @@
     <string name="storage_no_space">"ไม่มีเนื้อที่เก็บข้อมูล"</string>
     <string name="add_to_cloud_album">เพิ่มอัลบั้ม</string>
     <string name="move_to_cloud_album">ย้ายไปยัง</string>
-    <string name="send_to_cloud_failed_message">รายการนี้ไม่สามรถเพิ่มไปยังอัลบั้ม cloud</string>
-    <string name="add_to_cloud_failed_message_with_count">%s รายการไม่สามารถเพิ่มไปยังอัลบั้ม cloud</string>
+    <string name="send_to_cloud_failed_message">รายการนี้ไม่สามรถเพิ่มไปยังอัลบั้มคลาวด์</string>
+    <string name="add_to_cloud_failed_message_with_count">%s รายการไม่สามารถเพิ่มไปยังอัลบั้มคลาวด์</string>
     <string name="cant_delete_system_album">%s อัลบั้มในอัลบั้มระบบ ไม่สามารถลบได้</string>
     <string name="share_album">แบ่งปันอัลบั้ม</string>
     <string name="share_album_qr_code">รหัส QR</string>
@@ -255,10 +255,10 @@
     <string name="deleting_files">กำลังลบไฟล์...</string>
     <string name="bigscrren_slide_exit">ออกจากสไลด์โชว์ใน TV</string>
     <string name="defalt_local_mobile">มือถือ</string>
-    <string name="add_to_cloud_folder">เพิ่มไปยังโฟลเดร์ cloud</string>
-    <string name="create_new_cloud_folder">สร้างโฟลเดอร์ cloud ใหม่</string>
-    <string name="input_cloudfolder_name">ชื่อโฟลเดอร์ cloud ใหม่</string>
-    <string name="cloudfolder_already_exists">โฟลเดอร์ Cloud มีแล้ว</string>
+    <string name="add_to_cloud_folder">เพิ่มไปยังโฟลเดร์คลาวด์</string>
+    <string name="create_new_cloud_folder">สร้างโฟลเดอร์คลาวด์ใหม่</string>
+    <string name="input_cloudfolder_name">ชื่อโฟลเดอร์คลาวด์ใหม่</string>
+    <string name="cloudfolder_already_exists">โฟลเดอร์คลาวด์มีแล้ว</string>
     <string name="other_category">ตั้งค่าอื่นๆ</string>
     <string name="show_hidden_album">แสดงอัลบั้มที่ซ่อน</string>
     <string name="auto_create_recent_album">สร้างอัลบั้มชื่นชอบอัตโนมัติ</string>

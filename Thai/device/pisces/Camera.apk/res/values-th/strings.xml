@@ -415,7 +415,7 @@
     <string name="contact_birthday">วันคล้ายวันเกิด</string>
     <string name="contact_note">หมายเหตุ</string>
     <string name="success_message_import_from_account">นำเข้าเสร็จแล้ว</string>
-    <string name="web_url_warning">เว็บไซต์ในรหัส QR อาจมีความเสี่ยง, เบราว์เซอร์ MIUI จะสแกนความปลอดภัยสำหรับคุณ กรุณาเข้าใช้งานได้อย่างปลอดภัย</string>
+    <string name="web_url_warning">เว็บไซต์ในรหัส QR อาจมีความเสี่ยง เบราว์เซอร์ MIUI จะสแกนความปลอดภัยสำหรับคุณ กรุณาเข้าใช้งานได้อย่างปลอดภัย</string>
     <string name="web_url_apk_warning">รหัส QR มีการดาวน์โหลดแอปพลิเคชันที่อาจมีความเสี่ยง เราขอแนะนำให้คุณใช้จากตลาดในการค้นหาและติดตั้งแอปพลิเคชัน</string>
     <string name="wifi_ssid">SSID:</string>
     <string name="wifi_pwd">รหัสผ่าน:</string>

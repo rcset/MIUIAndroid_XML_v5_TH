@@ -56,7 +56,7 @@
     <string name="payment_failed_common_problems">เกิดปัญหาในระหว่างทำการชำระเงิน</string>
     <string name="payment_unknown_status_title">"ไม่สามารถยืนยันสถานะการชำระเงิน"</string>
     <string name="payment_unknown_status_summary">ตรวจสอบการเชื่อมต่อเครือข่ายและลองอีกครั้ง</string>
-    <string name="recharge_input_phone_title">ป้อนหมายเลขโทรศัพท์(ไชน่าโมบายล์, ไชน่ายูนิคอม, หรือ ไชน่าเทเลคอม)</string>
+    <string name="recharge_input_phone_title">ป้อนหมายเลขโทรศัพท์(ไชน่าโมบายล์ ไชน่ายูนิคอม หรือ ไชน่าเทเลคอม)</string>
     <string name="recharge_select_money_title">กรุณาเลือกจำนวนเงินที่จะทำการเติม</string>
     <string name="recharge_charge_range">ราคา:¥%1$s-%2$s</string>
     <string name="recharge_charge_value">ราคา:¥%s</string>

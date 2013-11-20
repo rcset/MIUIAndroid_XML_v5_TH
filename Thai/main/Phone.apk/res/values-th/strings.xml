@@ -24,7 +24,7 @@
     <string name="callFailed_dsac_vt_incompatible_destination">ไม่สามารถตั้งค่าสายวิดีโอ โทรศัพท์วิดีโอไม่ได้รับการสนับสนุนบนโทรศัพท์ที่คุณกำลังโทรไป โทรด้วยสายสนทนาหรือไม่?</string>
     <string name="callFailed_dsac_vt_resource_unavailable">ไม่สามารถตั้งค่าสายวิดีโอ โทรศัพท์ที่คุณโทรหาอยู่นอกพื้นที่บริการ 3G โทรด้วยสายสนทนาหรือไม่?</string>
     <string name="callFailed_dsac_vt_bearer_not_avail">ไม่สามารถตั้งค่าสายวิดีโอ โทรด้วยสายสนทนาหรือไม่?</string>
-    <string name="callFailed_dsac_vt_out_of_3G_yourphone">โทรศัพท์ของคุณอยู่นอกพื้นที่ให้บริการ 3G, โทรด้วยสายสนทนาหรือไม่?</string>
+    <string name="callFailed_dsac_vt_out_of_3G_yourphone">โทรศัพท์ของคุณอยู่นอกพื้นที่ให้บริการ 3G โทรด้วยสายสนทนาหรือไม่?</string>
     <string name="callFailed_dsac_vt_bear_not_authorized">ตั้งค่าการสนทนาผ่านวิดีโอไม่ได้ ซิมการ์ดนี้ไม่ได้เปิดบริการโทรศัพท์ผ่านวิดีโอ ต้องการโทรออกด้วยเสียงหรือไม่</string>
     <string name="notification_voicemail">ข้อความเสียง</string>
     <string name="turn_on_3g_service_message">ขณะนี้ได้ปิดบริการ 3G แล้ว คุณต้องการเปิดการใช้งานหรือไม่</string>
@@ -266,13 +266,13 @@
     <string name="cb_error_channel_id_exist">ID แชนเนลมีอยู่แล้ว</string>
     <string name="cb_all_languages">ทุกภาษา</string>
     <string name="cb_default_new_channel_name">แชนเนลใหม่</string>
-    <string name="fdn_errorcode_unknown_info">ล้มเหลว, เกิดข้อผิดพลาดที่ไม่รู้จัก, โปรดลองใหม่ภายหลัง</string>
-    <string name="fdn_errorcode_number_info">ล้มเหลว, ความยาวของหมายเลขผู้ติดต่อยาวเกินไป</string>
-    <string name="fdn_errorcode_name_info">ล้มเหลว, ความยาวของชื่อผู้ติดต่อยาวเกินไป</string>
-    <string name="fdn_errorcode_storage_info">ล้มเหลว, ที่เก็บเต็ม</string>
-    <string name="fdn_errorcode_phb_info">ล้มเหลว, ขณะนี้สมุดโทรศัพท์ไม่พร้อม, โปรดลองใหม่ภายหลัง</string>
-    <string name="fdn_errorcode_pin2_info">ล้มเหลว, PIN2 ไม่ถูกต้อง</string>
-    <string name="net_or_simcard_busy">เครือข่ายหรือซิมการ์ดไม่ว่าง, โปรดลองใหม่ภายหลัง</string>
+    <string name="fdn_errorcode_unknown_info">ล้มเหลว เกิดข้อผิดพลาดที่ไม่รู้จัก โปรดลองใหม่ภายหลัง</string>
+    <string name="fdn_errorcode_number_info">ล้มเหลว ความยาวของหมายเลขผู้ติดต่อยาวเกินไป</string>
+    <string name="fdn_errorcode_name_info">ล้มเหลว ความยาวของชื่อผู้ติดต่อยาวเกินไป</string>
+    <string name="fdn_errorcode_storage_info">ล้มเหลว ที่เก็บเต็ม</string>
+    <string name="fdn_errorcode_phb_info">ล้มเหลว ขณะนี้สมุดโทรศัพท์ไม่พร้อม โปรดลองใหม่ภายหลัง</string>
+    <string name="fdn_errorcode_pin2_info">ล้มเหลว PIN2 ไม่ถูกต้อง</string>
+    <string name="net_or_simcard_busy">เครือข่ายหรือซิมการ์ดไม่ว่าง โปรดลองใหม่ภายหลัง</string>
     <string name="gsm_umts_network_preferences_title">ค่ากำหนดของเครือข่าย GSM/UMTS</string>
     <string name="gsm_umts_network_preferneces_summary">ยังไม่ได้ใช้งาน!</string>
     <string name="gsm_umts_network_preferences_dialogtitle">ค่ากำหนดเครือข่าย GSM/UMTS</string>
@@ -354,7 +354,7 @@
     <string name="international_dialing_title">ตัวช่วยการโทรระหว่างประเทศ</string>
     <string name="international_dialing_select_country">พบว่าคุณกำลังโทรศัพท์ข้ามประเทศ โปรดเลือกปลายทางของคุณ</string>
     <string name="international_dialing_add_country_code" formatted="false">พบว่าคุณกำลังเรียกเลขหมาย %s คุณต้องการเพิ่มรหัสประเทศ (+%s) หรือไม่</string>
-    <string name="international_dialing_add_country_code_and_area_code">พบว่าคุณกำลังเรียกเลขหมายใน %1$s, %2$s คุณต้องการเพิ่มรหัสประเทศและรหัสพื้นที่ (+%3$s) หรือไม่</string>
+    <string name="international_dialing_add_country_code_and_area_code">พบว่าคุณกำลังเรียกเลขหมายใน %1$s %2$s คุณต้องการเพิ่มรหัสประเทศและรหัสพื้นที่ (+%3$s) หรือไม่</string>
     <string name="international_dialing_change_country_prefix">"พบว่าคุณกำลังเรียกเลขหมายจาก %s เปลี่ยนรหัสขึ้นต้นการโทรระหว่างประเทศเป็น '+' หรือไม่"</string>
     <string name="international_dialing_add_country_code_input_area_code">พบว่าคุณกำลังเรียกเลขหมายใน %s หากเป็นเช่นนั้นโปรดใส่รหัสพื้นที่</string>
     <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">พบว่าคุณกำลังเรียกเลขหมายใน %s หากเมืองปลายทางของคุณไม่ใช่ %s โปรดใส่รหัสพื้นที่</string>
@@ -1017,7 +1017,7 @@
     <string name="auto_ip_add_exception_numbers_miui">เพิ่มหมายเลข</string>
     <string name="auto_ip_remove_exception_numbers_confirm_miui">ลบ %d หมายเลข?</string>
     <string name="auto_ip_exception_summary_miui">%d ทั้งหมด</string>
-    <string name="auto_ip_exception_summary_more_miui">,... %d ทั้งหมด</string>
+    <string name="auto_ip_exception_summary_more_miui">... %d ทั้งหมด</string>
     <string name="auto_ip_support_local_numbers">สนับสนุนหมายเลขท้องถื่น</string>
     <string name="auto_record_call_summary_miui">การบันทึเสียงสนทนาทั้งหมดจะบันทึกลงไฟล์ MIUI/sound_recorder/call_rec</string>
     <string name="auto_record_call_title_miui">บันทึกเสียงอัตโนมัติ</string>

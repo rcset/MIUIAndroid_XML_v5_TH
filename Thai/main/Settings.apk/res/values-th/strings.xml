@@ -2260,7 +2260,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="virus_scanner_select_Cancel">ยกเลิก</string>
     <string name="virus_scanner_provider">บริการฐานข้อมูลไวรัสโดย %s</string>
     <string name="virus_scanner_auto_update">อัปเดตอัตโนมัติ</string>
-    <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
+    <string name="virus_scanner_date_formater">dd MMM yyyy</string>
     <string name="virus_scanner_manual_update">อัปเดต %s</string>
     <string name="virus_scanner_lib_updating">บริการฐานข้อมูลไวรัสโดย %s</string>
     <string name="virus_scanner_lib_already_latest">ขณะนี้คุณกำลังใช้ฐานข้อมูลไวรัสล่าสุด :)</string>

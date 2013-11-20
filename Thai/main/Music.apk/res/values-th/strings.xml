@@ -113,7 +113,7 @@
     <string name="sort_by_artist">ศิลปิน</string>
     <string name="music_picker_title">เลือกแทร็คเพลง</string>
     <string name="empty_track_list">ไม่มีแทร็ค</string>
-    <string name="search_settings_description">ศิลปิน,อัลบัม,และแทร็ค</string>
+    <string name="search_settings_description">ศิลปิน อัลบัม และแทร็ค</string>
     <string name="search_hint">ค้นหาเพลง</string>
     <string name="all_tracks">เพลงทั้งหมด</string>
     <string name="send_to">ส่งไปที่</string>

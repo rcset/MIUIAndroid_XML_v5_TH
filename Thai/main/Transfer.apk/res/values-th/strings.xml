@@ -19,7 +19,7 @@
     <string name="share">แบ่งปัน</string>
     <string name="first_in_tip">ใช้การรับส่งข้อมูลเป็นครั้งแรก</string>
     <string name="welcome_tip1">รับส่งข้อมูลไฟล์ได้อย่างรวดเร็วโดยไม่ต้องเชื่อมต่อกับข้อมูลบนมือถือ</string>
-    <string name="welcome_tip2">รับส่งข้อมูล รูปภาพ, เพลง, รายชื่อและอื่น ๆ ได้อย่างรวดเร็ว</string>
+    <string name="welcome_tip2">รับส่งข้อมูล รูปภาพ เพลง รายชื่อและอื่น ๆ ได้อย่างรวดเร็ว</string>
     <string name="voice_assist_match">การจับคู่อัตโนมัติอย่างเร็ว</string>
     <string name="voice_match">การจับคู่อย่างเร็ว</string>
     <string name="input_device_name">ใส่ชื่ออุปกรณ์</string>
@@ -63,7 +63,7 @@
     <string name="receive_finish">ได้รับสมบูรณ์แล้ว</string>
     <string name="receive_uncompleted">กระบวนการรับไม่สมบูรณ์</string>
     <string name="noti_wait_receive">กำลังรอที่จะรับไฟล์</string>
-    <string name="noti_wait_send">กำลังรอรับไฟล์, โปรดตรวจสอบผู้ส่งได้เปิดใช้งานการเชื่อมต่อและสามารถส่งไฟล์ </string>
+    <string name="noti_wait_send">กำลังรอรับไฟล์ โปรดตรวจสอบผู้ส่งได้เปิดใช้งานการเชื่อมต่อและสามารถส่งไฟล์ </string>
     <string name="noti_sending">%1$s : กำลังส่ง %2$d / %3$d ไฟล์</string>
     <string name="noti_receiving">%1$s : กำลังรับ %2$d / %3$d ไฟล์</string>
     <string name="noti_completed">การรับส่งข้อมูลเสร็จแล้ว %1$d / %2$d ไฟล์</string>
@@ -110,7 +110,7 @@
     <string name="title_step_one">1 สามารถรับส่งข้อมูลไฟล์ได้อย่างรวดเร็วโดยไม่ต้องใช้ข้อมูลมือถือ</string>
     <string name="title_step_two">2 Miแชร์ เป็นโปรโตคอลการรับส่งข้อมูลที่เป็นสากล</string>
     <string name="title_step_three">3 ใช้ไฟล์ร่วมกับเพื่อน</string>
-    <string name="summary_step_one">ส่งรูปภาพ, เพลง, รายชื่อผู้ติดต่อและไฟล์อื่น ๆ อีกมากมาย</string>
+    <string name="summary_step_one">ส่งรูปภาพ เพลง รายชื่อผู้ติดต่อและไฟล์อื่น ๆ อีกมากมาย</string>
     <string name="summary_step_two">ชวนเพื่อนมาติดตั้ง Miแชร์</string>
     <string name="button_pre">กลับ</string>
     <string name="button_next">ต่อไป</string>

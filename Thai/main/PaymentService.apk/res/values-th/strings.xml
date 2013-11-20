@@ -90,8 +90,8 @@
   <string name="error_verify_title">ไม่อนุญาต</string>
   <string name="fee">%1$s Miเครดิต</string>
   <string name="forget_password">&lt;u&gt;ตั้งรหัสผ่านใหม่&lt;/u&gt;</string>
-  <string name="format_date">MMM. dd, yyyy</string>
-  <string name="format_time">MMM dd, yyyy hh:mmaa</string>
+  <string name="format_date">dd MMM yyyy</string>
+  <string name="format_time">dd MMM yyyy hh:mmaa</string>
   <string name="frozen">(แช่แข็ง)</string>
   <string name="giftcard_acitivity_and_denomination">%2$s-บัตรของขวัญ Miเครดิต จาก %1$s</string>
   <string name="giftcard_denom">Miเครดิต</string>
@@ -119,11 +119,11 @@
 หากคุณต้องการสอบถามเพิ่มเติม กรุณาติดต่อบริการลูกค้าโทร: 400 612 5880"</string>
   <string name="hfb_goods_name">ชื่อ: </string>
   <string name="hfb_goods_price_value_format">%1$s (ไม่รวมค่าใชจ่ายเครือข่าย)</string>
-  <string name="hfb_hint">"1. China Mobile, China Mobile บัญชีชำระเงิน e-commerce
+  <string name="hfb_hint">"1. China Mobile China Mobile บัญชีชำระเงิน e-commerce
 2. 10658008 หมายเลขบริการชำระเงิน China Mobile SMS
-3. บริการรองรับ M-Zone, Shenzhouxing ของ China Mobile Communications tarif เส้นทางฟรี สามารถเรียกเก็บค่าใช้จ่ายไม่รวมค่าใช้จ่ายผู้ให้บริการโทรศัพท์
+3. บริการรองรับ M-Zone Shenzhouxing ของ China Mobile Communications tarif เส้นทางฟรี สามารถเรียกเก็บค่าใช้จ่ายไม่รวมค่าใช้จ่ายผู้ให้บริการโทรศัพท์
 4. ในบางจังหวัด "ของขวัญ" และ "ย้อนกลับ"  ของโทรศัพท์ไม่สามารถใข้เพื่อซื้อสินค้า เช่น ปักกิ่ง และเฮย์หลงเจียง
-5. เบอร์โทรศัพท์บริการลูกค้า China Mobile: 400 612 5880  (สายตรง โทรฟรีทางไกล) 125,880 (โทรศัพท์มือถือเท่านั้น 0.3 หยวน /นาที)
+5. เบอร์โทรศัพท์บริการลูกค้า China Mobile: 400 612 5880  (สายตรง โทรฟรีทางไกล) 125880 (โทรศัพท์มือถือเท่านั้น 0.3 หยวน /นาที)
 6. หากคุณต้องหารยกเลิกบริการ กรุณาส่งข้อความไปยัง 0000-10658008</string>
   <string name="hfb_instruct">"กรุณา 10658008
 ยืนยัน SMS และคลิก 'ซื้อเสร็จสิ้น' ขอบคุณ!"</string>
@@ -359,7 +359,7 @@
   <string name="prepaid_picker_hint_1_2">รองรับเฉพาะเสียค่าใช้จ่ายเพียงครั้งเดียวเท่านั้น;</string>
   <string name="prepaid_picker_hint_2_1">2.</string>
   <string name="prepaid_picker_hint_2_2_a">"เลือกจำนวนเงินที่สอดคล้องกับบัตรเติมเงิน เลือกจำนวนเงินอื่นๆที่สอดคล้องกับบัตรเติมเงิน การกระทำนี้ไม่สามารถยกเลิกได้"</string>
-  <string name="prepaid_picker_hint_2_2_b">หากไม่ได้จำนวนเงินเล็กน้อยจากบัตรเติมเงิน &lt;font color=red&gt;￥%1$s&lt;/font&gt;, จะถือเป็นโมฆะและจะไม่รับผิดชอบค่าเสียหายใดๆทั้งสิ้น</string>
+  <string name="prepaid_picker_hint_2_2_b">หากไม่ได้จำนวนเงินเล็กน้อยจากบัตรเติมเงิน &lt;font color=red&gt;￥%1$s&lt;/font&gt; จะถือเป็นโมฆะและจะไม่รับผิดชอบค่าเสียหายใดๆทั้งสิ้น</string>
   <string name="prepaid_picker_title_default">เลือกจำนวน</string>
   <string name="prepaid_picker_title_selected">จำนวน</string>
   <string name="progress_bankcall_card_creating">กำลังสร้างการสั่งซื้อ…</string>
