@@ -1847,7 +1847,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="perm_service_disabled">ปิดใช้งานบริการ</string>
     <string name="perm_summary_enabled">เปิด </string>
     <string name="perm_summary_disabled">ปิด</string>
-    <string name="perm_enable">เปิดใช้งานการจัดการสิทธิ์</string>
+    <string name="perm_enable">เปิดใช้งานการจัดการอนุญาต</string>
     <string name="perm_disable">ปิดใช้งาน</string>
     <string name="perm_optimize">เพิ่มประสิทธิภาพ</string>
     <string name="perm_check">เช็ค</string>
@@ -1902,7 +1902,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="perm_hips_location_access">ตำแหน่งล่าสุดของคุณ</string>
     <string name="perm_hips_phoneid_imei">หมายเลข IMEI</string>
     <string name="perm_hips_phoneid_imeisn">IMEI/SN</string>
-    <string name="perm_hips_phoneid_iccid">SIM Card SN</string>
+    <string name="perm_hips_phoneid_iccid">ซิมการ์ด SN</string>
     <string name="perm_hips_phoneid_number">หมายเลขโทรศัพท์ของคุณ</string>
     <string name="perm_hips_phoneid_imsi">หมายเลข IMSI</string>
     <string name="perm_hips_allow_all">ยอมรับทั้งหมด</string>
@@ -1925,12 +1925,12 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="perm_hips_security_prompt_accept_root">ยอมรับ</string>
     <string name="perm_hips_security_prompt_next">ต่อไป</string>
     <string name="perm_hips_security_prompt_root_caption">คำเตือนที่สำคัญ</string>
-    <string name="perm_hips_security_prompt_root_step1">คุณต้องการให้ %1$s ได้รับสิทธิ์ Root หรือไม่??</string>
+    <string name="perm_hips_security_prompt_root_step1">คุณต้องการให้ %1$s ได้รับสิทธิ์ ROOT หรือไม่??</string>
     <string name="perm_hips_security_prompt_root_step2">ได้รับสิทธิ์ ROOT อาจมีผลต่อความเสถียรของระบบ</string>
     <string name="perm_hips_security_prompt_root_step3">ข้อมูลส่วนตัวของคุณเช่นบัญชี รหัสผ่านและข้อความอาจถูกทำลาย</string>
     <string name="perm_hips_security_prompt_root_step4">เป็นไปได้ที่ฮาร์ดแวร์เสียหายอย่างถาวร</string>
     <string name="perm_hips_security_prompt_root_step5">ใช้ด้วยความระมัดระวัง!</string>
-    <string name="perm_hips_security_prompt_root_step6">คุณแน่ใจหรือว่าต้องการจะอนุญาต %1$s ใช้สิทธิ์ Root?</string>
+    <string name="perm_hips_security_prompt_root_step6">คุณแน่ใจหรือว่าต้องการจะอนุญาต %1$s ใช้สิทธิ์ ROOT?</string>
     <string name="perm">การอนุญาต</string>
     <string name="perm_app">แอป</string>
     <string name="perm_log">บันทึก</string>
@@ -1990,10 +1990,10 @@ PIN อาจไม่ถูกต้อง"</string>
  อนุญาตใข้งานเปิดอัตโนมัติ？"</string>
     <string name="search_airplane">เครื่องบิน</string>
     <string name="search_network">เครือข่าย</string>
-    <string name="search_wifi">wifi</string>
+    <string name="search_wifi">Wi-Fi</string>
     <string name="search_bluetooth">บลูทูธ</string>
     <string name="search_android_beam">บีม</string>
-    <string name="search_vpn">vpn</string>
+    <string name="search_vpn">VPN</string>
     <string name="search_tether">ขอบเขต</string>
     <string name="search_brightness">ความสว่าง</string>
     <string name="search_wallpaper">วอลเปเปอร์</string>
@@ -2089,7 +2089,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="camera_key_action_setting_title">ปุ่ม MI</string>
     <string name="camera_key_action_category_title">การใช้กล้องไม่ได้รับอนุญาต</string>
     <string name="camera_key_action_none_title">ไม่กระทำ</string>
-    <string name="camera_key_action_shortcut_title">Shortcut</string>
+    <string name="camera_key_action_shortcut_title">ช็อตคัต</string>
     <string name="camera_key_action_toggle_title">Trigger toggle</string>
     <string name="camera_key_action_app_title">เปิดแอป</string>
     <string name="camera_key_action_shortcut_home">หน้าจอหลัก</string>

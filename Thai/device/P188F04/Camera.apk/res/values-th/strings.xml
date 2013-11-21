@@ -222,7 +222,7 @@
     <string name="pref_camera_autoexposure_entry_frameaverage">Frame Average</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Center Weighted</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Spot Metering</string>
-    <string name="pref_camera_audio_capture_title">Audio capture</string>
+    <string name="pref_camera_audio_capture_title">บันทึกเสียง</string>
     <string name="pref_camera_video_duration_title">ความยาววิดีโอ</string>
     <string name="pref_camera_video_duration_entry_mms">30 วินาที (MMS)</string>
     <string name="pref_camera_video_duration_entry_10">10 นาที</string>
@@ -274,7 +274,7 @@
     <string name="pref_camera_long_pressing_burst_shooting_title">ถ่ายต่อเนื่อง</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_off">ปิด</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_on">เปิด</string>
-    <string name="error_fail_to_start_audio_capture">เสียงจับภาพล้มเหลว: ไมโครโฟนอาจถูกใช้โดยโแอปพลิเคชันอื่น</string>
+    <string name="error_fail_to_start_audio_capture">บันทึกสียงภาพล้มเหลว: ไมโครโฟนอาจถูกใช้โดยโแอปพลิเคชันอื่น</string>
     <string name="toast_start_audio_capture">ทำให้เสียงเป็นเสียงชัตเตอร์</string>
     <string name="record_back_pressed_hint">กดอีกครั้งเพื่อหยุดการบันทึก</string>
     <string name="can_not_play_video">ปลดล็อคหน้าจอเพื่อเล่น</string>
@@ -374,7 +374,7 @@
     <string name="simple_mode_button_text_hand_night">ปิดมือถือทไวไลท์</string>
     <string name="simple_mode_button_text_panorama">ปิดพาโนรามา</string>
     <string name="simple_mode_button_text_color_effect">ปิดตัวกรอง</string>
-    <string name="simple_mode_button_text_audio_capture">ปิดเสียงจับภาพ</string>
+    <string name="simple_mode_button_text_audio_capture">ปิดบันทึกเสียงภาพ</string>
     <string name="simple_mode_button_text_slow_video">ปิดกล้องเคลื่อนไหวช้า</string>
     <string name="pref_camera_coloreffect_title_simple_mode">ตัวกรอง</string>
     <string name="pref_video_slow_speed_title_simple_mode">เคลื่อนไหวช้า</string>
