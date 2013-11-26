@@ -95,7 +95,7 @@
     <string name="pref_camera_coloreffect_entry_solarize">การรับแสง</string>
     <string name="pref_camera_coloreffect_entry_posterize">โพสเตอไรซ์</string>
     <string name="pref_camera_coloreffect_entry_whiteboard">ไวท์บอร์ด</string>
-    <string name="pref_camera_coloreffect_entry_blackboard">แบล็คบอร์ด</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">แบล็กบอร์ด</string>
     <string name="pref_camera_coloreffect_entry_aqua">เอคว่า</string>
     <string name="pref_camera_coloreffect_entry_pastel">พาสเทล</string>
     <string name="pref_camera_coloreffect_entry_mosaic">โมเสก</string>
@@ -330,7 +330,7 @@
     <string name="networksettings_tips_data_disabled">ต้องการปิดสวิตช์บริการข้อมูลหรือไม่? บริการอื่นอาจได้รับผลกระทบ เช่น การส่งและการรับ MMS หรืออีเมล์</string>
     <string name="sim_manage_suggested">ค่าที่แนะนำ</string>
     <string name="sim_manage_sipcall">อินเตอร์เน็ต</string>
-    <string name="sim_manage_call_via">โทรผ่าน</string>
+    <string name="sim_manage_call_via">โทร</string>
     <string name="pch_data_prefer_title">ต้องการบริการข้อมูลเคลื่อนที่</string>
     <string name="pch_data_prefer_summary">อนุญาตการส่งผ่านข้อมูลเคลื่อนที่ด้วยความเร็วเต็มที่</string>
     <string name="pch_data_prefer_message">"ต้องการบริการข้อมูลเคลื่อนที่ ใช้เพื่อปรับปรุงประสิทธิภาพการส่งผ่านข้อมูล โดยมีอัตราการรับโทรศัพท์ที่ต่ำลง ไม่แนะนำให้ทำเช่นนี้

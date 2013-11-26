@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ป้องกัน</string>
+    <string name="app_name">แบล็กลิส</string>
     <string name="fw_blocked">สถิติบล็อก</string>
     <string name="fw_blocked_count" formatted="false">ปิดกั้นแล้ว: %d หมายเลข และ %d ข้อความ</string>
-    <string name="tab_title">ป้องกัน</string>
+    <string name="tab_title">แบล็กลิส</string>
     <string name="tab_block_log">ไฟร์วอลล์</string>
-    <string name="tab_blacklist">แบล็คลิส</string>
+    <string name="tab_blacklist">แบล็กลิส</string>
     <string name="tab_sms">บันทึกข้อความ</string>
     <string name="tab_call">บันทึกการโทร</string>
     <string name="bl_block_info" formatted="false">บล็อก: หมายเลข %d, รายละเอียด %d</string>
     <string name="bl_no_block_call">เบอร์โทรที่ถูกบล็อกทั้งหมดจะเก็บไว้ที่นี่</string>
     <string name="bl_no_block_sms">ข้อความที่ถูกบล็อกทั้งหมดจะเก็บไว้ที่นี่</string>
-    <string name="bl_no_blacklist">ไม่มีแบล็คลิส</string>
+    <string name="bl_no_blacklist">ไม่มีแบล็กลิส</string>
     <string name="log_count">(%d)</string>
     <string name="twelve_hour_time_format">a h:mm</string>
     <string name="twenty_four_hour_time_format">HH:mm</string>
@@ -25,16 +25,16 @@
     <string name="dlg_clear_current_ok">ลบ</string>
     <string name="dlg_no_block">"ไม่บล็อกหมายเลขนี้?"</string>
     <string name="dlg_no_block_ok">"ไม่บล็อก"</string>
-    <string name="dlg_add_blacklist">เพิ่มหมายเลขไปยังแบล็คลิส?</string>
-    <string name="dlg_remove_blacklist">ลบหมายเลขนี้จากแบล็คลิส?</string>
+    <string name="dlg_add_blacklist">เพิ่มหมายเลขไปยังแบล็กลิส?</string>
+    <string name="dlg_remove_blacklist">ลบหมายเลขนี้จากแบล็กลิส?</string>
     <string name="dlg_remove_blacklist_ok">ลบ</string>
-    <string name="dlg_clear_blacklist">ล้างแบล็คลิส?</string>
+    <string name="dlg_clear_blacklist">ล้างแบล็กลิส?</string>
     <string name="dlg_clear_blacklist_ok">ล้าง</string>
     <string name="dlg_delete_vip">ล้างหมายเลขที่หมายตานี้?</string>
-    <string name="dlg_bl_add_manual">เพิ่มหมายเลขเข้าในแบล็คลิสด้วยตัวเอง</string>
+    <string name="dlg_bl_add_manual">เพิ่มหมายเลขเข้าในแบล็กลิสด้วยตัวเอง</string>
     <string name="dlg_add_manual_ok">เพิ่ม</string>
     <string name="dlg_add_manual_hint">ใส่เบอร์โทรศัพท์</string>
-     <string name="dlg_import_blacklist">กำลังนำเข้าไปยังแบล็คลิส</string>
+     <string name="dlg_import_blacklist">กำลังนำเข้าไปยังแบล็กลิส</string>
     <string name="dlg_import_whitelist">กำลังนำเข้าไปยังรายการที่หมายตา</string>
     <string name="dlg_add_keyword">เพิ่มคีย์เวิร์ด</string>
     <string name="dlg_edit_keyword">แก้ไขคีย์เวิร์ด</string>
@@ -56,8 +56,8 @@
     <string name="menu_restore">คืนค่าไปยังแอปข้อความ</string>
     <string name="menu_bl_call_log">ตรวจสอบปูมเบอร์โทรที่ถูกบล็อก</string>
     <string name="menu_bl_sms_log">ตรวจสอบข้อความที่ถูกบล็อก</string>
-    <string name="menu_bl_remove">ลบจากแบล็คลิส</string>
-    <string name="menu_bl_clear">ล้างแบล็คลิส</string>
+    <string name="menu_bl_remove">ลบจากแบล็กลิส</string>
+    <string name="menu_bl_clear">ล้างแบล็กลิส</string>
     <string name="menu_bl_add_manual">เพิ่ม</string>
     <string name="menu_bl_add_contact">รายชื่อ</string>
     <string name="menu_add_new_contact">รายชื่อใหม่</string>
@@ -91,7 +91,7 @@
     <string name="qm_repeated_call_setting_title">"ไม่ต้องกีดกั้นเบอร์โทรเรียกเข้าที่ซ้ำๆ"</string>
     <string name="qm_repeated_call_summary_none">ห้ามทำการยกเลิกสำหรับเบอร์โทรซ้ำ</string>
     <string name="qm_repeated_call_summary_3min">การเรียกครั้งที่สองจากบุคคลเดิมภายใน 3 นาที จะไม่ถูกปิดเสียง</string>
-    <string name="st_settings_name">ตั้งค่า</string>
+    <string name="st_settings_name">การตั้งค่า</string>
     <string name="st_block_setting_group">การตั้งค่าบล็อกลิส</string>
     <string name="st_block_setting_title">เบอร์โทรและข้อความ</string>
     <string name="st_block_all">บล็อกเบอร์โทรและข้อความ</string>
@@ -119,6 +119,6 @@
     <string name="qm_other_settings_info">ปรับแต่งสำหรับเบอร์โทรและข้อความเมื่อโหมดปิดเสียงเปิดใช้งานอยู่</string>
     <string name="qm_vip_sms_setting_button">ปิดเสียงข้อความที่หมายตา</string>
     <string name="st_bl_block_setting_title">ถามอีกทีภายหลัง</string>
-    <string name="st_bl_setting_group">ตั้งค่าแบล็คลิส</string>
+    <string name="st_bl_setting_group">ตั้งค่าแบล็กลิส</string>
     <string name="tab_block_log_unKnowNumber">หมายเลขไม่รู้จัก</string>
 </resources>

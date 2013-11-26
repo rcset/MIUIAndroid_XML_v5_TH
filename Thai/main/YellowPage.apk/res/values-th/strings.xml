@@ -32,8 +32,8 @@
     <string name="contact_detail_calllog_call_record_tips">บันทึกการสนทนา</string>
     <string name="contact_detail_calllog_call_note_tips">หมายเหตุการสนทนา</string>
     <string name="menu_delete_call_log">ลบบันทึกการสนทนา</string>
-    <string name="menu_add_black_list">เพิ่มเข้าแบล็คลิสต์</string>
-    <string name="menu_remove_black_list">เอาออกจากแบล็คลิสต์</string>
+    <string name="menu_add_black_list">เพิ่มเข้าแบล็กลิส</string>
+    <string name="menu_remove_black_list">เอาออกจากแบล็กลิส</string>
     <string name="menu_about_yellow_page">เกี่ยวกับหน้านี้</string>
     <string name="menu_refresh">รีเฟรช</string>
     <string name="confirm_to_add_blacklist">บล็อกหมายเลขนี้หรือไม่?</string>
