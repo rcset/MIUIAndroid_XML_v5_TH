@@ -139,9 +139,9 @@
     <string name="reboot_progress">กำลังรีสตาร์ท...</string>
     <string name="reverse_all">ลบทั้งหมด</string>
     <string name="safetylegal_activity_unreachable">โทรศัพท์ของคุณไม่ได้เชื่อมต่อกับบริการข้อมูล หากต้องการดูข้อมูลนี้ กรุณาเปิดคอมพิวเตอร์ที่เชื่อมต่อกับอินเตอร์เน็ตไปที่ %s.</string>
-    <string name="screen_button_notification_text">"กด 'ปุ่มโฮม'+'ปุ่มเปิดเครื่อง' เพื่อใช้งาน"</string>
+    <string name="screen_button_notification_text">"กด 'ปุ่มโฮม'+'ปุ่มเปิด/ปิดเครื่อง' เพื่อใช้งาน"</string>
     <string name="screen_button_notification_title">ปุ่มหน้าจอปิดใช้งาน</string>
-    <string name="screen_on_proximity_sensor_hint">เคล็ดลับ: กดปุ่มปิดเครื่องค้างไว้ เพื่อออกจากโหมดป้องกันการใช้งานแบบไม่ตั้งใจ ตั้งค่าใน - ตั้งค่าหน้าจอเพื่อปิดใช้งาน</string>
+    <string name="screen_on_proximity_sensor_hint">เคล็ดลับ: กดปุ่มเปิด/ปิดเครื่องค้างไว้ เพื่อออกจากโหมดป้องกันการใช้งานแบบไม่ตั้งใจ ตั้งค่าใน - ตั้งค่าหน้าจอเพื่อปิดใช้งาน</string>
     <string name="screen_on_proximity_sensor_summary">ขณะนี้อยู่ในโหมดป้องกันการใช้งานแบบไม่ตั้งใจ การทำงานของโทรศัพท์จะถูกป้องกัน!</string>
     <string name="screen_on_proximity_sensor_title">ป้องการการใช้งานแบบไม่ตั้งใจ</string>
     <string name="sd_not_available">การ์ดความจำพร้อมถอดออกหรือไม่</string>

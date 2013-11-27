@@ -278,7 +278,7 @@
     <string name="seconds">วินาที</string>
     <string name="screensaver_category">ภาพพักหน้าจอ</string>
     <string name="screensaver_activate_mode">เปิดใช้งานภาพพักหน้าจอ</string>
-    <string name="screensaver_activate_only_charging">เมื่อเสียบสายชาร์ตเท่านั้น</string>
+    <string name="screensaver_activate_only_charging">เมื่อเสียบสายชาร์จเท่านั้น</string>
     <string name="screensaver_path">อัลบั้มภาพพักหน้าจอ:</string>
     <string name="screensaver_path_not_set">ไม่ได้ตั้ง</string>
     <string name="set_screensaver_path_title">สไลด์โชว์ภาพพักหน้าจอ</string>

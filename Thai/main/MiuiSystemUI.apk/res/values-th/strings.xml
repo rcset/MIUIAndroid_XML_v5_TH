@@ -286,7 +286,7 @@ yyyy.M.d"</string>
     <string name="status_bar_toggle_power_mid">เหมาะสม</string>
     <string name="status_bar_toggle_power_high">ประสิทธิภาพ</string>
     <string name="screen_rotation_freeze_message">ล็อกการหมุนหน้าจอเป็นโหมดแนวนอน</string>
-    <string name="screen_button_disabled_message">การทำงานของปุ่มด้านล่างจอไม่สามารถใช้งานได้ กด \"ปุ่มโฮม\" และ \"ปุ่มเปิดเครื่อง\" เพื่อให้ทำงาน</string>
+    <string name="screen_button_disabled_message">การทำงานของปุ่มด้านล่างจอไม่สามารถใช้งานได้ กด \"ปุ่มโฮม\" และ \"ปุ่มเปิด/ปิดเครื่อง\" เพื่อให้ทำงาน</string>
     <string name="screen_button_enabled_message">ปุ่มด้านล่างจอใช้งานได้</string>
 	<string name="usb_share_net_info">แบ่งปันเครือข่ายด้วย USB</string>
 	<string name="torch_closed">ปิดไฟฉาย</string>

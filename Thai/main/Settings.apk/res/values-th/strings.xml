@@ -957,7 +957,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="lockpattern_settings_enable_summary">ต้องวาดรูปแบบเพื่อปลดล็อกหน้าจอ</string>
     <string name="lockpattern_settings_enable_visible_pattern_title">กำหนดให้เห็นลวดลายได้</string>
     <string name="lockpattern_settings_enable_tactile_feedback_title">สั่นเมื่อแตะ</string>
-    <string name="lockpattern_settings_enable_power_button_instantly_locks">ล็อกทันทีที่กดปุ่มเปิด/ปิด</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">ล็อกทันทีที่กดปุ่มเปิด/ปิดเครื่อง</string>
     <string name="lockpattern_settings_choose_lock_pattern">ตั้งค่ารูปแบบการปลดล็อก</string>
     <string name="lockpattern_settings_change_lock_pattern">เปลี่ยนรูปแบบการปลดล็อก</string>
     <string name="lockpattern_settings_help_how_to_record">วิธีวาดรูปแบบการปลดล็อก</string>
@@ -3023,14 +3023,14 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="android_beam_tips">แน่ใจว่าอุปกรณ์ทั้งสองกำลังสัมผัสกัน จากนั้นเลือกข้อมูลที่ต้องการบีม</string>
     <string name="breathing_light_color_menu_title">สีไฟ</string>
 	<string name="activate_miui_screensaver">เปิดใช้งานภาพพักหน้าจอ</string>
-	<string name="alert_show_screensaver_when_not_charging_msg">แบตเตอรี่จะใช้งานมากขึ้นหากใช้งานภาพพักหน้าจอเมื่อไม่ได้ชาร์ตแบตเตอรี่ คุณต้องการปิดใช้งาน?</string>
-	<string name="alert_show_screensaver_when_not_charging_title">ภาพพักหน้าจอเมื่อไม่ชาร์ตแบตเตอรี่</string>
+	<string name="alert_show_screensaver_when_not_charging_msg">แบตเตอรี่จะใช้งานมากขึ้นหากใช้งานภาพพักหน้าจอเมื่อไม่ได้ชาร์จแบตเตอรี่ คุณต้องการปิดใช้งาน?</string>
+	<string name="alert_show_screensaver_when_not_charging_title">ภาพพักหน้าจอเมื่อไม่ชาร์จแบตเตอรี่</string>
 	<string name="miui_screensaver_show_time">ระยะเวลา</string>
 	<string name="miui_screensaver_show_time_select_title">ตั้งระยะเวลา</string>
 	<string name="miui_screensaver_state_off">ปิด</string>
 	<string name="miui_screensaver_state_on">เปิด</string>
 	<string name="miui_screensaver_title">ภาพพักหน้าจอ</string>
 	<string name="miui_screensaver_usage">เมื่อเปิดใช้งาน รูปภาพในอัลบั้มภาพพักหน้าจอจะแสดงซ้ำอีก 5 วินาทีหลังจากหน้าจอดับลง</string>
-	<string name="only_when_charging">เมื่อชาร์ตแบตเตอรี่เท่านั้น</string>
+	<string name="only_when_charging">เมื่อชาร์จแบตเตอรี่เท่านั้น</string>
 	<string name="picture_source">แหล่งข้อมูลรูปภาพ</string>
 </resources>

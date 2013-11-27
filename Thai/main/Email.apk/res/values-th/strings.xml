@@ -424,7 +424,7 @@
     <string name="summary_subtitle_paused_photos_quota">โควต้าภาพเกิน</string>
     <string name="summary_subtitle_paused_roaming">โรมมิ่ง</string>
     <string name="summary_subtitle_paused_need_wifi">กำลังรอการเชื่อมต่อ Wi-Fi</string>
-    <string name="summary_subtitle_paused_need_charger">เลื่อนไปจนกำลังชาร์ต</string>
+    <string name="summary_subtitle_paused_need_charger">เลื่อนไปจนกำลังชาร์จ</string>
     <string name="summary_subtitle_paused_need_network">กำลังรอการเชื่อมต่อ</string>
     <string name="summary_subtitle_paused_retry_format">กำลังลองใหม่ใน %s</string>
     <string name="summary_menu_show_pending">แสดงกำลังรออัปโหลด</string>
@@ -457,7 +457,7 @@
     <string name="pause_state_running">กำลังอัปโหลด</string>
     <string name="pause_state_manually_paused">พักชั่วคราวด้วยตัวเอง</string>
     <string name="pause_state_low_battery">พักชั่วคราว - แบตเตอรี่ต่ำ</string>
-    <string name="pause_state_need_charger">พักชั่วคราว - เลื่อนออกไปจนกำลังชาร์ต</string>
+    <string name="pause_state_need_charger">พักชั่วคราว - เลื่อนออกไปจนกำลังชาร์จ</string>
     <string name="pause_state_need_connectivity">พักชั่วคราว - กำลังรอการเชื่อมต่อ</string>
     <string name="pause_state_need_photos_quota">พักชั่วคราว - ไม่มี PWA quota</string>
     <string name="pause_state_need_wifi">พักชั่วคราว - กำลังรอ Wi-Fi</string>
@@ -502,7 +502,7 @@
     <string name="preference_category_title_general">ทั่วไป</string>
     <string name="preference_title_pause_all_uploads">หยุดชั่วคราวดาวน์โหลดทั้งหมด</string>
     <string name="preference_title_need_power">เปิดเครื่อง</string>
-    <string name="preference_summary_need_power">อัปโหลดเมื่อชาร์ตโทรศัพท์เท่านั้น</string>
+    <string name="preference_summary_need_power">อัปโหลดเมื่อชาร์จโทรศัพท์เท่านั้น</string>
     <string name="preference_title_need_wifi">Wi-Fi จำเป็น</string>
     <string name="preference_summary_need_wifi">อัปโหลดเมื่อ Wi-Fi ว่างเท่านั้น</string>
     <string name="preference_category_title_photos">รูปภาพ</string>
@@ -532,7 +532,7 @@
     <string name="preference_plus_sync_while_roaming">อัปโหลดโรมมิ่ง</string>
     <string name="preference_plus_sync_while_roaming_summary">อัปโหลดภาพ &amp; วิดีโอเมื่อเครือข่ายข้อมูลโรมมิ่ง</string>
     <string name="preference_plus_delay_sync_until_charging">อัปโหลดแบตเตอรี่</string>
-    <string name="preference_plus_delay_sync_until_charging_summary">อัปโหลดภาพ &amp; วิดีโอเมื่อกำลังชาร์ตเท่านั้น</string>
+    <string name="preference_plus_delay_sync_until_charging_summary">อัปโหลดภาพ &amp; วิดีโอเมื่อกำลังชาร์จเท่านั้น</string>
     <string name="preference_plus_sync_all">อัปโหลดภาพที่มีอยู่</string>
     <string name="preference_plus_sync_all_description">อัปโหลดภาพ &amp; วิดีโอที่อยู่จากโทรศัพท์ตอนนี้</string>
     <string name="summary_subtitle_disabled">ปิดใช้งาน</string>

@@ -195,7 +195,7 @@
     <string name="cloud_app_backup_date">"สำรองข้อมูลบน "</string>
     <string name="cloud_app_backup_pending">กำลังรอ...</string>
     <string name="cloud_app_backup_progress">กำลังสำรองข้อมูล...</string>
-    <string name="cloud_app_backup_summary">สำรองข้อมูลแอปอัตโนมัติและข้อมูลผู้ใช้เมื่อโทรศัพท์กำลังชาร์ตและเชื่อมต่อ Wi-Fi</string>
+    <string name="cloud_app_backup_summary">สำรองข้อมูลแอปอัตโนมัติและข้อมูลผู้ใช้เมื่อโทรศัพท์กำลังชาร์จและเชื่อมต่อ Wi-Fi</string>
     <string name="cloud_app_backup_title">สำรองข้อมูลใน Miคลาวด์</string>
     <string name="cloud_app_current_device">อุปกรณ์ปัจจุบัน</string>
     <string name="cloud_app_data_in_other_devices">ไม่มีสำรองข้อมูล Miคลาวด์ บนอุปกรณ์นี้</string>

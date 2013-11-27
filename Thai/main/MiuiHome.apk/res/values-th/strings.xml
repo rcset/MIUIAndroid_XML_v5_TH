@@ -188,7 +188,7 @@
     <string name="status_bar_toggle_power_mid">ปกติ</string>
     <string name="status_bar_toggle_power_high">ประสิทธิภาพ</string>
     <string name="screen_rotation_freeze_message">การหมุนล็อกหน้าจอในแนวนอน</string>
-    <string name="screen_button_disabled_message">ปุ่มบนหน้าจอข้างล่างถูกปิดใช้งาน คุณอาจจะเปิดใช้งานโดยการกดที่ \"ปุ่มโฮม\" และ \"ปุ่มเปิดเครื่อง\"</string>
+    <string name="screen_button_disabled_message">ปุ่มบนหน้าจอข้างล่างถูกปิดใช้งาน คุณอาจจะเปิดใช้งานโดยการกดที่ \"ปุ่มโฮม\" และ \"ปุ่มเปิด/ปิดเครื่อง\"</string>
     <string name="screen_button_enabled_message">ปุ่มบนหน้าจอด้านล่างเปิดใช้งานแล้ว</string>
     <string name="account_abnormal_state">ข้อมูลบัญชีผิดปกติ ลองเข้าระบบอีกครั้งหรือลองอีกครั้งในภายหลัง</string>
     <string name="all_resources">ทั้งหมด</string>

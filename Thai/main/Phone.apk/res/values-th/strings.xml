@@ -1010,7 +1010,7 @@
     <string name="auto_country_code_sum_miui">เพิ่มรหัสประเทศอัตโนมัติก่อนการโทรไปยังผู้ติดต่อที่รู้จัก</string>
     <string name="autoip_miui">การโทรออกเลขหมาย IP อัตโนมัติ</string>
     <string name="auto_ip_summary_not_enabled">ไม่ได้เปิดใช้งาน</string>
-    <string name="auto_ip_setting_miui">การตั้ง่ค่า IP อัตโนมัติ</string>
+    <string name="auto_ip_setting_miui">การตั้งค่า IP อัตโนมัติ</string>
     <string name="autoip_sum_miui">เพิ่มหมายเลขหน้า IP สำหรับหมายเลขต่างประเทศ</string>
     <string name="auto_ip_exception_miui">"เลขหมายไม่ต้องการเลขหน้า IP"</string>
     <string name="auto_ip_no_exceptions_miui">"เพิ่มเลขหมายที่ไม่ต้องการเลขหน้า IP"</string>
@@ -1019,7 +1019,7 @@
     <string name="auto_ip_exception_summary_miui">%d ทั้งหมด</string>
     <string name="auto_ip_exception_summary_more_miui">... %d ทั้งหมด</string>
     <string name="auto_ip_support_local_numbers">สนับสนุนหมายเลขท้องถื่น</string>
-    <string name="auto_record_call_summary_miui">การบันทึเสียงสนทนาทั้งหมดจะบันทึกลงไฟล์ MIUI/sound_recorder/call_rec</string>
+    <string name="auto_record_call_summary_miui">การบันทึกเสียงสนทนาทั้งหมดจะบันทึกลงไฟล์ MIUI/sound_recorder/call_rec</string>
     <string name="auto_record_call_title_miui">บันทึกเสียงอัตโนมัติ</string>
     <string name="auto_record_scenario_title_miui">ตั้งค่าบันทึกเสียงอัตโนมัติ</string>
     <string name="auto_record_scenario_enteries_always_miui">หมายเลขทั้งหมด</string>
@@ -1107,14 +1107,14 @@
     <string name="countrycode_alert_title_miui">การเตือน</string>
     <string name="crystaltalk_summary_miui">ตั้งค่าเสียงสนทนา</string>
     <string name="crystaltalk_title_miui">ตั้งค่าไนแคม</string>
-    <string name="current_areacode_miui">รหัสพื่นที่ปัจจุบัน</string>
+    <string name="current_areacode_miui">รหัสพื้นที่ปัจจุบัน</string>
     <string name="current_areacode_sum_miui">รหัสพื้นที่ตำแหน่งที่ตั้งปัจจุบันของคุณ</string>
     <string name="current_areacode_sum_set_miui">รหัสพื้นที่ของตำแหน่งที่ตั้งปัจจุบัน:%s</string>
     <string name="custom_location_location_no_item_miui">เพิ่มเลขหมายโดยการแตะปุ่มเพิ่ม +</string>
     <string name="custom_location_location_hint_miui">ชื่อ</string>
     <string name="custom_location_number_hint_miui">รหัสพื้นที่หรือหมายเลขกลุ่ม</string>
     <string name="cw_title_miui">กำลังรอสาย</string>
-    <string name="dial_related_setting_catory_miui">Dial</string>
+    <string name="dial_related_setting_catory_miui">โทร</string>
     <string name="default_contacts_countrycode_hint_miui">ใส่รหัสประเทศ</string>
     <string name="default_contacts_countrycode_miui">รหัสประเทศค่าเริ่มต้น</string>
     <string name="default_contacts_countrycode_sum_miui">รหัสประเทศค่าเริ่มต้นเพื่อรายชื่อของคุณ: %s</string>
