@@ -85,4 +85,5 @@
     <string name="search_for_recordings_in_folders">ค้นหาโฟลเดอร์สำหรับการบันทึกเสียง</string>
     <string name="back">ย้อนกลับ</string>
     <string name="preference_silent_mode_summary">ตั้งค่าเพื่อเปิดใช้งานการบันทึกเสียงในโหมดเงียบ</string>
+	<string name="error_filename_illegal_char">ชื่อไฟล์มีตัวอักษรที่ไม่ถูกต้อง</string>
 </resources>

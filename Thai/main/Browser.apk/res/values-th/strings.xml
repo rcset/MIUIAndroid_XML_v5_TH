@@ -618,4 +618,7 @@
     <string name="webapp_splashview_loading">กำลังโหลด กรุณารอ…</string>
     <string name="webapp_web_forward">ถัดไป</string>
     <string name="webapp_web_goback">ย้อนกลับ</string>
+	<string name="add_quicklink_to_popular">เพิ่มไปยังหน้าเริ่มต้น</string>
+	<string name="quicklink_saved_before">เพิ่มเว็บไซต์ไปยังหน้าเริ่มต้นแล้ว</string>
+	<string name="send_to_popular">ยอดนิยม</string>
 </resources>

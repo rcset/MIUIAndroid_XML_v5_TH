@@ -1971,7 +1971,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="perm_privacy_app_trust_summary_on">MIUI เชื่อถือแอปนี้</string>
     <string name="perm_privacy_app_manage">รายละเอียด</string>
     <string name="perm_privacy_app_uninstall">ถอนการติดตั้ง</string>
-    <string name="perm_privacy_app_log">บันทึก</string>
+    <string name="perm_privacy_app_log">บันทึกการใช้งาน</string>
     <string name="perm_privacy_app_installed">ติดตั้งเสร็จสิ้น!</string>
     <string name="perm_privacy_app_finish">เสร็จสิ้น</string>
     <string name="perm_privacy_app_launch">เปิด</string>
@@ -3022,4 +3022,15 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="nfc_category_title">NFC</string>
     <string name="android_beam_tips">แน่ใจว่าอุปกรณ์ทั้งสองกำลังสัมผัสกัน จากนั้นเลือกข้อมูลที่ต้องการบีม</string>
     <string name="breathing_light_color_menu_title">สีไฟ</string>
+	<string name="activate_miui_screensaver">เปิดใช้งานภาพพักหน้าจอ</string>
+	<string name="alert_show_screensaver_when_not_charging_msg">แบตเตอรี่จะใช้งานมากขึ้นหากใช้งานภาพพักหน้าจอเมื่อไม่ได้ชาร์ตแบตเตอรี่ คุณต้องการปิดใช้งาน?</string>
+	<string name="alert_show_screensaver_when_not_charging_title">ภาพพักหน้าจอเมื่อไม่ชาร์ตแบตเตอรี่</string>
+	<string name="miui_screensaver_show_time">ระยะเวลา</string>
+	<string name="miui_screensaver_show_time_select_title">ตั้งระยะเวลา</string>
+	<string name="miui_screensaver_state_off">ปิด</string>
+	<string name="miui_screensaver_state_on">เปิด</string>
+	<string name="miui_screensaver_title">ภาพพักหน้าจอ</string>
+	<string name="miui_screensaver_usage">เมื่อเปิดใช้งาน รูปภาพในอัลบั้มภาพพักหน้าจอจะแสดงซ้ำอีก 5 วินาทีหลังจากหน้าจอดับลง</string>
+	<string name="only_when_charging">เมื่อชาร์ตแบตเตอรี่เท่านั้น</string>
+	<string name="picture_source">แหล่งข้อมูลรูปภาพ</string>
 </resources>

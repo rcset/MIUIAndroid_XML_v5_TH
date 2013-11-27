@@ -109,13 +109,13 @@
     <string name="st_filter_keywords_title">กรองคำสำหรับข้อความ</string>
     <string name="st_filter_keywords_setting_summary1">ข้อความจากรายชื่อที่ไม่รู้จักจะถูกบล็อก</string>
     <string name="st_filter_keywords_setting_summary2">เพิ่มคำหลายคำโดยการใช้เครื่องหมายคอมม่า</string>
-    <string name="st_advanced_setting_group">การตั้งค่าชั้นสูง</string>
+    <string name="st_advanced_setting_group">การตั้งค่าขั้นสูง</string>
     <string name="st_block_unknown_call">บล็อกเบอร์โทรที่ไม่รู้จักทั้งหมด</string>
     <string name="st_block_unknown_sms">บล็อกข้อความที่ไม่รู้จักทั้งหมด</string>
-    <string name="st_other_setting_group">ตั้งค่าอื่นๆ</string>
+    <string name="st_other_setting_group">การตั้งค่าอื่นๆ</string>
     <string name="st_show_block_notification">แสดงการเตือนที่ถูกบล็อก</string>
     <string name="qm_other_settings">ขั้นสูง</string>
-    <string name="qm_other_settings_group">ตั้งค่าอื่นๆ</string>
+    <string name="qm_other_settings_group">การตั้งค่าอื่นๆ</string>
     <string name="qm_other_settings_info">ปรับแต่งสำหรับเบอร์โทรและข้อความเมื่อโหมดปิดเสียงเปิดใช้งานอยู่</string>
     <string name="qm_vip_sms_setting_button">ปิดเสียงข้อความที่หมายตา</string>
     <string name="st_bl_block_setting_title">ถามอีกทีภายหลัง</string>
