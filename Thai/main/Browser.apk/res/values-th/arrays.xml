@@ -45,7 +45,7 @@
         <item>ปิด</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-	    <item>เบราเซอร์จะเปิดในหน้านี้</item>
+        <item>เบราเซอร์จะเปิดในหน้านี้</item>
         <item>อื่นๆ</item>
     </string-array>
     <string-array name="pref_text_size_choices">
