@@ -115,9 +115,9 @@
     <string name="numeric_date_template" formatted="false">%s/%s/%s</string>
     <string name="month_day_year" formatted="false">%-e %B %Y</string>
     <string name="time_of_day" formatted="false">%-k:%M:%S</string>
-    <string name="date_and_time" formatted="false">%-k:%M:%S, %-e %b %Y</string>
-    <string name="date_time">%2$s, %1$s</string>
-    <string name="time_date">%1$s, %3$s</string>
+    <string name="date_and_time" formatted="false">%-k:%M:%S %-e %b %Y</string>
+    <string name="date_time">%2$s %1$s</string>
+    <string name="time_date">%1$s %3$s</string>
     <string name="abbrev_month_day_year" formatted="false">%-e %b %Y</string>
     <string name="month_day" formatted="false">%-e %B</string>
     <string name="month">%-B</string>
@@ -131,26 +131,26 @@
     <string name="numeric_wday1_md1_wday2_md2">%1$s %3$s – %6$s %8$s/%2$s</string>
     <string name="numeric_mdy1_mdy2">%3$s/%2$s/%4$s – %8$s/%7$s/%9$s</string>
     <string name="numeric_wday1_mdy1_wday2_mdy2">%1$s %3$s/%2$s/%4$s – %6$s %8$s/%7$s/%9$s</string>
-    <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%5$s, %1$s %3$s/%2$s/%4$s - %10$s, %6$s %8$s/%7$s/%9$s</string>
-    <string name="numeric_md1_time1_md2_time2">%5$s, %3$s/%2$s - %10$s, %8$s/%7$s</string>
-    <string name="numeric_wday1_md1_time1_wday2_md2_time2">%5$s, %1$s, %3$s/%2$s - %10$s, %6$s, %8$s/%7$s</string>
-    <string name="numeric_mdy1_time1_mdy2_time2">%5$s, %3$s/%2$s/%4$s - %10$s, %8$s/%7$s/%9$s</string>
-    <string name="wday1_date1_time1_wday2_date2_time2">%3$s, %1$s %2$s - %6$s, %4$s %5$s</string>
+    <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%5$s %1$s %3$s/%2$s/%4$s - %10$s %6$s %8$s/%7$s/%9$s</string>
+    <string name="numeric_md1_time1_md2_time2">%5$s %3$s/%2$s - %10$s %8$s/%7$s</string>
+    <string name="numeric_wday1_md1_time1_wday2_md2_time2">%5$s %1$s %3$s/%2$s - %10$s %6$s %8$s/%7$s</string>
+    <string name="numeric_mdy1_time1_mdy2_time2">%5$s %3$s/%2$s/%4$s - %10$s %8$s/%7$s/%9$s</string>
+    <string name="wday1_date1_time1_wday2_date2_time2">%3$s %1$s %2$s - %6$s %4$s %5$s</string>
     <string name="wday1_date1_wday2_date2">%1$s %2$s - %4$s %5$s</string>
-    <string name="date1_time1_date2_time2">%3$s, %2$s - %6$s, %5$s</string>
-    <string name="time_wday_date">%1$s, %2$s %3$s</string>
+    <string name="date1_time1_date2_time2">%3$s %2$s - %6$s %5$s</string>
+    <string name="time_wday_date">%1$s %2$s %3$s</string>
     <string name="wday_date">%2$s %3$s</string>
-    <string name="time_wday">%1$s, %2$s</string>
+    <string name="time_wday">%1$s %2$s</string>
     <string name="same_year_md1_md2">%3$s %2$s - %8$s %7$s</string>
     <string name="same_year_wday1_md1_wday2_md2">%1$s %3$s %2$s - %6$s %8$s %7$s</string>
-    <string name="same_year_md1_time1_md2_time2">%5$s, %3$s %2$s - %10$s, %8$s %7$s</string>
-    <string name="same_month_md1_time1_md2_time2">%5$s, %3$s %2$s - %10$s, %8$s %7$s</string>
-    <string name="same_year_wday1_md1_time1_wday2_md2_time2">%5$s, %1$s %3$s %2$s - %10$s, %6$s %8$s %7$s</string>
-    <string name="same_month_wday1_md1_time1_wday2_md2_time2">%5$s, %1$s %3$s %2$s - %10$s, %6$s %8$s %7$s</string>
-    <string name="same_year_mdy1_time1_mdy2_time2">%5$s, %3$s %2$s %4$s - %10$s, %8$s %7$s %9$s</string>
-    <string name="same_month_mdy1_time1_mdy2_time2">%5$s, %3$s %2$s %4$s - %10$s, %8$s %7$s %9$s</string>
-    <string name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%5$s, %1$s %3$s %2$s %4$s - %10$s, %6$s %8$s %7$s %9$s</string>
-    <string name="same_month_wday1_mdy1_time1_wday2_mdy2_time2">%5$s, %1$s %3$s %2$s %4$s - %10$s, %6$s %8$s %7$s %9$s</string>
+    <string name="same_year_md1_time1_md2_time2">%5$s %3$s %2$s - %10$s %8$s %7$s</string>
+    <string name="same_month_md1_time1_md2_time2">%5$s %3$s %2$s - %10$s %8$s %7$s</string>
+    <string name="same_year_wday1_md1_time1_wday2_md2_time2">%5$s %1$s %3$s %2$s - %10$s %6$s %8$s %7$s</string>
+    <string name="same_month_wday1_md1_time1_wday2_md2_time2">%5$s %1$s %3$s %2$s - %10$s %6$s %8$s %7$s</string>
+    <string name="same_year_mdy1_time1_mdy2_time2">%5$s %3$s %2$s %4$s - %10$s %8$s %7$s %9$s</string>
+    <string name="same_month_mdy1_time1_mdy2_time2">%5$s %3$s %2$s %4$s - %10$s %8$s %7$s %9$s</string>
+    <string name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%5$s %1$s %3$s %2$s %4$s - %10$s %6$s %8$s %7$s %9$s</string>
+    <string name="same_month_wday1_mdy1_time1_wday2_mdy2_time2">%5$s %1$s %3$s %2$s %4$s - %10$s %6$s %8$s %7$s %9$s</string>
     <string name="same_month_wday1_mdy1_wday2_mdy2">%1$s %3$s %2$s %4$s - %6$s %8$s %7$s %9$s</string>
     <string name="same_month_md1_md2">%3$s – %8$s %2$s</string>
     <string name="same_month_wday1_md1_wday2_md2">%1$s %3$s %2$s - %6$s %8$s %7$s</string>
@@ -741,7 +741,7 @@
     <string name="lockscreen_pattern_wrong">ลองอีกครั้ง</string>
     <string name="lockscreen_password_wrong">ลองอีกครั้ง</string>
     <string name="faceunlock_multiple_failures">มีความพยายามที่จะใช้ Face Unlock เกินขีดจำกัด</string>
-    <string name="lockscreen_plugged_in">กำลังชาร์จ, %d%%</string>
+    <string name="lockscreen_plugged_in">กำลังชาร์จ %d%%</string>
     <string name="lockscreen_charged">ชาร์จแล้ว</string>
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">เสียบที่ชาร์จของคุณ</string>
@@ -822,7 +822,7 @@
     <string name="setup_autofill">ค่าป้อนอัตโนมัติ</string>
     <string name="autofill_address_name_separator">" "</string>
     <string name="autofill_address_summary_name_format">$1$2$3</string>
-    <string name="autofill_address_summary_separator">", "</string>
+    <string name="autofill_address_summary_separator">" "</string>
     <string name="autofill_address_summary_format">$1$2$3</string>
     <string name="autofill_province">จังหวัด</string>
     <string name="autofill_postal_code">รหัสไปรษณีย์</string>
@@ -893,7 +893,7 @@
     <string name="weeks">สัปดาห์</string>
     <string name="year">ปี</string>
     <string name="years">" ปี"</string>
-    <string name="relative_time">%1$s, %2$s</string>
+    <string name="relative_time">%1$s %2$s</string>
     <string name="noon">เที่ยง</string>
     <string name="Noon">เที่ยง</string>
     <string name="midnight">เที่ยงคืน</string>
@@ -1220,7 +1220,7 @@
     <string name="activity_chooser_view_dialog_title_default">เลือกกิจกรรม</string>
     <string name="share_action_provider_share_with">แบ่งปันกับ</string>
     <string name="status_bar_device_locked">ล็อกอุปกรณ์อยู่</string>
-    <string name="list_delimeter">", "</string>
+    <string name="list_delimeter">" "</string>
     <string name="sending">กำลังส่ง…</string>
     <string name="launchBrowserDefault">เปิดเบราเซอร์หรือไม่</string>
     <string name="SetupCallDefault">รับสายหรือไม่</string>

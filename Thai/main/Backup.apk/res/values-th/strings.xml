@@ -36,7 +36,7 @@
     <string name="restore_telephony_hit">(บันทึก: การคืนค่าจะทำการรีสาร์ตแอปพลิเคชันโทรศัพท์ใหม่)</string>
     <string name="restore_launcher_layout_hit">(บันทึก: คืนค่าการตั้งค่าเดสท็อบ)</string>
     <string name="settings_summary">การตั้งค่าสำรองข้อมูลโทรศัพท์และข้อความ</string>
-    <string name="account_summary">สำรองข้อมูล Gmail, E-mail และ บัญชี Xiaomi</string>
+    <string name="account_summary">สำรองข้อมูล Gmail E-mail และ บัญชี Xiaomi</string>
     <string name="cloud_app_name">สำรองข้อมูลคลาวด์</string>
     <string name="cloud_home_title">คลาวด์</string>
     <string name="prompt_reading">กำลังอ่าน...</string>
@@ -227,7 +227,7 @@
     <string name="cloud_app_restore_summary">คืนค่าแอปที่ติดตั้งก่อนหน้าและข้อมูลผู้ใช้</string>
     <string name="cloud_app_restore_wifi_prompt">เชื่อมต่อไปยังอินเตอร์เน็ตด้วย Wi-Fi เพื่อคืนค่าแอปและข้อมูลผู้ใช้</string>
     <string name="cloud_app_total_size">ขนาดสำรองข้อมูล Miคลาวด์ ทั้งหมด: %1$s</string>
-    <string name="cloud_app_version_size">เวอร์ชัน: %1$s, ขนาด: %2$s</string>
+    <string name="cloud_app_version_size">เวอร์ชัน: %1$s ขนาด: %2$s</string>
     <string name="customization">&lt;u&gt;ปรับแต่ง&lt;/u&gt;</string>
     <string name="customization_under_wifi_prompt">รองรับเมื่อใช้งาน Wi-Fi เท่านั้น</string>
     <string name="just_support_op_with_wifi_connected">รองรับเมื่อใช้งาน Wi-Fi เท่านั้นi</string>

@@ -527,7 +527,7 @@
     <string name="menu_settings">การตั้งค่า</string>
     <string name="menu_help">ความช่วยเหลือ</string>
     <string name="preference_displayOptions">ตัวเลือกการแสดงผล</string>
-    <string name="organization_company_and_title">%2$s, %1$s</string>
+    <string name="organization_company_and_title">%2$s %1$s</string>
     <string name="hint_findContacts">ค้นหารายชื่อติดต่อ</string>
     <string name="non_phone_caption">หมายเลขโทรศัพท์</string>
     <string name="non_phone_add_to_contacts">เพิ่มลงในสมุดโทรศัพท์</string>
@@ -554,7 +554,7 @@
     <string name="profile_display_name">ตั้งค่าโปรไฟล์ของฉัน</string>
     <string name="enter_contact_name">พิมพ์ชื่อของบุคคล</string>
     <string name="view_updates_from_group">ดูการอัปเดต</string>
-    <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
+    <string name="notification_voicemail_callers_list">%1$s %2$s</string>
     <string name="notification_new_voicemail_ticker">ข้อความเสียงใหม่จาก %1$s</string>
     <string name="voicemail_playback_error">ไม่สามารถเล่นข้อความเสียง</string>
     <string name="voicemail_buffering">กำลังเก็บบัฟเฟอร์…</string>
@@ -680,7 +680,7 @@
     <string name="add_blacklist">เพิ่มไปยังแบล็กลิส</string>
     <string name="remove_blacklist">ลบออกจากแบล็กลิส</string>
     <string name="empty_divider_title">คุณสามารถ</string>
-    <string name="noContactHelpTextAccountsInfo">ซิงค์รายชื่อกับบัญชี Xiaomi, Google, Exchange</string>
+    <string name="noContactHelpTextAccountsInfo">ซิงค์รายชื่อกับบัญชี Xiaomi Google Exchange</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">เรียกคืนข้อมูลในบัญชี Xiaomi และ MiTalk</string>
     <string name="recent_contacts_label">ล่าสุด</string>
     <string name="pick_favorites_list_title">%1$d เบอร์สุดโปรดจากทั้งหมด</string>
@@ -874,7 +874,7 @@
     <string name="preference_smart_group_location_summary">จัดกลุ่มตามรหัสพื้นที่</string>
     <string name="preference_smart_group_frequency_title">โดยรายชื่อล่าสุด</string>
     <string name="preference_smart_group_frequency_summary">จัดกลุ่มตามหมายเลขเรียกเข้าล่าสุดหรือ SMS</string>
-    <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
+    <string name="smart_group_action_bar_title">%1$s-%2$s %3$s</string>
     <string name="smart_group_label">การจัดกลุ่มแบบชาญฉลาด</string>
     <string name="smart_group_loading">กำลังโหลดการจัดกลุ่มแบบชาญฉลาด…</string>
     <string name="smart_group_company_label">โดยบริษัท</string>

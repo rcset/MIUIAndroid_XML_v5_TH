@@ -10,7 +10,7 @@
     <string name="tomorrow">วันพรุ่งนี้"</string>
     <string name="today_at_time_fmt">วันนี้เวลา %s"</string>
     <string name="tomorrow_at_time_fmt">พรุ่งนี้เวลา %s"</string>
-    <string formatted="false" name="date_time_fmt">%s , %s"</string>
+    <string formatted="false" name="date_time_fmt">%s  %s"</string>
     <string name="repeats_label">ครบรอบ"</string>
     <string name="no_title_label">(ไม่มีชื่อเรื่อง)"</string>
     <string name="calendar_refresh">ปรับสภาพ"</string>

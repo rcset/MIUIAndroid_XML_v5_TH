@@ -8,7 +8,7 @@
     <string name="tab_blacklist">แบล็กลิส</string>
     <string name="tab_sms">บันทึกข้อความ</string>
     <string name="tab_call">บันทึกการโทร</string>
-    <string name="bl_block_info" formatted="false">บล็อก: หมายเลข %d, รายละเอียด %d</string>
+    <string name="bl_block_info" formatted="false">บล็อก: หมายเลข %d รายละเอียด %d</string>
     <string name="bl_no_block_call">เบอร์โทรที่ถูกบล็อกทั้งหมดจะเก็บไว้ที่นี่</string>
     <string name="bl_no_block_sms">ข้อความที่ถูกบล็อกทั้งหมดจะเก็บไว้ที่นี่</string>
     <string name="bl_no_blacklist">ไม่มีแบล็กลิส</string>
@@ -69,11 +69,11 @@
     <string name="quiet_mode">โหมดปิดเสียง</string>
     <string name="qm_notification">โหมดปิดเสียงถูกเปิดใช้งาน</string>
     <string name="qm_open">เปิดใช้งานโหมดปิดเสียง</string>
-    <string name="qm_summary">หลังจากเปิดใช้งานปิดเสียง, เบอร์โทรและข้อความที่เข้ามาจะไม่มีเสียงและโทรศัพท์จะไม่ตื่นจากการแจ้งเตือน</string>
+    <string name="qm_summary">หลังจากเปิดใช้งานปิดเสียง เบอร์โทรและข้อความที่เข้ามาจะไม่มีเสียงและโทรศัพท์จะไม่ตื่นจากการแจ้งเตือน</string>
     <string name="qm_auto_setting_group">เปิด/ปิด อัตโนมัติ</string>
     <string name="qm_auto_button_title">กำหนดแผนแล้ว</string>
     <string name="qm_auto_time_setting">การตั้งค่าเวลา</string>
-    <string name="qm_auto_time_setting_summary">จาก: %1$s, จนถึง: %2$s</string>
+    <string name="qm_auto_time_setting_summary">จาก: %1$s จนถึง: %2$s</string>
     <string name="qm_auto_time_turn_on">จาก</string>
     <string name="qm_auto_time_turn_on_title">เลือกเวลาเพื่อเปิดโหมดไม่ใช้เสียง</string>
     <string name="qm_auto_time_turn_off">จนถึง</string>

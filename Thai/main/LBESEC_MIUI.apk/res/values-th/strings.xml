@@ -58,7 +58,7 @@
     <string name="HIPS_Perm_Location_Desc">ตำแหน่งของคุณด้วยเครือข่ายหรือ GPS</string>
     <string name="HIPS_Perm_Location_Hint">%1$s อนุญาตเข้าถึงตำแหน่งของคุณ</string>
     <string name="HIPS_Perm_PhoneID">ไอดีโทรศัพท์</string>
-    <string name="HIPS_Perm_PhoneID_Desc">รับไอดีโทรศัพท์ IMEI, IMSI และอื่นๆ</string>
+    <string name="HIPS_Perm_PhoneID_Desc">รับไอดีโทรศัพท์ IMEI IMSI และอื่นๆ</string>
     <string name="HIPS_Perm_PhoneID_Hint">%1$s อนุญาตรับไอดีโทรศัพท์</string>
     <string name="HIPS_Perm_MobileNetwork">เครือข่ายมือถือ</string>
     <string name="HIPS_Perm_MobileNetwork_Desc">เข้าถึงอินเตอร์เน็ตด้วยเครือข่ายมือถือ</string>

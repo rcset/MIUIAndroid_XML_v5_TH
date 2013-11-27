@@ -254,7 +254,7 @@
     <string name="resource_title_select_ringtone">เลือกเสียงเรียกเข้า</string>
     <string name="resource_update">ปรับปรุง</string>
     <string name="resource_waiting_download">รอสักครู่ ...</string>
-    <string name="scroll_tip_format_when_announce_accessibility">หน้า %1$d , %2$d แอปพลิเคชัน</string>
+    <string name="scroll_tip_format_when_announce_accessibility">หน้า %1$d  %2$d แอปพลิเคชัน</string>
     <string name="sdcard_status_changed_dialog_message">แอปกำลังจะออก 
 กรุณาเปิดอีกครั้งเพื่อรีเฟรชแหล่งข้อมูล</string>
     <string name="sdcard_status_changed_dialog_title">การ์ดความจำมีการเปลี่ยนแปลง</string>

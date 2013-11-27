@@ -252,7 +252,7 @@
     <string name="sim_in_airplane_mode">โปรดปิดการใช้งานโหมดเครื่องบิน</string>
     <string name="sim_changed_reactivate_int_notice">ซิมปัจจุบันยังไม่ได้รับการยืนยัน จำเป็นต้องส่งข้อความอินเตอร์เพื่อยืนยันบริการ ยืนยันตอนนี้?</string>
     <string name="err_resource_leak">เกิดข้อผิดพลาด %1$s ได้ถูกปิดเพื่อป้องกันอุปกรณ์</string>
-    <string name="app_notificaiton_on_statusBar_and_notificationBar">แถบสถานะ, แถบการแจ้งเตือน</string>
+    <string name="app_notificaiton_on_statusBar_and_notificationBar">แถบสถานะ แถบการแจ้งเตือน</string>
     <string name="app_no_notification">ไม่เลย</string>
     <string name="app_notificaiton_on_notificationBar">แถบการแจ้งเตือน</string>
     <string name="device_hongmi">โทรศัพท์ Hongmi</string>

@@ -86,7 +86,7 @@
   <string name="send_sms_notification_summary">"ส่งข้อมูลพยากรณ์อากาศวันนี้ด้วยข้อความ"</string>
   <string name="send_weather_sms_cycle">%1$s พยากรณ์อากาศ：%2$s</string>
   <string name="send_weather_sms_error">ไม่มีข้อมูลพยากรณ์อากาศ</string>
-  <string name="send_weather_sms_main">%1$s %2$s,%3$s %4$s %5$s</string>
+  <string name="send_weather_sms_main">%1$s %2$s%3$s %4$s %5$s</string>
   <string name="settings_weather_about">เกี่ยวกับ</string>
   <string name="settings_weather_animation">ภาพเคลื่อนไหลวพยากรณ์อากาศ</string>
   <string name="settings_weather_play_ani_summary">เล่นภาพเคลื่อนไหวในหน้าจอหลัก</string>
@@ -95,12 +95,12 @@
   <string name="settings_weather_preview">แสดงตัวอย่างภาพเคลื่อนไหว</string>
   <string name="settings_weather_title">การตั้งค่า</string>
   <string name="share_aqi_content">"\#พยากรณ์อากาศ MIUI#
-วันนี้ %1$s's คุณภาพอากาศ: %2$s, %3$s. %4$s %5$s."</string>
+วันนี้ %1$s's คุณภาพอากาศ: %2$s %3$s. %4$s %5$s."</string>
   <string name="share_content">\#พยากรณ์อากาศ MIUI#</string>
   <string name="share_qq">แบ่งปันด้วย Tencent Weibo</string>
   <string name="share_sina">แบ่งปันด้วย Sina Weibo</string>
   <string name="share_weather_content">"\#พยากรณ์อากาศ MIUI#
-วันนี้ %1$s's พยากรณ์อากาศ %2$s, %3$s, %4$s. %5$s."</string>
+วันนี้ %1$s's พยากรณ์อากาศ %2$s %3$s %4$s. %5$s."</string>
   <string name="share_weather_title">แบ่งปันข้อมูลพยากรณ์อากาศ</string>
   <string name="sina_share_fail">ส่งล้มเหลว!</string>
   <string name="sina_share_pendding">กำลังส่ง...</string>

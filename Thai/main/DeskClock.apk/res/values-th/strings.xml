@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
+    <string name="full_wday_month_day_no_year">EEEE d MMMM</string>
     <string name="elapsed_time_format">(+%s)</string>
     <string name="app_label">นาฬิกา</string>
     <string name="alarm_list_title">การปลุก</string>
@@ -123,7 +123,7 @@
     <string name="hour_unit">Hr</string>
     <string name="minute_unit">M</string>
     <string name="alarm_label_hint">ใส่เครื่องหมายการปลุก</string>
-    <string name="legal_workday_invalidate">ข้อมูลหมดอายุ (ปัจจุบัน, ปลุกดังตั้งแต่จันทร์ถึงศุกร์)</string>
+    <string name="legal_workday_invalidate">ข้อมูลหมดอายุ (ปัจจุบัน ปลุกดังตั้งแต่จันทร์ถึงศุกร์)</string>
     <string name="legal_workday_invalidate_message">(ข้อมูลหมดอายุ ปรับปรุงการตั้งค่า)</string>
     <string name="legal_workday_message">(ปิดการปลุกในช่วงวันหยุด)</string>
     <string name="default_alarm_alert">ตั้งเสียงแจ้งเตือนเป็นค่าเริ่มต้น</string>
