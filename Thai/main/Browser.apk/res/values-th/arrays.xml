@@ -45,10 +45,7 @@
         <item>ปิด</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>หน้าเว็บปัจจุบัน</item>
-        <item>หน้าว่าง</item>
-        <item>หน้าเว็บเริ่มต้น</item>
-        <item>ไซต์ที่เข้าชมบ่อยที่สุด</item>
+	    <item>เบราเซอร์จะเปิดในหน้านี้</item>
         <item>อื่นๆ</item>
     </string-array>
     <string-array name="pref_text_size_choices">

@@ -621,4 +621,5 @@
 	<string name="add_quicklink_to_popular">เพิ่มไปยังหน้าเริ่มต้น</string>
 	<string name="quicklink_saved_before">เพิ่มเว็บไซต์ไปยังหน้าเริ่มต้นแล้ว</string>
 	<string name="send_to_popular">ยอดนิยม</string>
+	<string name="quicklinks_most_visited_title">เพิ่มไปยังหน้าเริ่มต้น</string>
 </resources>

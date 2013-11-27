@@ -116,4 +116,5 @@
 	<string name="recharge_history_empty">ไม่มีประวัติการเติมเงิน</string>
 	<string name="express_inquiry_delete_warning_multiple">ลบ %d รายการประวัติที่เลือก?</string>
 	<string name="express_inquiry_delete_warning_single">ลบรายการที่เลือก?</string>
+	<string name="login_before_use">กรุณาเข้าระบบก่อนใช้งาน</string>
 </resources>
