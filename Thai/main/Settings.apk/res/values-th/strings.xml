@@ -3033,4 +3033,5 @@ PIN อาจไม่ถูกต้อง"</string>
 	<string name="miui_screensaver_usage">เมื่อเปิดใช้งาน รูปภาพในอัลบั้มภาพพักหน้าจอจะแสดงซ้ำอีก 5 วินาทีหลังจากหน้าจอดับลง</string>
 	<string name="only_when_charging">เมื่อชาร์จแบตเตอรี่เท่านั้น</string>
 	<string name="picture_source">แหล่งข้อมูลรูปภาพ</string>
+	<string name="cleaner_support_hints">ขับเคลื่อนโดย Clean Master</string>
 </resources>
