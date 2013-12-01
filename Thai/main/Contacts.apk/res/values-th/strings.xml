@@ -33,7 +33,7 @@
     <string name="resource_select">เลือก</string>
     <string name="resource_buy">ซื้อ</string>
     <string name="resource_importing">กำลังนำเข้า</string>
-    <string name="online_no_network">ไม่สามารถเชื่อต่อกับเน็ตเวิร์คได้</string>
+    <string name="online_no_network">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="online_search_hint">ค้นหาแหล่งที่มาที่ออนไลน์อยู่</string>
     <string name="loading">กำลังโหลด...</string>
     <string name="download_failed">นำเข้าล้มเหลว</string>

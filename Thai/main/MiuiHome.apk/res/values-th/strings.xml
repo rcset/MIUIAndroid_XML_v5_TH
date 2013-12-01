@@ -222,7 +222,7 @@
     <string name="resource_delete_all">ลบ %1$d แหล่งข้อมูลที่เลือกหรือไม่?</string>
     <string name="resource_delete_confirm">คุณแน่ใจหรือไม่ว่าต้องการลบแหล่งข้อมูลเหล่านี้?</string>
     <string name="resource_delta_update_failed">การปรับปรุงเดลต้าล้มเหลว แหล่งข้อมูลที่สมบูรณ์จะถูกดาวน์โหลด</string>
-    <string name="resource_delta_update_successful">การปรับปรุงเดลต้าเสร็จแล้ว กำลังบันทึก %1$s .</string>
+    <string name="resource_delta_update_successful">การปรับปรุงเดลต้าเสร็จแล้ว กำลังบันทึก %1$s</string>
     <string name="resource_detail">รายละเอียด</string>
     <string name="resource_download">ดาวน์โหลด</string>
     <string name="resource_downloaded_title">ดาวน์โหลดแหล่งข้อมูลแล้ว</string>
@@ -242,7 +242,7 @@
     <string name="resource_online">ออนไลน์ %1$s</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">ฟรี</string>
-    <string name="resource_price_unit">เครดิต MI</string>
+    <string name="resource_price_unit">Miเครดิต</string>
     <string name="resource_ringtone_default">เสียงเรียกเข้า</string>
     <string name="resource_see_more">ดูเพิ่มเติม</string>
     <string name="resource_select">เลือก</string>

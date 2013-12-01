@@ -3,8 +3,8 @@
     <string name="app_name">ธีม</string>
     <string name="theme_import_activity_label">อัปเดตธีม</string>
     <string name="theme_changing_dialog_title">กำลังปรับใช้ธีม กรุณารอสักครู่...</string>
-    <string name="theme_changed_message">ปรับใช้ธีม %1$s เสร็จแล้ว</string>
-    <string name="theme_changed_failed_message">การปรับใช้ธีม %1$s ล้มเหลว</string>
+    <string name="theme_changed_message">ปรับใช้ธีมแล้ว</string>
+    <string name="theme_changed_failed_message">ปรับใช้ธีมล้มเหลว</string>
     <string name="backup_preference_title">สำรองธีม</string>
     <string name="backup_theme_dialog_ok">สำรองธีม</string>
     <string name="backup_theme_dialog_message">สำรองธีมล่าสุดไปยัง %1$s</string>
@@ -159,9 +159,9 @@
     <string name="resource_title">รายละเอียดแหล่งข้อมูล</string>
     <string name="resource_download">ดาวน์โหลด</string>
     <string name="resource_downloading">กำลังดาวน์โหลด</string>
-    <string name="resource_waiting_download">รอดาวน์โหลด ...</string>
+    <string name="resource_waiting_download">กำลังรอดาวน์โหลด ...</string>
     <string name="resource_import_successful">ดาวน์โหลดเสร็จแล้ว</string>
-    <string name="resource_delta_update_successful">การอัปเดตส่วนเสริมเสร็จแล้ว，กำลังบันทึก %1$s.</string>
+    <string name="resource_delta_update_successful">การอัปเดตส่วนเสริมเสร็จแล้ว กำลังบันทึก %1$s</string>
     <string name="resource_delta_update_failed">การอัปเดตส่วนเสริมล้มเหลว! จะดาวน์โหลดแหล่งข้อมูลที่สมบูรณ์</string>
     <string name="resource_apply">นำไปใช้</string>
     <string name="resource_update">อัปเดต</string>
@@ -191,8 +191,8 @@
     <string name="resource_see_more">ดูเพิ่มเติม</string>
     <string name="resource_no_result">ไม่มี</string>
     <string name="resource_list_title">เลือกล่าสุด</string>
-    <string name="resource_get_auth_checking">กำลังตรวจสอบสิทธิ์เข้าใช้งาน...</string>
-    <string name="resource_get_auth_retrieving">กำลังเรียกหาสิทธิ์เข้าใช้งาน...</string>
+    <string name="resource_get_auth_checking">กำลังตรวจสอบอนุญาตการเข้าใช้งาน...</string>
+    <string name="resource_get_auth_retrieving">กำลังเรียกหาอนุญาตการเข้าใช้งาน...</string>
     <string name="resource_get_auth_missing">ธีมไม่ได้ดาวน์โหลดจากธีมมาร์เก็ต กรุณาดาวน์โหลดจากธีมมาร์เก็ต</string>
     <string name="resource_get_auth_exceed_max_limit_title">ถึงขีดจำกัดสิทธิ์เข้าใช้งาน</string>
     <string name="resource_get_auth_exceed_max_limit_tips">ธีมไม่สามารถทำงานบนอุปกรณ์ล่าสุด คุณได้ใช้บัญชี Xiaomi มากถึง 10 บัญชี กรุณาใช้บัญชีอื่น </string>
@@ -253,7 +253,7 @@
     <string name="resource_send">ส่ง</string>
     <string name="resource_unable_to_access">"ขออภัย
 ข้อมูลที่คุณกำลังดูไม่สามารถใช้งานได้ในประเทศของคุณ"</string>
-    <string name="resource_unknow_error">ข้อผิดพลากไม่รู้จัก</string>
+    <string name="resource_unknow_error">ข้อผิดพลาดไม่รู้จัก</string>
     <string name="resource_user_know">ตกลง</string>
     <string name="settings">การตั้งค่า</string>
     <string name="to_activate_the_account">กรุณาเปิดใช้งานบัญชี Xiaomi</string>

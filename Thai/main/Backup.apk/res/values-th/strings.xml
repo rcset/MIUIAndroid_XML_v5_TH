@@ -101,7 +101,7 @@
     <string name="nothing_searched">ไม่พบผลการค้นหา</string>
     <string name="restore_counts">คืนค่า:</string>
     <string name="service_stoped">บริการถูกหยุด</string>
-    <string name="sc_network_unavailable">เชื่อมต่อกับเน็ตเวิร์คไม่ได้</string>
+    <string name="sc_network_unavailable">เชื่อมต่อกับเครือข่ายไม่ได้</string>
     <string name="sc_bad_request">คำขอไม่ดี</string>
     <string name="sc_unaccess_password_file">"อย่าเก็บข้อมูลรหัสผ่าน Wi-Fi"</string>
     <string name="sc_service_unavailable">บริการคลาวด์ไม่สามารถใช้ได้</string>
@@ -150,7 +150,7 @@
     <string name="current_sim">ซิมการ์ดปัจจุบัน</string>
     <string name="date_format">dd-MM-yyyy HH:mm:ss</string>
     <string name="dir_date_format">dd-MM-yyyy_HH-mm-ss</string>
-    <string name="no_network">"เน็ตเวิร์คผิดพลาด กรุณาตรวจสอบการเชื่อมต่อ"</string>
+    <string name="no_network">"เครือข่ายผิดพลาด กรุณาตรวจสอบการเชื่อมต่อ"</string>
     <string name="retry">ลองใหม่</string>
     <string name="select_all">เลือกทั้งหมด</string>
     <string name="reverse_all">เคลียร์ทั้งหมด</string>

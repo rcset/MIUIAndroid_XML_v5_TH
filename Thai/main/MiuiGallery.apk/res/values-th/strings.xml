@@ -93,10 +93,10 @@
     <string name="confirm_delete">ยืนยันลบ %s รายการ?</string>
     <string name="confirm_delete_cloud_all_item_page" formatted="false">%s ภาพ %s อัลบั้ม ยืนยันการลบ?</string>
     <string name="delete_fail_too_many_items">ลบล้มเหลว เป็นไปได้ว่ารายการที่เลือกมากเกินไป</string>
-    <string name="action_fail_unknown_error">ดำเนินการล้มเหวล เนื่องจากข้อผิดพลาดที่ไม่รู้จัก</string>
+    <string name="action_fail_unknown_error">ดำเนินการล้มเหลว เนื่องจากข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="add_to_cloud_fail_too_many_items">ดำเนินการล้มเหลว เป็นไปได้ว่ารายการที่เลือกมากเกินไป</string>
     <string name="confirm_delete_album" formatted="false">ยืนยันการลบ %s อัลบั้ม (รวมถึง %s รายการ)?</string>
-    <string name="confirm_delete_system_album">%s อัลบั้มในอัลบั้มระบบ ยืนยันการลบ?</string>
+    <string name="confirm_delete_system_album">%s อัลบั้มระบบ ยืนยันการลบ?</string>
     <string name="operation_delete_confirm_message_folder">"โฟลเดอร์และไฟล์ในนั้นจะถูกลบในเวลาเดียวกัน"</string>
     <string name="delete_folder">คุณแน่ใจที่จะลบ %1$d โฟลเดอร์ที่เลือก?</string>
     <string name="delete_file">คุณแน่ใจที่จะลบ %1$d ไฟล์ที่เลือก?</string>
@@ -190,9 +190,9 @@
     <string name="set_hidden_album">ซ่อนอัลบั้ม</string>
     <string name="remove_hidden_album">ยกเลิกซ่อนอัลบั้ม</string>
     <string name="photos">รูปภาพ</string>
-    <string name="tab_lockscreen_text">วอลเปเปอร์ล็อกหน้าจอ</string>
-    <string name="tab_wallpaper_text">วอลเปเปอร์หน้าจอหลัก</string>
-    <string name="tab_all_text">ตั้งค่าทั้งหมด</string>
+    <string name="tab_lockscreen_text">ล็อกหน้าจอ</string>
+    <string name="tab_wallpaper_text">หน้าจอหลัก</string>
+    <string name="tab_all_text">ทั้งหมด</string>
     <string name="cloud_gallery_space_full">อัปโหลดล้มเหลว ที่เก็บคลาวด์เต็ม</string>
     <string name="cloud_gallery_recyclebin_full">ถังขยะคลาวด์เต็ม กรุณาทำให้ถังว่าโดยไปที่ i.xiaomi.com</string>
     <string name="sync_history_power_on">ทำการซิงค์ขณะชารต์</string>
@@ -207,7 +207,7 @@
     <string name="alert_message_open_sync">คุณต้องเปิดใช้งานซิงค์ก่อน เปิดใช้งานตอนนี้?</string>
     <string name="open">เปิดใช้งาน</string>
     <string name="alert_message_initial_cloud">ระบบจะอัพโหลดภาพและภาพหน้าจอทั้งเก่าและใหม่อัตโนมัติ เมื่อต่อ  Wi-Fi เท่านั้น</string>
-    <string name="cloud_gallery_no_pictures">ไม่มีรูปภาพที่พบใน Mi คลาวด์</string>
+    <string name="cloud_gallery_no_pictures">ไม่มีรูปภาพที่พบใน Miคลาวด์</string>
     <string name="no_network_connected">การเชื่อมต่อไม่พร้อมใช้งาน</string>
     <string name="initial_cloud_text">ทุกเวลาทุกที่ · จัดการและดูภาพของคุณ</string>
     <string name="initial_cloud_button_text">เริ่มใช้</string>
@@ -398,9 +398,9 @@
     <string name="miui_capture_screen_folder_display_name">ภาพหน้าจอ</string>
     <string name="internal_camera_folder_display_name">กล้องถ่ายภาพภายใน</string>
     <string name="internal_miui_capture_screen_folder_display_name">ภาพหน้าจอภายใน</string>
-    <string name="miliao_folder_display_name">MiTalk</string>
+    <string name="miliao_folder_display_name">Miทอร์ค</string>
     <string name="miliao_painting_folder_display_name">MiTalk Painting</string>
-    <string name="miliao_saved_folder_display_name">MiTalk บันทึกแล้ว</string>
+    <string name="miliao_saved_folder_display_name">Miทอร์ค บันทึกแล้ว</string>
     <string name="mishop_saved_folder_display_name">MiShop บันทึกแล้ว</string>
     <string name="demo_video_folder_display_name">วิดีโอตัวอย่าง</string>
     <string name="ucdownloads_screenshot">เบราเซอร์ UC</string>

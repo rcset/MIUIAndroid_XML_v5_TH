@@ -495,7 +495,7 @@
     <string name="menu_disable_save_bandwidth_mode">ปิดใช้งานขีดจำกัดข้อมูล</string>
     <string name="menu_save_bandwidth_mode_first_clicked_txt">"ห้ามใช้เครือข่ายมือถือเพื่อโหลดภาพล่วงหน้าหรือแสดงภาพอัตโนมัติ"</string>
     <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">ตกลง</string>
-    <string name="menu_save_bandwidth_mode_open_toast">เปิดใช้งานปีดจำกัดข้อมูลมือถือ</string>
+    <string name="menu_save_bandwidth_mode_open_toast">เปิดใช้งานปิดจำกัดข้อมูลมือถือ</string>
     <string name="menu_save_bandwidth_mode_close_toast">ปิดใช้งานขีดจำกัดข้อมูลมือถือ</string>
     <string name="return_to_homepage">ไปยังหน้าเริ่มต้น</string>
     <string name="notif_install_successful">ดาวน์โหลดเสร็จสิ้น</string>
