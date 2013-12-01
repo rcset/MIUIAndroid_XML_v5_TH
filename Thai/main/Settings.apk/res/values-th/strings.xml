@@ -1062,7 +1062,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="dndm_vip_call_setting_title">ตั้งค่าข้อยกเว้น</string>
     <string name="dndm_vip_call_summary_contact">รายชื่อทั้งหมด</string>
     <string name="dndm_vip_call_summary_custom">%d ข้อยกเว้น</string>
-    <string name="dndm_vip_call_summary_none">สัมผัสเพื่อปรับแต่ง</string>
+    <string name="dndm_vip_call_summary_none">แตะเพื่อปรับแต่ง</string>
     <string name="dndm_vip_list_contact">รายชื่อทั้งหมด</string>
     <string name="dndm_vip_list_custom_group">ข้อยกเว้น</string>
     <string name="dndm_vip_list_group">รายการข้อยกเว้น</string>

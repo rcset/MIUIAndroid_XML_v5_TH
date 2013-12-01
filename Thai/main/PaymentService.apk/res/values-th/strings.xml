@@ -3,7 +3,7 @@
   <string name="account_detail">"บัญชี Xiaomi:
 %1$s"</string>
   <string name="app_name">บริการชำระเงิน</string>
-  <string name="balance">ยอดคงเหลือ: %1$s Miเครดิต</string>
+  <string name="balance">ยอดคงเหลือ : %1$s Miเครดิต</string>
   <string name="balance_giftcard_payment">%1$s Miเครดิต（%2$s-บัตรของขวัญ Miเครดิต）</string>
   <string name="balance_payment">%1$s Miเครดิต</string>
   <string name="bankcall_bank_account">บัตรธนาคาร:</string>
@@ -309,7 +309,7 @@
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;ลืมรูปแบบรหัสผ่าน&lt;/u&gt;</string>
   <string name="login">เข้าระบบ</string>
   <string name="memu_refresh">รีเฟรช</string>
-  <string name="mibi_license_message">สัมผัส ตกลง หากยอมรับข้อตกลงและเงื่อนไขที่ระบุไว้ใน %1$s</string>
+  <string name="mibi_license_message">แตะ ตกลง หากยอมรับข้อตกลงและเงื่อนไขที่ระบุไว้ใน %1$s</string>
   <string name="mibi_license_message_span">ข้อตกลงการใช้งาน Miเครดิต</string>
   <string name="mibi_license_title">ข้อตกลงการใช้งาน</string>
   <string name="mili_center">Miเครดิต</string>
@@ -328,7 +328,7 @@
   <string name="msg_telecom_order_denom_label">จำนวนเงินสุทธิ:</string>
   <string name="msg_telecom_order_goods">%1s Miเครดิต</string>
   <string name="msg_telecom_order_goods_label">รายละเอียดสินค้า:</string>
-  <string name="msg_telecom_picker_hint_1_1">หลังจากสัมผัส ยืนยันการชำระเงิน โทรศัพท์ของคุณจะ</string>
+  <string name="msg_telecom_picker_hint_1_1">หลังจากแตะ ยืนยันการชำระเงิน โทรศัพท์ของคุณจะ</string>
   <string name="msg_telecom_picker_hint_1_2">ติดต่อผู้ให้บริการเครือข่ายอัตโนมัติ</string>
   <string name="msg_telecom_picker_hint_2_1">ผู้ให้บริการเครือข่ายของคุณได้รับการติดต่อแล้ว!</string>
   <string name="msg_telecom_picker_hint_2_2">คุณจะได้รับข้อความยืนยันในไม่ช้า</string>

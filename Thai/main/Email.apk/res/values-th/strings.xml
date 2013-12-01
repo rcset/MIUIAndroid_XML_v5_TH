@@ -539,7 +539,7 @@
     <string name="preference_summary_header_format">%1$s: %2$s</string>
     <string name="preference_summary_uploading_percent">กำลังอัปโหลด (%1$d%%)</string>
     <string name="preference_summary_uploading_format">: %1$d จาก %2$d</string>
-    <string name="preference_summary_uploading_paused">พักชั่วคราว: สัมผัสเพื่อโหลดต่อ</string>
+    <string name="preference_summary_uploading_paused">พักชั่วคราว: แตะเพื่อโหลดต่อ</string>
     <string name="preference_plus_sync_all_prompt_title">ภาพที่อัปโหลดที่มีอยู่</string>
     <string name="preference_plus_sync_all_prompt_text">กำลังอัปโหลดภาพและวิดีโอ ที่ยังไม่ได้อัปโหลดจากมือถือของคุณไปยังอัลบั้มส่วนตัวบนเว็บไซต์ อาจจะใช้เวลาสักครู่แต่ดำเนินการในพื้นหลัง คุณต้องการเริ่มต่อ?</string>
     <string name="preference_plus_sync_all_prompt_yes">ใช่</string>

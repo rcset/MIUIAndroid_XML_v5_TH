@@ -760,7 +760,7 @@
     <string name="ic_menu_back">กลับ</string>
     <string name="preference_display">แสดง</string>
     <string name="preference_simple_mode_title">โหมดง่าย</string>
-    <string name="preference_simple_mode_description">หัวข้อรายการไม่สามารถแสดงรูปอวาตาร์ เจ้าของและบริษัท</string>
+    <string name="preference_simple_mode_description">หัวข้อรายการไม่สามารถแสดงรูปประจำตัวเจ้าของและบริษัท</string>
     <string name="preference_contacts">รายชื่อ</string>
     <string name="preference_contacts_display">แสดงรายชื่อ</string>
     <string name="preference_contacts_more">จัดระเบียบรายชื่อของคุณ</string>
@@ -771,13 +771,13 @@
     <string name="preference_telocation_summary_countrycode_on">เพิ่มรหัสเมืองอัตโนมัติ</string>
     <string name="preference_telocation_summary_countrycode_off">ไม่ต้องเพิ่มรหัสเมืองอัตโนมัติ</string>
     <string name="preference_phone">เบอร์โทรศัพท์</string>
-    <string name="preference_dial_pad_touch_tone_title">โทนเสียงกดหมุนโทรศัพท์</string>
+    <string name="preference_dial_pad_touch_tone_title">เสียงแตะแป้นหมายเลข</string>
     <string name="preference_auto_ip_title">IP แบบอัตโนมัติ</string>
     <string name="preference_auto_ip_summary_disable">ยังไม่เปิดใช้งาน</string>
     <string name="preference_auto_ip_summary_on">"คำนำหน้า IP ของอาชีพ: %s"</string>
     <string name="preference_phone_more_title">การตั้งค่าเบอร์โทรศัพท์อื่นๆอีก</string>
-    <string name="preference_dial_pad_touch_tone_switch">โทนเสียงกดหมุนโทรศัพท์</string>
-    <string name="preference_tone_title">โทนเสียง</string>
+    <string name="preference_dial_pad_touch_tone_switch">เสียงแตะแป้นหมายเลข</string>
+    <string name="preference_tone_title">เสียง</string>
     <string name="preference_dial_pad_touch_tone_default">ค่าเริ่มต้น</string>
     <string name="preference_dial_pad_touch_tone_piano">เสียงเปียโน</string>
     <string name="preference_dial_pad_touch_tone_human">เสียงมนุษย์</string>
@@ -887,7 +887,7 @@
     <string name="smart_group_frequency_3">ภายใน 6 เดือน</string>
     <string name="smart_group_frequency_4">เกินกว่า 6 เดือน</string>
     <string name="contact_detail_calllog_call_record_tips">บันทึกการโทร</string>
-    <string name="contact_detail_calllog_call_note_tips">Call note</string>
+    <string name="contact_detail_calllog_call_note_tips">โน๊ตการโทร</string>
     <string name="import_from_other_phone">นำเข้าจากโทรศัพท์เครื่องอื่น</string>
     <string name="device_brand_title">เลือกยี่ห้อเครื่องโทรศัพท์</string>
     <string name="device_version_title">เลือกรุ่นเครื่องโทรศัพท์</string>

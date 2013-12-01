@@ -873,7 +873,7 @@
     <string name="searchview_description_submit">ส่งข้อความค้นหา</string>
     <string name="searchview_description_voice">ค้นหาด้วยเสียง</string>
     <string name="enable_explore_by_touch_warning_title">เปิดใช้งาน \"สำรวจโดยการแตะ\" หรือไม่</string>
-    <string name="enable_explore_by_touch_warning_message">%1$s ต้องการเปิดใช้งาน \"สำรวจโดยการแตะ\" เมื่อเปิดใช้งานแล้ว คุณสามารถฟังหรือดูคำอธิบายของสิ่งที่อยู่ใต้นิ้วข​​องคุณ หรือใช้ท่าทางสัมผัสต่างๆ เพื่อโต้ตอบกับโทรศัพท์ได้</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s ต้องการเปิดใช้งาน \"สำรวจโดยการแตะ\" เมื่อเปิดใช้งานแล้ว คุณสามารถฟังหรือดูคำอธิบายของสิ่งที่อยู่ใต้นิ้วข​​องคุณ หรือใช้ท่าทางแตะต่างๆ เพื่อโต้ตอบกับโทรศัพท์ได้</string>
     <string name="oneMonthDurationPast">1 เดือนที่ผ่านมา</string>
     <string name="beforeOneMonthDurationPast">ก่อน 1 เดือนที่แล้ว</string>
     <string name="last_month">เดือนที่แล้ว</string>

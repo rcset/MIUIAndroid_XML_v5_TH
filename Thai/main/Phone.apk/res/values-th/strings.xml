@@ -1051,7 +1051,7 @@
     <string name="call_record_button_label">กำลังบันทึกเสียง %s</string>
     <string name="call_record_unknown_error">เกิดข้อผิดพลาดที่ไม่สามารถระบุได้ขณะบันทึกเสียง</string>
     <string name="call_record_notification_message_low_space_miui">บันทึกเสียงถูกหยุด: ไม่มีพิ้นที่</string>
-    <string name="call_record_notification_message_miui">สัมผัสเพื่อแสดง %s.</string>
+    <string name="call_record_notification_message_miui">แตะเพื่อแสดง %s</string>
     <string name="call_record_notification_message_sd_unmounted_miui">บันทึกเสียงถูกหยุด: การ์ดความจำอันเมาท์</string>
     <string name="call_record_notification_message_start_failed">อุปกรณ์บันทึกเสียงถูกใช้โดยแอปพลิเคชันอื่น</string>
     <string name="call_record_notification_title_error_miui">บันทึกเสียงล้มเหลว</string>

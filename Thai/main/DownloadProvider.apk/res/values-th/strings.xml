@@ -25,7 +25,7 @@
     <string name="wifi_required_title">ไฟล์ดาวน์โหลดใหญ่เกินไปสำหรับเครือข่ายมือถือ</string>
     <string name="wifi_required_body" formatted="false">"คุณจะต้องใช้ Wi-Fi เพื่อดาวน์โหลด %s ให้เสร็จสิ้น 
 
-สัมผัส %s เพิ่มเริ่มดาวน์โหลดนี้ในครั้งต่อไปที่คุณเชื่อมต่อเครือข่าย Wi-Fi"</string>
+แตะ %s เพิ่มเริ่มดาวน์โหลดนี้ในครั้งต่อไปที่คุณเชื่อมต่อเครือข่าย Wi-Fi"</string>
     <string name="wifi_recommended_title">เตือนทราฟฟิก</string>
     <string name="wifi_recommended_body" formatted="false">"เกี่ยวกับดาวน์โหลดด้วยเครือข่ายผู้ให้บริการ：
 

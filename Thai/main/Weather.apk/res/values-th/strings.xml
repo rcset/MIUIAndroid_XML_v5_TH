@@ -22,7 +22,7 @@
   <string name="act_weather_find_city_search_online">ค้นหาเมืองออนไลน์</string>
   <string name="act_weather_find_city_searching">กำลังค้นหา…</string>
   <string name="act_weather_main_aqi_index">คุณภาพอากาศ: %s</string>
-  <string name="act_weather_main_data_null">ไม่มีข้อมูลพยากรณ์อากาศ สัมผัสเพื่อรีเฟรช</string>
+  <string name="act_weather_main_data_null">ไม่มีข้อมูลพยากรณ์อากาศ แตะเพื่อรีเฟรช</string>
   <string name="act_weather_range_select">เลือกเมือง</string>
   <string name="act_weather_range_title">การพยากรณ์อากาศโดยรอบ</string>
   <string name="act_weather_update_time">%s อัปเดตแล้ว</string>
