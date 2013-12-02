@@ -44,10 +44,10 @@
     <string name="toast_in_call">คุณไม่สามารถเปิดวิทยุเมื่ออยู่ในสาย</string>
     <string name="empty_list">ไม่มีสถานี</string>
     <string name="fm_recorder_name">บันทึกเสียง</string>
-    <string name="toast_recording_lost_warning">การบันทึกของคุณจะหายไปเนื่องจากเอา SD การ์ดออก!</string>
+    <string name="toast_recording_lost_warning">การบันทึกของคุณจะหายไปเนื่องจากเอาการ์ดความจำออก!</string>
     <string name="toast_start_recording">เริ่มการบันทึก ...</string>
-    <string name="toast_sdcard_missing">ไม่มี SD การ์ด!</string>
-    <string name="toast_sdcard_insufficient_space">พื้นที่ใน SD การ์ดไม่เพียงพอ!</string>
+    <string name="toast_sdcard_missing">ไม่มีการ์ดความจำ!</string>
+    <string name="toast_sdcard_insufficient_space">พื้นที่ในการ์ดความจำไม่เพียงพอ!</string>
     <string name="toast_recorder_internal_error">เกิดข้อผิดพลาดในการบันทึก!</string>
     <string name="toast_player_internal_error">เกิดข้อผิดพลาดในเครื่องเล่น!</string>
     <string name="toast_powerup_before_record_warning">กรุณาเปิดวิทยุก่อน!</string>

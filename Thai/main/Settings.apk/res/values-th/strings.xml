@@ -1933,7 +1933,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="perm_hips_security_prompt_root_step6">คุณแน่ใจหรือว่าต้องการจะอนุญาต %1$s ใช้สิทธิ์ ROOT?</string>
     <string name="perm">การอนุญาต</string>
     <string name="perm_app">แอป</string>
-    <string name="perm_log">บันทึก</string>
+    <string name="perm_log">บันทึกการใช้งาน</string>
     <string name="perm_header">ตรวจสอบ %1$d แอป</string>
     <string name="perm_header_disabled">การตรวจสอบอนุญาตถูกปิดใช้งาน</string>
     <string name="perm_su_switch">อนุญาต ROOT</string>
@@ -2466,7 +2466,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="internal_format">ลบหน่วยควาจำภายใน</string>
     <string name="internal_format_summary">ลบข้อมูลทั้งหมดในหน่วบความจำภายใน เช่น ภาพ เพลง</string>
     <string name="bugreport_tool_log_toast_generate_bugreport">กำลังสร้างรายงานข้อผิดพลาด</string>
-    <string name="bugreport_tool_log_toast">บันทึกบันทึกการใช้ไปยัง %s</string>
+    <string name="bugreport_tool_log_toast">บันทึกการใช้ไปยัง %s</string>
     <string name="wifi_tether_setting_title">การตั้งค่าเบื้องต้น</string>
     <string name="wifi_priority_settings_label">การตั้งค่าลำดับความสำคัญ</string>
     <string name="audio_profile_settings_title">โปรไฟล์เสียง</string>

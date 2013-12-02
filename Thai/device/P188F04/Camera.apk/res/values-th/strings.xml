@@ -327,7 +327,7 @@
     <string name="set_as">ตั้งเป็น</string>
     <string name="no_thumbnail">ไม่มีรูปย่อ</string>
     <string name="loading">กำลังโหลด ...</string>
-    <string name="crop_saved">ภาพที่ตัดบางส่วนแล้วบันทึกไว้ใน %s .</string>
+    <string name="crop_saved">ภาพที่ตัดบางส่วนแล้วบันทึกไว้ใน %s</string>
     <string name="video_err">ไม่สามารถเล่นวิดีโอ</string>
     <string name="iso">ISO</string>
     <string name="exposure_time">ระยะเวลารับแสง</string>

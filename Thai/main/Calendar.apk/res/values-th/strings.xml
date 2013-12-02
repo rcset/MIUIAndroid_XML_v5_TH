@@ -118,8 +118,8 @@
     <string name="preferences_general_title">การตั้งค่ามุมมองปฏิทิน"</string>
     <string name="preferences_reminder_title">การตั้งค่าการแจ้งเตือน"</string>
     <string name="preferences_hide_declined_title">ซ่อนกิจกรรมที่ปฏิเสธ"</string>
-    <string name="preferences_week_start_day_title">วันแรกของสัปดาห์"</string>
-    <string name="preferences_week_start_day_dialog">วันแรกของสัปดาห์"</string>
+    <string name="preferences_week_start_day_title">วันเริ่มต้นสัปดาห์"</string>
+    <string name="preferences_week_start_day_dialog">วันเริ่มต้นสัปดาห์"</string>
     <string name="preferences_week_start_day_default">-1"</string>
     <string name="preferences_clear_search_history_title">ล้างประวัติการค้นหา"</string>
     <string name="preferences_clear_search_history_summary">ลบการค้นหาทั้งหมดที่คุณได้ดำเนินการ"</string>
@@ -135,10 +135,10 @@
     <string name="preferences_use_home_tz_title">ใช้โซนเวลาหลัก"</string>
     <string name="preferences_use_home_tz_descrip">แสดงปฏิทินและเหตุการณ์ในโซนเวลาหลักของคุณเมื่อเดินทาง"</string>
     <string name="preferences_home_tz_title">โซนเวลาหลัก"</string>
-    <string name="preferences_home_tz_default">Asia/Bangkok"</string>
+    <string name="preferences_home_tz_default">เอเชีย/กรุงเทพ"</string>
     <string name="preferences_show_week_num_title">แสดงหมายเลขสัปดาห์"</string>
     <string name="preferences_about_title">เกี่ยวกับ"</string>
-    <string name="preferences_build_version">สร้างรุ่น"</string>
+    <string name="preferences_build_version">เวอร์ชัน"</string>
     <string name="gadget_title">ปฏิทิน"</string>
     <string name="gadget_no_events">ไม่มีเหตุการณ์ในปฏิทิน ที่กำลังจะมาถึง"</string>
     <string name="tardis">TARDIS"</string>

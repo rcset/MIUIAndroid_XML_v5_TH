@@ -96,7 +96,7 @@
     <string name="traffic_used_status">"ใข้งาน: 
 %s"</string>
     <string name="unknown_traffic_hint">ทราฟฟิกไม่รู้จัก คุณต้องการตั้งค่าตอนนี้?</string>
-    <string name="finish_traffic_settings_hint">บันทึกตั้งค่าแล้ว!</string>
+    <string name="finish_traffic_settings_hint">บันทึกการตั้งค่าแล้ว!</string>
     <string name="finish_traffic_settings_title">แก้ไขทราฟฟิกข้อมูล</string>
     <string name="finish_traffic_settings_message">ทราฟฟิกที่ใช้ %s ข้อมูลถูกต้อง? หากไม่ถูกต้องโปรดแก้ไข</string>
     <string name="dialog_button_adjust">แก้ไข</string>
