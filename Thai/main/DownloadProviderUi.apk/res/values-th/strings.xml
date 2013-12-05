@@ -9,7 +9,7 @@
     <string name="button_sort_by_date">จัดเรียงตามวันที่</string>
     <string name="download_queued">อยู่ในเรียงไฟล์ดาวน์โหลด</string>
     <string name="download_running">กำลังดำเนินการ</string>
-    <string name="download_success">เสร็จสมบูรณ์</string>
+    <string name="download_success">เสร็จสิ้น</string>
     <string name="download_error">ไม่สำเร็จ</string>
     <string name="download_error_insufficient_space">พื้นที่ไม่เพียงพอ</string>
     <string name="dialog_title_not_available">ไม่สามารถดาวน์โหลดได้</string>

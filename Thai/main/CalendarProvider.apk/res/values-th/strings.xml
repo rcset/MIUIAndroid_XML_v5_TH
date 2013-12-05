@@ -19,6 +19,6 @@
     <string name="holiday_update_summary">คลิกที่ตรวจสอบการปรับปรุง</string>
     <string name="holiday_data_updating">กำลังอัปเดต ...</string>
     <string name="holiday_data_update_failed">การตรวจสอบและปรับปรุงผิดพลาด โปรดลองอีกครั้งในภายหลัง</string>
-    <string name="holiday_data_update_succeed">ตรวจสอบสำหรับการปรับปรุงเสร็จสมบูรณ์</string>
+    <string name="holiday_data_update_succeed">ตรวจสอบสำหรับการปรับปรุงเสร็จสิ้น</string>
     <string name="holiday_data_no_network">ไม่มีเครือข่าย โปรดลองอีกครั้งในภายหลัง</string>
 </resources>

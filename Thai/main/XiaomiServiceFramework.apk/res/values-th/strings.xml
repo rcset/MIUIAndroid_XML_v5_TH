@@ -47,7 +47,7 @@
     <string name="micloud_delete_account">ลบบัญชี"</string>
     <string name="micloud_active_email_sent_1">เราได้ส่งลิงค์เพื่อเปิดใช้ทาง E-mail ของคุณแล้ว:"</string>
     <string name="micloud_active_email_sent_2">"</string>
-    <string name="micloud_click_email">คลิกที่ลิงก์ในอีเมลเพื่อเปิดใช้งานบัญชีของคุณ Xiaomi"</string>
+    <string name="micloud_click_email">คลิกที่ลิงค์ในอีเมลเพื่อเปิดใช้งานบัญชีของคุณ Xiaomi"</string>
     <string name="completed">เสร็จ"</string>
     <string name="header_data_and_synchronization">ข้อมูลและการซิงค์"</string>
     <string name="title_reg">ลงทะเบียนบัญชี Xiaomi"</string>

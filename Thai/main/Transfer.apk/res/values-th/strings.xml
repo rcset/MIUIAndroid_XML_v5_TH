@@ -12,7 +12,7 @@
     <string name="ok">ตกลง</string>
     <string name="cancel">ยกเลิก</string>
     <string name="canceling">กำลังยกเลิก</string>
-    <string name="finish">เสร็จสมบูรณ์</string>
+    <string name="finish">เสร็จสิ้น</string>
     <string name="fail">ล้มเหลว</string>
     <string name="failed">ล้มเหลว</string>
     <string name="goback">ย้อนกลับ</string>

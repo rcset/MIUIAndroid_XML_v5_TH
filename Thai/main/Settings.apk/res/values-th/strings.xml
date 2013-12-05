@@ -289,7 +289,7 @@
     <string name="crypt_keeper_encrypted_summary">ที่เข้ารหัส</string>
     <string name="crypt_keeper_desc">"คุณสามารถเข้ารหัสบัญชี การตั้งค่า แอปพลิเคชันที่ดาวน์โหลดมาและข้อมูล สื่อ และไฟล์อื่นๆ ของแอปพลิเคชันนั้นได้ เมื่อคุณเข้ารหัสโทรศัพท์แล้ว คุณจะต้องพิมพ์รหัส PIN หรือรหัสผ่านที่เป็นตัวเลขเพื่อถอดรหัสในแต่ละครั้งที่คุณเปิดเครื่อง คุณไม่สามารถถอดรหัสโทรศัพท์ได้เว้นแต่จะรีเซ็ตข้อมูลเป็นค่าเริ่มต้น ซึ่งจะเป็นการลบข้อมูลทั้งหมด
 
-การเข้ารหัสใช้เวลาอย่างน้อยหนึ่งชั่วโมง คุณต้องเริ่มต้นด้วยการใช้แบตเตอรี่ที่ชาร์จไฟแล้วและเสียบปลั๊กโทรศัพท์ไว้จนกว่าการเข้ารหัสจะเสร็จสมบูรณ์ หากมีการขัดจังหวะกระบวนการเข้ารหัส คุณจะสูญเสียข้อมูลบางส่วนหรือทั้งหมดไป"</string>
+การเข้ารหัสใช้เวลาอย่างน้อยหนึ่งชั่วโมง คุณต้องเริ่มต้นด้วยการใช้แบตเตอรี่ที่ชาร์จไฟแล้วและเสียบปลั๊กโทรศัพท์ไว้จนกว่าการเข้ารหัสจะเสร็จสิ้น หากมีการขัดจังหวะกระบวนการเข้ารหัส คุณจะสูญเสียข้อมูลบางส่วนหรือทั้งหมดไป"</string>
     <string name="crypt_keeper_button_text">เข้ารหัสโทรศัพท์</string>
     <string name="crypt_keeper_low_charge_text">ชาร์จแบตเตอรี่และลองอีกครั้ง</string>
     <string name="crypt_keeper_unplugged_text">เสียบที่ชาร์จของคุณ แล้วลองอีกครั้ง</string>
@@ -298,7 +298,7 @@
     <string name="crypt_keeper_confirm_title">เข้ารหัสหรือไม่</string>
     <string name="crypt_keeper_final_desc">การเข้ารหัสนี้ไม่สามารถย้อนกลับได้และข้อมูลจะสูญหายหากการดำเนินการหยุดชะงัก การเข้ารหัสจะใช้เวลาอย่างน้อยหนึ่งชั่วโมง โดยในระหว่างนั้น โทรศัพท์จะรีสตาร์ทหลายครั้ง</string>
     <string name="crypt_keeper_setup_title">กำลังเข้ารหัส</string>
-    <string name="crypt_keeper_setup_description">รอสักครู่ขณะกำลังเข้ารหัสโทรศัพท์ของคุณ เสร็จสมบูรณ์ ^1%</string>
+    <string name="crypt_keeper_setup_description">รอสักครู่ขณะกำลังเข้ารหัสโทรศัพท์ของคุณ เสร็จสิ้น ^1%</string>
     <string name="crypt_keeper_cooldown">ลองใหม่อีกครั้งใน ^1 วินาที</string>
     <string name="crypt_keeper_enter_password">พิมพ์รหัสผ่านของคุณ</string>
     <string name="crypt_keeper_failed_title">การเข้ารหัสไม่สำเร็จ</string>
@@ -356,7 +356,7 @@
     <string name="lockpassword_cancel_label">ยกเลิก</string>
     <string name="lockpattern_tutorial_cancel_label">ยกเลิก</string>
     <string name="lockpattern_tutorial_continue_label">ถัดไป</string>
-    <string name="lock_setup">การตั้งค่าเสร็จสมบูรณ์</string>
+    <string name="lock_setup">การตั้งค่าเสร็จสิ้น</string>
     <string name="device_admin_title">โปรแกรมควบคุมอุปกรณ์</string>
     <string name="manage_device_admin">โปรแกรมควบคุมอุปกรณ์</string>
     <string name="manage_device_admin_summary">ดูหรือปิดการใช้งานผู้ดูแลอุปกรณ์</string>
@@ -520,7 +520,7 @@
     <string name="wifi_security">ความปลอดภัย</string>
     <string name="wifi_signal">ความแรงสัญญาณ</string>
     <string name="wifi_status">สถานะ</string>
-    <string name="wifi_speed">ความเร็วในการลิงก์</string>
+    <string name="wifi_speed">ความเร็วในการเชื่อมต่อ</string>
     <string name="wifi_ip_address">ที่อยู่ IP</string>
     <string name="wifi_eap_method">วิธีการ EAP</string>
     <string name="please_select_phase2">การตรวจสอบสิทธิ์เฟส 2</string>

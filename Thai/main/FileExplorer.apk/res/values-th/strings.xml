@@ -211,7 +211,7 @@
     <string name="choose_send_type">เลือกวิธีการ</string>
     <string name="download_link_completed">%1$s แบ่งปันผ่าน Miไดร์ฟ แตะที่ลิงค์ข้างล่างเพื่อดู:</string>
     <string name="transing">กำลังส่ง</string>
-    <string name="finished">เสร็จสมบูรณ์</string>
+    <string name="finished">เสร็จแล้ว</string>
     <string name="uploading">กำลังอัปโหลด</string>
     <string name="downloading">กำลังดาวน์โหลด</string>
     <string name="waiting">รอสักครู่</string>

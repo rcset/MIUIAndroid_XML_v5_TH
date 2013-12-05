@@ -674,7 +674,7 @@
     <string name="edit_contact_card_title">แก้ไขนามบัตร</string>
     <string name="preview_contact_card_title">กำลังนำเข้ารายชื่อ…</string>
     <string name="import_contact_card_button">นำเข้ารายชื่อ</string>
-    <string name="success_message_import_from_account">นำเข้าเสร็จสมบูรณ์</string>
+    <string name="success_message_import_from_account">นำเข้าเสร็จสิ้น</string>
     <string name="unknown_contact_name">รายชื่อที่ไม่รู้จัก</string>
     <string name="contactDetailCalllog">บันทึกการโทร</string>
     <string name="add_blacklist">เพิ่มไปยังแบล็กลิส</string>
@@ -735,7 +735,7 @@
     <string name="sim_card_no_free_space_message">ความจุซิมการ์ดของคุณเต็ม ไม่สามารถนำเข้ารายชื่อใหม่ได้. กรุณาเคลียร์ซิมการ์ดและลองใหม่อีกครั้ง</string>
     <string name="sim_contacts">รายชื่อในซิม</string>
     <string name="export_sim_contacts_dialog_message">ซิมการ์ดของท่านสามารถจุได้ %d รายชื่อ ท่านต้องการทำต่อหรือไม่?</string>
-    <string name="export_sim_contact_finish">การส่งออกไปยังซิมการ์ดเสร็จสมบูรณ์</string>
+    <string name="export_sim_contact_finish">การส่งออกไปยังซิมการ์ดเสร็จสิ้น</string>
     <string name="export_sim_contact_finish_success">รายชื่อ %d คัดลอกแล้ว</string>
     <string name="export_sim_contact_finish_failure">ล้มเหลวเพราะที่จัดเก็บเต็ม เสร็จแล้ว: %1$d ยังไม่เสร็จ: %2$d</string>
     <string name="sim_export_loading">กำลังอ่านข้อมูลของซิมการ์ด (อาจใช้เวลาหน่อย)…</string>

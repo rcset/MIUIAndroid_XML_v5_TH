@@ -208,7 +208,7 @@
     <string name="lockscreen_access_pattern_cleared">รูปแบบเคลียร์</string>
     <string name="lockscreen_access_pattern_start">เริ่มต้นรูปแบบ</string>
     <string name="lockscreen_access_pattern_cell_added">เพิ่มเซลล์</string>
-    <string name="lockscreen_access_pattern_detected">รูปแบบเสร็จสมบูรณ์</string>
+    <string name="lockscreen_access_pattern_detected">รูปแบบเสร็จสิ้น</string>
     <string name="lockscreen_transport_prev_description">ปุ่มก่อนหน้า</string>
     <string name="lockscreen_transport_play_description">ปุ่มเล่น</string>
     <string name="lockscreen_emergency_call">โทรฉุกเฉิน</string>

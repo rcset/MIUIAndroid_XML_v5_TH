@@ -124,7 +124,7 @@
     <string name="adjust_traffic_update">อัปเดต</string>
     <string name="adjust_traffic_sms_template_update">อัปเดตเทมเพลตข้อความ</string>
     <string name="updating">กำลังอัปเดต...</string>
-    <string name="update_success">อัปเดตเสร็จสมบูรณ์</string>
+    <string name="update_success">อัปเดตเสร็จสิ้น</string>
     <string name="update_fail">อัปเดตล้มเหลว</string>
     <string name="update_no_network">อัปเดตล้มเหลว กรุณาตรวจสอบการเชื่อมต่อเครือข่าย</string>
     <string name="adjust_traffic_carrier_summary_today">อัปเดต: %1$02d:%2$02d วันนี้</string>
@@ -179,4 +179,5 @@
 	<string name="pref_connect_settings_monitor_running_app">แสดงแอปปฏิเสธเครือข่ายเมื่อกำลังใช้งาน</string>
     <string name="pref_connect_settings_monitor_running_app_summary">แสดงการแจ้งเตือนเมื่อแอปปฏิเสธเครือข่ายกำลังใช้งาน</string>
 	<string name="running_apps_activity_title">แอปกำลังใช้งาน</string>
+	<string name="adjust_module_miss">ไม่มีแอปทราฟฟิก</string>
 </resources>

@@ -178,7 +178,7 @@
     <string name="serviceRegistered">การลงทะเบียนสำเร็จแล้ว</string>
     <string name="serviceErased">ลบเรียบร้อยแล้ว</string>
     <string name="passwordIncorrect">รหัสผ่านไม่ถูกต้อง</string>
-    <string name="mmiComplete">MMI เสร็จสมบูรณ์</string>
+    <string name="mmiComplete">MMI เสร็จสิ้น</string>
     <string name="badPin">PIN เก่าที่คุณพิมพ์ไม่ถูกต้อง</string>
     <string name="badPuk">PUK ที่คุณพิมพ์ไม่ถูกต้อง</string>
     <string name="mismatchPin">PIN ที่คุณพิมพ์ไม่ตรงกัน</string>
@@ -243,7 +243,7 @@
     <string name="cfTemplateForwardedTime">{0}: {1} หลังผ่านไป {2} วินาที</string>
     <string name="cfTemplateRegistered">{0}: ไม่ได้โอนสาย</string>
     <string name="cfTemplateRegisteredTime">{0}: ไม่ได้โอนสาย</string>
-    <string name="fcComplete">รหัสคุณลักษณะเสร็จสมบูรณ์</string>
+    <string name="fcComplete">รหัสคุณลักษณะเสร็จสิ้น</string>
     <string name="fcError">พบปัญหาในการเชื่อมต่อหรือรหัสคุณลักษณะไม่ถูกต้อง</string>
     <string name="httpErrorOk">ตกลง</string>
     <string name="httpError">เกิดข้อผิดพลาดของเครือข่าย</string>
@@ -801,7 +801,7 @@
     <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="granularity_label_character">อักขระ</string>
     <string name="granularity_label_word">คำ</string>
-    <string name="granularity_label_link">ลิงก์</string>
+    <string name="granularity_label_link">ลิงค์</string>
     <string name="granularity_label_line">บรรทัด</string>
     <string name="hour_ampm" formatted="false">%-l%P</string>
     <string name="hour_cap_ampm" formatted="false">%-l%p</string>

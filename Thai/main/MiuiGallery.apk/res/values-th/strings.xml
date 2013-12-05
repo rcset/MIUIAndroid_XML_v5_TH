@@ -168,7 +168,7 @@
     <string name="size_above">%1$s ขึ้นไป</string>
     <string name="size_between">%1$s ถึง %2$s</string>
     <string name="Import">นำเข้า</string>
-    <string name="import_complete">นำเข้าเสร็จสมบูรณ์</string>
+    <string name="import_complete">นำเข้าเสร็จสิ้น</string>
     <string name="import_fail">นำเข้าไม่สำเร็จ</string>
     <string name="camera_connected">เชื่อมต่อกล้องถ่ายรูปแล้ว</string>
     <string name="camera_disconnected">หยุดการเชื่อมต่อกล้อง</string>

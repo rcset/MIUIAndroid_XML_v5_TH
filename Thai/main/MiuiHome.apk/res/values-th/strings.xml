@@ -125,9 +125,9 @@
     <string name="gadget_weather_time_format">MM/d EEE</string>
     <string name="gadget_weather_theme_type">ประเภทแกดเจ็ด</string>
     <string name="gadget_weather_download_title">ดาวน์โหลด</string>
-    <string name="gadget_weather_download_message">ดาวน์โหลดแพคเกจ: %1$s . ขนาด: %2$s . โปรดลองอีกครั้งหลังจากดาวน์โหลดเสร็จสมบูรณ์</string>
+    <string name="gadget_weather_download_message">ดาวน์โหลดแพคเกจ: %1$s ขนาด: %2$s โปรดลองอีกครั้งหลังจากดาวน์โหลดเสร็จสิ้น</string>
     <string name="gadget_weather_download_start">เริ่มต้น</string>
-    <string name="gadget_weather_downloading">กำลังดาวน์โหลดแพคเกจ โปรดลองอีกครั้งหลังจากดาวน์โหลดเสร็จสมบูรณ์</string>
+    <string name="gadget_weather_downloading">กำลังดาวน์โหลดแพคเกจ โปรดลองอีกครั้งหลังจากดาวน์โหลดเสร็จสิ้น</string>
     <string name="gadget_weather_low_temp">อุณหภูมิต่ำ</string>
     <string name="gadget_weather_aqi_title">คุณภาพอากาศ</string>
     <string name="aqi_quality_index_good">ดี</string>

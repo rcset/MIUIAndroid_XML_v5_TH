@@ -106,8 +106,8 @@
   <string name="giftcard_value">(%1$s-บัตรของขวัญ Miเครดิต )</string>
   <string name="hfb_app_name">UMPay</string>
   <string name="hfb_commit">ยืนยันสั่งซื้อ</string>
-  <string name="hfb_complete">ชำระเงินเสร็จสมบูรณ์!</string>
-  <string name="hfb_complete_hint">(ข้อมูลด้านล่างเพื่อช่วยเหลือในการสั่งซื้อเสร็จสมบูรณ์)</string>
+  <string name="hfb_complete">ชำระเงินเสร็จสิ้น!</string>
+  <string name="hfb_complete_hint">(ข้อมูลด้านล่างเพื่อช่วยเหลือในการสั่งซื้อเสร็จสิ้น)</string>
   <string name="hfb_confirm">ยืนยัน</string>
   <string name="hfb_customer_service_phone">บริการลูกค้า: </string>
   <string name="hfb_customer_service_phone_number">4006125880</string>
@@ -131,7 +131,7 @@
   <string name="hfb_network_progress">กำลังร้องขอชำระเงิน กรุณารอเครือข่าย...</string>
   <string name="hfb_order_price">สั่งซื้อทั้งหมด:</string>
   <string name="hfb_other_case">หากคุณไม่ได้รับข้อความ SMS จาก 10658008  กรุณาเปิดช่วยเหลือ</string>
-  <string name="hfb_pad_info">กรุณา %1$s การยืนยัน SMS เพื่อยืนยันการชำระเงินเสร็จสมบูรณ์ ขอบคุณ!</string>
+  <string name="hfb_pad_info">กรุณา %1$s การยืนยัน SMS เพื่อยืนยันการชำระเงินเสร็จสิ้น ขอบคุณ!</string>
   <string name="hfb_pay_by_phone">ชำระเงินด้วยโทรศัพท์:</string>
   <string name="hfb_pay_by_phone_hint">ชำระเงินด้วยเบอร์โทรศัพท์จีน</string>
   <string name="hfb_retry_receive">ลองใหม่</string>
@@ -238,7 +238,7 @@
   <string name="linkpay_send_sms_faild">ส่ง SMS ล้มเหลว!</string>
   <string name="linkpay_send_sms_text_char">ถึง ผู้ใช้ Unicom  กรุณากด "ตกลง" เพื่อส่งข้อความ SMS ไปยังหมายเลขโทรศัพท์ของคุณ</string>
   <string name="linkpay_sendsms_fail">ส่ง SMS ล้มเหลว!</string>
-  <string name="linkpay_sendsms_ok">ส่ง SMS เสร็จสมบูรณ์!</string>
+  <string name="linkpay_sendsms_ok">ส่ง SMS เสร็จสิ้น!</string>
   <string name="linkpay_sendsms_outoftime">SMS หมดเวลา!</string>
   <string name="linkpay_server_connection_error">Linkpay เชื่อมต่อเซิร์ฟเวอร์ผิดพลาด!</string>
   <string name="linkpay_service_phone">บริการลูกค้า:</string>
@@ -252,7 +252,7 @@
   <string name="linkpay_sms_exit_getresult_dialog_message">หากคุณออกระหว่างกระบวนการชำระเงินอาจจะถูกเรียกเก็บเงินจากการสั่งซื้อ</string>
   <string name="linkpay_sms_getresult_error">ไม่ได้รับการตอบสนองจากเซิร์ฟเวอร์ กรุณาลองใหม่ภายหลัง</string>
   <string name="linkpay_sms_pay_faild">Linkpay ชำระเงินล้มเหลว!</string>
-  <string name="linkpay_sms_pay_success">Linkpay ชำระเงินเสร็จสมบูรณ์</string>
+  <string name="linkpay_sms_pay_success">Linkpay ชำระเงินเสร็จสิ้น</string>
   <string name="linkpay_sms_pay_success_thanks">ขอบคุณที่ใช้แพลตฟอร์มการชำระเงิน Unicom สนุกสนานในการสั่งซื้อสินค้า</string>
   <string name="linkpay_sms_payed">Paid</string>
   <string name="linkpay_sms_paying">กำลังชำระเงิน</string>

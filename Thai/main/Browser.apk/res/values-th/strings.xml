@@ -84,7 +84,7 @@
     <string name="shortcut_bookmark_title">เลือกบุ๊กมาร์ก</string>
     <string name="history">ประวัติ</string>
     <string name="menu_view_download">สิ่งที่ดาวน์โหลด</string>
-    <string name="copy_page_url">คัดลอก URL ของหน้าเว็บ</string>
+    <string name="copy_page_url">คัดลอกลิงค์</string>
     <string name="share_page">แบ่งปันหน้าเว็บ</string>
     <string name="menu_save_snapshot">บันทึกไว้อ่านออฟไลน์</string>
     <string name="saving_snapshot">กำลังบันทึก…</string>
@@ -94,10 +94,10 @@
     <string name="contextmenu_openlink">เปิด</string>
     <string name="contextmenu_openlink_newwindow">เปิดในแท็บใหม่</string>
     <string name="contextmenu_openlink_newwindow_background">เปิดในแท็บพื้นหลังใหม่</string>
-    <string name="contextmenu_savelink">บันทึกลิงก์</string>
-    <string name="contextmenu_sharelink">แบ่งปันลิงก์</string>
+    <string name="contextmenu_savelink">บันทึกลิงค์</string>
+    <string name="contextmenu_sharelink">แบ่งปันลิงค์</string>
     <string name="contextmenu_copy">คัดลอก</string>
-    <string name="contextmenu_copylink">คัดลอก URL ของลิงก์</string>
+    <string name="contextmenu_copylink">คัดลอกลิงค์</string>
     <string name="contextmenu_download_image">บันทึกภาพ</string>
     <string name="contextmenu_view_image">ดูภาพ</string>
     <string name="contextmenu_set_wallpaper">ตั้งเป็นวอลเปเปอร์</string>

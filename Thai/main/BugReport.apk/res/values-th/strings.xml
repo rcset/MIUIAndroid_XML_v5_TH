@@ -24,7 +24,7 @@
     <string name="section_err_type">ประเภทข้อเสนอแนะ</string>
     <string name="section_description">รายละเอียด</string>
     <string name="section_screenshot">ภาพหน้าจอ</string>
-    <string name="toast_report_sent_succeed">ส่งรายงานเสร็จสมบูรณ์!</string>
+    <string name="toast_report_sent_succeed">ส่งรายงานเสร็จสิ้น!</string>
     <string name="toast_report_sent_failed">ส่งรายงานผิดพลาด!</string>
     <string name="toast_report_copied_to_clipboard">คัดลอกรายงานไปยังคลิปบอร์ด</string>
     <string name="toast_description_required">คุณจะต้องใส่รายละเอียดก่อนส่งข้อมูล</string>

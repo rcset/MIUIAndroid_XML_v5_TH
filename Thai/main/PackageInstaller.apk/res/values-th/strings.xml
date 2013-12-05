@@ -15,7 +15,7 @@
     <string name="install_failed_older_sdk">แอปพลิเคชันนี้เหมือนกับแอนดรอยเวอร์ชันใหม่เท่านั้น</string>
     <string name="install_failed_cpu_abi_incompatible">"แอปพลิเคชันนี้ไม่สามารถใช้ได้กับเครื่องของคุณ"</string>
     <string name="install_failed_system_incompatible">แอปนี้ไม่สามารถใช้งานกับรอม MIUI!</string>
-    <string name="install_failed_file_not_found">แพคเกจที่ระบุไว้ถูกลบก่อนการติดตั้งถึงจะเสร็จสมบูรณ์</string>
+    <string name="install_failed_file_not_found">แพคเกจที่ระบุไว้ถูกลบก่อนการติดตั้งถึงจะเสร็จสิ้น</string>
     <string name="install_failed_verify_failed">แพคเกจนี้ไม่ผ่านการตรวจสอบและไม่สามารถติดตั้งได้</string>
     <string name="install_failed_verify_timeout">แพคเกจผิดพลาดขนาดทำการตรวจสอบแอปพลิเคชัน กรุณาลองใหม่</string>
     <string name="install_failed_msg">%1$s ไม่สามารถติดตั้งบนเครื่องได้</string>
@@ -64,7 +64,7 @@
     <string name="high_risk_perms">อนุญาตความเสียงสูง</string>
     <string name="perm_privacy_app_finish">เสร็จสิ้น</string>
     <string name="perm_privacy_app_launch">เปิด</string>
-    <string name="perm_privacy_app_installed">การติดตั้งเสร็จสมบูรณ์!</string>
+    <string name="perm_privacy_app_installed">การติดตั้งเสร็จสิ้น!</string>
     <string name="perm_sysopt_boost_auto_start">การอนุญาตอัตโนมัติ</string>
     <string name="perm_sysopt_boost_auto_start_summary">แอปพลิเคชันจะเริ่มใช้งานอัตโนมัติ!</string>
     <string name="perm_privacy_app_trust">เชื่อถือแอปนี้</string>

@@ -550,13 +550,13 @@
     <string name="choosertitle_sharevia">แบ่งปันผ่าน</string>
     <string name="contextmenu_openlink">เปิดในเบราเซอร์</string>
     <string name="contextmenu_copy">คัดลอก</string>
-    <string name="contextmenu_copylink">คัดลอก URL ของลิงก์</string>
+    <string name="contextmenu_copylink">คัดลอกลิงค์</string>
     <string name="contextmenu_dial_dot">หมุนหมายเลข...</string>
     <string name="contextmenu_sms_dot">SMS…</string>
     <string name="contextmenu_add_contact">เพิ่มรายชื่อติดต่อ</string>
     <string name="contextmenu_send_mail">ส่งอีเมล</string>
     <string name="contextmenu_map">แผนที่</string>
-    <string name="contextmenu_sharelink">แบ่งปันลิงก์</string>
+    <string name="contextmenu_sharelink">แบ่งปันลิงค์</string>
     <string name="contextmenu_help">ความช่วยเหลือ</string>
     <string name="contextmenu_feedback">ส่งความคิดเห็น</string>
     <string name="more_string">+%1$s</string>
