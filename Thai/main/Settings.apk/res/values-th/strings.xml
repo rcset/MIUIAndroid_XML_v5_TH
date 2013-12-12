@@ -1942,10 +1942,10 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="perm_su_desc1">จัดการอนุญาต ROOT</string>
     <string name="perm_su_disabled">อนุญาต ROOT ถูกปิดใช้งาน</string>
     <string name="perm_su_disabled_in_stable">ROOT ไม่สามารถใช้ได้ใน MIUI</string>
-    <string name="perm_su_disabled_in_stable_desc">"อนุญาต ROOT แอป 3rd-party อาจจะทำให้ระบบไม่เสถียร ข้อมูลส่วนตัว ระบบ หรือฮาร์ดแวร๋จะได้รับความเสียหาย
+    <string name="perm_su_disabled_in_stable_desc">"อนุญาต ROOT แอป 3rd-party อาจจะทำให้ระบบไม่เสถียร ข้อมูลส่วนตัว ระบบ หรือฮาร์ดแวร์จะได้รับความเสียหาย
 
 กรุณาสลับไปใช้เวอร์ชันนักพัฒนา MIUI เพื่อใช้งานอนุญาต ROOT"</string>
-    <string name="perm_su_disabled_desc">อนุญาต ROOT แอป 3rd-party อาจจะทำให้ระบบไม่เสถียร ข้อมูลส่วนตัว ระบบ หรือฮาร์ดแวร๋จะได้รับความเสียหาย กรุณาทำความเข้าใจกับการอนุญาต ROOT</string>
+    <string name="perm_su_disabled_desc">อนุญาต ROOT แอป 3rd-party อาจจะทำให้ระบบไม่เสถียร ข้อมูลส่วนตัว ระบบ หรือฮาร์ดแวร์จะได้รับความเสียหาย กรุณาทำความเข้าใจกับการอนุญาต ROOT</string>
     <string name="perm_su_disabled_in_stable_download">ดาวน์โหลด MIUI</string>
     <string name="perm_hips_switch">จัดการอนุญาตการใช้งาน</string>
     <string name="perm_hips">จัดการอนุญาตการใช้งานแอป</string>

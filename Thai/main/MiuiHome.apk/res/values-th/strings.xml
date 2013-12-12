@@ -54,7 +54,7 @@
     <string name="failed_to_drop_widget_nospace">การย้ายล้มเหลว เนื่องจากพื้นที่ไม่เพียงพอ!</string>
     <string name="failed_to_drop_widget_invalid">วิดเจ็ตไม่ถูกต้อง</string>
     <string name="failed_to_delete_temporary">การลบล้มเหลว โปรดลองอีกครั้ง</string>
-    <string name="widget_favorite_contacts_label">รายชื่อผู้ติดต่อที่ชื่นชอบ</string>
+    <string name="widget_favorite_contacts_label">รายชื่อผู้ติดต่อที่โปรด</string>
     <string name="widget_favorite_contacts_edit">บรรณาธิการ</string>
     <string name="widget_favorite_contacts_style">สลับขนาด</string>
     <string name="edit_folder_title">แก้ไขชื่อโฟลเดอร์</string>

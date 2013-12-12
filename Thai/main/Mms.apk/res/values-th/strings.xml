@@ -294,8 +294,8 @@
     <string name="save_to_sim">บันทึกไปยังซิมการ์ด</string>
     <string name="delete_bookmark">เอาออกจากรายการโปรด</string>
     <string name="view_bookmark">ดูข้อความต้นฉบับ</string>
-    <string name="bookmark_confirm_delete_message">Selected message will be removed from favorites</string>
-    <string name="bookmark_empty">ไม่มีรายการที่ชื่นชอบ</string>
+    <string name="bookmark_confirm_delete_message">เลือกข้อความที่ต้องการลบจากรายการโปรด</string>
+    <string name="bookmark_empty">ไม่มีรายการโปรด</string>
     <string name="phrase_list_title">กลุ่มคำ</string>
     <string name="new_phrase">กลุ่มคำใหม่</string>
     <string name="edit_phrase">แก้ไขกลุ่มคำ</string>

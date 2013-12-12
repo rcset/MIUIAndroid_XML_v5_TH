@@ -409,7 +409,7 @@
     <string name="import_bookmark_failure">นำเข้าบุ๊กมาร์กล้มเหลว</string>
     <string name="importing_favorite_files">กำลังนำเข้าข้อมูล…</string>
     <string name="please_select_a_file_to_import">เลือกไฟล์</string>
-    <string name="exported_bookmark_file_name">รายการชื่นชอบ</string>
+    <string name="exported_bookmark_file_name">รายการโปรด</string>
     <string name="import_bookmark">นำเข้าบุ๊กมาร์ก</string>
     <string name="export_bookmark">ส่งออกบุ๊กมาร์ก</string>
     <string name="accessibility_button_goto">ไป</string>
