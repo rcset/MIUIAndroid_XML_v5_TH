@@ -345,4 +345,15 @@
         <item>รหัสผ่านตัวเลข</item>
         <item>รหัสผ่านผสม</item>
     </string-array>
+    <string-array name="preferred_app_entries">
+        <item>เดสท็อป</item>
+        <item>โทรศัพท์</item>
+        <item>SMS</item>
+        <item>เบราเซอร์</item>
+        <item>กล้อง</item>
+        <item>อัลบั้ม</item>
+        <item>เพลง</item>
+        <item>วิดีโอ</item>
+        <item>อีเมล</item>
+    </string-array>
 </resources>

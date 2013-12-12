@@ -18,7 +18,7 @@
     <string name="theme_component_title_framework">โครงร่าง</string>
     <string name="theme_component_title_mms">SMS</string>
     <string name="theme_component_title_wallpaper">วอลเปเปอร์</string>
-    <string name="theme_component_title_lockwallpaper">ล็อกวอลเปเปอร์</string>
+    <string name="theme_component_title_lockwallpaper">ภาพล็อกหน้าจอ</string>
     <string name="theme_component_title_miwallpaper">วอลเปเปอร์</string>
     <string name="theme_component_title_icon">ไอคอน</string>
     <string name="theme_component_title_boot_animation">บูตภาพเคลื่อนไหว</string>

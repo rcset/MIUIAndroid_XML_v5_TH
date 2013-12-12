@@ -447,7 +447,7 @@
     <string name="call_lost">สายหลุดไป</string>
     <string name="ok">ตกลง</string>
     <string name="mmiStarted">เริ่มรหัส MMI แล้ว</string>
-    <string name="ussdRunning">กำลังรันรหัส USSD...</string>
+    <string name="ussdRunning">กำลังส่งคำร้องขอ...</string>
     <string name="mmiCancelled">ยกเลิกรหัส MMI แล้ว</string>
     <string name="cancel">ยกเลิก</string>
     <string name="manageConferenceLabel">จัดการการประชุมสาย</string>

@@ -3034,4 +3034,13 @@ PIN อาจไม่ถูกต้อง"</string>
 	<string name="only_when_charging">เมื่อชาร์จแบตเตอรี่เท่านั้น</string>
 	<string name="picture_source">แหล่งข้อมูลรูปภาพ</string>
 	<string name="cleaner_support_hints">ขับเคลื่อนโดย Clean Master</string>
+	<string name="preferred_app_settings">การตั้งค่าค่าเริ่มต้นแอป</string>
+	<string name="preferred_app_settings_default">ค่าเริ่มต้น</string>
+	<string name="preferred_app_settings_reset">คืนค่าเริ่มต้น</string>
+	<string name="preferred_app_settings_reset_message">ต้องการคืนการตั้งค่าค่าเริ่มต้นแอปพลิเคชัน?</string>
+	<string name="preferred_application_title">แนะนำ %s</string>
+	<string name="preferred_application_warning_message">กำลังแทนที่ค่าเริ่มต้น %1$s อาจจะเพิ่มการใช้งานแบตเตอรี่ ลดความเร็ว และอาจจะมีข้อมูลบางส่วนทำให้โทรศัพท์เกิดความเสี่ยง แนะนำให้ใช้ค่าเริ่มต้น %2$s</string>
+	<string name="preferred_application_warning_replace">แทนที่</string>
+	<string name="preferred_application_warning_title">แทนที่ค่าเริ่มต้น %s</string>
+	<string name="preferred_application_warning_use_system">ใช้ค่าเริ่มต้น %s</string>
 </resources>

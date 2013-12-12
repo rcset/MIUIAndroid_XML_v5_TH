@@ -569,7 +569,7 @@
     <string name="pref_file_download_save_title">ดาวน์โหลด</string>
     <string name="pref_file_downlaod_save_reset_default_settings">คืนค่าการตั้งค่าเริ่มต้น</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">คืนค่าการตั้งค่าเริ่มต้น</string>
-    <string name="pref_file_download_save_modify_default_path">ดาวน์โหลดไฟล์ใน…</string>
+    <string name="pref_file_download_save_modify_default_path">ดาวน์โหลดไฟล์ไปยัง…</string>
     <string name="download_dialog_file_length_hint_txt">ขนาดไฟล์：</string>
     <string name="download_dialog_file_length_nolength_txt">กำลังดาวน์โหลด…</string>
     <string name="download_dialog_file_length_nolength_error_txt">ดาวน์โหลดล้มเหลว</string>

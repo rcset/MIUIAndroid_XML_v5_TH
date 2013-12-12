@@ -443,4 +443,12 @@
     <string name="add_to_cloud_image_limit_exceeded_message">จำนวนภาพเกินแล้ว</string>
     <string name="marked_by_others">%d คนทำเครื่องหมายนี้</string>
     <string name="by_others">โดยอื่นๆ</string>
+	<string name="confirm_download">"คุณจะต้องดาวน์โหลด %s การแจ้งเตือนนี้จะไม่แสดงอีกภายหลัง"</string>
+	<string name="delete_smb_file_fail">ลบไฟล์ smb ล้มเหลว</string>
+	<string name="download">ดาวน์โหลด</string>
+	<string name="download_fail">ดาวน์โหลดล้มเหลว!</string>
+	<string name="download_fail_confirm_continue">ดาวน์โหลด %s ล้มเหลว เริ่มดาวน์โหลดใหม่?</string>
+	<string name="file_not_exist_message">ไม่พบไฟล์</string>
+	<string name="make_download_dir_fail">สร้างไดเรกเทอรี่ล้มเหลว!</string>
+	<string name="new_device_tips">พบอุปกรณ์ใหม่ แตะเพื่อแสดง</string>
 </resources>
