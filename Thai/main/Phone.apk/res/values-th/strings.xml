@@ -38,7 +38,7 @@
     <string name="vt_local_video_nightmode">โหมดกลางคืนวิดีโอท้องถิ่น</string>
     <string name="vt_peer_video_quality">คุณภาพวิดีโอเพื่อน</string>
     <string name="vt_pic_replace_local">ภาพสำหรับทดแทนวิดีโอท้องถิ่น</string>
-    <string name="vt_enable_back_camera">เปิดทำงานกล้องด้านหลัง</string>
+    <string name="vt_enable_back_camera">เปิดใช้งานกล้องด้านหลัง</string>
     <string name="vt_enable_back_camera_description">ใช้เพื่อสลับกล้อง ถ้าเปิดอยู่</string>
     <string name="vt_peer_video_bigger">วิดีโอเพื่อนใหญ่กว่าท้องถิ่น</string>
     <string name="vt_peer_video_bigger_description">เปิดเพื่อทำให้วิดีโอเพื่อนใหญ่กว่าท้องถิ่น</string>
@@ -181,7 +181,7 @@
     <string name="minutereminder_turnon">เปิดตัวเตือนนาทีที่วินาทีที่ 50 ของทุกนาที</string>
     <string name="minutereminder_turnoff">ปิดตัวเตือนนาที</string>
     <string name="voice_call_settings">การตั้งค่าสายสนทนา</string>
-    <string name="enable_sip_dialog_message">สายอินเตอร์เน็ตถูกปิดทำงาน คุณต้องการเปิดทำงานหรือไม่?</string>
+    <string name="enable_sip_dialog_message">สายอินเตอร์เน็ตถูกปิดใช้งาน คุณต้องการเปิดใช้งานหรือไม่?</string>
     <string name="ip_prefix_setting">รหัส IP</string>
     <string name="ip_prefix_setting_sum">การติดตั้งรหัส IP</string>
     <string name="enter_ip_prefix_number">ใส่รหัส</string>
@@ -196,9 +196,9 @@
     <string name="modem_switching">การสลับ SIM จะใช้เวลาประมาณ 10 วินาทีจึงจะสมบูรณ์ โปรดรอ…</string>
     <string name="confirm_3g_switch_to_off">แน่ใจหรือไม่ว่าต้องการปิดบริการ 3G? การทำเช่นนี้จะปิดบริการสายวิดีโอโดยอัตโนมัติด้วย</string>
     <string name="service_3g_off">ปิด</string>
-    <string name="enable_3G_service">เปิดทำงาน 3G</string>
+    <string name="enable_3G_service">เปิดใช้งาน 3G</string>
     <string name="setting_for_3G_service">บริการ 3G</string>
-    <string name="network_forbidden">ปิดทำงาน</string>
+    <string name="network_forbidden">ปิดใช้งาน</string>
     <string name="call_reject_title">ปฏิเสธการรับสาย</string>
     <string name="call_reject_sum">จัดการโหมดปฏิเสธกรรับสายอัตโนมัติและจัดรายการ</string>
     <string name="voice_call_reject_mode_title">โหมดปฏิเสธการรับสายการโทรด้วยเสียงอัตโนมัติ</string>
@@ -237,8 +237,8 @@
     <string name="lable_data_async">ข้อมูลที่ไม่เชื่อมโยง</string>
     <string name="lable_packet">PACKET</string>
     <string name="lable_pad">PAD</string>
-    <string name="lable_disable">ปิดทำงานแล้ว</string>
-    <string name="lable_enable">เปิดทำงานแล้ว</string>
+    <string name="lable_disable">ปิดใช้งานแล้ว</string>
+    <string name="lable_enable">เปิดใช้งานแล้ว</string>
     <string name="old_password_label">รหัสผ่านเดิม (ตัวเลข 4 ตัว)</string>
     <string name="new_password_label">รหัสผ่านใหม่ (ตัวเลข 4 ตัว)</string>
     <string name="invalid_password">พิมพ์รหัสผ่านที่มีตัวเลข 4 ตัว</string>
@@ -256,7 +256,7 @@
     <string name="cb_dialog_title_language_choice">เลือกภาษา</string>
     <string name="cb_channel_dialog_channel_name">ชื่อแชนเนล</string>
     <string name="cb_channel_dialog_channel_number">หมายเลขแชนเนล (0-65534)</string>
-    <string name="cb_channel_dialog_channel_state">เปิดทำงานแชนเนล</string>
+    <string name="cb_channel_dialog_channel_state">เปิดใช้งานแชนเนล</string>
     <string name="cb_channel_dialog_edit_channel">แก้ไขแชนเนล</string>
     <string name="cb_menu_edit">แก้ไข</string>
     <string name="cb_menu_delete">ลบ</string>
@@ -285,8 +285,8 @@
     <string name="sum_internet_call">การตั้งค่าที่เกี่ยวข้องกับสายอินเตอร์เน็ต</string>
     <string name="voice_mail">สายสนทนา</string>
     <string name="sum_voice_mail">บริการและหมายเลขวอยซ์เมล</string>
-    <string name="sum_cell_broadcast_control_on">เปิดทำงานการเผยแพร่ผ่านเซลล์</string>
-    <string name="sum_cell_broadcast_control_off">ปิดทำงานการเผยแพร่ผ่านเซลล์</string>
+    <string name="sum_cell_broadcast_control_on">เปิดใช้งานการเผยแพร่ผ่านเซลล์</string>
+    <string name="sum_cell_broadcast_control_off">ปิดใช้งานการเผยแพร่ผ่านเซลล์</string>
     <string name="sum_cell_broadcast_setting">การตั้งค่าภาษาและแชนเนลสำหรับการเผยแพร่ผ่านเซลล์</string>
     <string name="call_additional_sum">การตั้งค่าหมายเลขโทรศัพท์และสายเรียกซ้อน</string>
     <string name="vt_call_settings">การตั้งค่าสายวิดีโอ</string>
@@ -317,7 +317,7 @@
     <string name="mt_code_on_hold_call_released">สายที่พักถูกปล่อยแล้ว</string>
     <string name="mt_code_forward_check_received">ได้รับข้อความ SS ตรวจสอบที่โอนแล้ว</string>
     <string name="mt_code_call_connecting_ect">การโอนสาย</string>
-    <string name="mt_code_call_connected_ect">การโอนสายเปิดทำงาน</string>
+    <string name="mt_code_call_connected_ect">การโอนสายเปิดใช้งาน</string>
     <string name="mt_code_deflected_call">นี่เป็นสายที่โอน</string>
     <string name="mt_code_additional_call_forwarded">สายเรียกเข้าเพิ่มเติมถูกโอนแล้ว</string>
     <string name="mt_code_forwarded_cf">สายถูกโอนแล้ว</string>

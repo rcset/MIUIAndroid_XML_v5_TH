@@ -2057,7 +2057,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="screen_timeout_title">เวลาหน้าจอดับ</string>
     <string name="touch_title">สัมผัส</string>
     <string name="touch_sensitive_title">โหมดการสัมผัสผ่านถุงมือ</string>
-    <string name="touch_sensitive_summary">เปิดการใช้ความไวสัมผิสเพื่อสนับสนุนการทำงานของมือถือเมื่อสวมถุงมือ การป้องกันการโทรเมื่ออยู่ในกระเป๋าจะเปิดทำงาน</string>
+    <string name="touch_sensitive_summary">เปิดการใช้ความไวสัมผิสเพื่อสนับสนุนการทำงานของมือถือเมื่อสวมถุงมือ การป้องกันการโทรเมื่ออยู่ในกระเป๋าจะเปิดใช้งาน</string>
     <string name="touch_sensitive_turn_off_title">ปิดโหมดการสัมผัสผ่านถุงมือ</string>
     <string name="touch_sensitive_turn_off_summary">คุณต้องการปิดการป้องการโทรเมื่ออยู่ในกระเป๋าหรือไม่?</string>
     <string name="screen_never_timeout_title">ไม่เคยสลีป</string>
@@ -2364,7 +2364,7 @@ PIN อาจไม่ถูกต้อง"</string>
 ลองปฏิบัติตามขั้นตอนดังต่อไปนี้:
 "<li>"ทำการค้นหา
 การถ่ายโอนไฟล์,
-และเปิดทำงานซอฟท์แวร์"</li>"
+และเปิดใช้งานซอฟท์แวร์"</li>"
 "<li>เชื่อมต่อสาย USB อีกครั้ง</li>"
 "<li>ติดตั้งไดร์เวอร์ใหม่</li>" "</string>
     <string name="msd_install_retry_linux">"ถ้าคอมพิวเตอร์ล้มเหลวในการค้นพบโทรศัพท์ของคุณ
@@ -2520,8 +2520,8 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="adjust_3d_depth_title">"ปรับความเข้มเกมส์ 3D"</string>
     <string name="hdmi_3d_stereo_separation_label">3D</string>
     <string name="hdmi_3d_help_title">เกี่ยวกับการสนับสนุน HDMI 3D</string>
-    <string name="power_mode_balanced_title">เปิดทำงานพลังงานสมดุล</string>
-    <string name="usb_host_mode_text">เปิดทำงานโหมด USB host</string>
+    <string name="power_mode_balanced_title">เปิดใช้งานพลังงานสมดุล</string>
+    <string name="usb_host_mode_text">เปิดใช้งานโหมด USB host</string>
     <string name="usb_host_mode_subtext">สำหรับใช้ตัวควบคุมเกมส์และอุปกรณ์พอร์ต USB อาจจะทำให้แบตเตอรี่ลดลง</string>
     <string name="power_settings_title">ประสิทธิภาพระบบ</string>
     <string name="title_color_calibration">รูปแบบการปรับการแสดงสีภาพ</string>
@@ -2533,7 +2533,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="hdmi_color_calibration_srgb">sRGB</string>
     <string name="hdmi_color_calibration_none">ตามคุณลักษณะหลักของจอภาพเดิม</string>
     <string name="hdmi_3d_display_enable_title">แสดงผล 3D</string>
-    <string name="hdmi_3d_display_enable_summary">เปิดทำงานเพื่อแสดงผลเกม 3D</string>
+    <string name="hdmi_3d_display_enable_summary">เปิดใช้งานเพื่อแสดงผลเกม 3D</string>
     <string name="noise_suppression">ลดเสียงรบกวน</string>
     <string name="phone_call_noise_suppression">ลดเสียงรบกวนขณะโทร</string>
     <string name="lock_settings_common_title">ตั้งค่าการล็อก</string>
@@ -2595,11 +2595,11 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="epo_entrance_title">การตั้งค่า EPO</string>
     <string name="epo_entrance_summary">คลิกเพื่อแก้ไขการกำหนดค่า EPO</string>
     <string name="agps_settings_title">การตั้งค่า AGPS</string>
-    <string name="epo_enable_confirm_title">ยืนยันการเปิดทำงาน EPO</string>
+    <string name="epo_enable_confirm_title">ยืนยันการเปิดใช้งาน EPO</string>
     <string name="epo_enable_confirm_message">จำเป็นต้องมีการเชื่อมต่อข้อมูลไร้สายเพื่อรับข้อมูลการช่วยเหลือ GPS (EPO) ซึ่งอาจทำให้เกิดค่าใช้เครือข่ายเพิ่มเติม แน่ใจหรือไม่ว่าคุณต้องการเปิดการช่วยเหลือ GPS?</string>
     <string name="epo_enable_confirm_allow">ทำต่อ</string>
     <string name="epo_enable_confirm_deny">ยกเลิก</string>
-    <string name="agps_enable_confirm_title">การยืนยันการเปิดทำงาน A-GPS</string>
+    <string name="agps_enable_confirm_title">การยืนยันการเปิดใช้งาน A-GPS</string>
     <string name="agps_enable_confirm">A-GPS จำเป็นต้องใช้การเชื่อมต่อข้อมูลเพื่อดึงข้อมูลผู้ช่วย แน่ใจหรือไม่ว่าต้องการเปิด A-GPS?</string>
     <string name="agps_enable_confirm_allow">ทำต่อ</string>
     <string name="agps_enable_confirm_deny">ยกเลิก</string>
@@ -2610,8 +2610,8 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="agps_settings_enable_off">ใช้ข้อมูลผู้ช่วยเพื่อเร่งความเร็วเวลาคงที่ของตำแหน่งด้วย GPS</string>
     <string name="agps_settings_eng_enable">การตั้งค่า AGPS</string>
     <string name="agps_settings_eng_summary">ตั้งค่า AGPS</string>
-    <string name="agps_disable_on_reboot">ปิดทำงานหลังจากบูตใหม่</string>
-    <string name="agps_disable_on_reboot_summary">ปิดทำงานความสามารถ A-GPS หลังจากบูตใหม่</string>
+    <string name="agps_disable_on_reboot">ปิดใช้งานหลังจากบูตใหม่</string>
+    <string name="agps_disable_on_reboot_summary">ปิดใช้งานความสามารถ A-GPS หลังจากบูตใหม่</string>
     <string name="Network_Initiate">คำขอเครือข่าย</string>
     <string name="Network_Initiate_Summary_on">อนุญาตเครือข่ายให้ขอตำแหน่ง</string>
     <string name="Network_Initiate_Summary_off">ปฏิเสธเครือข่ายไม่ให้ขอตำแหน่ง</string>
@@ -2666,7 +2666,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="outdoor_summary">ส่งเสียงกริ่งดังสุดและสั่น</string>
     <string name="audio_profile_reset">รีเซ็ต</string>
     <string name="audio_profile_add">เพิ่ม</string>
-    <string name="audio_profile_enable">เปิดทำงาน</string>
+    <string name="audio_profile_enable">เปิดใช้งาน</string>
     <string name="audio_profile_rename">เปลี่ยนชื่อ</string>
     <string name="audio_profile_delete">ลบ</string>
     <string name="audio_profile_message_reset">การตั้งค่าโปรไฟล์เสียงทั้งหมดจะถูกรีเซ็ตกลับเป็นค่าเริ่มต้น</string>
@@ -2867,8 +2867,8 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="usb_bicr_summary">แสดงซีดีรอมเสมือนซึ่งมีซอฟต์แวร์ที่มีประโยชน์</string>
     <string name="select_memory">ดิสก์การเขียนมาตรฐาน</string>
     <string name="ipo_title">บูตด่วน</string>
-    <string name="ipo_summary_on">ปิดทำงานการบูตด่วน</string>
-    <string name="ipo_summary_off">เปิดทำงานการบูตด่วน</string>
+    <string name="ipo_summary_on">ปิดใช้งานการบูตด่วน</string>
+    <string name="ipo_summary_off">เปิดใช้งานการบูตด่วน</string>
     <string name="agps_profile_select_Title">โปรไฟล์ AGPS</string>
     <string name="location_settings_label">ตำแหน่งของโหมดวิศวกร</string>
     <string name="audio_profile_error">ผิดพลาด</string>

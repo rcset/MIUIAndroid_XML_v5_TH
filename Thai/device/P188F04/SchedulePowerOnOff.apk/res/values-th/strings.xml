@@ -6,8 +6,8 @@
     <string name="schedule_power_on_off_set">ตั้งการกำหนดเวลาเปิด/ปิด</string>
     <string name="schedule_power_on_set">ตั้งตารางเวลาเปิดเครื่อง</string>
     <string name="schedule_power_off_set">ตั้งค่าตารางเวลาปิดเครื่อง</string>
-    <string name="enable_schpwr">เปิดทำงาน</string>
-    <string name="disable_schpwr">ปิดทำงาน</string>
+    <string name="enable_schpwr">เปิดใช้งาน</string>
+    <string name="disable_schpwr">ปิดใช้งาน</string>
     <string name="day">1 วัน</string>
     <string name="days">" %s วัน"</string>
     <string name="hour">1 ชั่วโมง</string>

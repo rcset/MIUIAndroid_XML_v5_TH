@@ -58,7 +58,7 @@
     <string name="lable_retrieve_multimedia_message">ดึงข้อความมัลติมีเดีย</string>
     <string name="lable_submit_multimedia_message">ส่งข้อความมัลติมีเดีย</string>
     <string name="lable_display_multimedia_message">แสดงข้อความมัลติมีเดีย</string>
-    <string name="lable_activate">เปิดทำงาน</string>
+    <string name="lable_activate">เปิดใช้งาน</string>
     <string name="action_launch_browser">เปิดเบราเซอร์</string>
     <string name="action_setup_call">หมุน</string>
 </resources>
