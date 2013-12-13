@@ -215,7 +215,7 @@
     <string name="add_to_cloud_album">เพิ่มอัลบั้ม</string>
     <string name="move_to_cloud_album">ย้ายไปยัง</string>
     <string name="send_to_cloud_failed_message">รายการนี้ไม่สามรถเพิ่มไปยังอัลบั้มคลาวด์</string>
-    <string name="add_to_cloud_failed_message_with_count">%s รายการไม่สามารถเพิ่มไปยังอัลบั้มคลาวด์</string>
+    <string name="add_to_cloud_failed_message_with_count">%2$s รายการไม่สามารถเพิ่มไปยังอัลบั้มคลาวด์</string>
     <string name="cant_delete_system_album">%s อัลบั้มในอัลบั้มระบบ ไม่สามารถลบได้</string>
     <string name="share_album">แบ่งปันอัลบั้ม</string>
     <string name="share_album_qr_code">รหัส QR</string>
