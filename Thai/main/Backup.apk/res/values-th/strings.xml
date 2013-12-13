@@ -232,4 +232,28 @@
     <string name="customization_under_wifi_prompt">รองรับเมื่อใช้งาน Wi-Fi เท่านั้น</string>
     <string name="just_support_op_with_wifi_connected">รองรับเมื่อใช้งาน Wi-Fi เท่านั้นi</string>
     <string name="my_phone">อุปกรณ์ของฉัน</string>
+	<string name="button_continue">เริ่มต่อ</string>
+	<string name="cloud_app_backup_cancel">ยกเลิกสำรองข้อมูล</string>
+	<string name="cloud_app_backup_cancel_prompt_message">"สำรองข้อมูลไม่เสร็จสิ้น แตะ 
+ตกลง เพื่อยกเลิกสำรองข้อมูล"</string>
+	<string name="cloud_app_backup_cancel_prompt_title">ยกเลิกสำรองข้อมูล</string>
+	<string name="cloud_app_check_data">กำลังตรวจสอบข้อมูลจาก Miคลาวด์...</string>
+	<string name="cloud_app_check_data_fail">ตรวจสอบข้อมูลจาก Miคลาวด์ ล้มเหลว</string>
+	<string name="cloud_app_check_data_timeout">หมดเวลาตรวจสอบข้อมูลจาก Miคลาวด์</string>
+	<string name="cloud_app_invalid_op_when_removing">"ไม่สามารถแสดงข้อมูล Miคลาวด์ ขณะกำลังลบข้อมูล!"</string>
+	<string name="cloud_app_load_data">กำลังตรวจสอบรายการข้อมูลสำรองข้อมูล...</string>
+	<string name="cloud_app_load_data_timeout">หมดเวลาตรวจสอบข้อมูลจาก Miคลาวด์</string>
+	<string name="cloud_app_loading_with_mobile_network_prompt">"ทราฟฟิกข้อมูลมือถือจะใช้ข้อมูลต่อ ต้องการดำเนินการต่อ?"</string>
+	<string name="cloud_app_no_network">เครือข่ายไม่สามารถใช้งานได้</string>
+	<string name="cloud_app_no_wifi">Wi-Fi ไม่สามารถใช้งานได้</string>
+	<string name="cloud_app_no_wifi_connect">ไม่มีการเชื่อมต่อ Wi-Fi ใช้งานได้</string>
+	<string name="cloud_app_remove_cancel">ยกเลิกการลบ</string>
+	<string name="cloud_app_remove_cancel_prompt_message">"ลบสำรองข้อมูลไม่เสร็จสิ้น แตะ ตกลง
+เพื่อยกเลิก"</string>
+	<string name="cloud_app_remove_cancel_prompt_title">หยุดการลบ</string>
+	<string name="cloud_app_restore_cancel">ยกเลิกคืนค่า</string>
+	<string name="cloud_app_restore_cancel_prompt_message">"คืนค่าไม่เสร็จสิ้น แตะ ตกลง
+เพื่อยกเลิกคืนค่า"</string>
+	<string name="cloud_app_restore_cancel_prompt_title">ยกเลิกการคืนค่า</string>
+	<string name="cloud_app_wait_wifi">กำลังรอการเชื่อมต่อ Wi-Fi</string>
 </resources>
