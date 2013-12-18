@@ -213,5 +213,4 @@
 	<string name="widget_events">กิจกรรมเร็วๆนี้</string>
 	<string name="widget_no_events">ไม่มีกิจกรรมเร็วๆนี้</string>
 	<string name="widget_select_style">เลือกรูปแบบวิดเจ็ต</string>
-	<string name="yearly">รายปี (เมื่อ %s)</string>
 </resources>
