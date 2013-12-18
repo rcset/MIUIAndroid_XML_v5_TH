@@ -1052,4 +1052,16 @@
     <string name="resource_user_know">ตกลง</string>
     <string name="to_activate_the_account">กรุณาเปิดใช้งานบัญชี Xiaomi</string>
     <string name="resource_account_login">เข้าระบบ</string>
+	<string name="login_before_recharging">คุณต้องเข้าระบบก่อนที่จะเติมเงิน</string>
+	<string name="login_ok">เข้าระบบ</string>
+	<string name="refresh">รีเฟรช</string>
+	<string name="t9_search_guide_pinyin">พิมพ์ 7 และ 5 เพื่อค้นหา</string>
+	<string name="t9_search_guide_zhuyin">พิมพ์ 7 และ 5 เพื่อค้นหา</string>
+	<string name="yellowPageNavigationIconLabel">ไดเรกเทอรี่</string>
+	<string name="yellowPageNavigationLabel">ไดเรกเทอรี่</string>
+	<string name="yellowpage_navigation_no_content">ไม่มีผลการค้นหา</string>
+	<string name="yellowpage_navigation_search_city_name_hint">ค้นหาโดยเมือง</string>
+	<string name="yellowpage_navigation_search_hint">ค้นหา</string>
+	<string name="yellowpage_navigation_search_offline_hint">เคือข่ายไม่สามารถใช้งานได้</string>
+	<string name="yellowpage_navigation_search_select_city">กรุณาเลือกเมือง</string>
 </resources>

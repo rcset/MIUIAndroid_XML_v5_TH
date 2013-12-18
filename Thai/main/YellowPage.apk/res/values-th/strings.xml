@@ -117,4 +117,17 @@
 	<string name="express_inquiry_delete_warning_multiple">ลบ %d รายการประวัติที่เลือก?</string>
 	<string name="express_inquiry_delete_warning_single">ลบรายการที่เลือก?</string>
 	<string name="login_before_use">กรุณาเข้าระบบก่อนใช้งาน</string>
+	<string name="express_inquiry_data_owner_prefix">บริการข้อมูลติดตามโดย</string>
+	<string name="navigation_search_all_cities">เมืองทั้งหมด</string>
+	<string name="navigation_search_automatically_positioned_city">เมืองปัจจุบัน</string>
+	<string name="navigation_search_hot_cities">ยอดนิยม</string>
+	<string name="navigation_search_no_city_list">ไม่พบข้อมูลเมือง!</string>
+	<string name="navigation_search_positioning">กำลังรับตำแหน่ง...</string>
+	<string name="navigation_search_positioning_failed">ค้นหาเมืองล้มเหลว</string>
+	<string name="order_empty_hint">ไม่มีรายการ</string>
+	<string name="order_id">อ้างอิงรายการ: %s</string>
+	<string name="order_merchant_title">รายการของฉัน - %s</string>
+	<string name="order_price">%s</string>
+	<string name="order_status">%s</string>
+	<string name="provider">วิเคราะห์โดย %s</string>
 </resources>

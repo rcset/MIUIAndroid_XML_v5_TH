@@ -451,4 +451,7 @@
 	<string name="file_not_exist_message">ไม่พบไฟล์</string>
 	<string name="make_download_dir_fail">สร้างไดเรกเทอรี่ล้มเหลว!</string>
 	<string name="new_device_tips">พบอุปกรณ์ใหม่ แตะเพื่อแสดง</string>
+	<string name="confirm_delete_this_picture">คุณต้องการลบรูปภาพที่เลือก?</string>
+	<string name="confirm_delete_this_video">คุณต้องการลบวิดีโอที่เลือก?</string>
+	<string name="loading_members">กำลังโหลดสมาชิก...</string>
 </resources>

@@ -206,7 +206,7 @@
     <string name="bg_replacement_message">ตั้งอุปกรณ์ของคุณ
 เดินออกมาสักครู่</string>
     <string name="video_snapshot_hint">ถ่ายภาพในระหว่างการบันทึกวิดีโอ โดยการสัมผัสหน้าจอแสดงตัวอย่าง</string>
-    <string name="disable_video_snapshot_hint">จับภาพวิดีโอปิดใช้งาน เมื่อเปิดใช้เอฟเฟกพิเศษ</string>
+    <string name="disable_video_snapshot_hint">จับภาพวิดีโอปิดใช้งาน เมื่อเปิดใช้เอฟเฟคพิเศษ</string>
     <string name="snapshot_lower_than_video">การจับภาพวิดีโอมีขนาดต่ำกว่าขนาดของวิดีโอ จะตัดบางส่วนของขนาดวิดีโอ กรุณาเลือกความละเอียดที่สูงกว่าหรือเท่ากับขนาดของวิดีโอปัจจุบัน</string>
     <string name="snapshotsize_low_powermode">ไม่สนับสนุนความละเอียดของภาพในโหมดประหยัดพลังงาน จะใช้ขนาดของวิดีโอในการจับภาพเลือกโหมดพลังงานสำหรับขนาดภาพ</string>
     <string name="snapshot_qcif_and_d1">สนับสนุนขนาดความละเอีดนี้เฉพาะการจับภาพวิดีโอ</string>

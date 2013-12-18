@@ -194,4 +194,24 @@
     <string name="prefDefault_alerts_vibrateWhen">ไม่"</string>
     <string name="prefDefault_alerts_vibrate_false">ไม่"</string>
     <string name="prefDialogTitle_vibrateWhen">สั่น"</string>
+	<string name="account_and_calendar">บัญชีและปฏิทิน</string>
+	<string name="account_and_calendar_to_display">บัญชีและปฏิทินที่แสดง</string>
+	<string name="button_day">วัน</string>
+	<string name="button_month">เดือน</string>
+	<string name="default_reminder_mode">โหมดการเตือนเริ่มต้น</string>
+	<string name="event_account">บัญชีปฏิทิน</string>
+	<string name="event_all_day_label">วันทั้งหมด</string>
+	<string name="event_hide_more">ซ่อน</string>
+	<string name="event_info_descrip">"รายละเอียด: "</string>
+	<string name="event_info_repeat">"เตือนซ้ำ: "</string>
+	<string name="event_info_when">"เมื่อ: "</string>
+	<string name="event_info_where">"ที่: "</string>
+	<string name="event_show_more">แสดง</string>
+	<string name="lunar_date">วันจันทรคติ</string>
+	<string name="show_all_lunar">แสดงจันทรคติ</string>
+	<string name="time_zone">โซนเวลา</string>
+	<string name="widget_events">กิจกรรมเร็วๆนี้</string>
+	<string name="widget_no_events">ไม่มีกิจกรรมเร็วๆนี้</string>
+	<string name="widget_select_style">เลือกรูปแบบวิดเจ็ต</string>
+	<string name="yearly">รายปี (เมื่อ %s)</string>
 </resources>
