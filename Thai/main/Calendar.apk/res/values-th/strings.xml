@@ -213,4 +213,6 @@
 	<string name="widget_events">กิจกรรมเร็วๆนี้</string>
 	<string name="widget_no_events">ไม่มีกิจกรรมเร็วๆนี้</string>
 	<string name="widget_select_style">เลือกรูปแบบวิดเจ็ต</string>
+	<string name="activity_summary">10 หยวน ลอตเตอรี่</string>
+	<string name="activity_title">ของขวัญปีใหม่ MIUI</string>
 </resources>

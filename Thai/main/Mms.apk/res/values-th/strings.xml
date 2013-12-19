@@ -461,4 +461,13 @@
     <string name="mx_btn_enable_now">เปิดใช้งาน Miข้อความ</string>
     <string name="mx_activate_popup_msg">Miข้อความ เปิดใช้งานให้ผู้ใช้ MIUI ส่งข้อความไปยังคนอื่นโดยไม่ต้องใช้บริการข้อมูลมือถือ</string>
 	<string name="refill_now">เติมเงิน</string>
+	<string name="feedback_description_hint">กรุณาใส่ข้อเสนอแนะที่นี่</string>
+	<string name="feedback_submit">ส่ง</string>
+	<string name="pref_key_mx_feedback">ส่งข้อเสนอแนะ</string>
+	<string name="pref_summary_mx_feedback">"ช่วยเหลือ MIUI!
+รายงานบัคและส่งข้อเสนอแนะให้กับ Xiaomi”</string>
+	<string name="toast_description_required">จำเป็นต้องใส่ข้อเสนอแนะ</string>
+	<string name="toast_feedback_finish">รายงานของคุณจะถูกส่งอัตโนมัติเมื่อเชื่อมต่อกับเครือข่าย Wi-Fi</string>
+	<string name="toast_feedback_max">รายงานสามารถส่งได้ 3 ครั้งต่อวันเท่านั้น</string>
+	<string name="toast_feedback_start">กำลังส่งข้อเสนอะแนะ…</string>
 </resources>
