@@ -3043,4 +3043,22 @@ PIN อาจไม่ถูกต้อง"</string>
 	<string name="preferred_application_warning_replace">แทนที่</string>
 	<string name="preferred_application_warning_title">แทนที่ค่าเริ่มต้น %s</string>
 	<string name="preferred_application_warning_use_system">ใช้ค่าเริ่มต้น %s</string>
+	<string name="button_text_quick_scan">เริ่มสแกน</string>
+	<string name="deep_clean_tips_cache_content">"บางแอปพลิเคชันใช้ไฟล์แคชเพื่อดาวน์โหลดข้อมูลเพิ่มเติม โปรดระมัดระวังเมื่อทำความสะอาดไฟล์เหล่านี้"</string>
+	<string name="deep_clean_tips_cache_title">ไฟล์แคช</string>
+	<string name="deep_clean_tips_large_file_content">ไฟล์ใหญ่ (10MB+) บนพื้นที่บนอุปกรณ์ของคุณ</string>
+	<string name="deep_clean_tips_large_file_title">ไฟล์ใหญ่</string>
+	<string name="deep_clean_tips_residual_content">"ไฟล์ขยะดาวน์โหลดไปยังการ์ดความจำโดยแอปจะได้รับตั้งแต่ถอนการติดตั้งแล้ว"</string>
+	<string name="deep_clean_tips_residual_title">ไฟล์ขยะ</string>
+	<string name="optimize_tips_ad_content">รูปภาพ ข้อความและเนื้อหาโฆษณาด้วยผู้ให้บริการ third-party บนโทรศัพท์ของคุณ</string>
+	<string name="optimize_tips_ad_title">ไฟล์โฆษณา</string>
+	<string name="optimize_tips_apk_content">"ใช้สำหรับติดตั้งแอปพลิเคชันบนอุปกรณ์ของคุณ แต่อย่างไรห้ามดำเนินการหากติดตั้งแอปแล้ว"</string>
+	<string name="optimize_tips_apk_title">แอป</string>
+	<string name="optimize_tips_cache_content">ไฟล์ชั่วคราวสร้างโดยแอปและกระบวนการ</string>
+	<string name="optimize_tips_cache_title">แคช</string>
+	<string name="optimize_tips_residual_content">ไฟล์ตกค้างสร้างโดยแอปเมื่อได้ถอนการติดตั้ง บางไฟล์ยังจำเป็นต้องใช้ แนะนำให้ใช้การทำความสะอาดขั้นสูงเพื่อลบไฟล์หล่านี้</string>
+	<string name="optimize_tips_residual_title">ไฟล์ตกค้าง</string>
+	<string name="perm_app_manage_empty">ไม่มีแอปตรวจสอบ</string>
+	<string name="perm_root_manage_empty">ไม่มีแอปอนุญาต ROOT</string>
+	<string name="quick_scan_done_title">สแกนเสร็จสิ้น!</string>
 </resources>
