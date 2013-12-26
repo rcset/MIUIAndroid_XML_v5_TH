@@ -118,7 +118,7 @@
     <string name="progress_backup_hint">"กำลังสำรองข้อมูล: "</string>
     <string name="cancel_backup">ยกเลิกการสำรองข้อมูล</string>
     <string name="restore_contact">คืนค่ารายชื่อ</string>
-    <string name="restore_contact_content">"คืนค่ารายชื่ออาจะมีรายชื่อซ้ำกันได้ คุณต้องการทำต่อหรือไม่?
+    <string name="restore_contact_content">"คืนค่ารายชื่ออาจะมีรายชื่อซ้ำกันได้ คุณต้องการทำต่อ?
  บันทึก: คุณสามารถรวมรายชื่อซ้ำได้ในการตั้งค่ารายชื่อ"</string>
     <string name="progress_restore_hint">"กำลังคืนค่า: "</string>
     <string name="cancel_restore">ยกเลิกการคืนค่า</string>

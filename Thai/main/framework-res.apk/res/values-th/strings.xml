@@ -276,9 +276,9 @@
     <string name="silent_mode_ring">เปิดเสียง</string>
     <string name="shutdown_progress">กำลังปิดระบบ...</string>
     <string name="shutdown_confirm">โทรศัพท์ของคุณจะปิดเครื่อง</string>
-    <string name="shutdown_confirm_question">คุณต้องการปิดการทำงานหรือไม่</string>
+    <string name="shutdown_confirm_question">คุณต้องการปิดการทำงาน?</string>
     <string name="reboot_safemode_title">รีบูตเข้าสู่โหมดปลอดภัย</string>
-    <string name="reboot_safemode_confirm">คุณต้องการรีบูตเข้าสู่โหมดปลอดภัยหรือไม่ การดำเนินการนี้จะปิดใช้งานแอปพลิเคชันของบุคคลที่สามทั้งหมดที่คุณได้ติดตั้งไว้ โดยจะคืนค่าเมื่อคุณรีบูตอีกครั้ง</string>
+    <string name="reboot_safemode_confirm">คุณต้องการรีบูตเข้าสู่โหมดปลอดภัย? การดำเนินการนี้จะปิดใช้งานแอปพลิเคชันของบุคคลที่สามทั้งหมดที่คุณได้ติดตั้งไว้ โดยจะคืนค่าเมื่อคุณรีบูตอีกครั้ง</string>
     <string name="recent_tasks_title">เมื่อเร็วๆ นี้</string>
     <string name="no_recent_tasks">ไม่มีแอปพลิเคชันล่าสุด</string>
     <string name="global_actions">ตัวเลือกโทรศัพท์</string>
@@ -383,7 +383,7 @@
     <string name="permlab_setProcessLimit">จำกัดจำนวนกระบวนการที่กำลังทำงาน</string>
     <string name="permdesc_setProcessLimit">อนุญาตให้แอปพลิเคชันควบคุมจำนวนสูงสุดของกระบวนการที่จะเรียกใช้ ไม่จำเป็นต้องใช้สำหรับแอปพลิเคชันทั่วไป</string>
     <string name="permlab_setAlwaysFinish">บังคับปิดแอปพลิเคชันในพื้นหลัง</string>
-    <string name="permdesc_setAlwaysFinish">อนุญาตให้แอปพลิเคชันควบคุมว่ากิจกรรมจะสิ้นสุดทันทีที่เข้าสู่พื้นหลังเสมอหรือไม่ ไม่จำเป็นต้องใช้สำหรับแอปพลิเคชันทั่วไป</string>
+    <string name="permdesc_setAlwaysFinish">อนุญาตให้แอปพลิเคชันควบคุมว่ากิจกรรมจะสิ้นสุดทันทีที่เข้าสู่พื้นหลังเสมอ? ไม่จำเป็นต้องใช้สำหรับแอปพลิเคชันทั่วไป</string>
     <string name="permlab_batteryStats">แก้ไขสถิติแบตเตอรี่</string>
     <string name="permdesc_batteryStats">อนุญาตให้แอปพลิเคชันแก้ไขสถิติของแบตเตอรี่ที่เก็บรวบรวมไว้ ไม่ใช้สำหรับแอปพลิเคชันทั่วไป</string>
     <string name="permlab_backup">ควบคุมการสำรองและคืนค่า</string>
@@ -545,7 +545,7 @@
     <string name="permlab_modifyPhoneState">แก้ไขสถานะโทรศัพท์</string>
     <string name="permdesc_modifyPhoneState">อนุญาตให้แอปพลิชันควบคุมคุณลักษณะโทรศัพท์ของอุปกรณ์ แอปพลิเคชันที่ได้รับอนุญาตจะสามารถสลับเครือข่าย เปิดและปิดวิทยุในโทรศัพท์ และคุณลักษณะอื่นที่คล้ายกันนี้ได้โดยไม่ต้องแจ้งให้คุณทราบ</string>
     <string name="permlab_readPhoneState">อ่านสถานะและข้อมูลระบุตัวตนของโทรศัพท์</string>
-    <string name="permdesc_readPhoneState">อนุญาตให้แอปพลิเคชันเข้าถึงคุณลักษณะโทรศัพท์ของอุปกรณ์ การอนุญาตนี้ทำให้แอปพลิเคชันสามารถตรวจสอบหมายเลขโทรศัพท์และรหัสอุปกรณ์ ตรวจสอบว่ามีการโทรที่ทำงานอยู่หรือไม่ และตรวจสอบหมายเลขระยะไกลที่เชื่อมต่อด้วยการโทร</string>
+    <string name="permdesc_readPhoneState">อนุญาตให้แอปพลิเคชันเข้าถึงคุณลักษณะโทรศัพท์ของอุปกรณ์ การอนุญาตนี้ทำให้แอปพลิเคชันสามารถตรวจสอบหมายเลขโทรศัพท์และรหัสอุปกรณ์ ตรวจสอบว่ามีการโทรที่ทำงานอยู่? และตรวจสอบหมายเลขระยะไกลที่เชื่อมต่อด้วยการโทร</string>
     <string name="permlab_wakeLock">ป้องกันไม่ให้โทรศัพท์เข้าโหมดสลีป</string>
     <string name="permdesc_wakeLock">อนุญาตให้แอปพลิเคชันป้องกันไม่ให้โทรศัพท์เข้าสู่โหมดสลีป</string>
     <string name="permlab_devicePower">เปิดหรือปิดโทรศัพท์</string>
@@ -585,7 +585,7 @@
     <string name="permlab_changeBackgroundDataSetting">เปลี่ยนการตั้งค่าการใช้ข้อมูลพื้นหลัง</string>
     <string name="permdesc_changeBackgroundDataSetting">อนุญาตให้แอปพลิเคชันเปลี่ยนการตั้งค่าการใช้งานข้อมูลแบ็กกราวด์</string>
     <string name="permlab_accessWifiState">ดูการเชื่อมต่อ Wi-Fi</string>
-    <string name="permdesc_accessWifiState">อนุญาตให้แอปพลิเคชันดูข้อมูลเกี่ยวกับเครือข่าย Wi-Fi เช่น เปิดใช้งาน Wi-Fi อยู่หรือไม่ และชื่อของอุปกรณ์ Wi-Fi ที่เชื่อมต่อ</string>
+    <string name="permdesc_accessWifiState">อนุญาตให้แอปพลิเคชันดูข้อมูลเกี่ยวกับเครือข่าย Wi-Fi เช่น เปิดใช้งาน Wi-Fi อยู่ และชื่อของอุปกรณ์ Wi-Fi ที่เชื่อมต่อ</string>
     <string name="permlab_changeWifiState">เชื่อมต่อและหยุดเชื่อมต่อ Wi-Fi</string>
     <string name="permdesc_changeWifiState">อนุญาตให้แอปพลิเคชันเชื่อมต่อและหยุดเชื่อมต่อจากจุดเข้าใช้งาน Wi-Fi และเปลี่ยนแปลงการกำหนดค่าอุปกรณ์ำสำหรับเครือข่าย Wi-Fi</string>
     <string name="permlab_changeWifiMulticastState">อนุญาตให้รับมัลติแคสต์ผ่าน Wi-Fi</string>
@@ -603,7 +603,7 @@
     <string name="permlab_disableKeyguard">ปิดใช้งานการล็อกหน้าจอของคุณ</string>
     <string name="permdesc_disableKeyguard">อนุญาตให้แอปพลิเคชันปิดใช้งานการล็อกปุ่มกดและการรักษาความปลอดภัยด้วยรหัสผ่านใดๆ ที่เกี่ยวข้อง ตัวอย่างเช่น โทรศัพท์ปิดใช้งานการล็อกปุ่มกดเมื่อรับสายเรียกเข้า จากนั้นจึงเปิดใช้งานการล็อกปุ่มกดใหม่หลังจากวางสาย</string>
     <string name="permlab_readSyncSettings">อ่านการตั้งค่าการซิงค์แล้ว</string>
-    <string name="permdesc_readSyncSettings">อนุญาตให้แอปพลิเคชันอ่านการตั้งค่าการซิงค์ของบัญชี ตัวอย่างเช่น การอนุญาตนี้สามารถระบุได้ว่าแอปพลิเคชัน People ซิงค์กับบัญชีหรือไม่</string>
+    <string name="permdesc_readSyncSettings">อนุญาตให้แอปพลิเคชันอ่านการตั้งค่าการซิงค์ของบัญชี ตัวอย่างเช่น การอนุญาตนี้สามารถระบุได้ว่าแอปพลิเคชัน People ซิงค์กับบัญชี?</string>
     <string name="permlab_writeSyncSettings">สลับระหว่างเปิดและปิดการซิงค์</string>
     <string name="permdesc_writeSyncSettings">อนุญาตให้แอปพลิเคชันเปลี่ยนแปลงการตั้งค่าการซิงค์ของบัญชี ตัวอย่างเช่น สามารถใช้การอนุญาตเปิดใช้งานการซิงค์แอปพลิเคชัน People กับบัญชี</string>
     <string name="permlab_readSyncStats">อ่านสถิติการซิงค์</string>
@@ -811,7 +811,7 @@
     <string name="factorytest_reboot">รีบูต</string>
     <string name="js_dialog_title">หน้าเว็บที่ \"%s\" ระบุว่า:</string>
     <string name="js_dialog_title_default">JavaScript</string>
-    <string name="js_dialog_before_unload">"ไปจากหน้าเว็บนี้หรือไม่
+    <string name="js_dialog_before_unload">"ไปจากหน้าเว็บนี้?
 
 %s
 
@@ -847,7 +847,7 @@
     <string name="permlab_writeGeolocationPermissions">แก้ไขการอนุญาตเกี่ยวกับการระบุตำแหน่งทางภูมิศาสตร์ของเบราเซอร์</string>
     <string name="permdesc_writeGeolocationPermissions">อนุญาตให้แอปพลิเคชันแก้ไขการอนุญาตตำแหน่งทางภูมิศาสตร์ของเบราเซอร์ แอปพลิเคชันที่เป็นอันตรายอาจใช้การอนุญาตนี้ในการส่งข้อมูลตำแหน่งไปยังเว็บไซต์ต่างๆ ได้ตามต้องการ</string>
     <string name="permlab_packageVerificationAgent">ยืนยันแพคเกจ</string>
-    <string name="permdesc_packageVerificationAgent">อนุญาตให้แอปพลิเคชันยืนยันว่าแพคเกจสามารถติดตั้งได้หรือไม่</string>
+    <string name="permdesc_packageVerificationAgent">อนุญาตให้แอปพลิเคชันยืนยันว่าแพคเกจสามารถติดตั้งได้?</string>
     <string name="permlab_bindPackageVerifier">เชื่อมโยงกับการยืนยันแพคเกจ</string>
     <string name="permdesc_bindPackageVerifier">อนุญาตให้ผู้ใช้ส่งคำขอให้มีการยืนยันแพคเกจ ไม่ควรต้องใช้สำหรับแอปพลิเคชันทั่วไป</string>
     <string name="permlab_serialPort">เข้าถึงพอร์ตอนุกรม</string>
@@ -856,7 +856,7 @@
     <string name="permdesc_accessContentProvidersExternally">ช่วยให้เจ้าของสามารถเข้าถึงผู้ให้บริการเนื้อหาจากหน้าจอรับคำสั่งเชลล์ แอปพลิเคชันทั่วไปไม่จำเป็นต้องใช้</string>
     <string name="permlab_updateLock">ป้องกันการอัปเดตอุปกรณ์อัตโนมัติ</string>
     <string name="permdesc_updateLock">ช่วยให้เจ้าของแจ้งข้อมูลเกี่ยวกับเวลาที่เหมาะสมในการรีบูตแบบไม่โต้ตอบเพื่ออัปเกรดอุปกรณ์ไปยังระบบได้</string>
-    <string name="save_password_message">คุณต้องการให้เบราเซอร์จำรหัสผ่านนี้หรือไม่</string>
+    <string name="save_password_message">คุณต้องการให้เบราเซอร์จำรหัสผ่านนี้?</string>
     <string name="save_password_notnow">ยังไม่ใช้งานขณะนี้</string>
     <string name="save_password_remember">จำไว้</string>
     <string name="save_password_never">ไม่ต้องเลย</string>
@@ -872,7 +872,7 @@
     <string name="searchview_description_clear">ล้างข้อความค้นหา</string>
     <string name="searchview_description_submit">ส่งข้อความค้นหา</string>
     <string name="searchview_description_voice">ค้นหาด้วยเสียง</string>
-    <string name="enable_explore_by_touch_warning_title">เปิดใช้งาน \"สำรวจโดยการแตะ\" หรือไม่</string>
+    <string name="enable_explore_by_touch_warning_title">เปิดใช้งาน \"สำรวจโดยการแตะ\" ?</string>
     <string name="enable_explore_by_touch_warning_message">%1$s ต้องการเปิดใช้งาน \"สำรวจโดยการแตะ\" เมื่อเปิดใช้งานแล้ว คุณสามารถฟังหรือดูคำอธิบายของสิ่งที่อยู่ใต้นิ้วข​​องคุณ หรือใช้ท่าทางแตะต่างๆ เพื่อโต้ตอบกับโทรศัพท์ได้</string>
     <string name="oneMonthDurationPast">1 เดือนที่ผ่านมา</string>
     <string name="beforeOneMonthDurationPast">ก่อน 1 เดือนที่แล้ว</string>
@@ -924,20 +924,20 @@
     <string name="anr_title" />
     <string name="anr_activity_application">"%2$s ไม่ตอบสนอง
 
-คุณต้องการปิดหรือไม่"</string>
+คุณต้องการปิด?"</string>
     <string name="anr_activity_process">"กิจกรรม %1$s ไม่ตอบสนอง
 
-คุณต้องการปิดหรือไม่"</string>
-    <string name="anr_application_process">%1$s ไม่ตอบสนอง คุณต้องการปิดหรือไม่</string>
+คุณต้องการปิด?"</string>
+    <string name="anr_application_process">%1$s ไม่ตอบสนอง คุณต้องการปิด?</string>
     <string name="anr_process">"กระบวนการ %1$s ไม่ตอบสนอง
 
-คุณต้องการปิดหรือไม่"</string>
+คุณต้องการปิด?"</string>
     <string name="force_close">ตกลง</string>
     <string name="report">รายงาน</string>
     <string name="wait">รอ</string>
     <string name="webpage_unresponsive">"หน้าเว็บนี้ไม่ตอบสนอง
 
-คุณต้องการปิดหรือไม่"</string>
+คุณต้องการปิด?"</string>
     <string name="launch_warning_title">แอปฯ ที่เปลี่ยนเส้นทาง</string>
     <string name="launch_warning_replace">%1$s กำลังทำงานอยู่ในขณะนี้</string>
     <string name="launch_warning_original">%1$s เปิดใช้ไว้แล้ว</string>
@@ -952,7 +952,7 @@
     <string name="android_upgrading_complete">เสร็จสิ้นการบูต</string>
     <string name="heavy_weight_notification">%1$s กำลังทำงาน</string>
     <string name="heavy_weight_notification_detail">แตะเพื่อสลับไปยังแอปพลิเคชัน</string>
-    <string name="heavy_weight_switcher_title">สลับแอปพลิเคชันหรือไม่</string>
+    <string name="heavy_weight_switcher_title">สลับแอปพลิเคชัน?</string>
     <string name="heavy_weight_switcher_text">มีแอปพลิเคชันอื่นที่กำลังทำงานอยู่แล้ว ซึ่งต้องหยุดทำงานก่อนที่คุณจะเริ่มแอปพลิเคชันใหม่ได้</string>
     <string name="old_app_action">กลับสู่ %1$s</string>
     <string name="old_app_description">อย่าเริ่มแอปพลิเคชันใหม่</string>
@@ -996,7 +996,7 @@
     <string name="wifi_p2p_show_pin_message">PIN:</string>
     <string name="select_character">ใส่อักขระ</string>
     <string name="sms_control_title">กำลังส่งข้อความ SMS</string>
-    <string name="sms_control_message">&lt;b>%1$s&lt;/b> กำลังส่งข้อความ SMS จำนวนมาก คุณต้องการอนุญาตให้แอปพลิเคชันนี้ส่งข้อความต่อหรือไม่</string>
+    <string name="sms_control_message">&lt;b>%1$s&lt;/b> กำลังส่งข้อความ SMS จำนวนมาก คุณต้องการอนุญาตให้แอปพลิเคชันนี้ส่งข้อความต่อ?</string>
     <string name="sms_control_yes">อนุญาต</string>
     <string name="sms_control_no">ปฏิเสธ</string>
     <string name="sim_removed_title">นำซิมการ์ดออกแล้ว</string>
@@ -1037,7 +1037,7 @@
     <string name="usb_cd_installer_notification_title">เชื่อมต่อเป็นตัวติดตั้ง</string>
     <string name="usb_accessory_notification_title">เชื่อมต่อกับอุปกรณ์เสริม USB แล้ว</string>
     <string name="usb_notification_message">แตะสำหรับตัวเลือก USB อื่นๆ</string>
-    <string name="extmedia_format_title">ฟอร์แมต USB หรือไม่</string>
+    <string name="extmedia_format_title">ฟอร์แมต USB ?</string>
     <string name="extmedia_format_message">ไฟล์ทั้งหมดที่เก็บไว้ในที่จัดเก็บข้อมูล USB ของคุณจะถูกลบทิ้ง การทำงานนี้ไม่สามารถย้อนกลับได้!</string>
     <string name="extmedia_format_button_format">รูปแบบ</string>
     <string name="adb_active_notification_title">เชื่อมต่อการแก้ไขข้อบกพร่อง USB แล้ว</string>
@@ -1084,7 +1084,7 @@
     <string name="create_contact_using">"สร้างที่อยู่ติดต่อ 
 โดยใช้ %s"</string>
     <string name="grant_credentials_permission_message_header">แอปพลิเคชันต่อไปนี้ขอให้มีการอนุญาตให้เข้าถึงบัญชีของคุณในขณะนี้และในอนาคต</string>
-    <string name="grant_credentials_permission_message_footer">คุณต้องการอนุญาตหรือไม่</string>
+    <string name="grant_credentials_permission_message_footer">คุณต้องการอนุญาต?</string>
     <string name="grant_permissions_header_text">คำขอเข้าถึง</string>
     <string name="allow">อนุญาต</string>
     <string name="deny">ปฏิเสธ</string>
@@ -1222,8 +1222,8 @@
     <string name="status_bar_device_locked">ล็อกอุปกรณ์อยู่</string>
     <string name="list_delimeter">" "</string>
     <string name="sending">กำลังส่ง…</string>
-    <string name="launchBrowserDefault">เปิดเบราเซอร์หรือไม่</string>
-    <string name="SetupCallDefault">รับสายหรือไม่</string>
+    <string name="launchBrowserDefault">เปิดเบราเซอร์?</string>
+    <string name="SetupCallDefault">รับสาย?</string>
     <string name="activity_resolver_use_always">ทุกครั้ง</string>
     <string name="activity_resolver_use_once">เฉพาะครั้งนี้</string>
     <string name="default_audio_route_name">โทรศัพท์</string>

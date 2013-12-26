@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_selection">
-        <item quantity="other">ลบรายการที่เลือกหรือไม่?</item>
-        <item quantity="one">ลบรายการที่เลือกหรือไม่?</item>
+        <item quantity="other">ลบรายการที่เลือก?</item>
+        <item quantity="one">ลบรายการที่เลือก?</item>
     </plurals>
 </resources>

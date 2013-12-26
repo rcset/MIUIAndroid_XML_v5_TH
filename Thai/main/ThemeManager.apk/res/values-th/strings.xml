@@ -73,7 +73,7 @@
     <string name="download_success">ดาวน์โหลดเสร็จแล้ว</string>
     <string name="theme_importing">การนำเข้าธีม ...</string>
     <string name="theme_upgrade_request_title">ธีมจำเป็นต้องได้รับการอัปเกรด</string>
-    <string name="theme_upgrade_request_content">รูปแบบธีมในเครื่องต้องถูกแปลงเพื่อเพิ่มประสิทธิภาพ อาจใช้เวลาสักครู่ในการปรับปรุงและมีผลต่อการตอบสนองของโทรศัพท์ แปลงธีมตอนนี้หรือไม่</string>
+    <string name="theme_upgrade_request_content">รูปแบบธีมในเครื่องต้องถูกแปลงเพื่อเพิ่มประสิทธิภาพ อาจใช้เวลาสักครู่ในการปรับปรุงและมีผลต่อการตอบสนองของโทรศัพท์ แปลงธีมตอนนี้?</string>
     <string name="theme_upgrade_request_yes">ตกลง</string>
     <string name="theme_upgrade_request_cancel">ยกเลิก</string>
     <string name="theme_import_preparing">กำลังเตรียม ..</string>
@@ -82,7 +82,7 @@
     <string name="theme_sdcard_importing">กำลังนำเข้า ...</string>
     <string name="theme_import_stoping">กำลังหยุด ...</string>
     <string name="theme_import_oper_stop">ยกเลิก</string>
-    <string name="theme_import_oper_stop_request_content">หยุดการอัปเดตธีมหรือไม่?</string>
+    <string name="theme_import_oper_stop_request_content">หยุดการอัปเดตธีม?</string>
     <string name="theme_import_oper_start">อัปเกรดทั้งหมด</string>
     <string name="theme_import_oper_complete">สมบูรณ์</string>
     <string name="theme_import_item_not_upgraded">ไม่ได้อัปเกรด</string>
@@ -102,9 +102,9 @@
     <string name="theme_batch_updating_text">มี %1$d ธีม กำลังได้รับการอัปเดต</string>
     <string name="theme_batch_update_all">อัปเดตทั้งหมด</string>
     <string name="theme_batch_update_dlg_title">อัปเดต</string>
-    <string name="theme_batch_update_dlg_content">คุณต้องการอัปเดตตอนนี้หรือไม่?</string>
+    <string name="theme_batch_update_dlg_content">คุณต้องการอัปเดตตอนนี้?</string>
     <string name="theme_current_using_has_update">ธีมล่าสุดได้รับการปรับปรุง คลิ๊กที่นี่เพื่อปรับใช้</string>
-    <string name="theme_immediately_apply_tip">ธีมได้รับการปรับปรุงแล้ว ปรับใช้ขณะนี้หรือไม่?</string>
+    <string name="theme_immediately_apply_tip">ธีมได้รับการปรับปรุงแล้ว ปรับใช้ขณะนี้?</string>
     <string name="theme_name">%1$s</string>
     <string name="resource_comment_sending">ส่งความคิดเห็น ...</string>
     <string name="resource_comment_upload_failed">ไม่สามารถส่งความคิดเห็น</string>
@@ -124,7 +124,7 @@
     <string name="resource_comment_description">%1$s แสดงความคิดเห็นต่อ %2$s:%3$s:%4$s</string>
     <string name="resource_comment_count">%1$s คะแนน ทั้งหมด %2$s ความคิดเห็น(เวอร์ชั่น %3$s)</string>
     <string name="resource_comment_name_default">ผู้ใช้ %1$s</string>
-    <string name="resource_comment_account_need_activitied">บัญชีของคุณไม่ได้เปิดใช้งาน คุณต้องการเปิดใช้งานในขณะนี้หรือไม่?</string>
+    <string name="resource_comment_account_need_activitied">บัญชีของคุณไม่ได้เปิดใช้งาน คุณต้องการเปิดใช้งานในขณะนี้?</string>
     <string name="resource_comment_rate">ให้คะแนน:</string>
     <string name="resource_comment_entry_tips">%1$s รีวิว คลิกเพื่อดู</string>
     <string name="fail_to_add_account">การเพิ่มบัญชีล้มเหลว</string>
@@ -174,7 +174,7 @@
     <string name="loading">กำลังโหลด ...</string>
     <string name="download_failed">การดาวน์โหลดล้มเหลว!</string>
     <string name="download_preview_failed">ไม่สามารถโหลดตัวอย่าง</string>
-    <string name="resource_delete_confirm">คุณแน่ใจหรือว่าต้องการลบแหล่งข้อมูลนี้?</string>
+    <string name="resource_delete_confirm">ต้องการลบแหล่งข้อมูลนี้?</string>
     <string name="all_resources">ทั้งหมด</string>
     <string name="resource_default_name">แหล่งข้อมูล</string>
     <string name="resource_category">หมวดหมู่</string>
@@ -184,7 +184,7 @@
     <string name="resource_comment_4_star">4 ดาว</string>
     <string name="resource_comment_5_star">5 ดาว</string>
     <string name="resource_detail">รายละเอียด</string>
-    <string name="resource_delete_all">คุณแน่ใจหรือว่าต้องการลบ %1$d แหล่งข้อมูลที่เลือก?</string>
+    <string name="resource_delete_all">ต้องการลบ %1$d แหล่งข้อมูลที่เลือก?</string>
     <string name="resource_can_not_selected">%1$s ไม่สามารถเลือกได้!</string>
     <string name="resource_system_title">แหล่งข้อมูลระบบ</string>
     <string name="resource_downloaded_title">ดาวน์โหลดแหล่งข้อมูล</string>

@@ -40,7 +40,7 @@
     <string name="connecting">การเชื่อมต่อ</string>
     <string name="scan_tip">กรุณาให้แน่ใจว่าผู้รับได้เปิดใช้งานการเชื่อมต่อและสามารถรับไฟล์</string>
     <string name="send_to">ส่งไป:</string>
-    <string name="send_cancel_tip">การรับส่งข้อมูลไม่สมบูรณ์ คุณต้องการที่จะหยุดการรับส่งข้อมูลและออกหรือไม่?</string>
+    <string name="send_cancel_tip">การรับส่งข้อมูลไม่สมบูรณ์ คุณต้องการที่จะหยุดการรับส่งข้อมูลและออก?</string>
     <string name="send_cancel_tip2">ยกเลิกการส่ง ส่ง %1$d / %2$d ไฟล์</string>
     <string name="send_finish_tip">ส่ง %1$d ไฟล์ ไป:</string>
     <string name="sent">ส่ง</string>
@@ -55,7 +55,7 @@
     <string name="receive_store">บันทึกไฟล์ไปที่:</string>
     <string name="receive_finish_tip">ได้รับแล้ว $ 1 %d ไฟล์:</string>
     <string name="about_to_send">ส่งไฟล์</string>
-    <string name="receive_cancel_tip">ได้รับข้อมูลไม่สมบูรณ์ คุณต้องการหยุดการรับส่งข้อมูลและออกหรือไม่?</string>
+    <string name="receive_cancel_tip">ได้รับข้อมูลไม่สมบูรณ์ คุณต้องการหยุดการรับส่งข้อมูลและออก?</string>
     <string name="receive_cancel_tip2">ยกเลิกการรับ ได้รับแล้ว %1$d / %2$d ไฟล์</string>
     <string name="cancel_send">ยกเลิก</string>
     <string name="cancel_receive">ยกเลิก</string>

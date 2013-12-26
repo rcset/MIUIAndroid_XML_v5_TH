@@ -23,8 +23,8 @@
     <string name="default_station_name">ช่องใหม่</string>
     <string name="dlg_delete_confirm_title">ยืนยันการลบออกจากรายการโปรด</string>
     <string name="dlg_delete_confirm_title1">ยืนยันการลบออกจากช่องที่ตั้งไว้ล่วงหน้า</string>
-    <string name="dlg_delete_confirm_text">คุณแน่ใจหรือว่าต้องการลบออกจากรายการโปรด?</string>
-    <string name="dlg_delete_confirm_text1">คุณแน่ใจหรือว่าต้องการลบช่องจากช่องที่ตั้งไว้หรือไม่</string>
+    <string name="dlg_delete_confirm_text">ต้องการลบออกจากรายการโปรด?</string>
+    <string name="dlg_delete_confirm_text1">ต้องการลบช่องจากช่องที่ตั้งไว้?</string>
     <string name="toast_favorite_full">ไม่สามารถเพิ่มช่องในรายการโปรด เนื่องจากเต็มแล้ว</string>
     <string name="toast_favorite_full1">ไม่สามารถเพิ่มช่องในการรายการที่กำหนดไว้ล่วงหน้า เนื่องจากเต็มแล้ว</string>
     <string name="toast_already_favorite">ช่องนี้มีอยู่แล้วในรายการโปรด</string>
@@ -57,7 +57,7 @@
     <string name="btn_discard_recording">เลิก</string>
     <string name="edit_recording_name_hint">พิมพ์ชื่อไฟล์ที่นี่</string>
     <string name="dlg_save_recording_title">บันทึกไฟล์</string>
-    <string name="dlg_save_recording_storage_warning">พื้นที่จัดเก็บไม่เพียงพอ! คุณต้องการจะบันทึกเสียงล่าสุดหรือไม่</string>
+    <string name="dlg_save_recording_storage_warning">พื้นที่จัดเก็บไม่เพียงพอ! คุณต้องการจะบันทึกเสียงล่าสุด?</string>
     <string name="already_exists">มีอยู่แล้ว</string>
     <string name="FMR_Freq_text">ความถี่ (MHz)</string>
     <string name="FMR_Freq_tune">หมุน</string>
@@ -99,5 +99,5 @@
     <string name="status_recording">การบันทึก:</string>
     <string name="dialog_sleep_title">เลือกการตั้งปิดอัตโนมัติ</string>
     <string name="toast_sleep_mode">หยุดใน %s</string>
-    <string name="alert_message_delete_station">คุณแน่ใจหรือว่าต้องการลบสถานีที่เลือก?</string>
+    <string name="alert_message_delete_station">ต้องการลบสถานีที่เลือก?</string>
 </resources>

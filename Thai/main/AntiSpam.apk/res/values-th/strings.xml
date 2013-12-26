@@ -17,7 +17,7 @@
     <string name="twenty_four_hour_time_format">HH:mm</string>
     <string name="marked_by_user">ทำเครื่องหมายโดยผู้ใช้</string>
     <string name="marked_by_others">%d people marked it as</string>
-    <string name="dlg_clear_all_sms">เอาข้อความที่ถูกบล็อกทั้งหมดออกหรือไม่?</string>
+    <string name="dlg_clear_all_sms">เอาข้อความที่ถูกบล็อกทั้งหมดออก?</string>
     <string name="">ล้างเบอร์โทรที่ถูกบล็อกทั้งหมด?</string>
     <string name="dlg_clear_current_sms">ล้างข้อความที่ถูกบล็อกทั้งหมดจากหมายเลขนี่?</string>
     <string name="dlg_clear_current_call">ล้างเบอร์โทรที่ถูกบล็อกทั้งหมดจากหมายเลขนี้?</string>

@@ -10,7 +10,7 @@
     <string name="delete_alarm">ลบการปลุก</string>
     <string name="enable_alarm">เปิดการปลุก</string>
     <string name="disable_alarm">ปิดการปลุก</string>
-    <string name="delete_alarm_confirm">ลบการปลุกนี้หรือไม่?</string>
+    <string name="delete_alarm_confirm">ลบการปลุกนี้?</string>
     <string name="show_clock">แสดงนาฬิกา</string>
     <string name="hide_clock">ซ่อนนาฬิกา</string>
     <string name="label">ตั้งป้าย</string>
@@ -83,7 +83,7 @@
     <string name="menu_delete">ลบ</string>
     <string name="menu_edit_systemtime">เวลาในระบบ</string>
     <string name="delete_timezone_title">ลบโซนเวลา</string>
-    <string name="delelte_selected_timezone">คุณแน่ใจหรือว่าต้องการลบโซนเวลาที่เลือก (s)?</string>
+    <string name="delelte_selected_timezone">ต้องการลบโซนเวลาที่เลือก (s)?</string>
     <string name="wait_when_operating_data_message">กำลังประมวลผล โปรดรอสักครู่</string>
     <string name="timezone_exist_error_message">โซนเวลาที่เพิ่มมีอยู่แล้ว โปรดเลือกใหม่</string>
     <string name="timezone_search_hint">เพิ่มนาฬิกาโลกโดยการเลือกเมือง</string>
@@ -102,7 +102,7 @@
     <string name="stopwatch_lap_empty_text">ไม่มีรอบที่บันทึกไว้</string>
     <string name="timer_got_it">ตกลง</string>
     <string name="timer_start_alarm">เริ่มจับเวลา</string>
-    <string name="dialog_confirm_abort">คุณต้องการยกเลิกการเปลี่ยนแปลงของคุณหรือไม่?</string>
+    <string name="dialog_confirm_abort">คุณต้องการยกเลิกการเปลี่ยนแปลงของคุณ?</string>
     <string name="confirm_abort">ไม่เอา</string>
     <string name="remind_ringtone">เสียงแจ้งเตือน</string>
     <string name="keep_screen_on">เปิดหน้าจอไว้เมื่อจับเวลา</string>

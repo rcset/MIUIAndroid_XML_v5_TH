@@ -27,16 +27,16 @@
     <string name="bluetooth_tethered">ปล่อยสัญญาณผ่านบลูทูธ</string>
     <string name="status_bar_input_method_settings_configure_input_methods">ตั้งค่าวิธีการป้อนข้อมูล</string>
     <string name="status_bar_use_physical_keyboard">แป้นพิมพ์บนเครื่อง</string>
-    <string name="usb_device_permission_prompt">อนุญาตให้แอปพลิเคชัน %1$s เข้าถึงอุปกรณ์ USB นี้หรือไม่?</string>
-    <string name="usb_accessory_permission_prompt">อนุญาตให้แอปพลิเคชัน %1$s เข้าถึงอุปกรณ์เสริม USB นี้หรือไม่?</string>
-    <string name="usb_device_confirm_prompt">เปิด %1$s เมื่อมีการเชื่อมต่ออุปกรณ์ USB นี้หรือไม่?</string>
-    <string name="usb_accessory_confirm_prompt">เปิด %1$s เมื่อมีการเชื่อมต่ออุปกรณ์เสริม USB นี้หรือไม่?</string>
+    <string name="usb_device_permission_prompt">อนุญาตให้แอปพลิเคชัน %1$s เข้าถึงอุปกรณ์ USB นี้?</string>
+    <string name="usb_accessory_permission_prompt">อนุญาตให้แอปพลิเคชัน %1$s เข้าถึงอุปกรณ์เสริม USB นี้?</string>
+    <string name="usb_device_confirm_prompt">เปิด %1$s เมื่อมีการเชื่อมต่ออุปกรณ์ USB นี้?</string>
+    <string name="usb_accessory_confirm_prompt">เปิด %1$s เมื่อมีการเชื่อมต่ออุปกรณ์เสริม USB นี้?</string>
     <string name="usb_accessory_uri_prompt">แอปพลิเคชันที่ติดตั้งไม่สามารถใช้งานได้กับอุปกรณ์เสริม USB นี้ เรียนรู้เพิ่มเติมเกี่ยวกับอุปกรณ์เสริมนี้ที่ %1$s</string>
     <string name="title_usb_accessory">อุปกรณ์เสริม USB</string>
     <string name="label_view">ดู</string>
     <string name="always_use_device">ใช้ค่าเริ่มต้นสำหรับอุปกรณ์ USB นี้</string>
     <string name="always_use_accessory">ใช้ค่าเริ่มต้นสำหรับอุปกรณ์เสริม USB นี้</string>
-    <string name="usb_debugging_title">อนุญาตให้แก้ไขข้อบกพร่องทาง USB หรือไม่?</string>
+    <string name="usb_debugging_title">อนุญาตให้แก้ไขข้อบกพร่องทาง USB ?</string>
     <string name="usb_debugging_message">"ข้อมูลลายนิ้วมือ RSA ของคอมพิวเตอร์ คือ:
 %1$s"</string>
     <string name="usb_debugging_always">ได้รับอนุญาตจากคอมพิวเตอร์เครื่องนี้เสมอ</string>
@@ -125,7 +125,7 @@ yyyy.M.d"</string>
     <string name="status_bar_recent_memory_info">%1$s / %2$s ใช้ได้</string>
     <string name="usb_mode_notification">ที่เก็บข้อมูล USB</string>
     <string name="usb_mode_dont_ask">ไม่ต้องถามในครั้งต่อไป</string>
-    <string name="usb_mode_mount_storage_title">เปิดที่เก็บข้อมูล USB ตอนนี้หรือไม่?</string>
+    <string name="usb_mode_mount_storage_title">เปิดที่เก็บข้อมูล USB ตอนนี้?</string>
     <string name="mount_storage">ใช่</string>
     <string name="dismount_storage">ไม่ใช่</string>
     <string name="usb_notification">เชื่อมต่อกับ USB แล้ว</string>

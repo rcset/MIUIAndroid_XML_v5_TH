@@ -142,7 +142,7 @@
     <string name="message_view_always_show_pictures_confirmation">แสดงรูปภาพจากผู้ส่งนี้โดยอัตโนมัติ</string>
     <string name="message_view_invite_view">ดูในปฏิทิน</string>
     <string name="message_view_invite_title">คำเชิญในปฏิทิน</string>
-    <string name="message_view_invite_text">เข้าร่วมหรือไม่</string>
+    <string name="message_view_invite_text">เข้าร่วม?</string>
     <string name="message_view_invite_accept">" ใช่"</string>
     <string name="message_view_invite_maybe">" อาจจะ"</string>
     <string name="message_view_invite_decline">" ไม่"</string>
@@ -278,7 +278,7 @@
     <string name="account_setup_failed_dlg_certificate_message">ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ได้อย่างปลอดภัย</string>
     <string name="account_setup_failed_dlg_certificate_message_fmt">"ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ได้อย่างปลอดภัย
 (%s)"</string>
-    <string name="account_setup_failed_certificate_required">ต้องใช้ใบรับรองไคลเอ็นต์ ต้องการเชื่อมต่อกับเซิร์ฟเวอร์ที่มีใบรับรองไคลเอ็นต์หรือไม่</string>
+    <string name="account_setup_failed_certificate_required">ต้องใช้ใบรับรองไคลเอ็นต์ ต้องการเชื่อมต่อกับเซิร์ฟเวอร์ที่มีใบรับรองไคลเอ็นต์?</string>
     <string name="account_setup_failed_certificate_inaccessible">ใบรับรองไม่ถูกต้องหรือไม่สามารถเข้าถึงได้</string>
     <string name="account_setup_failed_check_credentials_message">เซิร์ฟเวอร์ตอบสนองโดยมีข้อผิดพลาด โปรดตรวจสอบชื่อผู้ใช้และรหัสผ่านของคุณ แล้วลองอีกครั้ง</string>
     <string name="account_setup_failed_dlg_server_message">ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์</string>
@@ -291,7 +291,7 @@
     <string name="account_setup_failed_protocol_unsupported">คุณพิมพ์ที่อยู่เซิร์ฟเวอร์ไม่ถูกต้อง หรือเซิร์ฟเวอร์ต้องใช้โปรโตคอลในรุ่นที่อีเมลไม่สนับสนุน</string>
     <string name="account_setup_failed_access_denied">คุณไม่ได้รับอนุญาตให้ซิงค์กับเซิร์ฟเวอร์นี้ โปรดติดต่อผู้ดูแลระบบเซิร์ฟเวอร์ของคุณเพื่อขอข้อมูลเพิ่มเติม</string>
     <string name="account_setup_security_required_title">การจัดการด้านความปลอดภัยจากระยะไกล</string>
-    <string name="account_setup_security_policies_required_fmt">เซิร์ฟเวอร์ %s ต้องการให้คุณอนุญาตให้ควบคุมคุณลักษณะความปลอดภัยบางอย่างของอุปกรณ์ Android ของคุณได้จากระยะไกล คุณต้องการตั้งค่าบัญชีนี้ให้เสร็จหรือไม่</string>
+    <string name="account_setup_security_policies_required_fmt">เซิร์ฟเวอร์ %s ต้องการให้คุณอนุญาตให้ควบคุมคุณลักษณะความปลอดภัยบางอย่างของอุปกรณ์ Android ของคุณได้จากระยะไกล คุณต้องการตั้งค่าบัญชีนี้ให้เสร็จ?</string>
     <string name="account_setup_failed_security_policies_unsupported">เซิร์ฟเวอร์นี้ต้องการคุณลักษณะความปลอดภัยที่อุปกรณ์ Android ของคุณไม่สนับสนุน ซึ่งรวมถึง: %s</string>
     <string name="account_setup_username_uneditable_error">คุณไม่สามารถเปลี่ยนชื่อผู้ใช้ของบัญชีได้ หากต้องการเพิ่มบัญชีด้วยชื่อผู้ใช้อื่น ให้แตะ \"เพิ่มบัญชี\"</string>
     <string name="disable_admin_warning">คำเตือน: การปิดใช้งานสิทธิ์ของแอปพลิเคชันอีเมลในการดูแลอุปกรณ์ของคุณจะเป็นการลบบัญชีอีเมลทั้งหมดที่จำเป็นต้องใช้สิทธิ์นั้น พร้อมทั้งอีเมล สมุดโทรศัพท์ กิจกรรมในปฏิทิน และข้อมูลอื่นๆ</string>
@@ -307,12 +307,12 @@
     <string name="password_expired_ticker">PIN หรือรหัสผ่านล็อกหน้าจอของคุณหมดอายุแล้ว</string>
     <string name="password_expired_content_title">รหัสผ่านล็อกหน้าจอหมดอายุแล้ว</string>
     <string name="password_expire_warning_dialog_title">รหัสผ่านล็อกหน้าจอใกล้หมดอายุ</string>
-    <string name="password_expire_warning_dialog_content_fmt">คุณต้องเปลี่ยน PIN หรือรหัสผ่านล็อกหน้าจอของคุณโดยเร็ว มิฉะนั้นข้อมูลสำหรับ %s จะถูกลบ เปลี่ยนรหัสตอนนี้หรือไม่</string>
+    <string name="password_expire_warning_dialog_content_fmt">คุณต้องเปลี่ยน PIN หรือรหัสผ่านล็อกหน้าจอของคุณโดยเร็ว มิฉะนั้นข้อมูลสำหรับ %s จะถูกลบ เปลี่ยนรหัสตอนนี้?</string>
     <string name="password_expired_dialog_title">รหัสผ่านล็อกหน้าจอหมดอายุแล้ว</string>
-    <string name="password_expired_dialog_content_fmt">ข้อมูลสำหรับ %s กำลังถูกลบออกจากอุปกรณ์ของคุณ คุณสามารถคืนค่าข้อมูลได้โดยเปลี่ยน PIN หรือรหัสผ่านล็อกหน้าจอของคุณ เปลี่ยนรหัสตอนนี้หรือไม่</string>
-    <string name="account_settings_exit_server_settings">ยกเลิกการเปลี่ยนแปลงที่ยังไม่ได้บันทึกหรือไม่</string>
+    <string name="password_expired_dialog_content_fmt">ข้อมูลสำหรับ %s กำลังถูกลบออกจากอุปกรณ์ของคุณ คุณสามารถคืนค่าข้อมูลได้โดยเปลี่ยน PIN หรือรหัสผ่านล็อกหน้าจอของคุณ เปลี่ยนรหัสตอนนี้?</string>
+    <string name="account_settings_exit_server_settings">ยกเลิกการเปลี่ยนแปลงที่ยังไม่ได้บันทึก?</string>
     <string name="account_settings_login_dialog_title">ลงชื่อเข้าใช้ไม่ได้</string>
-    <string name="account_settings_login_dialog_content_fmt">ชื่อผู้ใช้หรือรหัสผ่านสำหรับ %s ไม่ถูกต้อง อัปเดตชื่อผู้ใช้และรหัสผ่านตอนนี้หรือไม่</string>
+    <string name="account_settings_login_dialog_content_fmt">ชื่อผู้ใช้หรือรหัสผ่านสำหรับ %s ไม่ถูกต้อง อัปเดตชื่อผู้ใช้และรหัสผ่านตอนนี้?</string>
     <string name="account_settings_default_label">บัญชีเริ่มต้น</string>
     <string name="account_settings_default_summary">ส่งอีเมลจากบัญชีนี้เป็นค่าเริ่มต้น</string>
     <string name="account_settings_background_attachments_label">ดาวน์โหลดไฟล์แนบ</string>

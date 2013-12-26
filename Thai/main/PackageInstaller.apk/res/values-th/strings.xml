@@ -29,7 +29,7 @@
     <string name="manage_applications">จัดการแอปพลิเคชัน</string>
     <string name="dlg_app_replacement_title">แทนที่แอปพลิเคชัน</string>
     <string name="dlg_app_replacement_statement">แอปพลิเคชันที่กำลังติดตัั้งจะถูกแทนที่แอปพลิเคชันอื่น แต่ข้อมูลแอปพลิเคชันจะไม่สูญหาย</string>
-    <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) จะถูกแทนที่โดยเวอร์ชันปัจจุบัน (%3$s). ข้อมูลผู้ใช้ตะยังคงอยู่ คุณต้องการติดตั้งหรือไม่?</string>
+    <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) จะถูกแทนที่โดยเวอร์ชันปัจจุบัน (%3$s). ข้อมูลผู้ใช้ตะยังคงอยู่ คุณต้องการติดตั้ง?</string>
     <string name="dlg_sys_app_replacement_statement">นี่คือแอปพลิเคชันระบบ คุณต้องการแทนที่? แต่ข้อมูลแอปพลิเคชันจะไม่สูญหาย</string>
     <string name="lift_ban">ยกเว้น</string>
     <string name="out_of_space_dlg_title">ไม่มีพิ้นที่</string>
@@ -58,8 +58,8 @@
     <string name="privacy_relative">การอนุญาตส่วนตัว</string>
     <string name="other_relative">การอนุญาตอื่นๆ</string>
     <string name="perm_notice">เตือนความปลอดภัย</string>
-    <string name="trust_switch_dialog_msg">MIUI จะไม่ขอให้คุณยืนยันความปลอดภัย และการดำเนินงานที่เกี่ยวข้องกับความเป็นส่วนตัวจากแอปนี้ เชื่อถือแอปนี้หรือไม่?</string>
-    <string name="auto_startup_dialog_msg">MIUI จะอนุญาตให้แอปเริ่มต้นโดยอัตโนมัติโดยไม่ต้องแจ้ง วิธีนี้อาจนำไปสู่​​การใช้พลังงานหรือการรับส่งข้อมูล อนุญาตให้เริ่มต้นอัตโนมัติหรือไม่?</string>
+    <string name="trust_switch_dialog_msg">MIUI จะไม่ขอให้คุณยืนยันความปลอดภัย และการดำเนินงานที่เกี่ยวข้องกับความเป็นส่วนตัวจากแอปนี้ เชื่อถือแอปนี้?</string>
+    <string name="auto_startup_dialog_msg">MIUI จะอนุญาตให้แอปเริ่มต้นโดยอัตโนมัติโดยไม่ต้องแจ้ง วิธีนี้อาจนำไปสู่​​การใช้พลังงานหรือการรับส่งข้อมูล อนุญาตให้เริ่มต้นอัตโนมัติ?</string>
     <string name="low_risk_perms">อนุญาตความเสี่ยงต่ำ</string>
     <string name="high_risk_perms">อนุญาตความเสียงสูง</string>
     <string name="perm_privacy_app_finish">เสร็จสิ้น</string>

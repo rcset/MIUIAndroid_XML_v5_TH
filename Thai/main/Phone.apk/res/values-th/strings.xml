@@ -21,14 +21,14 @@
     <string name="airplane_mode_on">ไม่สามารถเรียกใช้เครื่องมือซิมได้หากเปิดโหมดเครื่องบิน</string>
     <string name="lable_sim_not_ready">เครื่องมือซิมไม่พร้อมหรือไม่รองรับ</string>
     <string name="gemini_3g_indic">3G</string>
-    <string name="callFailed_dsac_vt_incompatible_destination">ไม่สามารถตั้งค่าสายวิดีโอ โทรศัพท์วิดีโอไม่ได้รับการสนับสนุนบนโทรศัพท์ที่คุณกำลังโทรไป โทรด้วยสายสนทนาหรือไม่?</string>
-    <string name="callFailed_dsac_vt_resource_unavailable">ไม่สามารถตั้งค่าสายวิดีโอ โทรศัพท์ที่คุณโทรหาอยู่นอกพื้นที่บริการ 3G โทรด้วยสายสนทนาหรือไม่?</string>
-    <string name="callFailed_dsac_vt_bearer_not_avail">ไม่สามารถตั้งค่าสายวิดีโอ โทรด้วยสายสนทนาหรือไม่?</string>
-    <string name="callFailed_dsac_vt_out_of_3G_yourphone">โทรศัพท์ของคุณอยู่นอกพื้นที่ให้บริการ 3G โทรด้วยสายสนทนาหรือไม่?</string>
-    <string name="callFailed_dsac_vt_bear_not_authorized">ตั้งค่าการสนทนาผ่านวิดีโอไม่ได้ ซิมการ์ดนี้ไม่ได้เปิดบริการโทรศัพท์ผ่านวิดีโอ ต้องการโทรออกด้วยเสียงหรือไม่</string>
+    <string name="callFailed_dsac_vt_incompatible_destination">ไม่สามารถตั้งค่าสายวิดีโอ โทรศัพท์วิดีโอไม่ได้รับการสนับสนุนบนโทรศัพท์ที่คุณกำลังโทรไป โทรด้วยสายสนทนา?</string>
+    <string name="callFailed_dsac_vt_resource_unavailable">ไม่สามารถตั้งค่าสายวิดีโอ โทรศัพท์ที่คุณโทรหาอยู่นอกพื้นที่บริการ 3G โทรด้วยสายสนทนา?</string>
+    <string name="callFailed_dsac_vt_bearer_not_avail">ไม่สามารถตั้งค่าสายวิดีโอ โทรด้วยสายสนทนา?</string>
+    <string name="callFailed_dsac_vt_out_of_3G_yourphone">โทรศัพท์ของคุณอยู่นอกพื้นที่ให้บริการ 3G โทรด้วยสายสนทนา?</string>
+    <string name="callFailed_dsac_vt_bear_not_authorized">ตั้งค่าการสนทนาผ่านวิดีโอไม่ได้ ซิมการ์ดนี้ไม่ได้เปิดบริการโทรศัพท์ผ่านวิดีโอ ต้องการโทรออกด้วยเสียง?</string>
     <string name="notification_voicemail">ข้อความเสียง</string>
-    <string name="turn_on_3g_service_message">ขณะนี้ได้ปิดบริการ 3G แล้ว คุณต้องการเปิดการใช้งานหรือไม่</string>
-    <string name="associate_sim_missing_message">ซิม %1$s ไม่ว่าง คุณต้องการโทรผ่าน %2$s หรือไม่</string>
+    <string name="turn_on_3g_service_message">ขณะนี้ได้ปิดบริการ 3G แล้ว คุณต้องการเปิดการใช้งาน?</string>
+    <string name="associate_sim_missing_message">ซิม %1$s ไม่ว่าง คุณต้องการโทรผ่าน %2$s ?</string>
     <string name="associate_sim_missing_other">อื่น ๆ</string>
     <string name="vt_incoming_call">สายวิดีโอเข้า</string>
     <string name="vt_settings">การตั้งค่าวิดีโอ</string>
@@ -151,7 +151,7 @@
     <string name="cannot_answered_Voice_Call">ไม่สามารถตอบโทรแบบเห็นภาพได้ เนื่องจากกำลังโทรแบบเห็นภาพอยู่</string>
     <string name="callDurationFormat">%1$s นาที %2$s วินาที</string>
     <string name="reminder">ตัวเตือน</string>
-    <string name="vt_media_occupied">เนื่องจากกล้องใช้ไม่ได้ จึงไม่สามารถโทรสายวิดีโอได้ โปรดตรวจสอบว่าแอปพลิเคชันอื่นกำลังใช้กล้องอยู่หรือไม่</string>
+    <string name="vt_media_occupied">เนื่องจากกล้องใช้ไม่ได้ จึงไม่สามารถโทรสายวิดีโอได้ โปรดตรวจสอบว่าแอปพลิเคชันอื่นกำลังใช้กล้องอยู่?</string>
     <string name="vt_media_video_fail">ไม่สามารถแสดงวิดีโอได้อย่างเหมาะสม สายวิดีโอถูกตัดการเชื่อมต่อ</string>
     <string name="incall_toast_hold">พัก</string>
     <string name="incall_toast_unhold">ทำต่อ</string>
@@ -181,7 +181,7 @@
     <string name="minutereminder_turnon">เปิดตัวเตือนนาทีที่วินาทีที่ 50 ของทุกนาที</string>
     <string name="minutereminder_turnoff">ปิดตัวเตือนนาที</string>
     <string name="voice_call_settings">การตั้งค่าสายสนทนา</string>
-    <string name="enable_sip_dialog_message">สายอินเตอร์เน็ตถูกปิดใช้งาน คุณต้องการเปิดใช้งานหรือไม่?</string>
+    <string name="enable_sip_dialog_message">สายอินเตอร์เน็ตถูกปิดใช้งาน คุณต้องการเปิดใช้งาน?</string>
     <string name="ip_prefix_setting">รหัส IP</string>
     <string name="ip_prefix_setting_sum">การติดตั้งรหัส IP</string>
     <string name="enter_ip_prefix_number">ใส่รหัส</string>
@@ -192,9 +192,9 @@
     <string name="vt_cb_call_description">การตั้งค่าการห้ามโทรสายวิดีโอ</string>
     <string name="vt_addtional_call_description">การตั้งค่าหมายเลขโทรศัพท์และสายเรียกซ้อน</string>
     <string name="others">การตั้งค่าอื่นๆ</string>
-    <string name="confirm_3g_switch">คุณแน่ใจว่าต้องการตั้งบริการ 3G ให้ SIM นี้หรือไม่ ซึ่งจะตั้ง SIM มาตรฐานสำหรับการโทรผ่านวิดีโอให้กับ SIM นี้โดยอัตโนมัติด้วย</string>
+    <string name="confirm_3g_switch">คุณแน่ใจว่าต้องการตั้งบริการ 3G ให้ SIM นี้? ซึ่งจะตั้ง SIM มาตรฐานสำหรับการโทรผ่านวิดีโอให้กับ SIM นี้โดยอัตโนมัติด้วย</string>
     <string name="modem_switching">การสลับ SIM จะใช้เวลาประมาณ 10 วินาทีจึงจะสมบูรณ์ โปรดรอ…</string>
-    <string name="confirm_3g_switch_to_off">แน่ใจหรือไม่ว่าต้องการปิดบริการ 3G? การทำเช่นนี้จะปิดบริการสายวิดีโอโดยอัตโนมัติด้วย</string>
+    <string name="confirm_3g_switch_to_off">ต้องการปิดบริการ 3G? การทำเช่นนี้จะปิดบริการสายวิดีโอโดยอัตโนมัติด้วย</string>
     <string name="service_3g_off">ปิด</string>
     <string name="enable_3G_service">เปิดใช้งาน 3G</string>
     <string name="setting_for_3G_service">บริการ 3G</string>
@@ -203,7 +203,7 @@
     <string name="call_reject_sum">จัดการโหมดปฏิเสธกรรับสายอัตโนมัติและจัดรายการ</string>
     <string name="voice_call_reject_mode_title">โหมดปฏิเสธการรับสายการโทรด้วยเสียงอัตโนมัติ</string>
     <string name="voice_call_all_numbers">โหมดปฏิเสธการรับสายการโทรด้วยเสียงอัตโนมัติ : ทุกเลขหมาย</string>
-    <string name="voice_mail_dialog_text">คุณมีข้อความเสียงใหม่จาก %s คุณต้องการได้รับข้อความเดี๋ยวนี้หรือไม่</string>
+    <string name="voice_mail_dialog_text">คุณมีข้อความเสียงใหม่จาก %s คุณต้องการได้รับข้อความเดี๋ยวนี้?</string>
     <string name="video_call_all_numbers">โหมดปฏิเสธการรับสายทางวีดีโออัตโนมัติ : ทุกเลขหมาย</string>
     <string name="voice_call_reject_list_title">รายการปฏิเสธการรับสายการโทรด้วยเสียง</string>
     <string name="voice_call_reject_list_sum">จัดการรายการปฏิเสธการรับสายการโทรด้วยเสียงอัตโนมัติ</string>
@@ -326,8 +326,8 @@
     <string name="mt_code_forwarded_cf_busy">สายถูกโอนเมื่อไม่ว่าง</string>
     <string name="mt_code_forwarded_cf_no_reply">สายถูกโอนเมื่อไม่ตอบรับ</string>
     <string name="mt_code_forwarded_cf_not_reachable">สายถูกโอนเมื่อติดต่อไม่ได้</string>
-    <string name="networksettings_tips_data_enabled">ต้องการเปิดสวิตช์บริการข้อมูลหรือไม่? คุณอาจต้องเสียค่าบริการรับส่งข้อมูล!</string>
-    <string name="networksettings_tips_data_disabled">ต้องการปิดสวิตช์บริการข้อมูลหรือไม่? บริการอื่นอาจได้รับผลกระทบ เช่น การส่งและการรับ MMS หรืออีเมล์</string>
+    <string name="networksettings_tips_data_enabled">ต้องการเปิดสวิตช์บริการข้อมูล? คุณอาจต้องเสียค่าบริการรับส่งข้อมูล!</string>
+    <string name="networksettings_tips_data_disabled">ต้องการปิดสวิตช์บริการข้อมูล? บริการอื่นอาจได้รับผลกระทบ เช่น การส่งและการรับ MMS หรืออีเมล์</string>
     <string name="sim_manage_suggested">ค่าที่แนะนำ</string>
     <string name="sim_manage_sipcall">อินเตอร์เน็ต</string>
     <string name="sim_manage_call_via">โทร</string>
@@ -335,9 +335,9 @@
     <string name="pch_data_prefer_summary">อนุญาตการส่งผ่านข้อมูลเคลื่อนที่ด้วยความเร็วเต็มที่</string>
     <string name="pch_data_prefer_message">"ต้องการบริการข้อมูลเคลื่อนที่ ใช้เพื่อปรับปรุงประสิทธิภาพการส่งผ่านข้อมูล โดยมีอัตราการรับโทรศัพท์ที่ต่ำลง ไม่แนะนำให้ทำเช่นนี้
 
-คุณแน่ใจว่าต้องการอนุญาต ต้องการบริการข้อมูลเคลื่อนที่ หรือไม่"</string>
+คุณแน่ใจว่าต้องการอนุญาต ต้องการบริการข้อมูลเคลื่อนที่ ?"</string>
     <string name="manual_select_title">เลือกด้วยตนเอง</string>
-    <string name="manual_select_dialog_msg">โทรศัพท์มือถือจะไม่เลือกผู้ให้บริการรายอื่นให้คุณในโหมดการเลือกด้วยตนเอง บางครั้งคุณต้องเลือกด้วยตนเองอีกครั้ง หรือเปลี่ยนกลับไปยังโหมดการเลือกอัตโนมัติหากบริการของผู้ให้บริการที่เลือกสูญหายไป เราแนะนำให้ใช้\"เลือกอัตโนมัติ\" คุณต้องการเลือกเครือข่ายด้วยตนเองหรือไม่</string>
+    <string name="manual_select_dialog_msg">โทรศัพท์มือถือจะไม่เลือกผู้ให้บริการรายอื่นให้คุณในโหมดการเลือกด้วยตนเอง บางครั้งคุณต้องเลือกด้วยตนเองอีกครั้ง หรือเปลี่ยนกลับไปยังโหมดการเลือกอัตโนมัติหากบริการของผู้ให้บริการที่เลือกสูญหายไป เราแนะนำให้ใช้\"เลือกอัตโนมัติ\" คุณต้องการเลือกเครือข่ายด้วยตนเอง?</string>
     <string name="no_service_msg_gemini">"ขณะนี้ไม่มีริการจากผู้ให้บริการที่เลือกสำหรับซิมการ์ด \" %s\"
 เราแนะนำให้ใช้\"เลือกอัตโนมัติ\" หรือคุณสามารถเลือกผู้ให้บริการอื่นรายได้ด้วยตนเอง"</string>
     <string name="no_service_msg">"ขณะนี้ไม่มีริการจากผู้ให้บริการที่เลือก
@@ -353,9 +353,9 @@
     <string name="plmn_list_setting_add_plmn">เพิ่ม PLMN ใหม่</string>
     <string name="international_dialing_title">ตัวช่วยการโทรระหว่างประเทศ</string>
     <string name="international_dialing_select_country">พบว่าคุณกำลังโทรศัพท์ข้ามประเทศ โปรดเลือกปลายทางของคุณ</string>
-    <string name="international_dialing_add_country_code" formatted="false">พบว่าคุณกำลังเรียกเลขหมาย %s คุณต้องการเพิ่มรหัสประเทศ (+%s) หรือไม่</string>
-    <string name="international_dialing_add_country_code_and_area_code">พบว่าคุณกำลังเรียกเลขหมายใน %1$s %2$s คุณต้องการเพิ่มรหัสประเทศและรหัสพื้นที่ (+%3$s) หรือไม่</string>
-    <string name="international_dialing_change_country_prefix">"พบว่าคุณกำลังเรียกเลขหมายจาก %s เปลี่ยนรหัสขึ้นต้นการโทรระหว่างประเทศเป็น '+' หรือไม่"</string>
+    <string name="international_dialing_add_country_code" formatted="false">พบว่าคุณกำลังเรียกเลขหมาย %s คุณต้องการเพิ่มรหัสประเทศ (+%s) ?</string>
+    <string name="international_dialing_add_country_code_and_area_code">พบว่าคุณกำลังเรียกเลขหมายใน %1$s %2$s คุณต้องการเพิ่มรหัสประเทศและรหัสพื้นที่ (+%3$s) ?</string>
+    <string name="international_dialing_change_country_prefix">"พบว่าคุณกำลังเรียกเลขหมายจาก %s เปลี่ยนรหัสขึ้นต้นการโทรระหว่างประเทศเป็น '+' ?"</string>
     <string name="international_dialing_add_country_code_input_area_code">พบว่าคุณกำลังเรียกเลขหมายใน %s หากเป็นเช่นนั้นโปรดใส่รหัสพื้นที่</string>
     <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">พบว่าคุณกำลังเรียกเลขหมายใน %s หากเมืองปลายทางของคุณไม่ใช่ %s โปรดใส่รหัสพื้นที่</string>
     <string name="international_dialing_need_area_code">สำหรับการโทร จำเป็นต้องมีรหัสพื้นที่ของเมืองปลายทาง</string>
@@ -368,18 +368,18 @@
     <string name="international_dialing_no">ไม่ ใช้หมายเลขดั้งเดิม:</string>
     <string name="international_dialing_call_button">โทร</string>
     <string name="international_dialing_area_code">รหัสพื้นที่</string>
-    <string name="international_dialing_invalid_number">หมายเลขไม่ถูกต้อง คุณยังต้องการเรียกเลขหมายต่อหรือไม่</string>
-    <string name="international_dialing_add_country_code_and_area_code_without_prefix">คุณต้องการเพิ่มรหัสประเทศและรหัสจังหวัดที่หรือไม่</string>
+    <string name="international_dialing_invalid_number">หมายเลขไม่ถูกต้อง คุณยังต้องการเรียกเลขหมายต่อ?</string>
+    <string name="international_dialing_add_country_code_and_area_code_without_prefix">คุณต้องการเพิ่มรหัสประเทศและรหัสจังหวัดที่?</string>
     <string name="no_search_result">ไม่พบผลการค้นหา</string>
-    <string name="gemini_3g_disable_warning_case0">คุณต้องเปิดการโรมมิ่งข้อมูลสำหรับซิมนี้ก่อน ซึ่งอาจมีค่าธรรมเนียมการโรมมิ่ง! คุณแน่ใจว่าต้องการเปิดการโรมมิ่งข้อมูลและเลือกซิมนี้หรือไม่</string>
+    <string name="gemini_3g_disable_warning_case0">คุณต้องเปิดการโรมมิ่งข้อมูลสำหรับซิมนี้ก่อน ซึ่งอาจมีค่าธรรมเนียมการโรมมิ่ง! คุณแน่ใจว่าต้องการเปิดการโรมมิ่งข้อมูลและเลือกซิมนี้?</string>
     <string name="gemini_3g_disable_warning_case1">ซิมที่เลือกไม่มีบริการ 3G ซึ่งอาจโหลดข้อมูลได้ช้าลง คุณสามารถเปลี่ยนการตั้งค่าบริการ 3G ได้ที่ การตั้งค่า > บริการไร้สาย &amp; เครือข่าย > เครือข่ายเคลื่อนที่</string>
-    <string name="gemini_3g_disable_warning_case2">คุณต้องเปิดใช้งานการโรมมิ่งข้อมูลสำหรับซิมนี้ก่อน ซึ่งอาจมีค่าใช้จ่ายในการโรมมิ่งเป็นจำนวนเงินมาก! นอกจากนี้ยังไม่มีบริการ 3G พร้อมกับซิมนี้ ซึ่งอาจจะโหลดข้อมูลได้ช้าลง คุณสามารถเปลี่ยนได้ภายใต้ การตั้งค่า > บริการไร้สาย &amp; เครือข่าย > เครือข่ายโทรศัพท์มือถือ คุณแน่ใจว่าจะเปิดการใช้งานการโรมมิ่งข้อมูลและเลือกซิมนี้หรือไม่</string>
-    <string name="disable_data_connection_msg">การค้นหาเครือข่ายที่มีทั้งหมดจะยกเลิกการเชื่อมต่อข้อมูลที่กำลังใช้อยู่ คุณต้องการทำต่อหรือไม่</string>
+    <string name="gemini_3g_disable_warning_case2">คุณต้องเปิดใช้งานการโรมมิ่งข้อมูลสำหรับซิมนี้ก่อน ซึ่งอาจมีค่าใช้จ่ายในการโรมมิ่งเป็นจำนวนเงินมาก! นอกจากนี้ยังไม่มีบริการ 3G พร้อมกับซิมนี้ ซึ่งอาจจะโหลดข้อมูลได้ช้าลง คุณสามารถเปลี่ยนได้ภายใต้ การตั้งค่า > บริการไร้สาย &amp; เครือข่าย > เครือข่ายโทรศัพท์มือถือ คุณแน่ใจว่าจะเปิดการใช้งานการโรมมิ่งข้อมูลและเลือกซิมนี้?</string>
+    <string name="disable_data_connection_msg">การค้นหาเครือข่ายที่มีทั้งหมดจะยกเลิกการเชื่อมต่อข้อมูลที่กำลังใช้อยู่ คุณต้องการทำต่อ?</string>
     <string name="voice_command_notification_ticker" formatted="false">คุณสามารถพูดว่า \"%s\" หรือ \"%s\" เพื่อตอบรับหรือไม่รับสายเรียกเข้า</string>
     <string name="voice_command_notification_title">ควบคุมเสียง</string>
     <string name="voice_command_notification_message">เปิดการควบคุมด้วยเสียงสำหรับโทรศัพท์แล้ว</string>
     <string name="reset">รีเซ็ต</string>
-    <string name="reset_alert">แน่ใจหรือไม่ว่าคุณต้องการล้างปริมาณการใช้ข้อมูล</string>
+    <string name="reset_alert">คุณต้องการล้างปริมาณการใช้ข้อมูล?</string>
     <string name="reset_data_usage">รีเซ็ตปริมาณข้อมูล</string>
     <string name="fdn_contact_max">รายการผู้ติดต่อเต็ม</string>
     <string name="simContacts_emptyLoading_ex">กำลังอ่านผู้ติดต่อจาก %s…</string>
@@ -455,7 +455,7 @@
     <string name="audio_mode_earpiece">ชุดหูฟังโทรศัพท์</string>
     <string name="audio_mode_wired_headset">ชุดหูฟังแบบมีสาย</string>
     <string name="audio_mode_bluetooth">บลูทูธ</string>
-    <string name="wait_prompt_str">"ส่งโทนเสียงต่อไปนี้หรือไม่ 
+    <string name="wait_prompt_str">"ส่งโทนเสียงต่อไปนี้? 
 "</string>
     <string name="pause_prompt_str">"กำลังส่งโทนเสียง
 "</string>
@@ -542,7 +542,7 @@
     <string name="fw_change_failed">"ไม่สามารถเปลี่ยนหมายเลขที่จะโอน
 ติดต่อผู้ให้บริการของคุณหากปัญหานี้ยังคงอยู่"</string>
     <string name="fw_get_in_vm_failed">"ไม่สามารถดึงและบันทึกการตั้งค่าจำนวนการส่งต่อในปัจจุบัน 
-ยังคงต้องการสลับไปยังผู้ให้บริการใหม่หรือไม่"</string>
+ยังคงต้องการสลับไปยังผู้ให้บริการใหม่?"</string>
     <string name="no_change">ไม่มีการเปลี่ยนแปลง</string>
     <string name="sum_voicemail_choose_provider">เลือกบริการข้อความเสียง</string>
     <string name="voicemail_default">ผู้ให้บริการของฉัน</string>
@@ -807,7 +807,7 @@
     <string name="ota_touch_activate">"ต้องทำการโทรพิเศษเพื่อเปิดใช้บริการโทรศัพท์ของคุณ 
 
 หลังจากกด “เปิดการใช้งาน” ให้ฟังคำแนะนำเพื่อเปิดใช้บริการโทรศัพท์ของคุณ"</string>
-    <string name="ota_skip_activation_dialog_title">ข้ามการเปิดใช้งานหรือไม่</string>
+    <string name="ota_skip_activation_dialog_title">ข้ามการเปิดใช้งาน?</string>
     <string name="ota_skip_activation_dialog_message">หากคุณข้ามการเปิดใช้งาน คุณจะโทรออกหรือเชื่อมต่อเครือข่ายข้อมูลมือถือไม่ได้ (แม้จะเชื่อมต่อเครือข่าย Wi-Fi ได้ก็ตาม) และระบบจะขอให้คุณเปิดใช้งานทุกครั้งที่คุณเปิดเครื่องจนกว่าคุณจะเปิดใช้งานโทรศัพท์</string>
     <string name="ota_skip_activation_dialog_skip_label">ข้าม</string>
     <string name="ota_activate">เปิดการใช้งาน</string>
@@ -860,7 +860,7 @@
     <string name="pstn_phone">โทรออกด้วยโทรศัพท์มือถือ</string>
     <string name="internet_phone">การโทรทางอินเตอร์เน็ต</string>
     <string name="no_sip_account_found_title">ไม่มีบัญชีการโทรทางอินเตอร์เน็ต</string>
-    <string name="no_sip_account_found">ไม่มีบัญชีการโทรทางอินเตอร์เน็ตบนโทรศัพท์นี้ คุณต้องการเพิ่มบัญชีตอนนี้หรือไม่</string>
+    <string name="no_sip_account_found">ไม่มีบัญชีการโทรทางอินเตอร์เน็ตบนโทรศัพท์นี้ คุณต้องการเพิ่มบัญชีตอนนี้?</string>
     <string name="sip_menu_add">เพิ่ม</string>
     <string name="add_sip_account">เพิ่มบัญชี</string>
     <string name="remove_sip_account">นำบัญชีออก</string>
@@ -1315,7 +1315,7 @@
     <string name="network_work_query_failed_message_miui">"การค้นหาเครือข่ายล้มเหลว กด "ยกเลิก" เพื่อเลือกเครือข่ายที่ตั้งไว้อัตโนมัติ หรือ กด "ตกลง" เพื่อลองใหม่"</string>
     <string name="sum_select_automatically_option_miui">เลือกเครือข่ายที่ตั้งไว้อัตโนมัติ %s</string>
     <string name="register_network_failed_title_miui">เชื่อมต่อไปยังเครือข่ายล้มเหลว</string>
-    <string name="register_network_failed_message_miui">"ไม่สามารถเชื่อมต่อเครือข่ายที่คุณเลือก ให้เชื่อมต่อเครือข่ายที่ได้ตั้งไว้แทนหรือไม่?"</string>
+    <string name="register_network_failed_message_miui">"ไม่สามารถเชื่อมต่อเครือข่ายที่คุณเลือก ให้เชื่อมต่อเครือข่ายที่ได้ตั้งไว้แทน?"</string>
     <string name="next_miui">ถัดไป</string>
     <string name="turn_off_miui">ปิดเครื่อง</string>
     <string name="back_miui">กลับ</string>

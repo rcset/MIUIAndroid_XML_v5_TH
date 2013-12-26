@@ -153,7 +153,7 @@
     <string name="free_style_edit_drawer">Drawer</string>
     <string name="free_style_drawer_title">แอปพลิเคชันทั้งหมด</string>
     <string name="guide_install_app_title">ติดตั้งแอป</string>
-    <string name="guide_install_app_msg">แอปไม่ได้ติดตั้ง ค้นหาแอปนตลาดตอนนี้หรือไม่?</string>
+    <string name="guide_install_app_msg">แอปไม่ได้ติดตั้ง ค้นหาแอปนตลาดตอนนี้?</string>
     <string name="status_bar_toggle_ac">การควบคุมการเข้าถึง</string>
     <string name="status_bar_toggle_bluetooth">บลูทูธ</string>
     <string name="status_bar_toggle_brightness">ความสว่าง</string>
@@ -219,7 +219,7 @@
     <string name="resource_can_not_selected">%1$s ไม่สามารถเลือกได้!</string>
     <string name="resource_default">ค่าเริ่มต้นเสียงเรียก</string>
     <string name="resource_default_name">แหล่งข้อมูล</string>
-    <string name="resource_delete_all">ลบ %1$d แหล่งข้อมูลที่เลือกหรือไม่?</string>
+    <string name="resource_delete_all">ลบ %1$d แหล่งข้อมูลที่เลือก?</string>
     <string name="resource_delete_confirm">คุณแน่ใจหรือไม่ว่าต้องการลบแหล่งข้อมูลเหล่านี้?</string>
     <string name="resource_delta_update_failed">การปรับปรุงเดลต้าล้มเหลว แหล่งข้อมูลที่สมบูรณ์จะถูกดาวน์โหลด</string>
     <string name="resource_delta_update_successful">การปรับปรุงเดลต้าเสร็จแล้ว กำลังบันทึก %1$s</string>

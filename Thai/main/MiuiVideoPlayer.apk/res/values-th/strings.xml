@@ -53,7 +53,7 @@
     <string name="about_developer_label">ผู้พัฒนา</string>
     <string name="about_developer_name">MIUI</string>
     <string name="nowifi_alert_dialog_title">แจ้งเตือนการรับส่งข้อมูล</string>
-    <string name="nowifi_alert_dialog_message">ใช้เครือข่ายมือถือเพื่อสตรีมวิดีโอ คุณต้องการทำต่อหรือไม่?</string>
+    <string name="nowifi_alert_dialog_message">ใช้เครือข่ายมือถือเพื่อสตรีมวิดีโอ คุณต้องการทำต่อ?</string>
     <string name="nowifi_alert_dialog_continue">ต่อเนื่อง</string>
     <string name="nowifi_alert_dialog_exit">ออก</string>
 	<string name="menu_item_disable_audio_enhance">ปิดใช้งานเพิ่มประสิทธิภาพเสียง</string>

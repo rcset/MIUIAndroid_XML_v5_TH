@@ -27,8 +27,8 @@
     <string name="voicemail">ข้อความเสียง</string>
     <string name="menu_delete_one">ลบออกจากบันทึกการโทร</string>
     <string name="toast_finish_delete_call_log">ลบบันทึกการโทรแล้ว</string>
-    <string name="confirm_delete_call_log_title">ลบบันทึกการโทรหรือไม่?</string>
-    <string name="confirm_delete_all_call_log_title">ลบบันทึกการโทรทั้งหมดหรือไม่?</string>
+    <string name="confirm_delete_call_log_title">ลบบันทึกการโทร?</string>
+    <string name="confirm_delete_all_call_log_title">ลบบันทึกการโทรทั้งหมด?</string>
     <string name="contact_detail_calllog_call_record_tips">บันทึกการสนทนา</string>
     <string name="contact_detail_calllog_call_note_tips">หมายเหตุการสนทนา</string>
     <string name="menu_delete_call_log">ลบบันทึกการสนทนา</string>
@@ -36,8 +36,8 @@
     <string name="menu_remove_black_list">เอาออกจากแบล็กลิส</string>
     <string name="menu_about_yellow_page">เกี่ยวกับหน้านี้</string>
     <string name="menu_refresh">รีเฟรช</string>
-    <string name="confirm_to_add_blacklist">บล็อกหมายเลขนี้หรือไม่?</string>
-    <string name="confirm_to_remove_blacklist">ยกเลิกการบล๊อคหมายนี้หรือไม่?</string>
+    <string name="confirm_to_add_blacklist">บล็อกหมายเลขนี้?</string>
+    <string name="confirm_to_remove_blacklist">ยกเลิกการบล๊อคหมายนี้?</string>
     <string name="custom_mark_category">การแก้ไข</string>
     <string name="mark_number_dialog_maintitle">เพ่งเล็งหมายเลขที่ไม่รู้จักแล้วอัพโหลด</string>
     <string name="mark_number_custom_dialog_maintitle">ตกลงหรือแก้ไขการเพ่งเล็ง</string>

@@ -27,8 +27,8 @@
     <string name="micloud_password_req_notice">8 - 16 ตัวอักษร ประกอบด้วย ตัวเลข ตัวอักษรพิมพ์ใหญ่-พิมพ์เล็ก"</string>
     <string name="micloud_password_error_inconsistent">รหัสผ่านไม่ตรงกัน"</string>
     <string name="micloud_active_alert_title">เปิดใช้งานบัญชีของคุณ"</string>
-    <string name="micloud_via_sms_alert">SMS จะถูกส่งเพื่อตรวจสอบหมายเลขโทรศัพท์ของคุณ ต้องการดำเนินการต่อหรือไม่"</string>
-    <string name="micloud_via_int_sms_alert">SMS จะถูกส่งไปยังอุปกรณ์ของคุณ ในอัตราที่ผู้ให้บริการเครือข่ายของคุณกำหนด ต้องการดำเนินการต่อหรือไม่"</string>
+    <string name="micloud_via_sms_alert">SMS จะถูกส่งเพื่อตรวจสอบหมายเลขโทรศัพท์ของคุณ ต้องการดำเนินการต่อ?"</string>
+    <string name="micloud_via_int_sms_alert">SMS จะถูกส่งไปยังอุปกรณ์ของคุณ ในอัตราที่ผู้ให้บริการเครือข่ายของคุณกำหนด ต้องการดำเนินการต่อ?"</string>
     <string name="micloud_error_email">อีเมลไม่ถูกต้อง"</string>
     <string name="micloud_account">บัญชี Xiaomi"</string>
     <string name="micloud_activing_account">กำลังเปิดใช้งานบัญชีของคุณ ..."</string>
@@ -81,8 +81,8 @@
     <string name="sync_sub_dspt">SMS จะถูกส่งเพื่อใช้บริการ"</string>
     <string name="sync_sub_int_dspt">SMS ระหว่างประเทศอาจถูกส่งเพื่อเปิดใช้บริการ"</string>
     <string name="send_sms_for_sync_title">การซิงค์ยังไม่ได้เปิดใช้งาน"</string>
-    <string name="send_sms_for_sync_notice">SMS เพื่อเปิดใช้งานจะถูกส่ง ดำเนินการต่อหรือไม่?"</string>
-    <string name="send_int_sms_for_sync_notice">SMS เปิดใช้งานจะถูกส่งไปยังอุปกรณ์ของคุณ โดยมีค่าใช้จ่ายตามอัตราของผู้ให้บริการเครือข่ายของคุณ ดำเนินการต่อหรือไม่"</string>
+    <string name="send_sms_for_sync_notice">SMS เพื่อเปิดใช้งานจะถูกส่ง ดำเนินการต่อ?"</string>
+    <string name="send_int_sms_for_sync_notice">SMS เปิดใช้งานจะถูกส่งไปยังอุปกรณ์ของคุณ โดยมีค่าใช้จ่ายตามอัตราของผู้ให้บริการเครือข่ายของคุณ ดำเนินการต่อ?"</string>
     <string name="failed_to_send_activate_email">การส่ง E-mail เปิดใช้งานล้มเหลว"</string>
     <string name="access_denied">ปฏิเสธการเข้าใช้"</string>
     <string name="reging">กำลังลงทะเบียน กรุณารอสักครู่ ..."</string>
@@ -124,7 +124,7 @@
     <string name="skip_setup_account_title">ข้ามการตั้งค่าบัญชี"</string>
     <string name="skip_setup_account_msg">การใช้บัญชี Xiaomi ของคุณ สามารถซิงค์และสำรองข้อมูล SMS รายชื่อผู้ติดต่อ รูปถ่าย บันทึก ฯลฯ ของคุณ จะดำเนินการต่อไปหรือติดตั้งภายหลัง"</string>
     <string name="account_dspt">บัญชี Xiaomi สามารถซิงค์และสำรองข้อมูลของคุณ เช่น ข้อความ รายชื่อผู้ติดต่อ ภาพ และอื่น ๆ"</string>
-    <string name="remove_unactivated_account_notice">บัญชี Xiaomi ไม่ได้เปิดใช้งาน คุณจะต้องการที่จะเอาออกหรือไม่"</string>
+    <string name="remove_unactivated_account_notice">บัญชี Xiaomi ไม่ได้เปิดใช้งาน คุณจะต้องการที่จะเอาออก?"</string>
     <string name="remove_confirm">ลบ"</string>
     <string name="find_password_on_web_msg">เพื่อกู้คืนรหัสผ่านของคุณ กรุณาเข้าไปที่ account.xiaomi.com "</string>
     <string name="relogin">เข้าระบบ"</string>
@@ -202,7 +202,7 @@
     <string name="recharge_grid_error_denomination">กรุณาป้อนจำนวนเงินที่ถูกต้องระหว่าง %1$d ~ %2$d หยวน"</string>
     <string name="paytool_error_install">%1$s การติดตั้งปลั๊กอินรักษาความปลอดภัยมือถือล้มเหลว"</string>
     <string name="paytool_error_msp">การเติม %1$s ล้มเหลว!"</string>
-    <string name="paytool_msp_not_installed">คุณไม่ได้ติดตั้ง %1$s ปลั๊กอินรักษาความปลอดภัยมือถือ ดำเนินการติดตั้งตอนนี้หรือไม่?"</string>
+    <string name="paytool_msp_not_installed">คุณไม่ได้ติดตั้ง %1$s ปลั๊กอินรักษาความปลอดภัยมือถือ ดำเนินการติดตั้งตอนนี้?"</string>
     <string name="progress_paytool_creating">กำลังสร้าง คำสั่ง %1$s  ..."</string>
     <string name="progress_paytool_installing">กำลังติดตั้งปลั๊กอินรักษาความปลอดภัยมือถือ %1$s  ..."</string>
     <string name="prepaid_china_mobile">China Mobile"</string>

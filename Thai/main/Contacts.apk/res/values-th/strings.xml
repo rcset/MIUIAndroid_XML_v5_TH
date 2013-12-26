@@ -105,7 +105,7 @@
     <string name="menu_deleteGroup">ลบ</string>
     <string name="menu_new_contact_action_bar">ใหม่</string>
     <string name="menu_new_group_action_bar">ใหม่</string>
-    <string name="splitConfirmation_title">แยกรายชื่อหรือไม่</string>
+    <string name="splitConfirmation_title">แยกรายชื่อ?</string>
     <string name="splitConfirmation">รายชื่อติดต่อนี้จะถูกแยกออกเป็นหลายรายชื่อ</string>
     <string name="menu_joinAggregate">เข้าร่วม</string>
     <string name="titleJoinContactDataWith">รวมรายชื่อ</string>
@@ -181,7 +181,7 @@
     <string name="clearCallLogConfirmation_title">ล้างบันทึกการโทร</string>
     <string name="clearCallLogConfirmation">บันทึกการโทรทั้งหมดของคุณจะถูกลบออก</string>
     <string name="clearCallLogProgress_title">กำลังล้างบันทึกการโทร...</string>
-    <string name="clearFrequentsConfirmation_title">ล้างผู้ที่คุณติดต่อด้วยบ่อยๆ หรือไม่</string>
+    <string name="clearFrequentsConfirmation_title">ล้างผู้ที่คุณติดต่อด้วยบ่อยๆ ?</string>
     <string name="clearFrequentsConfirmation">คุณจะล้างรายชื่อของผู้ที่ติดต่อด้วยบ่อยๆ ในแอป People and Phone และบังคับให้แอปอีเมลเรียนรู้การกำหนดที่อยู่ของคุณใหม่ตั้งแต่ต้น</string>
     <string name="clearFrequentsProgress_title">กำลังล้างผู้ที่คุณติดต่อด้วยบ่อยๆ…</string>
     <string name="imei">IMEI</string>
@@ -266,7 +266,7 @@
     <string name="callDetailsDurationFormat" formatted="false">%s นาที %s วินาที</string>
     <string name="favoritesFrequentContacted">ที่ติดต่อบ่อยครั้ง</string>
     <string name="favoritesFrequentCalled">มีการติดต่อบ่อย</string>
-    <string name="add_contact_dlg_message_fmt">เพิ่ม \"%s\" ในสมุดโทรศัพท์หรือไม่</string>
+    <string name="add_contact_dlg_message_fmt">เพิ่ม \"%s\" ในสมุดโทรศัพท์?</string>
     <string name="description_image_button_one">หนึ่ง</string>
     <string name="description_image_button_two">สอง</string>
     <string name="description_image_button_three">สาม</string>
@@ -343,8 +343,8 @@
     <string name="composer_not_initialized">โปรแกรมเขียนข้อความ vCard เริ่มการทำงานไม่ถูกต้อง</string>
     <string name="fail_reason_could_not_open_file" formatted="false">ไม่สามารถเปิด \"%s\": %s</string>
     <string name="exporting_contact_list_progress" formatted="false">รายชื่อในสมุดโทรศัพท์ %s จาก %s รายการ</string>
-    <string name="cancel_import_confirmation_message">ยกเลิกการนำเข้า %s หรือไม่</string>
-    <string name="cancel_export_confirmation_message">ยกเลิกการส่งออก %s หรือไม่</string>
+    <string name="cancel_import_confirmation_message">ยกเลิกการนำเข้า %s ?</string>
+    <string name="cancel_export_confirmation_message">ยกเลิกการส่งออก %s ?</string>
     <string name="cancel_vcard_import_or_export_failed">ไม่สามารถยกเลิกการนำเข้า/ส่งออก vCard</string>
     <string name="search_settings_description">ชื่อของรายชื่อในสมุดโทรศัพท์ของคุณ</string>
     <string name="add_2sec_pause">เพิ่มช่วงคั่น 2 วินาที</string>
@@ -506,8 +506,8 @@
     <string name="description_star">รายการโปรด</string>
     <string name="edit_contact">แก้ไขรายชื่อติดต่อ</string>
     <string name="local_invisible_directory">อื่นๆ</string>
-    <string name="aggregation_suggestion_join_dialog_message">รวมรายชื่อติดต่อปัจจุบันกับรายชื่อติดต่อที่เลือกหรือไม่</string>
-    <string name="aggregation_suggestion_edit_dialog_message">เปลี่ยนไปแก้ไขรายชื่อติดต่อที่เลือกหรือไม่ ข้อมูลที่คุณป้อนไว้จนถึงขณะนี้จะถูกคัดลอก</string>
+    <string name="aggregation_suggestion_join_dialog_message">รวมรายชื่อติดต่อปัจจุบันกับรายชื่อติดต่อที่เลือก?</string>
+    <string name="aggregation_suggestion_edit_dialog_message">เปลี่ยนไปแก้ไขรายชื่อติดต่อที่เลือก? ข้อมูลที่คุณป้อนไว้จนถึงขณะนี้จะถูกคัดลอก</string>
     <string name="menu_copyContact">คัดลอกไปยังสมุดโทรศัพท์ของฉัน</string>
     <string name="add_to_my_contacts">เพิ่มในสมุดโทรศัพท์ของฉัน</string>
     <string name="contact_directory_description">ไดเรกทอรี %1$s</string>
@@ -543,13 +543,13 @@
     <string name="create_group_dialog_title">สร้างกลุ่มใหม่</string>
     <string name="create_group_item_label">สร้างกลุ่มใหม่</string>
     <string name="delete_group_dialog_title">ลบกลุ่ม</string>
-    <string name="delete_group_dialog_message">ลบกลุ่ม \"%1$s\" หรือไม่ (รายชื่อติดต่อจะไม่ถูกลบ)</string>
+    <string name="delete_group_dialog_message">ลบกลุ่ม \"%1$s\" ? (รายชื่อติดต่อจะไม่ถูกลบ)</string>
     <string name="toast_join_with_empty_contact">พิมพ์ชื่อของผู้ติดต่อก่อนนำไปรวมกับรายชื่อติดต่ออื่น</string>
     <string name="copy_text">คัดลอกไปยังคลิปบอร์ด</string>
     <string name="set_default">ตั้งเป็นค่าเริ่มต้น</string>
     <string name="clear_default">ล้างจากค่าเริ่มต้น</string>
     <string name="toast_text_copied">คัดลอกข้อความแล้ว</string>
-    <string name="cancel_confirmation_dialog_message">ยกเลิกการเปลี่ยนแปลงหรือไม่</string>
+    <string name="cancel_confirmation_dialog_message">ยกเลิกการเปลี่ยนแปลง?</string>
     <string name="call_type_and_date">%1$s %2$s</string>
     <string name="profile_display_name">ตั้งค่าโปรไฟล์ของฉัน</string>
     <string name="enter_contact_name">พิมพ์ชื่อของบุคคล</string>
@@ -605,7 +605,7 @@
 •สำรองข้อมูลสมุดโทรศัพท์ของคุณอย่างปลอดภัย"</string>
     <string name="generic_no_account_prompt">เก็บรายชื่อของคุณไว้ให้อย่างปลอดภัยแม้ว่าโทรศัพท์คุณจะหาย: ซิงค์ด้วยบริการแบบออนไลน์</string>
     <string name="generic_no_account_prompt_title">เพิ่มบัญชี</string>
-    <string name="contact_editor_prompt_zero_accounts">ผู้ติดต่อใหม่ของคุณจะไม่ได้รับการสำรองข้อมูล เพิ่มบัญชีที่สำรองข้อมูลผู้ติดต่อออนไลน์หรือไม่</string>
+    <string name="contact_editor_prompt_zero_accounts">ผู้ติดต่อใหม่ของคุณจะไม่ได้รับการสำรองข้อมูล เพิ่มบัญชีที่สำรองข้อมูลผู้ติดต่อออนไลน์?</string>
     <string name="contact_editor_prompt_one_account">ผู้ติดต่อใหม่ของคุณจะซิงค์กับ %1$s</string>
     <string name="contact_editor_prompt_multiple_accounts">คุณสามารถซิงค์ผู้ติดต่อใหม่กับบัญชีใดบัญชีหนึ่งต่อไปนี้ได้ คุณต้องการใช้บัญชีใด</string>
     <string name="keep_local">จัดเก็บในตัวเครื่อง</string>
@@ -662,15 +662,15 @@
     <string name="deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="select_none">ไม่มีอะไรถูกเลือก การดำเนินการไม่ถูกต้อง</string>
     <string name="toast_finish_delete_call_log">บันทึกการโทรถูกลบแล้ว</string>
-    <string name="confirm_delete_contact_all_call_logs">"คุณแน่ใจว่าจะลบ %s's บันทึกทั้งหมดหรือไม่?"</string>
-    <string name="confirm_delete_selected_all_call_logs">"คุณแน่ใจว่าจะลบบันทึกการโทรทั้งหมดของรายชื่อหรือไม่?"</string>
+    <string name="confirm_delete_contact_all_call_logs">"คุณแน่ใจว่าจะลบ %s's บันทึกทั้งหมด?"</string>
+    <string name="confirm_delete_selected_all_call_logs">"คุณแน่ใจว่าจะลบบันทึกการโทรทั้งหมดของรายชื่อ?"</string>
     <string name="calllog_menu_blacklist">เพิ่มเข้าในแบล็กลิสต์</string>
     <string name="calllog_menu_edit_before_call">แก้ไขก่อนโทรออก</string>
     <string name="calllog_menu_send_sms">ส่งข้อความ</string>
     <string name="menu_call_ip_number">หมุนโทรแบบ IP (หมุน %s)</string>
     <string name="menu_dial_ip_number">หมุนโทรแบบ IP</string>
-    <string name="delete_contact_calllog_title">"คุณแน่ใจว่าจะลบบันทึกการโทรทั้งหมดของรายชื่อหรือไม่?"</string>
-    <string name="delete_unknown_contact_calllog_title">"คุณแน่ใจว่าจะลบบันทึกทั้งหมดของรายชื่อที่ไม่รู้จักหรือไม่?"</string>
+    <string name="delete_contact_calllog_title">"คุณแน่ใจว่าจะลบบันทึกการโทรทั้งหมดของรายชื่อ?"</string>
+    <string name="delete_unknown_contact_calllog_title">"คุณแน่ใจว่าจะลบบันทึกทั้งหมดของรายชื่อที่ไม่รู้จัก?"</string>
     <string name="edit_contact_card_title">แก้ไขนามบัตร</string>
     <string name="preview_contact_card_title">กำลังนำเข้ารายชื่อ…</string>
     <string name="import_contact_card_button">นำเข้ารายชื่อ</string>
@@ -708,7 +708,7 @@
     <string name="frequency_three_days">ตรวจสอบและเตือนทุกๆ 3 วัน</string>
     <string name="frequency_weekly">ตรวจสอบและเตอนทุกสัปดาห์</string>
     <string name="frequency_none">ไม่ต้องเตือนฉัน</string>
-    <string name="dirty_contacts_notification_title">คุณต้องการซิงค์รายชื่อหรือไม่?</string>
+    <string name="dirty_contacts_notification_title">คุณต้องการซิงค์รายชื่อ?</string>
     <string name="dirty_contacts_notification_description">การปรับปรุง %d ของรายชื่อในเครื่องไม่สามารถซิงค์กับบัญชีของคุณ</string>
     <string name="dirty_contacts_notification_message">(คุณสามารถปิดการใช้งานการเตือนได้ในเมนูการตั้งค่าผู้ติดต่อ)</string>
     <string name="remind_btn_sync_now">ซิงค์เดี๋ยวนี้</string>
@@ -722,7 +722,7 @@
     <string name="delete_duplicate">รวม</string>
     <string name="delete_duplicate_message">"กำลังรวมรายชื่อ… "</string>
     <string name="label_no_duplicate_contacts">ไม่พบรายชื่อที่ซ้ำกัน</string>
-    <string name="quit_dialog_confirm_title">ต้องการออกจากการรวมรายชื่อหรือไม่?</string>
+    <string name="quit_dialog_confirm_title">ต้องการออกจากการรวมรายชื่อ?</string>
     <string name="label_duplicate_count">(%1$d)</string>
     <string name="preference_import_export">นำเข้า/ส่งออก</string>
     <string name="preference_import_export_title">นำเข้า/ส่งออก รายชื่อ</string>
@@ -734,7 +734,7 @@
     <string name="sim_card_no_free_space_title">ซิมการ์ดเต็มแล้ว</string>
     <string name="sim_card_no_free_space_message">ความจุซิมการ์ดของคุณเต็ม ไม่สามารถนำเข้ารายชื่อใหม่ได้. กรุณาเคลียร์ซิมการ์ดและลองใหม่อีกครั้ง</string>
     <string name="sim_contacts">รายชื่อในซิม</string>
-    <string name="export_sim_contacts_dialog_message">ซิมการ์ดของท่านสามารถจุได้ %d รายชื่อ ท่านต้องการทำต่อหรือไม่?</string>
+    <string name="export_sim_contacts_dialog_message">ซิมการ์ดของท่านสามารถจุได้ %d รายชื่อ ท่านต้องการทำต่อ?</string>
     <string name="export_sim_contact_finish">การส่งออกไปยังซิมการ์ดเสร็จสิ้น</string>
     <string name="export_sim_contact_finish_success">รายชื่อ %d คัดลอกแล้ว</string>
     <string name="export_sim_contact_finish_failure">ล้มเหลวเพราะที่จัดเก็บเต็ม เสร็จแล้ว: %1$d ยังไม่เสร็จ: %2$d</string>
@@ -746,7 +746,7 @@
     <string name="import_to_xiaomi_account_progress_title">นำเข้ารายชื่อไปยังบัญชี Xiaomi</string>
     <string name="import_to_xiaomi_account_progress_message">กำลังนำเข้า…</string>
     <string name="import_to_xiaomi_account_progress_finish">การนำเข้าเสร็จแล้ว</string>
-    <string name="import_to_xiaomi_account_title">คุณต้องการนำเข้ารายชื่อต่อไปนี้ไปยังบัญชี Xiaomi หรือไม่?</string>
+    <string name="import_to_xiaomi_account_title">คุณต้องการนำเข้ารายชื่อต่อไปนี้ไปยังบัญชี Xiaomi ?</string>
     <string name="select_show_contacts">แสดงรายชื่อ</string>
     <string name="rebuild_t9_index_dialog_message">กำลังสร้างดัชนีข้อมูลใหม่…</string>
     <string name="pref_key_rebuild_t9_index_title">สร้างดัชนีข้อมูลใหม่</string>
@@ -909,7 +909,7 @@
     <string name="no_contacts_dialog_title">หารายชื่อไม่พบ</string>
     <string name="no_contacts_dialog_message">ไม่พบบุคคลที่ต้องการในรายชื่อของคุณ อาจจะถูกเก็บไว้ในรายชื่อที่ซิมการ์ด ถ้าเป็นเช่นนั้น โปรดนำเข้าข้อมูลจากซิมการ์ดลงโทรศัทพ์ก่อน</string>
     <string name="cancel_import_dialog_title">หยุดการนำเข้า</string>
-    <string name="cancel_import_dialog_message">คุณแน่ใจว่าจะหยุดการนำเข้ารายชื่อหรือไม่?</string>
+    <string name="cancel_import_dialog_message">คุณแน่ใจว่าจะหยุดการนำเข้ารายชื่อ?</string>
     <string name="title_paired_devices">จับคู่อุปกรณ์</string>
     <string name="title_other_devices">อุปกรณ์อื่นๆที่มองเห็น</string>
     <string name="button_scan">สแกนใหม่</string>
@@ -959,7 +959,7 @@
     <string name="add_xiaomi_account_dialog_btn">ใช้บัญชี Xiaomi</string>
     <string name="keep_local_btn">บันทึกลงในโทรศัพท์เท่านั้น</string>
     <string name="batch_delete">ลบรายชื่อเป็นชุด</string>
-    <string name="batch_delete_msg">"คุณแน่ใจว่าต้องการลบ %d รายชื่อที่เลือกไว้หรือไม่? 
+    <string name="batch_delete_msg">"คุณแน่ใจว่าต้องการลบ %d รายชื่อที่เลือกไว้? 
 
 ถ้าคุณกำลังใช้บริการการซิงค์รายชื่อ ข้อมูลรายชื่อในคลาวด์จะถูกลบไปด้วย"</string>
     <string name="starred_contacts">รายการโปรด</string>
@@ -970,7 +970,7 @@
     <string name="delete_sim_entry_miui">ลบ</string>
     <string name="simContacts_airplaneMode">เพื่อการนำเข้ารายชื่อจากซิมการ์ด โปรดปิดโหมดการใช้งานบนเครื่องบิน</string>
     <string name="readingSimContacts">กำลังอ่านข้อมูลจากซิมการ์ด (อาจใช้เวลา)…</string>
-    <string name="confirm_delete_sim_entry_miui">ยืนยันที่จะลบ %d รายชื่อที่เลือกไว้ใน UIM การ์ดหรือไม่?</string>
+    <string name="confirm_delete_sim_entry_miui">ยืนยันที่จะลบ %d รายชื่อที่เลือกไว้ใน UIM การ์ด?</string>
     <string name="simContacts_empty">ไม่มีรายชื่อในซิมการ์ดของคุณ</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">ยกเลิกการเลือกทั้งหมด</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">เลือกทั้งหมด</string>
@@ -1003,8 +1003,8 @@
     <string name="email_too_long">อีเมลยาวเกินไป</string>
     <string name="error_save_usim_contact_email_lost">การบันทึกอีเมลล้มเหลวเพราะที่จัดเก็บข้อมูลบน USIM สำหรับอีเมลเต็ม</string>
     <string name="contact_is_readOnly">ไม่สามารถแก้ไขรายชื่อที่เป็นแบบอ่านได้อย่างเดียว</string>
-    <string name="dlg_add_blacklist">คุณแน่ใจว่าจะเพิ่มเบอร์นี้เข้าในแบล็กลิสหรือไม่?</string>
-    <string name="dlg_remove_blacklist">คุณแน่ใจว่าจะลบเบอร์นี้ออกจากแบล็กลิสหรือไม่?</string>
+    <string name="dlg_add_blacklist">คุณแน่ใจว่าจะเพิ่มเบอร์นี้เข้าในแบล็กลิส?</string>
+    <string name="dlg_remove_blacklist">คุณแน่ใจว่าจะลบเบอร์นี้ออกจากแบล็กลิส?</string>
     <string name="profile_name">รายละเอียดของฉัน</string>
     <string name="profile_name_photo">ฉัน</string>
     <string name="toast_copying">กำลังคัดลอก…</string>

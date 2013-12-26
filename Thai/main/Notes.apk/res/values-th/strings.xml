@@ -34,13 +34,13 @@
     <string name="menu_move_parent_folder">โฟลเดอร์หลัก</string>
     <string name="menu_rename_folder">เปลี่ยนชื่อโฟลเดอร์</string>
     <string name="info_note_enter_desktop">บันทึกได้เพิ่มไปที่หน้าจอหลัก</string>
-    <string name="alert_message_delete_notes">คุณแน่ใจหรือว่าต้องการลบบันทึก %1$s นี่ ?</string>
+    <string name="alert_message_delete_notes">ต้องการลบบันทึก %1$s นี่ ?</string>
     <string name="alert_message_delete_folders">ลบโฟลเดอร์ %1$s นี่</string>
-    <string name="alert_message_delete_folders_notes">ลบโฟลเดอร์ %1$s และ บันทึก %2$s นี่หรือไม่?</string>
-    <string name="alert_message_delete_note">คุณแน่ใจหรือว่าต้องการลบบันทึกนี่?</string>
-    <string name="alert_message_discard_changes">ยกเลิกการเปลี่ยนแปลงทั้งหมดหรือไม่?</string>
+    <string name="alert_message_delete_folders_notes">ลบโฟลเดอร์ %1$s และ บันทึก %2$s นี่?</string>
+    <string name="alert_message_delete_note">ต้องการลบบันทึกนี่?</string>
+    <string name="alert_message_discard_changes">ยกเลิกการเปลี่ยนแปลงทั้งหมด?</string>
     <string name="format_move_notes_to_folder">ได้ย้ายบันทึก %1$d ไปยังโฟลเดอร์ %2$s</string>
-    <string name="alert_title_edit_anyway">การยืนยันการแก้ไขบันทึก อาจทำให้สูญเสียข้อมูลได้ คุณแน่ใจหรือไม่?</string>
+    <string name="alert_title_edit_anyway">การยืนยันการแก้ไขบันทึก อาจทำให้สูญเสียข้อมูลได้ คุณแน่ใจ?</string>
     <string name="alert_message_edit_anyway">บันทึกบรรจุข้อมูลที่ไม่สนับสนุน การแก้ไขอาจะทำให้สูญเสียข้อมูลได้</string>
     <string name="alert_action_edit_anyway">แก้ไขต่อไป</string>
     <string name="error_sdcard_unmounted">การ์ดความจำไม่ว่างหรือไม่สามารถอ่านได้ โปรดลองอีกครั้ง</string>
@@ -97,7 +97,7 @@
     <string name="dlg_desc_confirm_alarm_silent">นาฬิกาปลุกและบันทึกจะไม่ส่งเสียงในโหมดเงียบ</string>
     <string name="close">ปิด</string>
     <string name="alert_title_delete">ลบบันทึกที่เลือก</string>
-    <string name="alert_title_discard">ยกเลิกการเปลี่ยนแปลงหรือไม่</string>
+    <string name="alert_title_discard">ยกเลิกการเปลี่ยนแปลง?</string>
     <string name="pref_title_data_export">ข้อมูลการส่งออก</string>
     <string name="toast_privacy_mode">ไม่สามารถแก้ไขข้อความในโหมดป้องกัน</string>
 	<string name="pref_title_font_size">ขนาดตัวอักษร</string>

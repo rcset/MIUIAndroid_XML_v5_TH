@@ -74,7 +74,7 @@
     <string name="filter_notification">แทร็คที่เลือกถูกลบออกโดยตัวกรอง</string>
     <string name="delete_item">ลบ</string>
     <string name="remove_item">เอาออก</string>
-    <string name="delete_song_desc">ลบ %s หรือไม่?</string>
+    <string name="delete_song_desc">ลบ %s ?</string>
     <string name="scanning">สแกนการ์ดความจำ ...</string>
     <string name="scanning_nosdcard">สแกนที่เก็บข้อมูล USB ...</string>
     <string name="search_title">ค้นหา </string>
@@ -196,7 +196,7 @@
     <string name="new_equalizer_name_template">โปรไฟล์อีควอไลเซอร์ใหม่ %d </string>
     <string name="custom">กำหนดเอง</string>
     <string name="id3_modify_confirm_text">บันทึก</string>
-    <string name="id3_modify_confirm_check">ยืนยันการเปลี่ยนแปลง ID3 หรือไม่</string>
+    <string name="id3_modify_confirm_check">ยืนยันการเปลี่ยนแปลง ID3 ?</string>
     <string name="modify_id3_for_list">ข้อมูลเพลง ID3 ล่าสุดจะได้รับการแก้ไข</string>
     <string name="modify_id3_for_selected">ข้อมูลเพลง ID3 ที่เลือกจะได้รับการแก้ไข</string>
     <string name="track_edit">เพลง</string>

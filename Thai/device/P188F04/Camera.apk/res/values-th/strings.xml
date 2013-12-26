@@ -15,9 +15,9 @@
     <string name="confirm_restore_title">เรียกคืนค่าเริ่มต้น</string>
     <string name="confirm_restore_message">เรียกคืนการตั้งค่าเริ่มต้นของกล้อง</string>
     <string name="confirm_change_mode_title">สลับโหมด</string>
-    <string name="confirm_change_to_expert_mode_message">สลับไปยังโหมดมืออาชีพหรือไม่</string>
-    <string name="confirm_change_to_simple_mode_message">สลับไปยังโหมดแบบง่ายหรือไม่</string>
-    <string name="confirm_location_message">บันทึกตำแหน่งลงในภาพถ่ายหรือไม่?</string>
+    <string name="confirm_change_to_expert_mode_message">สลับไปยังโหมดมืออาชีพ</string>
+    <string name="confirm_change_to_simple_mode_message">สลับไปยังโหมดแบบง่าย</string>
+    <string name="confirm_location_message">บันทึกตำแหน่งลงในภาพถ่าย?</string>
     <string name="open">บันทึก</string>
     <string name="skip">ไม่บันทึก</string>
     <string name="review_cancel">ยกเลิก</string>
@@ -356,7 +356,7 @@
     <string name="group_by_time">ตามเวลา</string>
     <string name="locations">สถานที่</string>
     <string name="people">บุคคล</string>
-    <string name="resume_playing_message">กลับมาเล่นใหม่ %s หรือไม่?</string>
+    <string name="resume_playing_message">กลับมาเล่นใหม่ %s ?</string>
     <string name="resume_playing_restart">เริ่มทำ</string>
     <string name="resume_playing_resume">กลับมาเล่นใหม่</string>
     <string name="resume_playing_title">กลับมาเล่นวิดีโอ</string>

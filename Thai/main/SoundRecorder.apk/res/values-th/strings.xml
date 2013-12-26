@@ -18,8 +18,8 @@
     <string name="error_mediadb_new_record">ไม่สามารถบันทึกเสียงที่บันทึกได้</string>
     <string name="default_record_name">การบันทึกเสียงไม่มีชื่อ</string>
     <string name="menu_view_record_list">ดูการบันทึกเสียง</string>
-    <string name="delete_dialog_message">คุณต้องการที่จะลบบันทึกเสียงล่าสุดหรือไม่?</string>
-    <string name="overwrite_dialog_message">%s มีอยู่แล้ว คุณต้องการที่จะเขียนทับหรือไม่?</string>
+    <string name="delete_dialog_message">คุณต้องการที่จะลบบันทึกเสียงล่าสุด?</string>
+    <string name="overwrite_dialog_message">%s มีอยู่แล้ว คุณต้องการที่จะเขียนทับ?</string>
     <string name="notification_recording">กำลังบันทึกเสียง ...</string>
     <string name="notification_playback">กำลังเล่นที่บันทึกไว้ ...</string>
     <string name="notification_stopped">หยุดการบันทึกเสียงแล้ว</string>
@@ -38,7 +38,7 @@
     <string name="dialog_play">เล่น</string>
     <string name="dialog_send">ส่ง</string>
     <string name="dialog_warning">คำเตือน</string>
-    <string name="alert_message_delete_record">คุณต้องการที่จะลบบันทึกที่เลือกหรือไม่?</string>
+    <string name="alert_message_delete_record">คุณต้องการที่จะลบบันทึกที่เลือก?</string>
     <string name="unknown_caller">ไม่ทราบผู้โทร</string>
     <string name="rename">เปลี่ยนชื่อ</string>
     <string name="send_to">ส่งให้</string>
@@ -49,7 +49,7 @@
     <string name="rename_duplicate">ชื่อไฟล์บันทึกเสียงซ้ำ กรุณาป้อนใหม่:</string>
     <string name="record_picker_title">เลือกการบันทึกเสียง</string>
     <string name="dialog_title_storage_full">ที่จัดเก็บข้อมูลเต็ม</string>
-    <string name="dialog_content_storage_full">พื้นที่จัดเก็บเหลือน้อย การบันทึกถูกบังคับให้หยุด ลบไฟล์ที่ไม่จำออกผ่านตัวจัดการไฟล์ คุณต้องการเปิดหรือไม่?</string>
+    <string name="dialog_content_storage_full">พื้นที่จัดเก็บเหลือน้อย การบันทึกถูกบังคับให้หยุด ลบไฟล์ที่ไม่จำออกผ่านตัวจัดการไฟล์ คุณต้องการเปิด?</string>
     <string name="status_bar_anti_disturb">โทรศัพท์ถูกปิดเสียง ปรับระดับเสียงเพื่อดำเนินการต่อ</string>
     <string name="status_bar_recording">กำลังบันทึก ...</string>
     <string name="status_bar_back">คลิกที่นี่เพื่อกลับไปยังเครื่องบันทึกเสียง</string>

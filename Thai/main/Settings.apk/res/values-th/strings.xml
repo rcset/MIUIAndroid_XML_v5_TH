@@ -102,9 +102,9 @@
     <string name="bluetooth_scan_for_devices">สแกนหาอุปกรณ์</string>
     <string name="bluetooth_rename_device">เปลี่ยนชื่อโทรศัพท์</string>
     <string name="bluetooth_rename_button">เปลี่ยนชื่อ</string>
-    <string name="bluetooth_disconnect_title">ตัดการเชื่อมต่อหรือไม่</string>
+    <string name="bluetooth_disconnect_title">ตัดการเชื่อมต่อ?</string>
     <string name="bluetooth_disconnect_all_profiles">การดำเนินการนี้จะจบการเชื่อมต่อของคุณกับ:&lt;br>&lt;b>%1$s&lt;/b></string>
-    <string name="bluetooth_disable_profile_title">ปิดใช้งานโปรไฟล์หรือไม่</string>
+    <string name="bluetooth_disable_profile_title">ปิดใช้งานโปรไฟล์?</string>
     <string name="bluetooth_disable_profile_message">การดำเนินการนี้จะปิดใช้งาน:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>จาก:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connected">เชื่อมต่อแล้ว</string>
     <string name="bluetooth_connected_no_headset">เชื่อมต่อแล้ว (ยกเว้นเสียงโทรศัพท์)</string>
@@ -124,19 +124,19 @@
     <string name="bluetooth_show_received_files">แสดงไฟล์ที่ได้รับ</string>
     <string name="device_picker">ตัวเลือกอุปกรณ์บลูทูธ</string>
     <string name="bluetooth_permission_request">คำขออนุญาตใช้บลูทูธ</string>
-    <string name="bluetooth_ask_enablement">แอปพลิเคชันต้องการเปิดบลูทูธ อนุญาตหรือไม่</string>
-    <string name="bluetooth_ask_discovery">แอปพลิเคชันบนโทรศัพท์ของคุณต้องการทำให้อุปกรณ์บลูทูธอื่นค้นพบโทรศัพท์ของคุณได้เป็นเวลา %1$d วินาที คุณจะอนุญาตหรือไม่</string>
-    <string name="bluetooth_ask_lasting_discovery">แอปพลิเคชันบนโทรศัพท์ของคุณต้องการทำให้อุปกรณ์บลูทูธอื่น \"ค้นพบโทรศัพท์ของคุณได้เสมอ\" คุณจะอนุญาตหรือไม่</string>
-    <string name="bluetooth_ask_enablement_and_discovery">แอปพลิเคชันบนโทรศัพท์ของคุณต้องการเปิดบลูทูธ และทำให้อุปกรณ์อื่นค้นพบโทรศัพท์ของคุณได้เป็นเวลา %1$d วินาที คุณจะอนุญาตหรือไม่</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery">แอปพลิเคชันบนโทรศัพท์ของคุณต้องการเปิดบลูทูธ และทำให้อุปกรณ์อื่นค้นพบโทรศัพท์ของคุณได้ คุณจะอนุญาตหรือไม่</string>
+    <string name="bluetooth_ask_enablement">แอปพลิเคชันต้องการเปิดบลูทูธ อนุญาต?</string>
+    <string name="bluetooth_ask_discovery">แอปพลิเคชันบนโทรศัพท์ของคุณต้องการทำให้อุปกรณ์บลูทูธอื่นค้นพบโทรศัพท์ของคุณได้เป็นเวลา %1$d วินาที คุณจะอนุญาต?</string>
+    <string name="bluetooth_ask_lasting_discovery">แอปพลิเคชันบนโทรศัพท์ของคุณต้องการทำให้อุปกรณ์บลูทูธอื่น \"ค้นพบโทรศัพท์ของคุณได้เสมอ\" คุณจะอนุญาต?</string>
+    <string name="bluetooth_ask_enablement_and_discovery">แอปพลิเคชันบนโทรศัพท์ของคุณต้องการเปิดบลูทูธ และทำให้อุปกรณ์อื่นค้นพบโทรศัพท์ของคุณได้เป็นเวลา %1$d วินาที คุณจะอนุญาต?</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery">แอปพลิเคชันบนโทรศัพท์ของคุณต้องการเปิดบลูทูธ และทำให้อุปกรณ์อื่นค้นพบโทรศัพท์ของคุณได้ คุณจะอนุญาต?</string>
     <string name="bluetooth_turning_on">กำลังเปิดบลูทูธ...</string>
     <string name="bluetooth_turning_off">กำลังปิดบลูทูธ…</string>
     <string name="bluetooth_auto_connect">เชื่อมต่ออัตโนมัติ</string>
     <string name="bluetooth_connection_permission_request">ขอการเชื่อมต่อบลูทูธ</string>
     <string name="bluetooth_connection_notif_message">แตะเพื่อเชื่อมต่อ \"%1$s\"</string>
-    <string name="bluetooth_connection_dialog_text">คุณต้องการเชื่อมต่อไปยัง \"%1$s\" หรือไม่</string>
+    <string name="bluetooth_connection_dialog_text">คุณต้องการเชื่อมต่อไปยัง \"%1$s\" ?</string>
     <string name="bluetooth_phonebook_request">คำขอสมุดโทรศัพท์</string>
-    <string name="bluetooth_pb_acceptance_dialog_text">%1$s ต้องการเข้าถึงสมุดติดต่อและประวัติการโทรของคุณ อนุญาตให้ %2$s เข้าถึงหรือไม่</string>
+    <string name="bluetooth_pb_acceptance_dialog_text">%1$s ต้องการเข้าถึงสมุดติดต่อและประวัติการโทรของคุณ อนุญาตให้ %2$s เข้าถึง?</string>
     <string name="bluetooth_pb_remember_choice">ไม่ต้องถามอีก</string>
     <string name="date_and_time">การตั้งเวลาและวันที่</string>
     <string name="choose_timezone">เลือกเขตเวลา</string>
@@ -242,7 +242,7 @@
     <string name="roaming_warning_multiuser">"เมื่อคุณอนุญาตการโรมมิ่งข้อมูล อาจมีการเรียกเก็บค่าใช้จ่ายเพิ่มเติมจำนวนมากในการโรมมิ่ง!
 
 การตั้งค่านี้ส่งผลต่อผู้ใช้โทรศัพท์นี้ทุกราย"</string>
-    <string name="roaming_reenable_title">อนุญาตการโรมมิ่งข้อมูลหรือไม่</string>
+    <string name="roaming_reenable_title">อนุญาตการโรมมิ่งข้อมูล?</string>
     <string name="networks">การเลือกผู้ให้บริการ</string>
     <string name="sum_carrier_select">เลือกผู้ให้บริการเครือข่าย</string>
     <string name="date_and_time_settings_title">เวลาและวันที่</string>
@@ -295,7 +295,7 @@
     <string name="crypt_keeper_unplugged_text">เสียบที่ชาร์จของคุณ แล้วลองอีกครั้ง</string>
     <string name="crypt_keeper_dialog_need_password_title">ไม่มี PIN หรือรหัสผ่านล็อกหน้าจอ</string>
     <string name="crypt_keeper_dialog_need_password_message">คุณต้องตั้งค่า PIN หรือรหัสผ่านสำหรับการล็อกหน้าจอก่อนจึงจะเริ่มการเข้ารหัสได้</string>
-    <string name="crypt_keeper_confirm_title">เข้ารหัสหรือไม่</string>
+    <string name="crypt_keeper_confirm_title">เข้ารหัส?</string>
     <string name="crypt_keeper_final_desc">การเข้ารหัสนี้ไม่สามารถย้อนกลับได้และข้อมูลจะสูญหายหากการดำเนินการหยุดชะงัก การเข้ารหัสจะใช้เวลาอย่างน้อยหนึ่งชั่วโมง โดยในระหว่างนั้น โทรศัพท์จะรีสตาร์ทหลายครั้ง</string>
     <string name="crypt_keeper_setup_title">กำลังเข้ารหัส</string>
     <string name="crypt_keeper_setup_description">รอสักครู่ขณะกำลังเข้ารหัสโทรศัพท์ของคุณ เสร็จสิ้น ^1%</string>
@@ -373,7 +373,7 @@
     <string name="bluetooth_enter_pin_other_device">คุณอาจจำเป็นต้องพิมพ์รหัส PIN นี้ลงในอุปกรณ์อีกเครื่องหนึ่งด้วยเช่นกัน</string>
     <string name="bluetooth_enter_passkey_other_device">คุณอาจจำเป็นต้องพิมพ์รหัสผ่านนี้ลงในอุปกรณ์อีกเครื่องหนึ่งด้วยเช่นกัน</string>
     <string name="bluetooth_confirm_passkey_msg">หากต้องการจับคู่กับ:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>ตรวจสอบให้แน่ใจว่าอุปกรณ์แสดงรหัสผ่านนี้:&lt;br>&lt;b>%2$s&lt;/b></string>
-    <string name="bluetooth_incoming_pairing_msg">จาก:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>จับคู่กับอุปกรณ์นี้หรือไม่</string>
+    <string name="bluetooth_incoming_pairing_msg">จาก:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>จับคู่กับอุปกรณ์นี้?</string>
     <string name="bluetooth_display_passkey_pin_msg">ในการจับคู่กับ: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> ให้พิมพ์: &lt;br>&lt;b>%2$s&lt;/b> แล้วกด Return หรือ Enter</string>
     <string name="bluetooth_pairing_accept">กำหนดค่าอุปกรณ์ให้ตรงกัน</string>
     <string name="bluetooth_pairing_decline">ยกเลิก</string>
@@ -584,12 +584,12 @@
     <string name="wifi_p2p_remembered_groups">กลุ่มที่จดจำ</string>
     <string name="wifi_p2p_failed_connect_message">ไม่สามารถเชื่อมต่อ</string>
     <string name="wifi_p2p_failed_rename_message">ไม่สามารถเปลี่ยนชื่ออุปกรณ์</string>
-    <string name="wifi_p2p_disconnect_title">ตัดการเชื่อมต่อหรือไม่</string>
+    <string name="wifi_p2p_disconnect_title">ตัดการเชื่อมต่อ?</string>
     <string name="wifi_p2p_disconnect_message">หากคุณตัดการเชื่อมต่อ จะเป็นการสิ้นสุดการเชื่อมต่อของคุณกับ %1$s</string>
     <string name="wifi_p2p_disconnect_multiple_message">หากคุณตัดการเชื่อมต่อ จะเป็นการสิ้นสุดการเชื่อมต่อของคุณกับ %1$s และอุปกรณ์อื่นอีก %2$s รายการ</string>
-    <string name="wifi_p2p_cancel_connect_title">ยกเลิกข้อความเชิญหรือไม่</string>
-    <string name="wifi_p2p_cancel_connect_message">คุณต้องการยกเลิกข้อความเชิญเพื่อเชื่อมต่อกับ %1$s หรือไม่</string>
-    <string name="wifi_p2p_delete_group_message">ไม่จำกลุ่มนี้ใช่หรือไม่</string>
+    <string name="wifi_p2p_cancel_connect_title">ยกเลิกข้อความเชิญ?</string>
+    <string name="wifi_p2p_cancel_connect_message">คุณต้องการยกเลิกข้อความเชิญเพื่อเชื่อมต่อกับ %1$s ?</string>
+    <string name="wifi_p2p_delete_group_message">ไม่จำกลุ่มนี้ใช่?</string>
     <string name="wifi_tether_checkbox_text">Wi-Fi ฮอตสปอตแบบพกพา</string>
     <string name="wifi_tether_starting">กำลังเปิดฮอตสปอต…</string>
     <string name="wifi_tether_stopping">กำลังปิดฮอตสปอต…</string>
@@ -775,10 +775,10 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="sd_mount_summary" />
     <string name="sd_format">ลบการ์ดความจำ</string>
     <string name="sd_format_summary">ลบข้อมูลทั้งหมดบนการ์ดความจำ เช่น เพลงและรูปภาพ</string>
-    <string name="memory_clear_cache_title">ล้างข้อมูลในแคชหรือไม่</string>
+    <string name="memory_clear_cache_title">ล้างข้อมูลในแคช?</string>
     <string name="memory_clear_cache_message">การทำงานนี้จะล้างข้อมูลในแคชของทุกแอปพลิเคชัน</string>
     <string name="mtp_ptp_mode_summary">เปิดใช้งานฟังก์ชัน MTP หรือ PTP อยู่</string>
-    <string name="dlg_confirm_unmount_title">ยกเลิกการต่อเชื่อมการ์ดความจำหรือไม่</string>
+    <string name="dlg_confirm_unmount_title">ยกเลิกการต่อเชื่อมการ์ดความจำ?</string>
     <string name="dlg_confirm_unmount_text">หากคุณยกเลิกการต่อเชื่อมการ์ดความจำ แอปพลิเคชันบางอย่างที่ใช้อยู่จะหยุดทำงานและอาจใช้งานไม่ได้จนกว่าคุณจะต่อเชื่อมการ์ดความจำอีกครั้ง</string>
     <string name="dlg_error_unmount_title" />
     <string name="dlg_error_unmount_text">ไม่สามารถยกเลิกการต่อเชื่อมการ์ดความจำ ลองอีกครั้งในภายหลัง</string>
@@ -857,17 +857,17 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="erase_external_storage">ลบการ์ดความจำ</string>
     <string name="erase_external_storage_description">ลบข้อมูลทั้งหมดในการ์ดความจำ เช่น เพลงหรือรูปภาพ</string>
     <string name="master_clear_button_text">รีเซ็ตโทรศัพท์</string>
-    <string name="master_clear_final_desc">ลบข้อมูลส่วนบุคคลและแอปพลิเคชันที่ดาวน์โหลดของคุณทั้งหมดหรือไม่ คุณไม่สามารถย้อนกลับการทำงานนี้ได้!</string>
+    <string name="master_clear_final_desc">ลบข้อมูลส่วนบุคคลและแอปพลิเคชันที่ดาวน์โหลดของคุณทั้งหมด? คุณไม่สามารถย้อนกลับการทำงานนี้ได้!</string>
     <string name="master_clear_final_button_text">ลบทุกอย่าง</string>
     <string name="master_clear_gesture_prompt">วาดรูปแบบการปลดล็อก</string>
     <string name="master_clear_gesture_explanation">คุณต้องวาดรูปแบบการปลดล็อกเพื่อยืนยันการรีเซ็ตข้อมูลเป็นค่าเริ่มต้น</string>
     <string name="master_clear_failed">ไม่มีการรีเซ็ตเนื่องจากบริการล้างข้อมูลระบบไม่พร้อมใช้งาน</string>
-    <string name="master_clear_confirm_title">รีเซ็ตหรือไม่</string>
+    <string name="master_clear_confirm_title">รีเซ็ต?</string>
     <string name="media_format_title">ลบการ์ดความจำ</string>
     <string name="media_format_summary">ลบข้อมูลทั้งหมดบนการ์ดความจำ</string>
-    <string name="media_format_desc">ลบการ์ดความจำหรือไม่ คุณจะสูญเสียข้อมูล<b>ทั้งหมด</b>บนการ์ด!</string>
+    <string name="media_format_desc">ลบการ์ดความจำ? คุณจะสูญเสียข้อมูล<b>ทั้งหมด</b>บนการ์ด!</string>
     <string name="media_format_button_text">ลบการ์ดความจำ</string>
-    <string name="media_format_final_desc">ต้องการลบการ์ดความจำซึ่งจะเป็นการลบไฟล์ทั้งหมดที่จัดเก็บไว้หรือไม่ คุณไม่สามารถย้อนกลับการทำงานนี้ได้!</string>
+    <string name="media_format_final_desc">ต้องการลบการ์ดความจำซึ่งจะเป็นการลบไฟล์ทั้งหมดที่จัดเก็บไว้? คุณไม่สามารถย้อนกลับการทำงานนี้ได้!</string>
     <string name="media_format_final_button_text">ลบทุกอย่าง</string>
     <string name="media_format_gesture_prompt">วาดรูปแบบการปลดล็อก</string>
     <string name="media_format_gesture_explanation">คุณต้องวาดรูปแบบการปลดล็อกเพื่อยืนยันว่าคุณต้องการลบการด์ความจำ</string>
@@ -1012,7 +1012,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="show_running_services">แสดงบริการที่ใช้งานอยู่</string>
     <string name="show_background_processes">แสดงกระบวนการที่เก็บแคชไว้</string>
     <string name="reset_app_preferences">รีเซ็ตค่ากำหนดแอปพลิเคชัน</string>
-    <string name="reset_app_preferences_title">รีเซ็ตค่ากำหนดแอปหรือไม่</string>
+    <string name="reset_app_preferences_title">รีเซ็ตค่ากำหนดแอป?</string>
     <string name="reset_app_preferences_desc">"คำสั่งนี้จะรีเซ็ตค่ากำหนดทั้งหมดของ:
 
 "<li>แอปพลิเคชันที่ปิดใช้งาน</li>"
@@ -1035,7 +1035,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="internal_storage">ที่เก็บข้อมูลภายใน</string>
     <string name="sd_card_storage">ที่เก็บข้อมูลการ์ดความจำ</string>
     <string name="recompute_size">กำลังคำนวณขนาดใหม่...</string>
-    <string name="clear_data_dlg_title">ลบข้อมูลในแอปพลิเคชันหรือไม่</string>
+    <string name="clear_data_dlg_title">ลบข้อมูลในแอปพลิเคชัน?</string>
     <string name="clear_data_dlg_text">ข้อมูลทั้งหมดของแอปพลิเคชันนี้จะถูกลบอย่างถาวร ซึ่งรวมถึงไฟล์ การตั้งค่า บัญชี ฐานข้อมูล และอื่นๆ ทั้งหมด</string>
     <string name="dlg_ok">ตกลง</string>
     <string name="dlg_cancel">ยกเลิก</string>
@@ -1070,7 +1070,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="app_not_found_dlg_title" />
     <string name="app_not_found_dlg_text">ไม่พบแอปพลิเคชันนี้ในรายการแอปพลิเคชันที่ติดตั้งไว้</string>
     <string name="clear_data_failed">ไม่สามารถล้างข้อมูลแอปพลิเคชัน</string>
-    <string name="app_factory_reset_dlg_title">ถอนการติดตั้งการอัปเดตหรือไม่</string>
+    <string name="app_factory_reset_dlg_title">ถอนการติดตั้งการอัปเดต?</string>
     <string name="app_factory_reset_dlg_text">การอัปเดตทั้งหมดของแอปพลิเคชันระบบ Android นี้จะถูกถอนการติดตั้ง</string>
     <string name="clear_failed_dlg_title">ล้างข้อมูล</string>
     <string name="clear_failed_dlg_text">ไม่สามารถล้างข้อมูลสำหรับแอปพลิเคชัน</string>
@@ -1095,17 +1095,17 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="app_forward_locked">แอปพลิเคชันมีการป้องกันการคัดลอก</string>
     <string name="invalid_location">ตำแหน่งที่ติดตั้งไม่ถูกต้อง</string>
     <string name="system_package">ติดตั้งการอัปเดตระบบบนสื่อภายนอกไม่ได้</string>
-    <string name="force_stop_dlg_title">บังคับให้หยุดหรือไม่</string>
+    <string name="force_stop_dlg_title">บังคับให้หยุด?</string>
     <string name="force_stop_dlg_text">หากคุณบังคับปิดแอปพลิเคชัน อาจทำให้การทำงานผิดพลาดได้</string>
     <string name="move_app_failed_dlg_title" />
     <string name="move_app_failed_dlg_text">ไม่สามารถย้ายแอปพลิเคชัน %1$s</string>
     <string name="app_install_location_title">ตำแหน่งติดตั้งที่ต้องการ</string>
     <string name="app_install_location_summary">เปลี่ยนตำแหน่งติดตั้งที่ต้องการสำหรับแอปพลิเคชันใหม่</string>
-    <string name="app_disable_dlg_title">ปิดแอปพลิเคชันในตัวหรือไม่</string>
+    <string name="app_disable_dlg_title">ปิดแอปพลิเคชันในตัว?</string>
     <string name="app_disable_dlg_text">หากคุณปิดใช้งานแอปพลิเคชันในตัว แอปพลิเคชันอื่นๆ อาจทำงานผิดปกติได้</string>
-    <string name="app_special_disable_dlg_title">ลบข้อมูลและปิดใช้งานแอปพลิเคชันหรือไม่</string>
+    <string name="app_special_disable_dlg_title">ลบข้อมูลและปิดใช้งานแอปพลิเคชัน?</string>
     <string name="app_special_disable_dlg_text">หากคุณปิดใช้งานแอปพลิเคชันในตัว แอปพลิเคชันอื่นๆ อาจทำงานผิดพลาด และข้อมูลของคุณจะถูกลบด้วย</string>
-    <string name="app_disable_notifications_dlg_title">ปิดการแจ้งเตือนหรือไม่</string>
+    <string name="app_disable_notifications_dlg_title">ปิดการแจ้งเตือน?</string>
     <string name="app_disable_notifications_dlg_text">หากคุณปิดการแจ้งเตือนสำหรับแอปพลิเคชันนี้ คุณอาจพลาดการแจ้งเตือนและการอัปเดตที่สำคัญ</string>
     <string name="storageuse_settings_title">การใช้ที่เก็บข้อมูล</string>
     <string name="storageuse_settings_summary">ดูที่จัดเก็บข้อมูลที่แอปพลิเคชันใช้</string>
@@ -1137,7 +1137,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="main_running_process_description">กระบวนการหลักที่ใช้งานอยู่</string>
     <string name="process_service_in_use_description">บริการ %1$s ถูกใช้งานอยู่</string>
     <string name="process_provider_in_use_description">ตัวให้บริการ %1$s ถูกใช้งานอยู่</string>
-    <string name="runningservicedetails_stop_dlg_title">หยุดบริการของระบบหรือไม่</string>
+    <string name="runningservicedetails_stop_dlg_title">หยุดบริการของระบบ?</string>
     <string name="runningservicedetails_stop_dlg_text">หากคุณหยุดบริการนี้ คุณลักษณะบางอย่างของโทรศัพท์อาจทำงานได้ไม่ถูกต้องจนกว่าคุณปิดจะเครื่องแล้วเปิดใหม่อีกครั้ง</string>
     <string name="language_settings">ภาษาและการป้อนข้อมูล</string>
     <string name="language_keyboard_settings_title">ภาษาและการป้อนข้อมูล</string>
@@ -1153,8 +1153,8 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="hardkeyboard_category">การตั้งค่าแป้นพิมพ์บนเครื่อง</string>
     <string name="auto_punctuate_summary">กดปุ่ม Space สองครั้งเพื่อแทรก \".\"</string>
     <string name="show_password">กำหนดให้เห็นรหัสผ่านได้</string>
-    <string name="ime_security_warning">วิธีการป้อนข้อมูลนี้อาจเก็บข้อความทั้งหมดที่คุณพิมพ์ รวมถึงข้อมูลส่วนบุคคล เช่น รหัสผ่านและหมายเลขบัตรเครดิต โดยมาจากแอปพลิเคชัน %1$s ใช้วิธีการป้อนข้อมูลนี้หรือไม่</string>
-    <string name="spellchecker_security_warning">เครื่องตวรจตัวสะกดซึ่งมาจากแอปพลิเคชัน %1$s นี้อาจเก็บข้อความทั้งหมดที่คุณพิมพ์ รวมถึงข้อมูลส่วนบุคคล เช่น รหัสผ่านและหมายเลขบัตรเครดิต ต้องการใช้เครื่องตวรจตัวสะกดนี้หรือไม่</string>
+    <string name="ime_security_warning">วิธีการป้อนข้อมูลนี้อาจเก็บข้อความทั้งหมดที่คุณพิมพ์ รวมถึงข้อมูลส่วนบุคคล เช่น รหัสผ่านและหมายเลขบัตรเครดิต โดยมาจากแอปพลิเคชัน %1$s ใช้วิธีการป้อนข้อมูลนี้?</string>
+    <string name="spellchecker_security_warning">เครื่องตวรจตัวสะกดซึ่งมาจากแอปพลิเคชัน %1$s นี้อาจเก็บข้อความทั้งหมดที่คุณพิมพ์ รวมถึงข้อมูลส่วนบุคคล เช่น รหัสผ่านและหมายเลขบัตรเครดิต ต้องการใช้เครื่องตวรจตัวสะกดนี้?</string>
     <string name="spellchecker_quick_settings">การตั้งค่า</string>
     <string name="spellchecker_language">ภาษา</string>
     <string name="failed_to_open_app_settings_toast">ไม่สามารถเปิดการตั้งค่าสำหรับ %1$s</string>
@@ -1231,21 +1231,21 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="keep_screen_on_summary">หน้าจอจะไม่เข้าสู่โหมดสลีปขณะชาร์จ</string>
     <string name="allow_mock_location">อนุญาตให้จำลองตำแหน่ง</string>
     <string name="allow_mock_location_summary">อนุญาตให้จำลองตำแหน่ง</string>
-    <string name="adb_warning_title">อนุญาตให้แก้ไขข้อบกพร่อง USB หรือไม่</string>
+    <string name="adb_warning_title">อนุญาตให้แก้ไขข้อบกพร่อง USB ?</string>
     <string name="adb_warning_message">การแก้ไขข้อบกพร่อง USB มีไว้เพื่อการพัฒนาเท่านั้น ให้ใช้การแก้ไขนี้เพื่อคัดลอกข้อมูลระหว่างคอมพิวเตอร์และอุปกรณ์ ติดตั้งแอปพลิเคชันบนอุปกรณ์โดยไม่มีการแจ้งเตือน และอ่านข้อมูลบันทึก</string>
-    <string name="dev_settings_warning_title">อนุญาตการตั้งค่าสำหรับการพัฒนาหรือไม่</string>
+    <string name="dev_settings_warning_title">อนุญาตการตั้งค่าสำหรับการพัฒนา?</string>
     <string name="dev_settings_warning_message">การตั้งค่าเหล่านี้มีไว้สำหรับการพัฒนาเท่านั้น ซึ่งอาจทำให้อุปกรณ์และแอปพลิเคชันที่มีอยู่เสียหายหรือทำงานผิดพลาดได้</string>
     <string name="verify_apps_over_usb_title">ยืนยันแอปพลิเคชันผ่าน USB</string>
     <string name="verify_apps_over_usb_summary">ตรวจสอบแอปพลิเคชันที่ติดตั้งผ่าน ADB/ADT เพื่อตรวจดูพฤติกรรมที่เป็นอันตราย</string>
     <string name="enforce_read_external_title">ปกป้องการ์ดความจำ</string>
     <string name="enforce_read_external_summary">แอปพลิเคชันต้องขออนุญาตในการอ่านการ์ดความจำ</string>
-    <string name="enforce_read_external_confirm_title">ปกป้องการ์ดความจำหรือไม่</string>
+    <string name="enforce_read_external_confirm_title">ปกป้องการ์ดความจำ?</string>
     <string name="enforce_read_external_confirm_message">"เมื่อการ์ดความจำได้รับการปกป้อง แอปพลิเคชันจะต้องขออนุญาตในการอ่านข้อมูลจากที่จัดเก็บข้อมูลภายนอก
 
 แอปพลิเคชันบางรายการอาจไม่ทำงานจนกว่าจะได้รับการอัปเดตโดยนักพัฒนาซอฟต์แวร์ของแอปพลิเคชันนั้นๆ"</string>
     <string name="gadget_picker_title">เลือกแกดเจ็ต</string>
     <string name="widget_picker_title">เลือกวิดเจ็ต</string>
-    <string name="allow_bind_app_widget_activity_allow_bind_title">สร้างวิดเจ็ตและอนุญาตการเข้าถึงหรือไม่</string>
+    <string name="allow_bind_app_widget_activity_allow_bind_title">สร้างวิดเจ็ตและอนุญาตการเข้าถึง?</string>
     <string name="allow_bind_app_widget_activity_allow_bind">เมื่อสร้างวิดเจ็ตแล้ว %1$s จะสามารถเข้าถึงข้อมูลทั้งหมดที่วิดเจ็ตแสดงได้</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">อนุญาตให้ %1$s สร้างวิดเจ็ตและเข้าถึงข้อมูลวิดเจ็ตได้เสมอ</string>
     <string name="battery_history_days">%1$dวัน %2$dชั่วโมง %3$dนาที %4$dวินาที</string>
@@ -1301,14 +1301,14 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="accessibility_script_injection_disallowed">ไม่อนุญาต</string>
     <string name="accessibility_script_injection_button_allow">อนุญาต</string>
     <string name="accessibility_script_injection_button_disallow">ไม่อนุญาต</string>
-    <string name="accessibility_service_security_warning_title">ใช้ %1$s หรือไม่</string>
+    <string name="accessibility_service_security_warning_title">ใช้ %1$s ?</string>
     <string name="accessibility_service_security_warning_summary">%1$s สามารถเก็บรวบรวมข้อความทั้งหมดที่คุณพิมพ์ไว้ได้ยกเว้นรหัสผ่าน โดยรวมถึงข้อมูลส่วนบุคคลต่างๆ เช่น หมายเลขบัตรเครดิต และยังสามารถเก็บข้อมูลเกี่ยวกับการโต้ตอบระหว่างคุณกับโทรศัพท์ได้ด้วย</string>
-    <string name="accessibility_service_disable_warning_title">หยุด %1$s หรือไม่</string>
+    <string name="accessibility_service_disable_warning_title">หยุด %1$s ?</string>
     <string name="accessibility_service_disable_warning_summary">การแตะ \"ตกลง\" จะเป็นการหยุด %1$s</string>
     <string name="accessibility_no_services_installed">ไม่ได้ติดตั้งบริการใดไว้</string>
-    <string name="accessibility_service_no_apps_title">ต้องใช้โปรแกรมอ่านหน้าจอหรือไม่</string>
-    <string name="accessibility_service_no_apps_message">TalkBack มีการตอบสนองด้วยเสียงเพื่อช่วยเหลือผู้พิการทางสายตาและผู้มีปัญหาทางสายตา คุณต้องการติดตั้งแอปพลิเคชันฟรีนี้จาก Android Market หรือไม่</string>
-    <string name="accessibility_script_injection_security_warning_summary">คุณต้องการให้แอปพลิเคชันติดตั้งสคริปต์จาก Google เพื่อให้เข้าถึงเนื้อหาเว็บได้มากขึ้นหรือไม่</string>
+    <string name="accessibility_service_no_apps_title">ต้องใช้โปรแกรมอ่านหน้าจอ?</string>
+    <string name="accessibility_service_no_apps_message">TalkBack มีการตอบสนองด้วยเสียงเพื่อช่วยเหลือผู้พิการทางสายตาและผู้มีปัญหาทางสายตา คุณต้องการติดตั้งแอปพลิเคชันฟรีนี้จาก Android Market ?</string>
+    <string name="accessibility_script_injection_security_warning_summary">คุณต้องการให้แอปพลิเคชันติดตั้งสคริปต์จาก Google เพื่อให้เข้าถึงเนื้อหาเว็บได้มากขึ้น?</string>
     <string name="accessibility_service_default_description">ไม่มีคำอธิบาย</string>
     <string name="settings_button">การตั้งค่า</string>
     <string name="power_usage_summary_title">แบตเตอรี่</string>
@@ -1410,7 +1410,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="tts_engine_error">ไม่สามารถเรียกใช้เครื่องมือที่คุณเลือก</string>
     <string name="tts_engine_error_config">กำหนดค่า</string>
     <string name="tts_engine_error_reselect">เลือกเครื่องมืออื่น</string>
-    <string name="tts_engine_security_warning">โปรแกรมสังเคราะห์เสียงนี้อาจเก็บข้อความทั้งหมดที่ได้ยิน รวมถึงข้อมูลส่วนบุคคล เช่น รหัสผ่านและหมายเลขบัตรเครดิต โปรแกรมนี้มาจากโปรแกรม %s คุณต้องการเปิดใช้งานโปรแกรมสังเคราะห์เสียงนี้หรือไม่</string>
+    <string name="tts_engine_security_warning">โปรแกรมสังเคราะห์เสียงนี้อาจเก็บข้อความทั้งหมดที่ได้ยิน รวมถึงข้อมูลส่วนบุคคล เช่น รหัสผ่านและหมายเลขบัตรเครดิต โปรแกรมนี้มาจากโปรแกรม %s คุณต้องการเปิดใช้งานโปรแกรมสังเคราะห์เสียงนี้?</string>
     <string name="tts_engines_section">โปรแกรม</string>
     <string name="tts_engine_name_settings">การตั้งค่า %s</string>
     <string name="tts_engine_name_is_enabled_summary">เปิดใช้งาน %s แล้ว</string>
@@ -1457,7 +1457,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="credentials_unlock" />
     <string name="credentials_unlock_hint">พิมพ์รหัสผ่านสำหรับที่เก็บข้อมูลรับรอง</string>
     <string name="credentials_old_password">รหัสผ่านปัจจุบัน:</string>
-    <string name="credentials_reset_hint">ลบเนื้อหาทั้งหมดหรือไม่</string>
+    <string name="credentials_reset_hint">ลบเนื้อหาทั้งหมด?</string>
     <string name="credentials_password_too_short">รหัสผ่านต้องมีอักขระอย่างน้อย 8 ตัว</string>
     <string name="credentials_wrong_password">รหัสผ่านไม่ถูกต้อง</string>
     <string name="credentials_reset_warning">รหัสผ่านไม่ถูกต้อง คุณมีโอกาสหนึ่งครั้งก่อนที่ที่จัดเก็บข้อมูลรับรองจะถูกลบ</string>
@@ -1485,7 +1485,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="local_backup_password_toast_confirmation_mismatch">รหัสผ่านใหม่และการพิมพ์ยืนยันไม่ตรงกัน</string>
     <string name="local_backup_password_toast_validation_failure">ไม่สามารถตั้งรหัสผ่านสำหรับการสำรองข้อมูล</string>
     <string name="backup_erase_dialog_title" />
-    <string name="backup_erase_dialog_message">หยุดการสำรองข้อมูลรหัสผ่าน Wi-Fi บุ๊กมาร์ก การตั้งค่าอื่นๆ และข้อมูลแอปพลิเคชัน รวมทั้งลบสำเนาทั้งหมดบนเซิร์ฟเวอร์ของ Google หรือไม่</string>
+    <string name="backup_erase_dialog_message">หยุดการสำรองข้อมูลรหัสผ่าน Wi-Fi บุ๊กมาร์ก การตั้งค่าอื่นๆ และข้อมูลแอปพลิเคชัน รวมทั้งลบสำเนาทั้งหมดบนเซิร์ฟเวอร์ของ Google ?</string>
     <string name="device_admin_settings_title">การตั้งค่าการควบคุมอุปกรณ์</string>
     <string name="active_device_admin_msg">โปรแกรมควบคุมอุปกรณ์</string>
     <string name="remove_device_admin">ปิดการใช้งาน</string>
@@ -1567,7 +1567,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="remove_account_label">นำบัญชีออก</string>
     <string name="header_add_an_account">เพิ่มบัญชี</string>
     <string name="finish_button_label">เสร็จสิ้น</string>
-    <string name="really_remove_account_title">นำบัญชีออกหรือไม่</string>
+    <string name="really_remove_account_title">นำบัญชีออก?</string>
     <string name="really_remove_account_message">การนำบัญชีนี้ออกจะเป็นการลบข้อความ ที่อยู่ติดต่อ และข้อมูลอื่นๆ ทั้งหมดจากโทรศัพท์!</string>
     <string name="remove_account_failed">แอปพลิเคชันบางอย่างต้องใช้บัญชีนี้ คุณสามารถนำบัญชีออกได้ด้วยการรีเซ็ตโทรศัพท์ให้เป็นค่าเริ่มต้นเท่านั้น (ซึ่งจะลบข้อมูลส่วนบุคคลของคุณทั้งหมด) โดยไปที่การตั้งค่า > การสำรองข้อมูลและการรีเซ็ต</string>
     <string name="provider_label">การสมัครรับข้อมูลแบบ Push</string>
@@ -1653,7 +1653,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="data_usage_label_foreground">พื้นหน้า</string>
     <string name="data_usage_label_background">พื้นหลัง</string>
     <string name="data_usage_app_restricted">จำกัด</string>
-    <string name="data_usage_disable_mobile">ปิดใช้งานข้อมูลมือถือหรือไม่</string>
+    <string name="data_usage_disable_mobile">ปิดใช้งานข้อมูลมือถือ?</string>
     <string name="data_usage_disable_mobile_limit">ตั้งค่าขีดจำกัดของข้อมูลมือถือ</string>
     <string name="data_usage_disable_4g_limit">ตั้งค่าขีดจำกัดข้อมูลของ 4G</string>
     <string name="data_usage_disable_3g_limit">ตั้งค่าขีดจำกัดข้อมูลของ 2G-3G</string>
@@ -1672,18 +1672,18 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="data_usage_app_restrict_background">จำกัดข้อมูลแบ็กกราวด์</string>
     <string name="data_usage_app_restrict_background_summary">ปิดใช้งานข้อมูลแบ็กกราวด์บนเครือข่ายมือถือ จะใช้เครือข่ายอื่นหากมี</string>
     <string name="data_usage_app_restrict_background_summary_disabled">ในการจำกัดข้อมูลแบ็กกราวด์ในแอปฯ ให้ตั้งขีดจำกัดข้อมูลมือถือก่อน</string>
-    <string name="data_usage_app_restrict_dialog_title">ต้องการจำกัดข้อมูลแบ็กกราวด์หรือไม่</string>
+    <string name="data_usage_app_restrict_dialog_title">ต้องการจำกัดข้อมูลแบ็กกราวด์?</string>
     <string name="data_usage_app_restrict_dialog">"คุณลักษณะนี้อาจทำให้แอปพลิเคชันที่ต้องอาศัยข้อมูลแบ็กกราวด์หยุดทำงานเมื่อมีแต่เครือข่ายมือถือเท่านั้นที่ใช้งานได้
 
 คุณสามารถดูการควบคุมการใช้งานข้อมูลที่เหมาะสมกว่านี้ได้ในการตั้งค่าที่มีอยู่ภายในแอปพลิเคชัน"</string>
     <string name="data_usage_restrict_denied_dialog">การจำกัดข้อมูลแบ็กกราวด์ทำได้เมื่อคุณได้ตั้งค่าขีดจำกัดข้อมูลมือถือไว้เท่านั้น</string>
-    <string name="data_usage_auto_sync_on_dialog_title">เปิดซิงค์ข้อมูลอัตโนมัติหรือไม่</string>
+    <string name="data_usage_auto_sync_on_dialog_title">เปิดซิงค์ข้อมูลอัตโนมัติ?</string>
     <string name="data_usage_auto_sync_on_dialog">"การเปลี่ยนแปลงใดๆ ที่คุณทำกับบัญชีของคุณบนเว็บจะถูกคัดลอกไปยังโทรศัพท์ของคุณโดยอัตโนมัติ
 
 บางบัญชีอาจคัดลอกการเปลี่ยนแปลงทั้งหมดที่คุณดำเนินการบนโทรศัพท์ไปยังเว็บโดยอัตโนมัติ บัญชี Google ทำงานเช่นนี้
 
 หากต้องการเลือกว่าจะซิงค์ข้อมูลชนิดใดภายในแต่ละบัญชี ให้ไปที่การตั้งค่า > บัญชี"</string>
-    <string name="data_usage_auto_sync_off_dialog_title">ปิดซิงค์ข้อมูลอัตโนมัติหรือไม่</string>
+    <string name="data_usage_auto_sync_off_dialog_title">ปิดซิงค์ข้อมูลอัตโนมัติ?</string>
     <string name="data_usage_auto_sync_off_dialog">การกระทำดังกล่าวจะเป็นการประหยัดการใช้ข้อมูลและแบตเตอรี่ แต่คุณจะต้องซิงค์แต่ละบัญชีด้วยตนเองเพื่อรวบรวมข้อมูลล่าสุด และคุณจะไม่ได้รับการแจ้งเตือนเมื่อมีการอัปเดต</string>
     <string name="data_usage_cycle_editor_title">วันที่รีเซ็ตรอบการใช้</string>
     <string name="data_usage_cycle_editor_subtitle">วันที่ของแต่ละเดือน:</string>
@@ -1694,7 +1694,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="data_usage_limit_dialog_mobile">"การเชื่อมต่อข้อมูลผ่านมือถือของคุณจะถูกปิดใช้งานเมื่อครบจำนวนจำกัดที่ระบุไว้
 
 เนื่องจากการใช้งานข้อมูลถูกวัดปริมาณด้วยโทรศัพท์ของคุณ และผู้ให้บริการของคุณอาจมีการบันทึกปริมาณการใช้งานที่แตกต่างออกไป ดังนั้น โปรดเลือกวิธีที่ปลอดภัย"</string>
-    <string name="data_usage_restrict_background_title">ต้องการจำกัดข้อมูลแบ็กกราวด์หรือไม่</string>
+    <string name="data_usage_restrict_background_title">ต้องการจำกัดข้อมูลแบ็กกราวด์?</string>
     <string name="data_usage_restrict_background">หากคุณจำกัดข้อมูลแบ็กกราวด์บนมือถือ แอปพลิเคชันและบริการบางอย่างจะไม่ทำงานจนกว่าคุณจะเชื่อมต่อกับเครือข่าย WiFi</string>
     <string name="data_usage_restrict_background_multiuser">"หากคุณจำกัดข้อมูลพื้นหลังของมือถือ แอปพลิเคชันและบริการบางอย่างจะไม่ทำงานเว้นแต่คุณจะเชื่อมต่อกับเครือข่าย WiFi
 
@@ -1755,9 +1755,9 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="trusted_credentials_disable_label">ปิดใช้งาน</string>
     <string name="trusted_credentials_enable_label">เปิดใช้งาน</string>
     <string name="trusted_credentials_remove_label">นำออก</string>
-    <string name="trusted_credentials_enable_confirmation">เปิดใช้งานระบบใบรับรอง CA หรือไม่</string>
-    <string name="trusted_credentials_disable_confirmation">ปิดใช้งานระบบใบรับรอง CA หรือไม่</string>
-    <string name="trusted_credentials_remove_confirmation">นำใบรับรอง CA ของผู้ใช้ออกถาวรหรือไม่</string>
+    <string name="trusted_credentials_enable_confirmation">เปิดใช้งานระบบใบรับรอง CA ?</string>
+    <string name="trusted_credentials_disable_confirmation">ปิดใช้งานระบบใบรับรอง CA ?</string>
+    <string name="trusted_credentials_remove_confirmation">นำใบรับรอง CA ของผู้ใช้ออกถาวร?</string>
     <string name="spellcheckers_settings_title">เครื่องมือตรวจสอบการสะกด</string>
     <string name="current_backup_pw_prompt">ป้อนรหัสผ่านปัจจุบันสำหรับการสำรองข้อมูลเต็มรูปแบบที่นี่</string>
     <string name="new_backup_pw_prompt">พิมพ์รหัสผ่านใหม่สำหรับการสำรองข้อมูลเต็มรูปแบบที่นี่</string>
@@ -1787,15 +1787,15 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="user_add_user_message_short">"หลังจากที่คุณสร้างผู้ใช้ใหม่แล้ว ผู้ใช้รายนั้นๆ ต้องทำตามขั้นตอนในการตั้งค่า
 
 ผู้ใช้ทั้งหมดสามารถยอมรับการอนุญาตแอปพลิเคชันที่มีการอัปเดตในนามของผู้ใช้รายอื่นๆ ได้"</string>
-    <string name="user_setup_dialog_title">ตั้งค่าผู้ใช้ในขณะนี้หรือไม่</string>
+    <string name="user_setup_dialog_title">ตั้งค่าผู้ใช้ในขณะนี้?</string>
     <string name="user_setup_dialog_message">ตรวจสอบให้แน่ใจว่าบุคคลดังกล่าวจะสามารถนำแท็บเล็ตไปและตั้งค่าพื้นที่ของตน</string>
     <string name="user_setup_button_setup_now">ตั้งค่าทันที</string>
     <string name="user_setup_button_setup_later">ข้ามไปก่อน</string>
     <string name="user_cannot_manage_message">เฉพาะเจ้าของโทรศัพท์เท่านั้นที่สามารถจัดการผู้ใช้ได้</string>
     <string name="user_remove_user_menu">ลบ %1$s จากอุปกรณ์นี้</string>
     <string name="user_new_user_name">ผู้ใช้ใหม่</string>
-    <string name="user_confirm_remove_self_title">ลบตัวคุณเองหรือไม่</string>
-    <string name="user_confirm_remove_title">นำผู้ใช้ออกหรือไม่</string>
+    <string name="user_confirm_remove_self_title">ลบตัวคุณเอง?</string>
+    <string name="user_confirm_remove_title">นำผู้ใช้ออก?</string>
     <string name="user_confirm_remove_self_message">พื้นที่และข้อมูลของคุณที่อยู่ในโทรศัพท์เครื่องนี้จะหายไป คุณไม่สามารถเลิกทำการทำงานนี้</string>
     <string name="user_confirm_remove_message">พื้นที่และข้อมูลของผู้ใช้รายนี้จะหายไปจากโทรศัพท์เครื่องนี้ คุณไม่สามารถเลิกทำการทำงานนี้</string>
     <string name="user_adding_new_user">กำลังเพิ่มผู้ใช้ใหม่…</string>
@@ -1925,12 +1925,12 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="perm_hips_security_prompt_accept_root">ยอมรับ</string>
     <string name="perm_hips_security_prompt_next">ต่อไป</string>
     <string name="perm_hips_security_prompt_root_caption">คำเตือนที่สำคัญ</string>
-    <string name="perm_hips_security_prompt_root_step1">คุณต้องการให้ %1$s ได้รับสิทธิ์ ROOT หรือไม่??</string>
+    <string name="perm_hips_security_prompt_root_step1">คุณต้องการให้ %1$s ได้รับสิทธิ์ ROOT ?</string>
     <string name="perm_hips_security_prompt_root_step2">ได้รับสิทธิ์ ROOT อาจมีผลต่อความเสถียรของระบบ</string>
     <string name="perm_hips_security_prompt_root_step3">ข้อมูลส่วนตัวของคุณเช่นบัญชี รหัสผ่านและข้อความอาจถูกทำลาย</string>
     <string name="perm_hips_security_prompt_root_step4">เป็นไปได้ที่ฮาร์ดแวร์เสียหายอย่างถาวร</string>
     <string name="perm_hips_security_prompt_root_step5">ใช้ด้วยความระมัดระวัง!</string>
-    <string name="perm_hips_security_prompt_root_step6">คุณแน่ใจหรือว่าต้องการจะอนุญาต %1$s ใช้สิทธิ์ ROOT?</string>
+    <string name="perm_hips_security_prompt_root_step6">ต้องการจะอนุญาต %1$s ใช้สิทธิ์ ROOT?</string>
     <string name="perm">การอนุญาต</string>
     <string name="perm_app">แอป</string>
     <string name="perm_log">บันทึกการใช้งาน</string>
@@ -2059,7 +2059,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="touch_sensitive_title">โหมดการสัมผัสผ่านถุงมือ</string>
     <string name="touch_sensitive_summary">เปิดการใช้ความไวสัมผิสเพื่อสนับสนุนการทำงานของมือถือเมื่อสวมถุงมือ การป้องกันการโทรเมื่ออยู่ในกระเป๋าจะเปิดใช้งาน</string>
     <string name="touch_sensitive_turn_off_title">ปิดโหมดการสัมผัสผ่านถุงมือ</string>
-    <string name="touch_sensitive_turn_off_summary">คุณต้องการปิดการป้องการโทรเมื่ออยู่ในกระเป๋าหรือไม่?</string>
+    <string name="touch_sensitive_turn_off_summary">คุณต้องการปิดการป้องการโทรเมื่ออยู่ในกระเป๋า?</string>
     <string name="screen_never_timeout_title">ไม่เคยสลีป</string>
     <string name="screen_on_proximity_sensor_title">ป้องการการโทรเมื่ออยู่ในกระเป๋า</string>
     <string name="screen_on_proximity_sensor_summary">โทรศัพท์จะล็อกอัตโนมัติเมื่อใส่กระเป๋า</string>
@@ -2161,7 +2161,7 @@ PIN อาจไม่ถูกต้อง"</string>
  ซิมไม่รองรับการล็อก"</string>
     <string name="apn_new">จุดเชื่อมต่อใหม่</string>
     <string name="apn_save">บันทึก?</string>
-    <string name="apn_save_msg">บันทึกการเปลี่ยนแปลง APN หรือไม่?</string>
+    <string name="apn_save_msg">บันทึกการเปลี่ยนแปลง APN ?</string>
     <string name="activating">กำลังใช้งาน…</string>
     <string name="wifi_enable_watchdog_service_summary">หลีกเลี่ยงการเชื่อมต่อสัญญาณต่ำ</string>
     <string name="wifi_disabled_help">Wi-Fi ถูกตัดการเชื่อมต่อเนื่องจากการเชื่อมต่อสัญญาณที่ต่ำ</string>
@@ -2279,7 +2279,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="virus_scan_app_find_risk">% d มีความเสียง</string>
     <string name="virus_scan_app_scan_finish">สแกนเสร็จแล้ว</string>
     <string name="virus_scan_app_no_risk">ไม่พบความเสียง</string>
-    <string name="virus_scan_app_is_stop_scan">หยุดการสแกนหรือไม่?</string>
+    <string name="virus_scan_app_is_stop_scan">หยุดการสแกน?</string>
     <string name="password_guard">รหัสผ่าน</string>
     <string name="title_dolby_control">การควบคุมสียงในระบบ Dolby Mobile</string>
     <string name="dolby_mode_off">ปิด</string>
@@ -2322,7 +2322,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="dolby_ieq_focused">หนัก</string>
     <string name="dolby_ieq_open">เปิด</string>
     <string name="dolby_ieq_rich">คงที่</string>
-    <string name="dolby_eq_enter_alert_msg">คุณสามารถใช้ EQ ในโหมดเพลง Dolby เท่านั้น เปิดการทำงานในขณะนี้หรือไม่?</string>
+    <string name="dolby_eq_enter_alert_msg">คุณสามารถใช้ EQ ในโหมดเพลง Dolby เท่านั้น เปิดการทำงานในขณะนี้?</string>
     <string name="dirac_switch_title">เปิดใช้เพิ่มประสิทธิภาพ MiSound</string>
     <string name="dirac_switch_summary">เปิดใช้เพิ่มประสิทธิภาพ MiSound เสมอ เมื่อใช้งานร่วมกับลำโพง</string>
     <string name="dirac_mode_off">ปิดระบบเสียง Dirac</string>
@@ -2336,7 +2336,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="wfd_menu_searching">กำลังค้นหา…</string>
     <string name="wfd_menu_teardown">หยุด</string>
     <string name="wfd_available_devices">อุปกรณ์ที่มีอยู่</string>
-    <string name="wfd_disconnect_diag_title">ออกจากการเข้า Wi-Fi หรือไม่?</string>
+    <string name="wfd_disconnect_diag_title">ออกจากการเข้า Wi-Fi ?</string>
     <string name="wfd_disconnect_diag_msg">หากคุณหยุดเซสชั่นแสดงผล Wi-Fi การเชื่อมต่อของคุณกับ  %1$s จะสิ้นสุดลง</string>
     <string name="wfd_disconnect_multiple_diag_message">หากคุณหยุดเซสชั่นแสดงผล Wi-Fi การเชื่อมต่อของคุณกับ  %1$s และ อุปกรณ์อื่น %2$s จะสิ้นสุดลง</string>
     <string name="wfd_enable_wifi_diag_title">คุณสามารถใช้แสดง Wi-Fi เท่านั้นเมื่อ Wi-Fi เปิดใช้งาน เปิดใช้งานเดี๋ยวนี้?</string>
@@ -2347,7 +2347,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="power_mode">การตั้งค่าพลังงาน</string>
     <string name="skip_step">ข้ามขั้นตอนนี้</string>
     <string name="msd_help_title">การช่วยเหลือ MTP</string>
-    <string name="msd_help_summary">"เกิดอุปสรรคในการเข้าถึงอุปกรณ์ของคุณผ่านคอมพิวเตอร์หรือไม่?
+    <string name="msd_help_summary">"เกิดอุปสรรคในการเข้าถึงอุปกรณ์ของคุณผ่านคอมพิวเตอร์?
 กรุณาเลือกระบบปฏิบัติการของคอมพิวเตอร์คุณ"</string>
     <string name="msd_install_succeed">ติดตั้งไดร์เวอร์</string>
     <string name="msd_install_next">ต่อไป</string>
@@ -2440,9 +2440,9 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="floating_window_switch_label">แสดงหน้าต่างป๊อปอัพ</string>
     <string name="floating_window_switch_label_disable">ซ่อนหน้าต่างป๊อปอัพ</string>
     <string name="app_floating_window_dlg_enable">"การเปิดการตั้งค่าหน้าต่างของ %1$s เพื่อปล่อยให้ทำงานเองต้องเปิดแอปพลิเคชันใหม่อีกครั้ง คุณสามารถหยุดการทำงานของแอปพลิเคชันได้ด้วยตัวคุณเอง  
-คุณต้องการเปิดการทำงานหรือไม่?""</string>
+คุณต้องการเปิดการทำงาน?""</string>
     <string name="app_floating_window_dlg_disable">"การปิดการตั้งค่าหน้าต่างของ %1$s เพื่อปล่อยให้ทำงานเองนั้นจะหยุดการบังคับแอปพลิเคชัน คุณสามารถเปิดแอปพลิเคชันได้ด้วยตัวคุณเอง
-คุณต้องการปิดการทำงานหรือไม่?"</string>
+คุณต้องการปิดการทำงาน?"</string>
     <string name="wps_category">WPS</string>
     <string name="wps_connect_title">เชื่อมต่อ WPS</string>
     <string name="wps_connect_summary">ต้องแน่ใจว่าเราเตอร์สนับสนุนและเปิดการทำงาน WPS</string>
@@ -2511,8 +2511,8 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="oldman_mode_enabled_name">เปิดการทำงานโหมดผู้สูงอายุ</string>
     <string name="oldman_mode_summary">การเปิดหรือปิดการทำงานโหมดผู้สูงอายุ จะทำการรีบูตเครื่อง!</string>
     <string name="oldman_mode_confirm_title">ยืนยันการใช้โหมดผู้สูงอายุ</string>
-    <string name="oldman_mode_confirm_will_oldman_mode_text">เปิดการทำงานโหมดผู้สูงอายุหรือไม่?</string>
-    <string name="oldman_mode_confirm_will_normal_mode_text">ปิดการทำงานโหมดผู้สูงอายุหรือไม่?</string>
+    <string name="oldman_mode_confirm_will_oldman_mode_text">เปิดการทำงานโหมดผู้สูงอายุ?</string>
+    <string name="oldman_mode_confirm_will_normal_mode_text">ปิดการทำงานโหมดผู้สูงอายุ?</string>
     <string name="hdmi_3dplay_settings_title">HDMI</string>
     <string name="hdmi_3dplay_control_text">เปิดใช้งาน 3D</string>
     <string name="hdmi_3dplay_control_enable_subtext">เปิดการแสดงผลภาพสามมิติไปยังจอแสดงภาพสามมิติภายนอกแล้ว</string>
@@ -2548,7 +2548,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="mtp_transfer_unmount_error_text">ไม่สามารถอันเมาท์การ์ดความจำได้ในระหว่างการถ่ายโอนไฟล์</string>
     <string name="mtp_transfer_erase_error_text">ไม่สามารถลบการ์ดความจำได้ในระหว่างการถ่ายโอนไฟล์</string>
     <string name="launch_error">เปิดใช้แอพปลิเคชันไม่ได้!</string>
-    <string name="dlg_confirm_unmount_usb_title">อันเมาท์ที่เก็บ USB หรือไม่?</string>
+    <string name="dlg_confirm_unmount_usb_title">อันเมาท์ที่เก็บ USB ?</string>
     <string name="dlg_confirm_unmount_usb_text">ถ้าคุณอันเมาท์ที่เก็บข้อมูล USB แอปบางแอปที่คุณกำลังใช้อยู่จะหยุดการทำงาน และอาจใช้งานไม่ได้จนกกว่าคุณจะเมาท์ที่เก็บข้อมูล USB ใหม่อีกครั้ง</string>
     <string name="dlg_error_unmount_usb_title" />
     <string name="dlg_error_unmount_usb_text">อันเมาท์ี่เก็บข้อมูล USB ไม่ได้ โปรดลองใหม่ภายหลัง</string>
@@ -2596,7 +2596,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="epo_entrance_summary">คลิกเพื่อแก้ไขการกำหนดค่า EPO</string>
     <string name="agps_settings_title">การตั้งค่า AGPS</string>
     <string name="epo_enable_confirm_title">ยืนยันการเปิดใช้งาน EPO</string>
-    <string name="epo_enable_confirm_message">จำเป็นต้องมีการเชื่อมต่อข้อมูลไร้สายเพื่อรับข้อมูลการช่วยเหลือ GPS (EPO) ซึ่งอาจทำให้เกิดค่าใช้เครือข่ายเพิ่มเติม แน่ใจหรือไม่ว่าคุณต้องการเปิดการช่วยเหลือ GPS?</string>
+    <string name="epo_enable_confirm_message">จำเป็นต้องมีการเชื่อมต่อข้อมูลไร้สายเพื่อรับข้อมูลการช่วยเหลือ GPS (EPO) ซึ่งอาจทำให้เกิดค่าใช้เครือข่ายเพิ่มเติม คุณต้องการเปิดการช่วยเหลือ GPS?</string>
     <string name="epo_enable_confirm_allow">ทำต่อ</string>
     <string name="epo_enable_confirm_deny">ยกเลิก</string>
     <string name="agps_enable_confirm_title">การยืนยันการเปิดใช้งาน A-GPS</string>
@@ -2658,7 +2658,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="epo_error_dialog_title">ผิดพลาด</string>
     <string name="epo_ok_btn">ตกลง</string>
     <string name="epo_warning_dialog_title">โปรดทราบ</string>
-    <string name="epo_warning_dialog_message">การดาวน์โหลดข้อมูล EPO ในสถานะโรมมิ่งอาจทำให้เสียค่าใช้จ่ายเพิ่มเติม แน่ใจหรือไม่ว่าคุณต้องการทำต่อ?</string>
+    <string name="epo_warning_dialog_message">การดาวน์โหลดข้อมูล EPO ในสถานะโรมมิ่งอาจทำให้เสียค่าใช้จ่ายเพิ่มเติม คุณต้องการทำต่อ?</string>
     <string name="ring_summary">ส่งเสียงกริ่ง</string>
     <string name="ring_vibrate_summary">ส่งเสียงกริ่งและสั่น</string>
     <string name="silent_summary">โหมดเงียบเท่านั้น</string>
@@ -2682,7 +2682,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="silent_settings_title">เงียบ</string>
     <string name="meeting_settings_title">ประชุม</string>
     <string name="outdoor_settings_title">นอกอาคาร</string>
-    <string name="apn_predefine_change_dialog_notice">คุณต้องการบันทึกหรือไม่ การดัดแปลง APNs เริ่มต้นอาจทำให้เกิดปัญหาการเชื่อมต่อ!</string>
+    <string name="apn_predefine_change_dialog_notice">คุณต้องการบันทึก? การดัดแปลง APNs เริ่มต้นอาจทำให้เกิดปัญหาการเชื่อมต่อ!</string>
     <string name="dialog_apn_disabled">ปิดการทำงาน APN!</string>
     <string name="dialog_apn_disabled_msg">โปรดปิดโหมดเครื่องบิน เพื่อเปิดการตั้งค่า APN</string>
     <string name="sound_category_feedback_title">ระบบ</string>
@@ -2736,13 +2736,13 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="sim_remain">(เหลือ: %d)</string>
     <string name="gps_time_sync_attention_gps_on">"ส่วนใหญ่จะใช้เวลาสูงสุด 1 นาที ในการรับสัญญาณ GPS นอกจากนี้ GPS อาจไม่สามารถส่งเวลาได้เนื่องจากสัญญาณแวดล้อมที่อ่อนแรง
 
-คุณแน่ใจว่าต้องการใช้เวลาที่ส่งจาก GPS หรือไม่"</string>
+คุณแน่ใจว่าต้องการใช้เวลาที่ส่งจาก GPS ?"</string>
     <string name="gps_time_sync_attention_gps_off">"ในการใช้เวลาที่ส่งจาก GPS คุณต้องเปิดใช้งาน GPS ก่อน ส่วนใหญ่จะใช้เวลาสูงสุด 1 นาที ในการรับสัญญาณ GPS นอกจากนี้ GPS อาจไม่สามารถส่งเวลาได้เนื่องจากสัญญาณแวดล้อมที่อ่อนแรง
 
-คุณแน่ใจว่าต้องการใช้เวลาที่ส่งจาก GPS ขณะนี้หรือไม่ และต้องการรอเวลาจาก GPS หรือไม่"</string>
+คุณแน่ใจว่าต้องการใช้เวลาที่ส่งจาก GPS ขณะนี้หรือไม่ และต้องการรอเวลาจาก GPS ?"</string>
     <string name="drm_settings_title">รีเซต DRM</string>
     <string name="drm_settings_summary">ลบไลเซนส์ทั้งหมดของ DRM</string>
-    <string name="drm_reset_dialog_msg">การทำงานนี้จะลบไลเซนส์ทั้งหมดบนอุปกรณ์นี้ ดำเนินการต่อหรือไม่</string>
+    <string name="drm_reset_dialog_msg">การทำงานนี้จะลบไลเซนส์ทั้งหมดบนอุปกรณ์นี้ ดำเนินการต่อ?</string>
     <string name="drm_reset_toast_msg">ลบไลเซนส์สำเร็จแล้ว</string>
     <string name="gemini_sim_management_title">การจัดการซฺืม</string>
     <string name="gemini_sim_info_title">ข้อมูลซิม</string>
@@ -2771,7 +2771,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="gemini_sim_mode_progress_deactivating_message">กำลังปิดการใช้งาน…</string>
     <string name="gemini_sim_mode_change_failed_message">ล้มเหลว, เครือข่ายผิดพลาด</string>
     <string name="gemini_sim_mode_enter_airplanemode_confirm_title">โหมดเครื่องบิน</string>
-    <string name="gemini_sim_mode_enter_airplanemode_confirm_message">โทรศัพท์จะเข้าสู่โหมดเครื่องบิน การเชื่อมต่อไร้สายทั้งหมดจะปิดการทำงาน ดำเนินการต่อหรือไม่?</string>
+    <string name="gemini_sim_mode_enter_airplanemode_confirm_message">โทรศัพท์จะเข้าสู่โหมดเครื่องบิน การเชื่อมต่อไร้สายทั้งหมดจะปิดการทำงาน ดำเนินการต่อ?</string>
     <string name="gemini_3g_indic">3G</string>
     <string name="gemini_sim_info_editor_name">แก้ไขชื่อซิม</string>
     <string name="gemini_sim_info_editor_name_dup_title">บันทึกล้มเหลว</string>
@@ -2783,18 +2783,18 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="gemini_sim_list_default_title">รายการซิมการ์ด</string>
     <string name="gemini_data_connection_progress_message">โปรดรอ......</string>
     <string name="gemini_3g_modem_switching_message">การสลับซิมจะใช้เวลาประมาณ 10 วินาทีจึงจะสมบูรณ์ โปรดรอ…</string>
-    <string name="gemini_3g_modem_switch_confirm_message">นี่จะสลับบริการ 3G ไปยังซิมนี้ด้วย ทำต่อหรือไม่? ให้แน่ใจว่าซิมที่เลือกนี้สนับสนุนบริการ 3G</string>
+    <string name="gemini_3g_modem_switch_confirm_message">นี่จะสลับบริการ 3G ไปยังซิมนี้ด้วย ทำต่อ? ให้แน่ใจว่าซิมที่เลือกนี้สนับสนุนบริการ 3G</string>
     <string name="gemini_3g_disable_warning">SIM ที่เลือกนี้ไม่มีบริการ 3G การโหลดข้อมูลอาจช้าลง คุณสามารถเปลี่ยนการตั้งค่าบริการ 3G ได้ที่ การตั้งค่า > บริการไร้สาย &amp; เครือข่าย > เครือข่ายโทรศัพท์มือถือ</string>
     <string name="gemini_3g_disable_warning_cu">SIM ที่เลือกนี้ไม่มีบริการ 3G การโหลดข้อมูลอาจช้าลง คุณสามารถเปลี่ยนการตั้งค่าบริการ 3G ได้ที่ การตั้งค่า > การจัดการ SIM</string>
     <string name="gemini_wap_push_permission_head">หลังการเปิดใช้งานบริการพุชอัตโนมัติ คุณสามารถรับข้อความแบบพุช รับแอปพลิเคชันที่กำลังทำงาน และทำการรับส่งข้อมูลได้ บริการพุชอัตโนมัติโดยทั่วไปจะรวมถึง การแจ้งเตือนทางอีเมล์ การจัดการอุปกรณ์ การระบุบริการ การโหลดบริการ และพุชเกี่ยวสิ่งที่มีในระบบ</string>
-    <string name="gemini_wap_push_permission_tail">ยอมรับข้อตกลงนี้หรือไม่?</string>
+    <string name="gemini_wap_push_permission_tail">ยอมรับข้อตกลงนี้?</string>
     <string name="gemini_wap_push_permission_title">ข้อตกลงบริการพุชอัตโนมัติ</string>
     <string name="gemini_wap_push_permission">บริการพุชอัตโนมัติ</string>
-    <string name="gemini_3g_disable_warning_case0">คุณต้องเปิดการโรมมิ่งข้อมูลสำหรับซิมนี้ก่อน ซึ่งอาจมีค่าธรรมเนียมการโรมมิ่ง! คุณแน่ใจว่าต้องการเปิดการโรมมิ่งข้อมูลและเลือกซิมนี้หรือไม่</string>
-    <string name="gemini_3g_disable_warning_case1">ไม่มีบริการ 3G สำหรับซิมที่เลือก ซึ่งอาจทำให้โหลดข้อมูลได้ช้าลง คุณสามารถเปลี่ยนการตั้งค่าบริการ 3G ได้ที่ การตั้งค่า > ไร้สาย &amp; เครือข่าย > เครือข่ายโทรศัพท์มือถือ คุณแน่ใจว่าจะเลือกซิมนี้หรือไม่</string>
-    <string name="gemini_3g_disable_warning_case2">ไม่มีบริการ 3G สำหรับซิมที่เลือก ซึ่งอาจทำให้โหลดข้อมูลได้ช้าลง คุณสามารถเปลี่ยนการตั้งค่าบริการ 3G ได้ที่ การตั้งค่า > การจัดการซิมคุณแน่ใจว่าจะเลือกซิมนี้หรือไม่</string>
-    <string name="gemini_3g_disable_warning_case3">คุณต้องเปิดการใช้งานข้อมูลข้ามเขตสำหรับซิมนี้ก่อน ซึ่งอาจทำให้มีค่าใช้จ่ายสำหรับการใช้งานข้ามเขต! นอกจากนี้ยังไม่มีบริการ 3G สำหรับซิมนี้ ซึ่งอาจทำให้โปลดข้อมูลได้ช้าลง คุณสามารถเปลี่ยนการตั้งค่าบริการ 3G ได้ที่ การตั้งค่า > ไร้สาย &amp; เครือข่าย > เครือข่ายโทรศัพท์มือถือ คุณแน่ใจว่าจะปิดใช้งานข้อมูลข้ามเขตและเลือกซิมนี้หรือไม่</string>
-    <string name="gemini_3g_disable_warning_case4">คุณต้องเปิดการใช้งานข้อมูลข้ามเขตสำหรับซิมนี้ก่อน ซึ่งอาจทำให้มีค่าใช้จ่ายสำหรับการใช้งานข้ามเขต! นอกจากนี้ยังไม่มีบริการ 3G สำหรับซิมนี้ ซึ่งอาจทำให้โปลดข้อมูลได้ช้าลง คุณสามารถเปลี่ยนการตั้งค่าบริการ 3G ได้ที่ การตั้งค่า > การจัดการซิมคุณแน่ใจว่าจะปิดใช้งานข้อมูลข้ามเขตและเลือกซิมนี้หรือไม่</string>
+    <string name="gemini_3g_disable_warning_case0">คุณต้องเปิดการโรมมิ่งข้อมูลสำหรับซิมนี้ก่อน ซึ่งอาจมีค่าธรรมเนียมการโรมมิ่ง! คุณแน่ใจว่าต้องการเปิดการโรมมิ่งข้อมูลและเลือกซิมนี้?</string>
+    <string name="gemini_3g_disable_warning_case1">ไม่มีบริการ 3G สำหรับซิมที่เลือก ซึ่งอาจทำให้โหลดข้อมูลได้ช้าลง คุณสามารถเปลี่ยนการตั้งค่าบริการ 3G ได้ที่ การตั้งค่า > ไร้สาย &amp; เครือข่าย > เครือข่ายโทรศัพท์มือถือ คุณแน่ใจว่าจะเลือกซิมนี้?</string>
+    <string name="gemini_3g_disable_warning_case2">ไม่มีบริการ 3G สำหรับซิมที่เลือก ซึ่งอาจทำให้โหลดข้อมูลได้ช้าลง คุณสามารถเปลี่ยนการตั้งค่าบริการ 3G ได้ที่ การตั้งค่า > การจัดการซิมคุณแน่ใจว่าจะเลือกซิมนี้?</string>
+    <string name="gemini_3g_disable_warning_case3">คุณต้องเปิดการใช้งานข้อมูลข้ามเขตสำหรับซิมนี้ก่อน ซึ่งอาจทำให้มีค่าใช้จ่ายสำหรับการใช้งานข้ามเขต! นอกจากนี้ยังไม่มีบริการ 3G สำหรับซิมนี้ ซึ่งอาจทำให้โปลดข้อมูลได้ช้าลง คุณสามารถเปลี่ยนการตั้งค่าบริการ 3G ได้ที่ การตั้งค่า > ไร้สาย &amp; เครือข่าย > เครือข่ายโทรศัพท์มือถือ คุณแน่ใจว่าจะปิดใช้งานข้อมูลข้ามเขตและเลือกซิมนี้?</string>
+    <string name="gemini_3g_disable_warning_case4">คุณต้องเปิดการใช้งานข้อมูลข้ามเขตสำหรับซิมนี้ก่อน ซึ่งอาจทำให้มีค่าใช้จ่ายสำหรับการใช้งานข้ามเขต! นอกจากนี้ยังไม่มีบริการ 3G สำหรับซิมนี้ ซึ่งอาจทำให้โปลดข้อมูลได้ช้าลง คุณสามารถเปลี่ยนการตั้งค่าบริการ 3G ได้ที่ การตั้งค่า > การจัดการซิมคุณแน่ใจว่าจะปิดใช้งานข้อมูลข้ามเขตและเลือกซิมนี้?</string>
     <string name="gemini_sim_tether_info_title">ผู้ติดต่อ &amp; SIM</string>
     <string name="gemini_sim_tether_add_record">เพิ่มผู้ติดต่อ</string>
     <string name="gemini_sim_add_title">ผู้ติดต่อ</string>
@@ -2811,7 +2811,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="gemini_sim_tether_select_ok">บันทึก</string>
     <string name="gemini_sim_tether_select_cancel">ยกเลิก</string>
     <string name="gemini_sim_tether_revert_title">โปรดทราบ</string>
-    <string name="gemini_sim_tether_revert_message">การกำหนดค่าของคุณถูกเปลี่ยน และไม่ได้บันทึก แน่ใจหรือไม่ว่าคุณต้องการออกโดยไม่บันทึก?</string>
+    <string name="gemini_sim_tether_revert_message">การกำหนดค่าของคุณถูกเปลี่ยน และไม่ได้บันทึก คุณต้องการออกโดยไม่บันทึก?</string>
     <string name="gemini_tether_saving_progress_message">กำลังบันทึก…</string>
     <string name="gemini_sim_lock_sim1_tab_tag">SIM1</string>
     <string name="gemini_sim_lock_sim1_tab_label">SIM1</string>
@@ -2876,7 +2876,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="rcse_settings_title">การตั้งค่า RCS-e</string>
     <string name="MobileNetwork_SIM1_Active">SIM1 เปิดใช้งาน</string>
     <string name="MobileNetwork_SIM2_Active">SIM2 เปิดใช้งาน</string>
-    <string name="dlg_mount_external_sd_title">เมาท์การ์ดความจำหรือไม่</string>
+    <string name="dlg_mount_external_sd_title">เมาท์การ์ดความจำ?</string>
     <string name="dlg_mount_external_sd_summary">ถ้าคุณเมาท์การ์ดความจำ บางแอปที่กำลังใช้จะหยุดทำงาน</string>
     <string name="tethered_ipv6_title">การตั้งค่าฮอตสปอต &amp; การแชร์อินเตอร์เน็ต</string>
     <string name="tethered_ipv4v6">(มี IPv6)</string>
@@ -2959,7 +2959,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="beam_share_show_received_files_menu">แสดงไฟล์ที่ได้รับ</string>
     <string name="beam_share_history_title">บีมการแชร์ประวัติ</string>
     <string name="beam_share_clear_confirm_dialog_title">ล้างทั้งหมด</string>
-    <string name="beam_share_clear_confirm_dialog_message">ล้างประวัติทั้งหมดหรือไม่</string>
+    <string name="beam_share_clear_confirm_dialog_message">ล้างประวัติทั้งหมด?</string>
     <string name="beam_share_receive_fail_dialog_message">รับ %1$s ไม่สำเร็จ</string>
     <string name="beam_share_clear_item_dailog_title">ลบ</string>
     <string name="beam_share_clear_item_dailog_message">รายการจะถูกลบ</string>
@@ -2997,14 +2997,14 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="sim_lock">ล็อก</string>
     <string name="enable_wifi_tether">เปิดใช้งาน Wi-Fi ฮอตสปอต</string>
     <string name="enable_gps">เปิดใช้งานจีพีเอส</string>
-    <string name="enable_gps_confirm_message">ต้องเชื่อมต่อข้อมูลแบบไร้สายเพื่อจะได้รับความช่วยเหลือข้อมูลจีพีเอส (EPO, A-GPS) ซึ่งอาจทำให้เกิดค่าใช้จ่าย คุณแน่ใจว่าจะเปิด GPS หรือไม่?</string>
+    <string name="enable_gps_confirm_message">ต้องเชื่อมต่อข้อมูลแบบไร้สายเพื่อจะได้รับความช่วยเหลือข้อมูลจีพีเอส (EPO, A-GPS) ซึ่งอาจทำให้เกิดค่าใช้จ่าย คุณแน่ใจว่าจะเปิด GPS ?</string>
     <string name="gsm_to_wifi_connect_type_title">เครือข่ายมือถือ->Wi-Fi</string>
     <string name="wifi_connect_ap_summary">การเชื่อมต่อเครือข่ายประเภทพิเศษ</string>
     <string name="wifi_connect_type_title">ประเภทเชื่อมต่ออัตโนมัติ</string>
     <string name="select_ssid_type_title">ประเภทเชื่อมต่อเครือข่าย</string>
     <string name="wifi_signal_found_msg">การเชื่อมต่อปัจจุบันสัญญาณต่ำ คุณต้องการเชื่อมต่อ Wi-Fi อื่น?</string>
     <string name="confirm_title">ยืนยัน</string>
-    <string name="msg_wlan_signal_found">พบสัญญาณ Wi-Fi %s คุณต้องการใช้เครือข่าย Wi-Fi นี่หรือไม่ การใช้เครือข่าย Wi-Fi นี้จะขัดจังหวะการใช้งานการบริการข้อมูลเของครือข่ายมือถือบางส่วน</string>
+    <string name="msg_wlan_signal_found">พบสัญญาณ Wi-Fi %s คุณต้องการใช้เครือข่าย Wi-Fi ? การใช้เครือข่าย Wi-Fi นี้จะขัดจังหวะการใช้งานการบริการข้อมูลเของครือข่ายมือถือบางส่วน</string>
     <string name="data_connection_dialog_title">เปลี่ยนการใช้งานข้อมูล</string>
     <string name="wifi_failover_gprs_content">Wi-Fi ไม่สามารถใช้งานได้ ต้องการเชื่อมต่อเครือข่ายมือถือ?</string>
     <string name="wifi_priority_type_title">ตั้งความสำคัญของ AP ด้วยตัวเอง</string>
@@ -3015,7 +3015,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="wifi_configured_ap_list">จดจำรายการจุดเข้าใช้งาน</string>
     <string name="wifi_priority_label">ลำดับความสำคัญ</string>
     <string name="change_data_conn_title">เปลี่ยนการเชื่อมต่อข้อมูล</string>
-    <string name="change_data_conn_message">%1$s ไม่พร้อม เปลี่ยนค่าเริ่มต้นการเชื่อมต่อข้อมูลไปยัง %2$s หรือไม่?</string>
+    <string name="change_data_conn_message">%1$s ไม่พร้อม เปลี่ยนค่าเริ่มต้นการเชื่อมต่อข้อมูลไปยัง %2$s ?</string>
     <string name="later">รีบูตภายหลัง</string>
     <string name="now">รีบูตตอนนี้</string>
     <string name="connected_wifi">Wi-Fi เชื่อมต่อแล้ว</string>
