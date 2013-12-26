@@ -263,4 +263,6 @@
     <string name="grant_permissions_account">อนุญาตการเข้าถึงบัญชี</string>
     <string name="grant_permissions_apps">อนุญาตการเข้าถึงแอป</string>
 	<string name="v5_date_time_picker_dialog_title">ตั้งเวลาการแจ้งเตือน</string>
+	<string name="text_copied">คัดลอกข้อความไปยังคลิปบอร์ดแล้ว</string>
+	<string name="text_cut">ตัดข้อความ</string>
 </resources>

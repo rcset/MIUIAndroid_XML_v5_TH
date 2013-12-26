@@ -454,4 +454,13 @@
 	<string name="confirm_delete_this_picture">คุณต้องการลบรูปภาพที่เลือก?</string>
 	<string name="confirm_delete_this_video">คุณต้องการลบวิดีโอที่เลือก?</string>
 	<string name="loading_members">กำลังโหลดสมาชิก...</string>
+	<string name="folder_holder_file">ตัวยึดไฟล์</string>
+	<string name="time_line_view">แสดงระยะเวลา</string>
+	<string name="confirm_download_video_message">จำเป็นต้องดาวน์โหลดวิดีโอ! ดาวน์โหลดจะดำเนินการต่อเมื่อการเชื่อมต่อ Wi-Fi สามารถใช้งานได้</string>
+	<string name="confirm_download_video_title">วิดีโอดาวน์โหลด</string>
+	<string name="image_download_item_title">รูปภาพดาวน์โหลด (%s)</string>
+	<string name="loading_image">กำลังดาวน์โหลดรูปภาพ…</string>
+	<string name="loading_suspend">พักดาวน์โหลดชั่วคราว: จะดำเนินการต่อเมื่อการเชื่อมต่อ Wi-Fi สามารถใช้งานได้</string>
+	<string name="loading_video">กำลังดาวน์โหลดวิดีโอ…</string>
+	
 </resources>

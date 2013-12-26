@@ -2435,7 +2435,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="man_add_application">เพิ่มแอปเริ่มต้นอัตโนมัติ</string>
     <string name="application_item_disable">ปฏิเสธ</string>
     <string name="application_item_permission">อนุญาต</string>
-    <string name="application_item_already_permission">อนุญาตให้</string>
+    <string name="application_item_already_permission">อนุญาตแล้ว</string>
     <string name="application_forbid_auto_startup">ห้าม %s จากการเปิดในพื้นหลัง</string>
     <string name="floating_window_switch_label">แสดงหน้าต่างป๊อปอัพ</string>
     <string name="floating_window_switch_label_disable">ซ่อนหน้าต่างป๊อปอัพ</string>
@@ -3061,4 +3061,5 @@ PIN อาจไม่ถูกต้อง"</string>
 	<string name="perm_app_manage_empty">ไม่มีแอปตรวจสอบ</string>
 	<string name="perm_root_manage_empty">ไม่มีแอปอนุญาต ROOT</string>
 	<string name="quick_scan_done_title">สแกนเสร็จสิ้น!</string>
+	<string name="dirac_mode_general">ทั่วไป</string>
 </resources>

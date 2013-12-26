@@ -180,4 +180,5 @@
     <string name="pref_connect_settings_monitor_running_app_summary">แสดงการแจ้งเตือนเมื่อแอปปฏิเสธเครือข่ายกำลังใช้งาน</string>
 	<string name="running_apps_activity_title">แอปกำลังใช้งาน</string>
 	<string name="adjust_module_miss">ไม่มีแอปทราฟฟิก</string>
+	<string name="traffic_bought">ชำระเงินทราฟฟิกแล้ว</string>
 </resources>

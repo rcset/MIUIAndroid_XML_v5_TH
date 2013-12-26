@@ -56,4 +56,7 @@
     <string name="nowifi_alert_dialog_message">ใช้เครือข่ายมือถือเพื่อสตรีมวิดีโอ คุณต้องการทำต่อหรือไม่?</string>
     <string name="nowifi_alert_dialog_continue">ต่อเนื่อง</string>
     <string name="nowifi_alert_dialog_exit">ออก</string>
+	<string name="menu_item_disable_audio_enhance">ปิดใช้งานเพิ่มประสิทธิภาพเสียง</string>
+	<string name="menu_item_enable_audio_enhance">เปิดใช้งานเพิ่มประสิทธิภาพเสียง</string>
+	<string name="toast_message_set_misound">ติดตั้ง Miเสียง</string>
 </resources>

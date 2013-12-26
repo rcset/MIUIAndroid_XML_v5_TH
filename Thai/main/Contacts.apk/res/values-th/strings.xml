@@ -775,7 +775,7 @@
     <string name="preference_auto_ip_title">IP แบบอัตโนมัติ</string>
     <string name="preference_auto_ip_summary_disable">ยังไม่เปิดใช้งาน</string>
     <string name="preference_auto_ip_summary_on">"คำนำหน้า IP ของอาชีพ: %s"</string>
-    <string name="preference_phone_more_title">การตั้งค่าเบอร์โทรศัพท์อื่นๆอีก</string>
+    <string name="preference_phone_more_title">การตั้งค่าเบอร์โทรศัพท์อื่นๆ</string>
     <string name="preference_dial_pad_touch_tone_switch">เสียงแตะแป้นหมายเลข</string>
     <string name="preference_tone_title">เสียง</string>
     <string name="preference_dial_pad_touch_tone_default">ค่าเริ่มต้น</string>
@@ -1064,4 +1064,9 @@
 	<string name="yellowpage_navigation_search_hint">ค้นหา</string>
 	<string name="yellowpage_navigation_search_offline_hint">เคือข่ายไม่สามารถใช้งานได้</string>
 	<string name="yellowpage_navigation_search_select_city">กรุณาเลือกเมือง</string>
+	<string name="type_mx_msg">ข้อความคลาวด์</string>
+	<string name="yellowpage_navigation_search_result_network_error">"ไม่สามารถเชื่อมต่อเครือข่าย"</string>
+	<string name="yellowpage_navigation_search_result_no_more">ไม่มีผลลัพธ์</string>
+	<string name="yellowpage_navigation_search_result_service_error">ไม่สามารถใช้งานบริการปัจจุบัน</string>
+	<string name="yellowpage_navigation_search_result_unknown_error">ข้อผิดพลาดไม่รู้จัก!</string>
 </resources>
