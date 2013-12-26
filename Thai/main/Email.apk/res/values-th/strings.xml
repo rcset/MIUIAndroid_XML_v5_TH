@@ -66,7 +66,7 @@
     <string name="picker_combined_view_fmt">มุมมองรวม (%s)</string>
     <string name="debug_version_fmt">รุ่น: %s</string>
     <string name="debug_enable_debug_logging_label">เปิดใช้งานบันทึกปัญหาเพิ่มเติ่ม?</string>
-    <string name="debug_enable_exchange_logging_label">เปิดใช้งานบันทึกวิเคราะห์แลกเปลี่ยน ? </string>
+    <string name="debug_enable_exchange_logging_label">เปิดใช้งานบันทึกวิเคราะห์แลกเปลี่ยน? </string>
     <string name="debug_enable_exchange_file_logging_label">เปิดใช้งานบันทึกแลกเปลี่ยนการ์ดความจำ?</string>
     <string name="debug_clear_webview_cache">ล้างแควแสดงเว็บ</string>
     <string name="debug_disable_graphics_acceleration_label">ปิดใช้งานเร่งฮาร์ดแวร์กราฟฟิก</string>

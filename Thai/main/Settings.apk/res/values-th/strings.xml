@@ -134,7 +134,7 @@
     <string name="bluetooth_auto_connect">เชื่อมต่ออัตโนมัติ</string>
     <string name="bluetooth_connection_permission_request">ขอการเชื่อมต่อบลูทูธ</string>
     <string name="bluetooth_connection_notif_message">แตะเพื่อเชื่อมต่อ \"%1$s\"</string>
-    <string name="bluetooth_connection_dialog_text">คุณต้องการเชื่อมต่อไปยัง \"%1$s\" ?</string>
+    <string name="bluetooth_connection_dialog_text">คุณต้องการเชื่อมต่อไปยัง \"%1$s\"?</string>
     <string name="bluetooth_phonebook_request">คำขอสมุดโทรศัพท์</string>
     <string name="bluetooth_pb_acceptance_dialog_text">%1$s ต้องการเข้าถึงสมุดติดต่อและประวัติการโทรของคุณ อนุญาตให้ %2$s เข้าถึง?</string>
     <string name="bluetooth_pb_remember_choice">ไม่ต้องถามอีก</string>
@@ -588,7 +588,7 @@
     <string name="wifi_p2p_disconnect_message">หากคุณตัดการเชื่อมต่อ จะเป็นการสิ้นสุดการเชื่อมต่อของคุณกับ %1$s</string>
     <string name="wifi_p2p_disconnect_multiple_message">หากคุณตัดการเชื่อมต่อ จะเป็นการสิ้นสุดการเชื่อมต่อของคุณกับ %1$s และอุปกรณ์อื่นอีก %2$s รายการ</string>
     <string name="wifi_p2p_cancel_connect_title">ยกเลิกข้อความเชิญ?</string>
-    <string name="wifi_p2p_cancel_connect_message">คุณต้องการยกเลิกข้อความเชิญเพื่อเชื่อมต่อกับ %1$s ?</string>
+    <string name="wifi_p2p_cancel_connect_message">คุณต้องการยกเลิกข้อความเชิญเพื่อเชื่อมต่อกับ %1$s?</string>
     <string name="wifi_p2p_delete_group_message">ไม่จำกลุ่มนี้ใช่?</string>
     <string name="wifi_tether_checkbox_text">Wi-Fi ฮอตสปอตแบบพกพา</string>
     <string name="wifi_tether_starting">กำลังเปิดฮอตสปอต…</string>
@@ -1231,7 +1231,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="keep_screen_on_summary">หน้าจอจะไม่เข้าสู่โหมดสลีปขณะชาร์จ</string>
     <string name="allow_mock_location">อนุญาตให้จำลองตำแหน่ง</string>
     <string name="allow_mock_location_summary">อนุญาตให้จำลองตำแหน่ง</string>
-    <string name="adb_warning_title">อนุญาตให้แก้ไขข้อบกพร่อง USB ?</string>
+    <string name="adb_warning_title">อนุญาตให้แก้ไขข้อบกพร่อง USB?</string>
     <string name="adb_warning_message">การแก้ไขข้อบกพร่อง USB มีไว้เพื่อการพัฒนาเท่านั้น ให้ใช้การแก้ไขนี้เพื่อคัดลอกข้อมูลระหว่างคอมพิวเตอร์และอุปกรณ์ ติดตั้งแอปพลิเคชันบนอุปกรณ์โดยไม่มีการแจ้งเตือน และอ่านข้อมูลบันทึก</string>
     <string name="dev_settings_warning_title">อนุญาตการตั้งค่าสำหรับการพัฒนา?</string>
     <string name="dev_settings_warning_message">การตั้งค่าเหล่านี้มีไว้สำหรับการพัฒนาเท่านั้น ซึ่งอาจทำให้อุปกรณ์และแอปพลิเคชันที่มีอยู่เสียหายหรือทำงานผิดพลาดได้</string>
@@ -1301,13 +1301,13 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="accessibility_script_injection_disallowed">ไม่อนุญาต</string>
     <string name="accessibility_script_injection_button_allow">อนุญาต</string>
     <string name="accessibility_script_injection_button_disallow">ไม่อนุญาต</string>
-    <string name="accessibility_service_security_warning_title">ใช้ %1$s ?</string>
+    <string name="accessibility_service_security_warning_title">ใช้ %1$s?</string>
     <string name="accessibility_service_security_warning_summary">%1$s สามารถเก็บรวบรวมข้อความทั้งหมดที่คุณพิมพ์ไว้ได้ยกเว้นรหัสผ่าน โดยรวมถึงข้อมูลส่วนบุคคลต่างๆ เช่น หมายเลขบัตรเครดิต และยังสามารถเก็บข้อมูลเกี่ยวกับการโต้ตอบระหว่างคุณกับโทรศัพท์ได้ด้วย</string>
-    <string name="accessibility_service_disable_warning_title">หยุด %1$s ?</string>
+    <string name="accessibility_service_disable_warning_title">หยุด %1$s?</string>
     <string name="accessibility_service_disable_warning_summary">การแตะ \"ตกลง\" จะเป็นการหยุด %1$s</string>
     <string name="accessibility_no_services_installed">ไม่ได้ติดตั้งบริการใดไว้</string>
     <string name="accessibility_service_no_apps_title">ต้องใช้โปรแกรมอ่านหน้าจอ?</string>
-    <string name="accessibility_service_no_apps_message">TalkBack มีการตอบสนองด้วยเสียงเพื่อช่วยเหลือผู้พิการทางสายตาและผู้มีปัญหาทางสายตา คุณต้องการติดตั้งแอปพลิเคชันฟรีนี้จาก Android Market ?</string>
+    <string name="accessibility_service_no_apps_message">TalkBack มีการตอบสนองด้วยเสียงเพื่อช่วยเหลือผู้พิการทางสายตาและผู้มีปัญหาทางสายตา คุณต้องการติดตั้งแอปพลิเคชันฟรีนี้จาก Android Market?</string>
     <string name="accessibility_script_injection_security_warning_summary">คุณต้องการให้แอปพลิเคชันติดตั้งสคริปต์จาก Google เพื่อให้เข้าถึงเนื้อหาเว็บได้มากขึ้น?</string>
     <string name="accessibility_service_default_description">ไม่มีคำอธิบาย</string>
     <string name="settings_button">การตั้งค่า</string>
@@ -1485,7 +1485,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="local_backup_password_toast_confirmation_mismatch">รหัสผ่านใหม่และการพิมพ์ยืนยันไม่ตรงกัน</string>
     <string name="local_backup_password_toast_validation_failure">ไม่สามารถตั้งรหัสผ่านสำหรับการสำรองข้อมูล</string>
     <string name="backup_erase_dialog_title" />
-    <string name="backup_erase_dialog_message">หยุดการสำรองข้อมูลรหัสผ่าน Wi-Fi บุ๊กมาร์ก การตั้งค่าอื่นๆ และข้อมูลแอปพลิเคชัน รวมทั้งลบสำเนาทั้งหมดบนเซิร์ฟเวอร์ของ Google ?</string>
+    <string name="backup_erase_dialog_message">หยุดการสำรองข้อมูลรหัสผ่าน Wi-Fi บุ๊กมาร์ก การตั้งค่าอื่นๆ และข้อมูลแอปพลิเคชัน รวมทั้งลบสำเนาทั้งหมดบนเซิร์ฟเวอร์ของ Google?</string>
     <string name="device_admin_settings_title">การตั้งค่าการควบคุมอุปกรณ์</string>
     <string name="active_device_admin_msg">โปรแกรมควบคุมอุปกรณ์</string>
     <string name="remove_device_admin">ปิดการใช้งาน</string>
@@ -1755,8 +1755,8 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="trusted_credentials_disable_label">ปิดใช้งาน</string>
     <string name="trusted_credentials_enable_label">เปิดใช้งาน</string>
     <string name="trusted_credentials_remove_label">นำออก</string>
-    <string name="trusted_credentials_enable_confirmation">เปิดใช้งานระบบใบรับรอง CA ?</string>
-    <string name="trusted_credentials_disable_confirmation">ปิดใช้งานระบบใบรับรอง CA ?</string>
+    <string name="trusted_credentials_enable_confirmation">เปิดใช้งานระบบใบรับรอง CA?</string>
+    <string name="trusted_credentials_disable_confirmation">ปิดใช้งานระบบใบรับรอง CA?</string>
     <string name="trusted_credentials_remove_confirmation">นำใบรับรอง CA ของผู้ใช้ออกถาวร?</string>
     <string name="spellcheckers_settings_title">เครื่องมือตรวจสอบการสะกด</string>
     <string name="current_backup_pw_prompt">ป้อนรหัสผ่านปัจจุบันสำหรับการสำรองข้อมูลเต็มรูปแบบที่นี่</string>
@@ -1925,7 +1925,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="perm_hips_security_prompt_accept_root">ยอมรับ</string>
     <string name="perm_hips_security_prompt_next">ต่อไป</string>
     <string name="perm_hips_security_prompt_root_caption">คำเตือนที่สำคัญ</string>
-    <string name="perm_hips_security_prompt_root_step1">คุณต้องการให้ %1$s ได้รับสิทธิ์ ROOT ?</string>
+    <string name="perm_hips_security_prompt_root_step1">คุณต้องการให้ %1$s ได้รับสิทธิ์ ROOT?</string>
     <string name="perm_hips_security_prompt_root_step2">ได้รับสิทธิ์ ROOT อาจมีผลต่อความเสถียรของระบบ</string>
     <string name="perm_hips_security_prompt_root_step3">ข้อมูลส่วนตัวของคุณเช่นบัญชี รหัสผ่านและข้อความอาจถูกทำลาย</string>
     <string name="perm_hips_security_prompt_root_step4">เป็นไปได้ที่ฮาร์ดแวร์เสียหายอย่างถาวร</string>
@@ -2161,7 +2161,7 @@ PIN อาจไม่ถูกต้อง"</string>
  ซิมไม่รองรับการล็อก"</string>
     <string name="apn_new">จุดเชื่อมต่อใหม่</string>
     <string name="apn_save">บันทึก?</string>
-    <string name="apn_save_msg">บันทึกการเปลี่ยนแปลง APN ?</string>
+    <string name="apn_save_msg">บันทึกการเปลี่ยนแปลง APN?</string>
     <string name="activating">กำลังใช้งาน…</string>
     <string name="wifi_enable_watchdog_service_summary">หลีกเลี่ยงการเชื่อมต่อสัญญาณต่ำ</string>
     <string name="wifi_disabled_help">Wi-Fi ถูกตัดการเชื่อมต่อเนื่องจากการเชื่อมต่อสัญญาณที่ต่ำ</string>
@@ -2336,7 +2336,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="wfd_menu_searching">กำลังค้นหา…</string>
     <string name="wfd_menu_teardown">หยุด</string>
     <string name="wfd_available_devices">อุปกรณ์ที่มีอยู่</string>
-    <string name="wfd_disconnect_diag_title">ออกจากการเข้า Wi-Fi ?</string>
+    <string name="wfd_disconnect_diag_title">ออกจากการเข้า Wi-Fi?</string>
     <string name="wfd_disconnect_diag_msg">หากคุณหยุดเซสชั่นแสดงผล Wi-Fi การเชื่อมต่อของคุณกับ  %1$s จะสิ้นสุดลง</string>
     <string name="wfd_disconnect_multiple_diag_message">หากคุณหยุดเซสชั่นแสดงผล Wi-Fi การเชื่อมต่อของคุณกับ  %1$s และ อุปกรณ์อื่น %2$s จะสิ้นสุดลง</string>
     <string name="wfd_enable_wifi_diag_title">คุณสามารถใช้แสดง Wi-Fi เท่านั้นเมื่อ Wi-Fi เปิดใช้งาน เปิดใช้งานเดี๋ยวนี้?</string>
@@ -2548,7 +2548,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="mtp_transfer_unmount_error_text">ไม่สามารถอันเมาท์การ์ดความจำได้ในระหว่างการถ่ายโอนไฟล์</string>
     <string name="mtp_transfer_erase_error_text">ไม่สามารถลบการ์ดความจำได้ในระหว่างการถ่ายโอนไฟล์</string>
     <string name="launch_error">เปิดใช้แอพปลิเคชันไม่ได้!</string>
-    <string name="dlg_confirm_unmount_usb_title">อันเมาท์ที่เก็บ USB ?</string>
+    <string name="dlg_confirm_unmount_usb_title">อันเมาท์ที่เก็บ USB?</string>
     <string name="dlg_confirm_unmount_usb_text">ถ้าคุณอันเมาท์ที่เก็บข้อมูล USB แอปบางแอปที่คุณกำลังใช้อยู่จะหยุดการทำงาน และอาจใช้งานไม่ได้จนกกว่าคุณจะเมาท์ที่เก็บข้อมูล USB ใหม่อีกครั้ง</string>
     <string name="dlg_error_unmount_usb_title" />
     <string name="dlg_error_unmount_usb_text">อันเมาท์ี่เก็บข้อมูล USB ไม่ได้ โปรดลองใหม่ภายหลัง</string>
@@ -2736,10 +2736,10 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="sim_remain">(เหลือ: %d)</string>
     <string name="gps_time_sync_attention_gps_on">"ส่วนใหญ่จะใช้เวลาสูงสุด 1 นาที ในการรับสัญญาณ GPS นอกจากนี้ GPS อาจไม่สามารถส่งเวลาได้เนื่องจากสัญญาณแวดล้อมที่อ่อนแรง
 
-คุณแน่ใจว่าต้องการใช้เวลาที่ส่งจาก GPS ?"</string>
+คุณแน่ใจว่าต้องการใช้เวลาที่ส่งจาก GPS?"</string>
     <string name="gps_time_sync_attention_gps_off">"ในการใช้เวลาที่ส่งจาก GPS คุณต้องเปิดใช้งาน GPS ก่อน ส่วนใหญ่จะใช้เวลาสูงสุด 1 นาที ในการรับสัญญาณ GPS นอกจากนี้ GPS อาจไม่สามารถส่งเวลาได้เนื่องจากสัญญาณแวดล้อมที่อ่อนแรง
 
-คุณแน่ใจว่าต้องการใช้เวลาที่ส่งจาก GPS ขณะนี้หรือไม่ และต้องการรอเวลาจาก GPS ?"</string>
+คุณแน่ใจว่าต้องการใช้เวลาที่ส่งจาก GPS ขณะนี้หรือไม่ และต้องการรอเวลาจาก GPS?"</string>
     <string name="drm_settings_title">รีเซต DRM</string>
     <string name="drm_settings_summary">ลบไลเซนส์ทั้งหมดของ DRM</string>
     <string name="drm_reset_dialog_msg">การทำงานนี้จะลบไลเซนส์ทั้งหมดบนอุปกรณ์นี้ ดำเนินการต่อ?</string>
@@ -2997,14 +2997,14 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="sim_lock">ล็อก</string>
     <string name="enable_wifi_tether">เปิดใช้งาน Wi-Fi ฮอตสปอต</string>
     <string name="enable_gps">เปิดใช้งานจีพีเอส</string>
-    <string name="enable_gps_confirm_message">ต้องเชื่อมต่อข้อมูลแบบไร้สายเพื่อจะได้รับความช่วยเหลือข้อมูลจีพีเอส (EPO, A-GPS) ซึ่งอาจทำให้เกิดค่าใช้จ่าย คุณแน่ใจว่าจะเปิด GPS ?</string>
+    <string name="enable_gps_confirm_message">ต้องเชื่อมต่อข้อมูลแบบไร้สายเพื่อจะได้รับความช่วยเหลือข้อมูลจีพีเอส (EPO, A-GPS) ซึ่งอาจทำให้เกิดค่าใช้จ่าย คุณแน่ใจว่าจะเปิด GPS?</string>
     <string name="gsm_to_wifi_connect_type_title">เครือข่ายมือถือ->Wi-Fi</string>
     <string name="wifi_connect_ap_summary">การเชื่อมต่อเครือข่ายประเภทพิเศษ</string>
     <string name="wifi_connect_type_title">ประเภทเชื่อมต่ออัตโนมัติ</string>
     <string name="select_ssid_type_title">ประเภทเชื่อมต่อเครือข่าย</string>
     <string name="wifi_signal_found_msg">การเชื่อมต่อปัจจุบันสัญญาณต่ำ คุณต้องการเชื่อมต่อ Wi-Fi อื่น?</string>
     <string name="confirm_title">ยืนยัน</string>
-    <string name="msg_wlan_signal_found">พบสัญญาณ Wi-Fi %s คุณต้องการใช้เครือข่าย Wi-Fi ? การใช้เครือข่าย Wi-Fi นี้จะขัดจังหวะการใช้งานการบริการข้อมูลเของครือข่ายมือถือบางส่วน</string>
+    <string name="msg_wlan_signal_found">พบสัญญาณ Wi-Fi %s คุณต้องการใช้เครือข่าย Wi-Fi? การใช้เครือข่าย Wi-Fi นี้จะขัดจังหวะการใช้งานการบริการข้อมูลเของครือข่ายมือถือบางส่วน</string>
     <string name="data_connection_dialog_title">เปลี่ยนการใช้งานข้อมูล</string>
     <string name="wifi_failover_gprs_content">Wi-Fi ไม่สามารถใช้งานได้ ต้องการเชื่อมต่อเครือข่ายมือถือ?</string>
     <string name="wifi_priority_type_title">ตั้งความสำคัญของ AP ด้วยตัวเอง</string>
@@ -3015,7 +3015,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="wifi_configured_ap_list">จดจำรายการจุดเข้าใช้งาน</string>
     <string name="wifi_priority_label">ลำดับความสำคัญ</string>
     <string name="change_data_conn_title">เปลี่ยนการเชื่อมต่อข้อมูล</string>
-    <string name="change_data_conn_message">%1$s ไม่พร้อม เปลี่ยนค่าเริ่มต้นการเชื่อมต่อข้อมูลไปยัง %2$s ?</string>
+    <string name="change_data_conn_message">%1$s ไม่พร้อม เปลี่ยนค่าเริ่มต้นการเชื่อมต่อข้อมูลไปยัง %2$s?</string>
     <string name="later">รีบูตภายหลัง</string>
     <string name="now">รีบูตตอนนี้</string>
     <string name="connected_wifi">Wi-Fi เชื่อมต่อแล้ว</string>

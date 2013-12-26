@@ -110,7 +110,7 @@
     <string name="new_event_dialog_label">เหตุการณ์ใหม่"</string>
     <string name="new_event_dialog_option">เหตุการณ์ใหม่"</string>
     <string name="delete_this_event_title">ลบเหตุการณ์นี้?"</string>
-    <string name="delete_recurring_event_title">ลบ %s ?"</string>
+    <string name="delete_recurring_event_title">ลบ %s?"</string>
     <string name="change_response_title">เปลี่ยนการตอบสนอง"</string>
     <string name="menu_general_preferences">การตั้งค่าทั่วไป"</string>
     <string name="menu_about_preferences">เกี่ยวกับปฏิทิน"</string>

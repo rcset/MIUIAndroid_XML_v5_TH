@@ -181,7 +181,7 @@
     <string name="clearCallLogConfirmation_title">ล้างบันทึกการโทร</string>
     <string name="clearCallLogConfirmation">บันทึกการโทรทั้งหมดของคุณจะถูกลบออก</string>
     <string name="clearCallLogProgress_title">กำลังล้างบันทึกการโทร...</string>
-    <string name="clearFrequentsConfirmation_title">ล้างผู้ที่คุณติดต่อด้วยบ่อยๆ ?</string>
+    <string name="clearFrequentsConfirmation_title">ล้างผู้ที่คุณติดต่อด้วยบ่อยๆ?</string>
     <string name="clearFrequentsConfirmation">คุณจะล้างรายชื่อของผู้ที่ติดต่อด้วยบ่อยๆ ในแอป People and Phone และบังคับให้แอปอีเมลเรียนรู้การกำหนดที่อยู่ของคุณใหม่ตั้งแต่ต้น</string>
     <string name="clearFrequentsProgress_title">กำลังล้างผู้ที่คุณติดต่อด้วยบ่อยๆ…</string>
     <string name="imei">IMEI</string>
@@ -343,8 +343,8 @@
     <string name="composer_not_initialized">โปรแกรมเขียนข้อความ vCard เริ่มการทำงานไม่ถูกต้อง</string>
     <string name="fail_reason_could_not_open_file" formatted="false">ไม่สามารถเปิด \"%s\": %s</string>
     <string name="exporting_contact_list_progress" formatted="false">รายชื่อในสมุดโทรศัพท์ %s จาก %s รายการ</string>
-    <string name="cancel_import_confirmation_message">ยกเลิกการนำเข้า %s ?</string>
-    <string name="cancel_export_confirmation_message">ยกเลิกการส่งออก %s ?</string>
+    <string name="cancel_import_confirmation_message">ยกเลิกการนำเข้า %s?</string>
+    <string name="cancel_export_confirmation_message">ยกเลิกการส่งออก %s?</string>
     <string name="cancel_vcard_import_or_export_failed">ไม่สามารถยกเลิกการนำเข้า/ส่งออก vCard</string>
     <string name="search_settings_description">ชื่อของรายชื่อในสมุดโทรศัพท์ของคุณ</string>
     <string name="add_2sec_pause">เพิ่มช่วงคั่น 2 วินาที</string>
@@ -543,7 +543,7 @@
     <string name="create_group_dialog_title">สร้างกลุ่มใหม่</string>
     <string name="create_group_item_label">สร้างกลุ่มใหม่</string>
     <string name="delete_group_dialog_title">ลบกลุ่ม</string>
-    <string name="delete_group_dialog_message">ลบกลุ่ม \"%1$s\" ? (รายชื่อติดต่อจะไม่ถูกลบ)</string>
+    <string name="delete_group_dialog_message">ลบกลุ่ม \"%1$s\"? (รายชื่อติดต่อจะไม่ถูกลบ)</string>
     <string name="toast_join_with_empty_contact">พิมพ์ชื่อของผู้ติดต่อก่อนนำไปรวมกับรายชื่อติดต่ออื่น</string>
     <string name="copy_text">คัดลอกไปยังคลิปบอร์ด</string>
     <string name="set_default">ตั้งเป็นค่าเริ่มต้น</string>
@@ -746,7 +746,7 @@
     <string name="import_to_xiaomi_account_progress_title">นำเข้ารายชื่อไปยังบัญชี Xiaomi</string>
     <string name="import_to_xiaomi_account_progress_message">กำลังนำเข้า…</string>
     <string name="import_to_xiaomi_account_progress_finish">การนำเข้าเสร็จแล้ว</string>
-    <string name="import_to_xiaomi_account_title">คุณต้องการนำเข้ารายชื่อต่อไปนี้ไปยังบัญชี Xiaomi ?</string>
+    <string name="import_to_xiaomi_account_title">คุณต้องการนำเข้ารายชื่อต่อไปนี้ไปยังบัญชี Xiaomi?</string>
     <string name="select_show_contacts">แสดงรายชื่อ</string>
     <string name="rebuild_t9_index_dialog_message">กำลังสร้างดัชนีข้อมูลใหม่…</string>
     <string name="pref_key_rebuild_t9_index_title">สร้างดัชนีข้อมูลใหม่</string>

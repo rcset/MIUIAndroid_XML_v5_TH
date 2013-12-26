@@ -49,7 +49,7 @@
     <string name="operation_delete_confirm_message_folder">ข้อมูลโฟลเดอร์ทั้งหมดจะถูกลบ
 </string>
     <string name="delete_folder">ลบโฟลเดอร์นี้?</string>
-    <string name="delete_folders">ลบ %1$d ?</string>
+    <string name="delete_folders">ลบ %1$d?</string>
     <string name="delete_file">ลบไฟล์นี้?</string>
     <string name="delete_files">ลบ %1$d ไฟล์?</string>
     <string name="delete_files_and_folders">ลบ %1$d ไฟล์และ %2$d โฟลเดอร์?</string>
@@ -302,6 +302,6 @@
     2 อัปโหลดไปยังบัญชี Miไดร์ฟ ของคุณ</string>
     <string name="ui_filechange_btn_upload">อัปโหลดไฟล์</string>
     <string name="folder_exist">โฟลเดอร์นี้มีอยู่แล้ว</string>
-    <string name="unmount_inform_text">ยกเลิกการเชื่อมต่อที่จัดเก็บข้อมูล USB ?</string>
+    <string name="unmount_inform_text">ยกเลิกการเชื่อมต่อที่จัดเก็บข้อมูล USB?</string>
     <string name="dlg_error_unmount_text">การยกเลิกการเชื่อมต่อที่จัดเก็บข้อมูล USB ล้มเหลว</string>
 </resources>

@@ -28,7 +28,7 @@
     <string name="callFailed_dsac_vt_bear_not_authorized">ตั้งค่าการสนทนาผ่านวิดีโอไม่ได้ ซิมการ์ดนี้ไม่ได้เปิดบริการโทรศัพท์ผ่านวิดีโอ ต้องการโทรออกด้วยเสียง?</string>
     <string name="notification_voicemail">ข้อความเสียง</string>
     <string name="turn_on_3g_service_message">ขณะนี้ได้ปิดบริการ 3G แล้ว คุณต้องการเปิดการใช้งาน?</string>
-    <string name="associate_sim_missing_message">ซิม %1$s ไม่ว่าง คุณต้องการโทรผ่าน %2$s ?</string>
+    <string name="associate_sim_missing_message">ซิม %1$s ไม่ว่าง คุณต้องการโทรผ่าน %2$s?</string>
     <string name="associate_sim_missing_other">อื่น ๆ</string>
     <string name="vt_incoming_call">สายวิดีโอเข้า</string>
     <string name="vt_settings">การตั้งค่าวิดีโอ</string>
@@ -335,7 +335,7 @@
     <string name="pch_data_prefer_summary">อนุญาตการส่งผ่านข้อมูลเคลื่อนที่ด้วยความเร็วเต็มที่</string>
     <string name="pch_data_prefer_message">"ต้องการบริการข้อมูลเคลื่อนที่ ใช้เพื่อปรับปรุงประสิทธิภาพการส่งผ่านข้อมูล โดยมีอัตราการรับโทรศัพท์ที่ต่ำลง ไม่แนะนำให้ทำเช่นนี้
 
-คุณแน่ใจว่าต้องการอนุญาต ต้องการบริการข้อมูลเคลื่อนที่ ?"</string>
+คุณแน่ใจว่าต้องการอนุญาต ต้องการบริการข้อมูลเคลื่อนที่?"</string>
     <string name="manual_select_title">เลือกด้วยตนเอง</string>
     <string name="manual_select_dialog_msg">โทรศัพท์มือถือจะไม่เลือกผู้ให้บริการรายอื่นให้คุณในโหมดการเลือกด้วยตนเอง บางครั้งคุณต้องเลือกด้วยตนเองอีกครั้ง หรือเปลี่ยนกลับไปยังโหมดการเลือกอัตโนมัติหากบริการของผู้ให้บริการที่เลือกสูญหายไป เราแนะนำให้ใช้\"เลือกอัตโนมัติ\" คุณต้องการเลือกเครือข่ายด้วยตนเอง?</string>
     <string name="no_service_msg_gemini">"ขณะนี้ไม่มีริการจากผู้ให้บริการที่เลือกสำหรับซิมการ์ด \" %s\"
@@ -353,9 +353,9 @@
     <string name="plmn_list_setting_add_plmn">เพิ่ม PLMN ใหม่</string>
     <string name="international_dialing_title">ตัวช่วยการโทรระหว่างประเทศ</string>
     <string name="international_dialing_select_country">พบว่าคุณกำลังโทรศัพท์ข้ามประเทศ โปรดเลือกปลายทางของคุณ</string>
-    <string name="international_dialing_add_country_code" formatted="false">พบว่าคุณกำลังเรียกเลขหมาย %s คุณต้องการเพิ่มรหัสประเทศ (+%s) ?</string>
-    <string name="international_dialing_add_country_code_and_area_code">พบว่าคุณกำลังเรียกเลขหมายใน %1$s %2$s คุณต้องการเพิ่มรหัสประเทศและรหัสพื้นที่ (+%3$s) ?</string>
-    <string name="international_dialing_change_country_prefix">"พบว่าคุณกำลังเรียกเลขหมายจาก %s เปลี่ยนรหัสขึ้นต้นการโทรระหว่างประเทศเป็น '+' ?"</string>
+    <string name="international_dialing_add_country_code" formatted="false">พบว่าคุณกำลังเรียกเลขหมาย %s คุณต้องการเพิ่มรหัสประเทศ (+%s)?</string>
+    <string name="international_dialing_add_country_code_and_area_code">พบว่าคุณกำลังเรียกเลขหมายใน %1$s %2$s คุณต้องการเพิ่มรหัสประเทศและรหัสพื้นที่ (+%3$s)?</string>
+    <string name="international_dialing_change_country_prefix">"พบว่าคุณกำลังเรียกเลขหมายจาก %s เปลี่ยนรหัสขึ้นต้นการโทรระหว่างประเทศเป็น '+'?"</string>
     <string name="international_dialing_add_country_code_input_area_code">พบว่าคุณกำลังเรียกเลขหมายใน %s หากเป็นเช่นนั้นโปรดใส่รหัสพื้นที่</string>
     <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">พบว่าคุณกำลังเรียกเลขหมายใน %s หากเมืองปลายทางของคุณไม่ใช่ %s โปรดใส่รหัสพื้นที่</string>
     <string name="international_dialing_need_area_code">สำหรับการโทร จำเป็นต้องมีรหัสพื้นที่ของเมืองปลายทาง</string>

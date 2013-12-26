@@ -75,7 +75,7 @@
     <string name="bookmark_thumbnail_view">ภาพขนาดย่อ</string>
     <string name="bookmark_list_view">รายการ</string>
     <string name="current_page">"จาก "</string>
-    <string name="delete_bookmark_warning">ต้องการลบบุ๊กมาร์ก \"%s\" ?</string>
+    <string name="delete_bookmark_warning">ต้องการลบบุ๊กมาร์ก \"%s\"?</string>
     <string name="open_all_in_new_window">เปิดทั้งหมดในแท็บใหม่</string>
     <string name="goto_dot">ไป</string>
     <string name="select_dot">เลือกข้อความ</string>
@@ -318,8 +318,8 @@
     <string name="import_bookmarks_dialog_description">บุ๊กมาร์กในอุปกรณ์นี้ยังไม่ได้เชื่อมโยงกับบัญชี Google บันทึกบุ๊กมาร์กเหล่านี้ด้วยการเพิ่มบุ๊กมาร์กลงในบัญชี ลบบุ๊กมาร์กเหล่านี้หากคุณไม่ต้องการซิงค์</string>
     <string name="import_bookmarks_dialog_select_add_account">เพิ่มบุ๊กมาร์กที่มีอยู่ในอุปกรณ์นี้และเริ่มซิงค์กับบัญชี Google</string>
     <string name="import_bookmarks_dialog_delete_select_account">ลบบุ๊กมาร์กที่มีอยู่ในอุปกรณ์นี้และเริ่มซิงค์กับบัญชี Google</string>
-    <string name="import_bookmarks_dialog_confirm_delete">ลบบุ๊กมาร์กที่มีอยู่ในอุปกรณ์นี้และเริ่มซิงค์บุ๊กมาร์กกับ %s ?</string>
-    <string name="import_bookmarks_dialog_confirm_add">เพิ่มบุ๊กมาร์กที่มีอยู่ในอุปกรณ์นี้และเริ่มซิงค์บุ๊กมาร์กกับ %s ?</string>
+    <string name="import_bookmarks_dialog_confirm_delete">ลบบุ๊กมาร์กที่มีอยู่ในอุปกรณ์นี้และเริ่มซิงค์บุ๊กมาร์กกับ %s?</string>
+    <string name="import_bookmarks_dialog_confirm_add">เพิ่มบุ๊กมาร์กที่มีอยู่ในอุปกรณ์นี้และเริ่มซิงค์บุ๊กมาร์กกับ %s?</string>
     <string name="import_bookmarks_dialog_remove">ลบบุ๊กมาร์ก</string>
     <string name="import_bookmarks_wizard_next">ถัดไป</string>
     <string name="import_bookmarks_wizard_previous">ก่อนหน้า</string>
@@ -443,7 +443,7 @@
     <string name="is_last_history_item">นี่เป็นรายการประวัติล่าสุด</string>
     <string name="warning">เตือน</string>
     <string name="menu_exit">ออก</string>
-    <string name="exit_browser_warning">ออกจากเบราเซอร์ ?</string>
+    <string name="exit_browser_warning">ออกจากเบราเซอร์?</string>
     <string name="not_remind_again">"อย่าเตือนฉันอีก"</string>
     <string name="pref_general_exit_setting_title">ตั้งค่าออก</string>
     <string name="pref_confirm_for_exit">ยืนยันก่อนปิด</string>

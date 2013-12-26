@@ -34,8 +34,8 @@
     <string name="menu_move_parent_folder">โฟลเดอร์หลัก</string>
     <string name="menu_rename_folder">เปลี่ยนชื่อโฟลเดอร์</string>
     <string name="info_note_enter_desktop">บันทึกได้เพิ่มไปที่หน้าจอหลัก</string>
-    <string name="alert_message_delete_notes">ต้องการลบบันทึก %1$s นี่ ?</string>
-    <string name="alert_message_delete_folders">ลบโฟลเดอร์ %1$s นี่</string>
+    <string name="alert_message_delete_notes">ต้องการลบบันทึก %1$s?</string>
+    <string name="alert_message_delete_folders">ลบโฟลเดอร์ %1$s</string>
     <string name="alert_message_delete_folders_notes">ลบโฟลเดอร์ %1$s และ บันทึก %2$s นี่?</string>
     <string name="alert_message_delete_note">ต้องการลบบันทึกนี่?</string>
     <string name="alert_message_discard_changes">ยกเลิกการเปลี่ยนแปลงทั้งหมด?</string>

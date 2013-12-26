@@ -36,7 +36,7 @@
     <string name="label_view">ดู</string>
     <string name="always_use_device">ใช้ค่าเริ่มต้นสำหรับอุปกรณ์ USB นี้</string>
     <string name="always_use_accessory">ใช้ค่าเริ่มต้นสำหรับอุปกรณ์เสริม USB นี้</string>
-    <string name="usb_debugging_title">อนุญาตให้แก้ไขข้อบกพร่องทาง USB ?</string>
+    <string name="usb_debugging_title">อนุญาตให้แก้ไขข้อบกพร่องทาง USB?</string>
     <string name="usb_debugging_message">"ข้อมูลลายนิ้วมือ RSA ของคอมพิวเตอร์ คือ:
 %1$s"</string>
     <string name="usb_debugging_always">ได้รับอนุญาตจากคอมพิวเตอร์เครื่องนี้เสมอ</string>

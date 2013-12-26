@@ -393,7 +393,7 @@
     <string name="found_wild_messages_title">ดาวน์โหลดข้อความ</string>
     <string name="found_wild_messages">พบข้อความของซิมอื่นๆบนคลาวด์:%s ต้องการดาวน์โหลด?</string>
     <string name="found_old_messages_title">อัพโหลดข้อความ</string>
-    <string name="found_old_messages">พบข้อความของบัญชีก่อนหน้าบนโทรศัพท์ของคุณ:%1$ คุณต้องการอัพโหลดข้อความเหล่านี้ไปยังบัญชีปัจจุบัน %2$ ?</string>
+    <string name="found_old_messages">พบข้อความของบัญชีก่อนหน้าบนโทรศัพท์ของคุณ:%1$ คุณต้องการอัพโหลดข้อความเหล่านี้ไปยังบัญชีปัจจุบัน %2$?</string>
     <string name="show_all_messages">แสดงข้อความทั้งหมด</string>
     <string name="loading_all_messages">กำลังโหลดข้อความทั้งหมด...</string>
     <string name="mx_online">เชื่อมต่ออยู่</string>

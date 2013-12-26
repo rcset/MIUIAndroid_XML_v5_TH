@@ -872,7 +872,7 @@
     <string name="searchview_description_clear">ล้างข้อความค้นหา</string>
     <string name="searchview_description_submit">ส่งข้อความค้นหา</string>
     <string name="searchview_description_voice">ค้นหาด้วยเสียง</string>
-    <string name="enable_explore_by_touch_warning_title">เปิดใช้งาน \"สำรวจโดยการแตะ\" ?</string>
+    <string name="enable_explore_by_touch_warning_title">เปิดใช้งาน \"สำรวจโดยการแตะ\"?</string>
     <string name="enable_explore_by_touch_warning_message">%1$s ต้องการเปิดใช้งาน \"สำรวจโดยการแตะ\" เมื่อเปิดใช้งานแล้ว คุณสามารถฟังหรือดูคำอธิบายของสิ่งที่อยู่ใต้นิ้วข​​องคุณ หรือใช้ท่าทางสัมผัสต่างๆ เพื่อโต้ตอบกับโทรศัพท์ได้</string>
     <string name="oneMonthDurationPast">1 เดือนที่ผ่านมา</string>
     <string name="beforeOneMonthDurationPast">ก่อน 1 เดือนที่แล้ว</string>
@@ -1037,7 +1037,7 @@
     <string name="usb_cd_installer_notification_title">เชื่อมต่อเป็นตัวติดตั้ง</string>
     <string name="usb_accessory_notification_title">เชื่อมต่อกับอุปกรณ์เสริม USB แล้ว</string>
     <string name="usb_notification_message">แตะสำหรับตัวเลือก USB อื่นๆ</string>
-    <string name="extmedia_format_title">ฟอร์แมต USB ?</string>
+    <string name="extmedia_format_title">ฟอร์แมต USB?</string>
     <string name="extmedia_format_message">ไฟล์ทั้งหมดที่เก็บไว้ในที่จัดเก็บข้อมูล USB ของคุณจะถูกลบทิ้ง การทำงานนี้ไม่สามารถย้อนกลับได้!</string>
     <string name="extmedia_format_button_format">รูปแบบ</string>
     <string name="adb_active_notification_title">เชื่อมต่อการแก้ไขข้อบกพร่อง USB แล้ว</string>

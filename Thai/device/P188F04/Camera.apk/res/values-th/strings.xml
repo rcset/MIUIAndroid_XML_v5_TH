@@ -356,7 +356,7 @@
     <string name="group_by_time">ตามเวลา</string>
     <string name="locations">สถานที่</string>
     <string name="people">บุคคล</string>
-    <string name="resume_playing_message">กลับมาเล่นใหม่ %s ?</string>
+    <string name="resume_playing_message">กลับมาเล่นใหม่ %s?</string>
     <string name="resume_playing_restart">เริ่มทำ</string>
     <string name="resume_playing_resume">กลับมาเล่นใหม่</string>
     <string name="resume_playing_title">กลับมาเล่นวิดีโอ</string>
