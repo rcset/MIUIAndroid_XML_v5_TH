@@ -2022,7 +2022,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="device_miui_version">เวอร์ชัน MIUI</string>
     <string name="device_cpu">ซีพียู</string>
     <string name="device_memory">แรม</string>
-    <string name="device_internal_memory">หน่วยความจำภายใน</string>
+    <string name="device_internal_memory">ความจำเครื่อง</string>
     <string name="device_sd_memory">การ์ดความจำ</string>
     <string name="device_cpu2_info">Dual-Core</string>
     <string name="device_cpu4_info">Quad-Core</string>
@@ -2211,7 +2211,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="frequently_fragment_delete">ลบ</string>
     <string name="show_fc">บังคับปิดแอป</string>
     <string name="show_fc_summary">แสดงแอปที่บังคับปิด</string>
-    <string name="factory_reset_summary">"ลบข้อมูลทั้งหมดในหน่วยความจำภายใน"</string>
+    <string name="factory_reset_summary">"ลบข้อมูลทั้งหมดในความจำเครื่อง"</string>
     <string name="erase_sure">ข้อมูลส่วนตัว</string>
     <string name="erase_personal_data">ข้อมูลส่วนตัว</string>
     <string name="erase_personal_data_description">ลบบัญชี Xiaomi ข้อมูลแอป และการตั้งค่าระบบ</string>
@@ -2459,12 +2459,12 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="sim_status_title">สถานะ SIM</string>
     <string name="slot_status_title">ข้อมูล IMEI</string>
     <string name="next_button_label">ต่อไป</string>
-    <string name="internal_media_format_final_desc">"ล้างที่หน่วยความจำภายใน ลบไฟล์ทั้งหมดที่จัดเก็บหรือไม่ คุณไม่สามารถย้อนกลับการกระทำนี้ได้ โทรศัพท์จะเปิดเครื่องใหม่อีกครั้ง หลังจากล้างหน่วยความจำภายในแล้ว"</string>
-    <string name="internal_media_format_desc">ล้างหน่วยความจำภายใน คุณจะสูญเสียข้อมูลที่จัดเก็บ <b>ทั้งหมด</b> แล้วโทรศัพท์จะทำการเปิดเครื่องใหม่อีกครั้ง</string>
-    <string name="internal_media_format_button_text">ลบหน่วยความจำภายใน</string>
-    <string name="internal_media_format_title">ลบหน่วยความจำภายใน</string>
+    <string name="internal_media_format_final_desc">"ล้างที่ความจำเครื่อง ลบไฟล์ทั้งหมดที่จัดเก็บหรือไม่ คุณไม่สามารถย้อนกลับการกระทำนี้ได้ โทรศัพท์จะเปิดเครื่องใหม่อีกครั้ง หลังจากล้างความจำเครื่องแล้ว"</string>
+    <string name="internal_media_format_desc">ล้างความจำเครื่อง คุณจะสูญเสียข้อมูลที่จัดเก็บ <b>ทั้งหมด</b> แล้วโทรศัพท์จะทำการเปิดเครื่องใหม่อีกครั้ง</string>
+    <string name="internal_media_format_button_text">ลบความจำเครื่อง</string>
+    <string name="internal_media_format_title">ลบความจำเครื่อง</string>
     <string name="internal_format">ลบหน่วยควาจำภายใน</string>
-    <string name="internal_format_summary">ลบข้อมูลทั้งหมดในหน่วบความจำภายใน เช่น ภาพ เพลง</string>
+    <string name="internal_format_summary">ลบข้อมูลทั้งหมดในความจำเครื่อง เช่น ภาพ เพลง</string>
     <string name="bugreport_tool_log_toast_generate_bugreport">กำลังสร้างรายงานข้อผิดพลาด</string>
     <string name="bugreport_tool_log_toast">บันทึกการใช้ไปยัง %s</string>
     <string name="wifi_tether_setting_title">การตั้งค่าเบื้องต้น</string>

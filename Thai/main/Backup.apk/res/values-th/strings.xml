@@ -84,8 +84,8 @@
     <string name="task_stopped_exception">ตารางงานยกเลิก</string>
     <string name="sdcard_no_enough_space">การ์ดความจำมีพื้นที่ว่างไม่เพียงพอ</string>
     <string name="sdcard_no_enough_space_message">สำรองข้อมูลผิดพลาด เนื่องจากการ์ดความจำมีพื้นที่ไม่เพียงพอ</string>
-    <string name="data_no_enough_space">หน่วยความจำภายในมีพื้นที่ว่างไม่เพียงพอ</string>
-    <string name="data_no_enough_space_message">คืนค่าล้มเหลว เนื่องจากหน่วยความจำภายในมีพื้นที่ไม่เพียงพอ</string>
+    <string name="data_no_enough_space">ความจำเครื่องมีพื้นที่ว่างไม่เพียงพอ</string>
+    <string name="data_no_enough_space_message">คืนค่าล้มเหลว เนื่องจากความจำเครื่องมีพื้นที่ไม่เพียงพอ</string>
     <string name="task_running_hint">บริการจะทำงานในพื้นหลัง กรุณาลองคืนค่าสำรองข้อมูลใหม่!</string>
     <string name="task_running_dialog">คืนค่าและสำรองข้อมูลกำลังทำงาน กรุณากด ตกลง เพื่อแสดง</string>
     <string name="task_running_backup_hint">สำรองข้อมูลจะทำงานในพื้นหลัง กรุณาลองใหม่!</string>

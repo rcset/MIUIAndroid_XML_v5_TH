@@ -162,7 +162,7 @@
     <string name="menu_delete_messages">ลบข้อความ</string>
     <string name="menu_lock">ล็อก</string>
     <string name="menu_unlock">ยกเลิกการล็อก</string>
-    <string name="sim_copy_to_phone_memory">คัดลอกไปยังหน่วยความจำโทรศัพท์</string>
+    <string name="sim_copy_to_phone_memory">คัดลอกไปยังความจำเครื่อง</string>
     <string name="sim_delete">ลบ</string>
     <string name="sim_manage_messages_title">ข้อความตัวอักษรบนซิมการ์ด</string>
     <string name="sim_view">ดู</string>

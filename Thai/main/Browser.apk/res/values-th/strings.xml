@@ -517,7 +517,7 @@
     <string name="file_picker">เลือกแพท</string>
     <string name="file_name">ชื่อไฟล์</string>
     <string name="file_dir">ไดเรกเทอรี่</string>
-    <string name="storage_internal">หน่วยความจำภายใน</string>
+    <string name="storage_internal">ความจำเครื่อง</string>
     <string name="storage_sd_card">การ์ดความจำ</string>
     <string name="storage_usb">USB storage</string>
     <string name="save_dialog_title">บันทึก</string>

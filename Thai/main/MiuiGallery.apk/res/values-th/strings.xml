@@ -463,7 +463,7 @@
 	<string name="loading_suspend">พักดาวน์โหลดชั่วคราว: จะดำเนินการต่อเมื่อการเชื่อมต่อ Wi-Fi สามารถใช้งานได้</string>
 	<string name="loading_video">กำลังดาวน์โหลดวิดีโอ…</string>
 	<string name="external_usb_device_hm">หน่วยจัดเก็บข้อมูลภายนอก USB</string>
-	<string name="internal_sd_card_hm">ความจำโทรศัพท์</string>
+	<string name="internal_sd_card_hm">ความจำเครื่อง</string>
 	<string name="item_not_sync">รายการนี้ยังไม่ได้ซิงค์ไปยังคลาวด์และไม่สามาารถดาวน์โหลดได้</string>
 	<string name="move">ย้าย</string>
 </resources>
