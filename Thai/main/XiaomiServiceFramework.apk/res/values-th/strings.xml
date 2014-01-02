@@ -450,4 +450,38 @@
     <string name="wipe_data_dialog_title">"บางรายการยังไม่ได้ซิงค์"</string>
     <string name="wrong_captcha">รหัส captcha ไม่ถูกต้อง</string>
     <string name="wrong_vcode">Vcode ไม่ถูกต้อง</string>
+	<string name="enable_sync">เปิดใช้งานซิงค์</string>
+	<string name="enable_sync_dspt">ซิงค์ถูกปิด</string>
+	<string name="micloud_account_details">รายละเอียดบัญชี</string>
+	<string name="micloud_app_data">Miคลาวด์ สำรองแอป</string>
+	<string name="micloud_data_loading">กำลังโหลด...</string>
+	<string name="micloud_full_influence_dspt">"ภาพ วิดีโอ โน๊ตและแอปพลิเคชันทั้งหมดจะถูกสำรองไปยัง Miคลาวด์
+	
+หากโทรศัพท์สูญหายหรือโทรศัพท์เกิดความเสียหาย ข้อมูลจะปลอดภัย
+
+เมื่อบัญชี Miคลาวด์ เต็ม ข้อมูลเก่าจะไม่ถูกลบ แต่ข้อมูลใหม่ๆที่เพิ่งเพิ่มเข้าไป (เช่น ภาพ วิดีโอ โน๊ตและแอปพลิเคชัน) จะไม่ถูกสำรองข้อมูล
+
+เพื่อแก้ปัญหานี้ คุณสามารถทำความสะอาดไฟล์เก่า หรือจ่ายเงินเพื่อเพิ่มพื้นที่"</string>
+	<string name="micloud_full_influence_title">เมื่อ Miคลาวด์ เต็ม</string>
+	<string name="micloud_gallery_image">Miคลาวด์ รูปภาพ</string>
+	<string name="micloud_gallery_video">Miคลาวด์ วิดีโอ</string>
+	<string name="micloud_none">ไม่มี</string>
+	<string name="micloud_space_full_influence">เกิดอะไรขึ้นหากออกจากพื้นที่?</string>
+	<string name="micloud_storage_space">Miคลาวด์ พื้นที่จัดเก็บ</string>
+	<string name="micloud_title_dspt" formatted="false">"พื้นที่ทั้งหมด %s
+ใช้แล้ว %s | เหลืออีก %s"</string>
+	<string name="micloud_title_full_dspt">ขีดจำกัดจัดเก็บเกินแล้ว!</string>
+	<string name="micloud_user_base_info">ข้อมูลผู้ใช้</string>
+	<string name="micloud_user_email">อีเมล</string>
+	<string name="micloud_user_id">รหัส Xiaomi</string>
+	<string name="micloud_user_name">ชื่อผู้ใช้</string>
+	<string name="micloud_user_phone">เบอร์โทรศัพท์</string>
+	<string name="micloud_user_space_usage">พื้นที่ใช้แล้ว</string>
+	<string name="micloud_warn_full_msg">เกินขีดจำกัดพื้นที่จัดเก็บของคุณแล้ว!</string>
+	<string name="micloud_warn_full_sum">"รายการใหม่จะไม่ซิงค์กับบัญชี Miคลาวด์"</string>
+	<string name="micloud_warn_full_title">Miคลาวด์ พื้นที่จัดเก็บเต็ม!</string>
+	<string name="micloud_warn_low_sum">พื้นที่จัดเก็บใช้แล้ว 90% </string>
+	<string name="micloud_warn_low_title">พื้นที่จัดเก็บต่ำ!</string>
+	<string name="micloud_web_discription_01">เข้าระบบที่ http://i.xiaomi.com</string>
+	<string name="micloud_web_discription_02">เพื่อจัดเก็บและเข้าถึงไฟล์ของคุณจากทุกที่</string>
 </resources>

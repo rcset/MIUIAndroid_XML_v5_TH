@@ -216,4 +216,11 @@
 	<string name="activity_summary">10 หยวน ลอตเตอรี่</string>
 	<string name="activity_title">ของขวัญปีใหม่ MIUI</string>
 	<string name="show_almanac">แสดงบันทึกเหตุการณ์</string>
+	<string name="gou_piao_event_title">แจ้งเตือนรถไฟ %s</string>
+	<string name="gou_piao_item1">แจ้งเตือนเวลารถไฟ</string>
+	<string name="gou_piao_item2">ต้องการจองตั๋วติดต่อ 12306</string>
+	<string name="gou_piao_item3">ชำระค่าตั๋วติดต่อ 12306</string>
+	<string name="gou_piao_website_start_time">ชำระเงินออนไลน์ที่ %s หรือผ่านมือถือ</string>
+	<string name="gou_piao_window_start_time">ตั๋วสามารถชำระเงินได้ที่สถานี %s</string>
+	<string name="show_gou_piao">แสดงปฏิทินตั๋วเทศกาลฤดูใบไม้ผลิ</string>
 </resources>

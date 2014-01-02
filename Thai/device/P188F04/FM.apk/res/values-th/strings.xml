@@ -95,7 +95,7 @@
     <string name="menu_select_station">เลือกสถานี</string>
     <string name="menu_sleep">ตั้งเวลาปิด</string>
     <string name="menu_sleep_cancel">ยกเลิกการตั้งเวลาปิด</string>
-    <string name="menu_record_list">บันทึกรายการ</string>
+    <string name="menu_record_list">รายการบันทึกเสียง</string>
     <string name="status_recording">การบันทึก:</string>
     <string name="dialog_sleep_title">เลือกการตั้งปิดอัตโนมัติ</string>
     <string name="toast_sleep_mode">หยุดใน %s</string>

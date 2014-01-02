@@ -978,7 +978,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="advanced_settings_summary">เปิดใช้งานตัวเลือกการตั้งค่าเพิ่มเติม</string>
     <string name="application_info_label">ข้อมูลแอปพลิเคชัน</string>
     <string name="storage_label">พื้นที่เก็บข้อมูล</string>
-    <string name="auto_launch_label">เริ่มใช้งานตามค่าเริ่มต้น</string>
+    <string name="auto_launch_label">ตั้งเป็นค่าเริ่มต้น</string>
     <string name="auto_launch_label_generic">ค่าเริ่มต้น</string>
     <string name="screen_compatibility_label">ความเข้ากันได้ของหน้าจอ</string>
     <string name="permissions_label">การอนุญาต</string>
@@ -1001,7 +1001,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="app_factory_reset">ถอนการติดตั้งการอัปเดต</string>
     <string name="auto_launch_enable_text">คุณเลือกให้เปิดแอปพลิเคชันนี้เป็นค่าเริ่มต้นสำหรับการทำงานบางอย่าง</string>
     <string name="always_allow_bind_appwidgets_text">คุณได้เลือกอนุญาตให้แอปพลิเคชันนี้สร้างวิดเจ็ตและเข้าถึงข้อมูลวิดเจ็ตได้</string>
-    <string name="auto_launch_disable_text">ไม่ได้ตั้งค่าเริ่มต้น</string>
+    <string name="auto_launch_disable_text">ไม่ได้ตั้งเป็นค่าเริ่มต้น</string>
     <string name="clear_activities">ล้างค่าเริ่มต้น</string>
     <string name="screen_compatibility_text">แอปพลิเคชันนี้อาจไม่ได้รับการออกแบบมาสำหรับหน้าจอของคุณ คุณสามารถควบคุมวิธีที่แอปพลิเคชันถูกปรับให้เข้ากับหน้าจอของคุณได้ที่นี่</string>
     <string name="ask_compatibility">ถามเมื่อเปิดโปรแกรม</string>
@@ -1059,7 +1059,7 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="dndm_special_call_setting_group">ข้อยกเว้น</string>
     <string name="dndm_summary">เมื่อโหมดห้ามรบกวนถูกใช้งาน สายโทรศัพท์และการแจ้งเตือนจะถูกล็อกและเงียบเสียง</string>
     <string name="dndm_vip_call_button_title">อนุญาตสายโทรศัพท์จากข้อยกเว้น</string>
-    <string name="dndm_vip_call_setting_title">ตั้งค่าข้อยกเว้น</string>
+    <string name="dndm_vip_call_setting_title">การตั้งค่าข้อยกเว้น</string>
     <string name="dndm_vip_call_summary_contact">รายชื่อทั้งหมด</string>
     <string name="dndm_vip_call_summary_custom">%d ข้อยกเว้น</string>
     <string name="dndm_vip_call_summary_none">แตะเพื่อปรับแต่ง</string>

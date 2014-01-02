@@ -84,4 +84,11 @@
         <item quantity="other">%d เพลง จะดาวน์โหลด</item>
         <item quantity="one">1 เพลง จะดาวน์โหลด</item>
     </plurals>
+	<plurals name="Nexpiration_reminder">
+		<item quantity="other">%d วันกำลังจะหมดอายุ</item>
+		<item quantity="one">%d วันกำลังจะหมดอายุ</item>
+	</plurals>
+	<plurals name="Nvip_expired_remind">
+		<item quantity="other">การเข้าถึงเพลงคุณภาพสูงกำลังจะหมดอายุ (เหลืออีก %d วัน)</item>
+	</plurals>
 </resources>

@@ -326,4 +326,17 @@
 	<string name="vip_recommend_summary">สตรีมหรือดาวน์โหลดศิลปินชื่อชอบทั้งหมดจาก Baidu ที่ 320 kbps</string>
 	<string name="vip_recommend_title">เพลงคุณภาพสูงกว่า</string>
 	<string name="where_is_barcode">"โค้ด QR?"</string>
+	<string name="data_usage_warning">แจ้งเตือนข้อมูลใช้งาน!</string>
+	<string name="data_usage_warning_summary">ใช้บริการข้อมูลมือถือเพื่อฟังเพลงคุณภาพสูงจะเพิ่มข้อมูลการใช้งาน</string>
+	<string name="enabled">เปิดใช้งานแล้ว</string>
+	<string name="expired">หมดอายุแล้ว</string>
+	<string name="higher_quality_music">เพลงคุณภาพสูง</string>
+	<string name="higher_quality_music_summary">ฟังและดาวน์โหลดเพลงคุณภาพสูง</string>
+	<string name="menu_higher_quality_music">เพลงคุณภาพสูง (รายเดือน)</string>
+	<string name="music_quality">คุณภาพเพลง</string>
+	<string name="valid_period">"ใช้งานตั้งแต่: "</string>
+	<string name="vip_bought">"ชำระเงินการเข้าถึงเพลงคุณภาพสูงแล้ว"</string>
+	<string name="vip_expired">การเข้าถึงเพลงคุณภาพสูงหมดอายุแล้ว</string>
+	<string name="vip_rebuy">ต่ออายุ</string>
+	<string name="vip_recommend_rebuy">กำลังต่ออายุการเข้าถึง VIP สำหรับ 30 วัน 5 Miเครดิต</string>
 </resources>

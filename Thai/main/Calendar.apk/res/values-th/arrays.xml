@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>การแจ้งเตือน</item>
+        <item>อีเมล</item>
+        <item>SMS</item>
+        <item>การปลุก</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 นาที</item>
+        <item>1 นาที</item>
+        <item>5 นาที</item>
+        <item>10 นาที</item>
+        <item>15 นาที</item>
+        <item>20 นาที</item>
+        <item>25 นาที</item>
+        <item>30 นาที</item>
+        <item>45 นาที</item>
+        <item>1 ชั่วโมง</item>
+        <item>2 ชั่วโมง</item>
+        <item>3 ชั่วโมง</item>
+        <item>12 ชั่วโมง</item>
+        <item>24 ชั่วโมง</item>
+        <item>2 วัน</item>
+        <item>1 สัปดาห์</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>ไม่มี</item>
+        <item>0 นาที</item>
+        <item>1 นาที</item>
+        <item>5 นาที</item>
+        <item>10 นาที</item>
+        <item>15 นาที</item>
+        <item>20 นาที</item>
+        <item>25 นาที</item>
+        <item>30 นาที</item>
+        <item>45 นาที</item>
+        <item>1 ชั่วโมง</item>
+        <item>2 ชั่วโมง</item>
+        <item>3 ชั่วโมง</item>
+        <item>12 ชั่วโมง</item>
+        <item>24 ชั่วโมง</item>
+        <item>2 วัน</item>
+        <item>1 สัปดาห์</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>ค่าเริ่มต้น</item>
+        <item>วันเสาร์</item>
+        <item>วันอาทิตย์</item>
+        <item>วันจันทร์</item>
+    </string-array>
+    <string-array name="availability">
+        <item>ไม่ว่าง</item>
+        <item>ว่าง</item>
+        <item>ไม่แน่นอน</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>ค่าเริ่มต้น</item>
+        <item>ส่วนตัว</item>
+        <item>สาธารณะ</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>แรกสุด</item>
+        <item>สอง</item>
+        <item>สาม</item>
+        <item>สี่</item>
+        <item>ล่าสุด</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>No response</item>
+        <item>ใช่</item>
+        <item>น่าจะ</item>
+        <item>ไม่</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>เฉพาะกิจกรรมนี้</item>
+        <item>กิจกรรมนี้และกิจกรรมอื่นๆ</item>
+        <item>กิจกรรมทั้งหมด</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>&amp; กิจกรรมในอนาคต</item>
+        <item>กิจกรรมทั้งหมด</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>เฉพาะกิจกรรมนี้</item>
+        <item>กิจกรรมทั้งหมดในชุดเดียวกัน</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>วัน</item>
+        <item>สัปดาห์</item>
+        <item>เดือน</item>
+        <item>วาระ</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>กำลังทำงานในไม่กี่นาที</item>
+        <item>น่าจะประมาณ 10 นาที</item>
+        <item>ไปข้างหน้าและเริ่มโดยไม่ต้องมีฉัน</item>
+        <item>"ขอโทษ ฉันไม่สามารถทำมันได้ พวกเราจะต้องนัดหมายใหม่"</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>เสมอ</item>
+        <item>เมื่อเงียบเสียงเท่านั้น</item>
+        <item>ไม่เลย</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>โปร่งใส</item>
+        <item>พื้นหลังสีขาว</item>
+    </string-array>
+</resources>

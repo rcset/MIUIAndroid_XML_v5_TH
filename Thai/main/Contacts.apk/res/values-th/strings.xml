@@ -1069,4 +1069,5 @@
 	<string name="yellowpage_navigation_search_result_no_more">ไม่มีผลลัพธ์</string>
 	<string name="yellowpage_navigation_search_result_service_error">ไม่สามารถใช้งานบริการปัจจุบัน</string>
 	<string name="yellowpage_navigation_search_result_unknown_error">ข้อผิดพลาดไม่รู้จัก!</string>
+	<string name="yellowpage_navigation_menu_order">รายการสั่งซื้อ</string>
 </resources>

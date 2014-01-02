@@ -77,4 +77,6 @@
     <string name="disable_download_only_in_wifi_title">กำลังปิด “ดาวน์โหลดด้วย Wi-Fi เท่านั้น”</string>
     <string name="might_lead_to_mobile_charge">หลังจากยกเลิก จะไม่มีการแจ้งดาวน์โหลดจากอุปกรณ์ อาจจะทำให้เพิ่มทราฟฟิกข้อมูล</string>
     <string name="pause_download_when_wifi_disconnected">ดาวน์โหลดโดย Wi-Fi เท่านั้น</string>
+	<string name="xunlei_brand">ขับเคลื่อนโดย Xunlei</string>
+	<string name="xunlei_brand_url">http://mobile.xunlei.com</string>
 </resources>
