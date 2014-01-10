@@ -59,12 +59,9 @@
     <string name="pref_download_settings_title">แจ้งข้อมูลที่ใช้</string>
     <string name="pref_title_enable_max_bytes_popup">แจ้งข้อมูลดาวน์โหลด</string>
     <string name="pref_summary_enable_max_bytes_popup">"ภายใต้เครือข่ายผู็ให้บริการ ป๊อปอัพแจ้งเตือนเมื่อขนาดไฟล์เกินกว่าขีดจำกัด"</string>
-    <string name="pref_title_max_bytes_limit">จำกัดขนาดไฟล์</string>
     <string name="pref_summary_max_bytes_limit_format">ป๊อปอัพแจ้งเตือนเมื่อขนาดไฟล์เกิน %s</string>
     <string name="pref_summary_any_bytes_popup">เรียงไฟล์ดาวน์โหลดเสมอเมื่อใช้เครือข่าย Wi-Fi</string>
-    <string name="pref_dialog_title_max_bytes_limit">ขีดจำกัดขนาดไฟล์</string>
     <string name="pref_summary_no_limit_popup">ขนาดไฟล์ดาวน์โหลดไม่จำกัด</string>
-    <string name="prefDefault_max_bytes_limit">1048576</string>
     <string name="download_in_process">กำลังดาวน์โหลด</string>
     <string name="download_complete">ดาวน์โหลด</string>
     <string name="retry_after_network_available">กรุณาลองใหม่อีกครั้งเมื่อเครือข่ายใช้งานได้</string>
@@ -72,11 +69,6 @@
     <string name="editmode_menu_delete">ลบ</string>
     <string name="all_downloads">ดาวน์โหลดทั้งหมด</string>
     <string name="app_downloads">%s ดาวน์โหลด</string>
-    <string name="cancel_download_notice">ยกเลิกการแจ้งดาวน์โหลด</string>
-    <string name="confirm_disable_download_only_in_wifi_message">กำลังปิด “ดาวน์โหลดด้วย Wi-Fi เท่านั้น” อาจจะมีค่าใช้จ่ายข้อมูลเพิ่มเติม  คุณแน่ใจว่าต้องการปิด?</string>
-    <string name="disable_download_only_in_wifi_title">กำลังปิด “ดาวน์โหลดด้วย Wi-Fi เท่านั้น”</string>
-    <string name="might_lead_to_mobile_charge">หลังจากยกเลิก จะไม่มีการแจ้งดาวน์โหลดจากอุปกรณ์ อาจจะทำให้เพิ่มทราฟฟิกข้อมูล</string>
-    <string name="pause_download_when_wifi_disconnected">ดาวน์โหลดโดย Wi-Fi เท่านั้น</string>
 	<string name="xunlei_brand">ขับเคลื่อนโดย Xunlei</string>
 	<string name="xunlei_brand_url">http://mobile.xunlei.com</string>
 </resources>

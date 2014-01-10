@@ -7,7 +7,6 @@
         <item>การปลุก</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-		<item>ไม่มี</item>
         <item>0 นาที</item>
         <item>1 นาที</item>
         <item>5 นาที</item>
@@ -51,7 +50,6 @@
         <item>วันจันทร์</item>
     </string-array>
     <string-array name="availability">
-        <item>ไม่ว่าง</item>
         <item>ว่าง</item>
         <item>ไม่แน่นอน</item>
     </string-array>
@@ -102,9 +100,5 @@
         <item>เสมอ</item>
         <item>เมื่อเงียบเสียงเท่านั้น</item>
         <item>ไม่เลย</item>
-    </string-array>
-    <string-array name="widget_style_list">
-        <item>โปร่งใส</item>
-        <item>พื้นหลังสีขาว</item>
     </string-array>
 </resources>

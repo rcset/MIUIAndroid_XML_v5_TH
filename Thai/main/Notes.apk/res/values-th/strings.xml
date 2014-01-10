@@ -101,4 +101,6 @@
     <string name="pref_title_data_export">ข้อมูลการส่งออก</string>
     <string name="toast_privacy_mode">ไม่สามารถแก้ไขข้อความในโหมดป้องกัน</string>
 	<string name="pref_title_font_size">ขนาดตัวอักษร</string>
+	<string name="alert_message_delete_folder">ลบโฟลเดอร์และโน๊ต?</string>
+	<string name="menu_share">แบ่งปัน</string>
 </resources>

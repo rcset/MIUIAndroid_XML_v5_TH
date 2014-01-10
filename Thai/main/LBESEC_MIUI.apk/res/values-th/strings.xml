@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">LBE Guard</string>
+    <string name="app_name">อนุญาต</string>
     <string name="Generic_Copyright">สนับสนุนโดย Xiaomi</string>
     <string name="Generic_Version">เวอร์ชัน: %1$s</string>
     <string name="Generic_Configuration">ตั้งค่า</string>

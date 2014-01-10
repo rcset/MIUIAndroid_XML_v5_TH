@@ -55,7 +55,6 @@
     <string name="resource_get_auth_exceed_max_limit_title">สิทธิเกินข้อจำกัดแล้ว</string>
     <string name="resource_get_auth_exceed_max_limit_tips">ธีมไม่สามารถใช้กับเครื่องนี้ ด้วยบัญชีของท่านใช้ได้แค่ 10 เครื่องต่อปี กรุณาลองบัญชีของ Xiaomi อื่น</string>
     <string name="resource_server_out_of_service">นอกเหนือบริการ กรุณาลองใหม่ภายหลัง.</string>
-    <string name="resource_switch_account">สลับ</string>
     <string name="deleting">กำลังลบ ...</string>
     <string name="resource_title_select_ringtone">เลือกเสียงเรียกเข้า</string>
     <string name="resource_tip_select_ringtone">ไม่มีเสียกเรียกเข้าที่เลือก</string>
@@ -1073,4 +1072,7 @@
 	<string name="sim_contact_existing">รายชื่อมีอยู่แล้ว</string>
 	<string name="sim_contact_invalid">รายชื่อซิมการ์ดไม่ถูกต้อง</string>
 	<string name="sim_error_not_ready">กำลังโหลดรายชื่อซิมการ์ด…</string>
+	<string name="resource_apply_trial">ลองใหม่ตอนนี้</string>
+	<string name="resource_download_trial">ทดลองใช้</string>
+	<string name="resource_on_trial">กำลังลองใหม่: %1$s</string>
 </resources>

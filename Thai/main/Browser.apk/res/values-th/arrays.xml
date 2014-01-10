@@ -39,14 +39,9 @@
         <item>WiFi เท่านั้น</item>
         <item>ทุกครั้ง</item>
     </string-array>
-    <string-array name="pref_content_plugins_choices">
-        <item>เปิดใช้เสมอ</item>
-        <item>ตามคำขอ</item>
-        <item>ปิด</item>
-    </string-array>
     <string-array name="pref_homepage_choices">
-        <item>เบราเซอร์จะเปิดในหน้านี้</item>
-        <item>อื่นๆ</item>
+        <item>ค่าเริ่มต้นหน้าแรก</item>
+        <item>กำหนดเอง</item>
     </string-array>
     <string-array name="pref_text_size_choices">
         <item>เล็กมาก</item>
@@ -60,20 +55,18 @@
         <item>ปานกลาง</item>
         <item>ปิด</item>
     </string-array>
-    <string-array name="pref_default_text_encoding_choices">
-        <item>Auto detector</item>
-        <item>Latin-1 (ISO-8859-1)</item>
-        <item>Unicode (UTF-8)</item>
-        <item>Chinese (GBK)</item>
-        <item>Chinese (Big5)</item>
-        <item>Japanese (ISO-2022-JP)</item>
-        <item>Japanese (SHIFT_JIS)</item>
-        <item>Japanese (EUC-JP)</item>
-        <item>เกาหลี (EUC-KR)</item>
-    </string-array>
     <string-array name="pref_data_preload_choices">
         <item>ไม่เลย</item>
         <item>Wi-Fi เท่านั้น</item>
         <item>ทุกครั้ง</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>ขาว</item>
+        <item>เหลือง</item>
+        <item>เทา</item>
+        <item>น้ำตาล</item>
+        <item>เขียว</item>
+        <item>น้ำเงิน</item>
+        <item>ดำ</item>
     </string-array>
 </resources>
