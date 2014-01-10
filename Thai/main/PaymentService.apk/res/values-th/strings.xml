@@ -316,9 +316,9 @@
   <string name="msg_denomination_type">Miเครดิต</string>
   <string name="msg_error">เติมเงินล้มเหลว</string>
   <string name="msg_picker_hint_1_1">1.</string>
-  <string name="msg_picker_hint_1_2">การเติมเงินผ่านข้อความจะแพงกว่า: &lt;font color=red&gt;￥2 = 1 Miเครดิต&lt;/font&gt;</string>
+  <string name="msg_picker_hint_1_2">การเติมเงินผ่านข้อความจะแพงกว่า: &lt;font color=red&gt;￥%1$d = %2$d Miเครดิต&lt;/font&gt;</string>
   <string name="msg_picker_hint_2_1">2.</string>
-  <string name="msg_picker_hint_2_2">ผู้ให้บริการเรียกเก็บเงิน ￥0.1 ต่อการเติมเงิน</string>
+  <string name="msg_picker_hint_2_2">ผู้ให้บริการเรียกเก็บเงิน ￥%1$s ต่อการเติมเงิน</string>
   <string name="msg_picker_hint_3_1">3.</string>
   <string name="msg_picker_hint_3_2">เติมเงินรายเดือนมากที่สุด: ￥300</string>
   <string name="msg_send_no_net_error">"ส่งข้อความล้มเหลว: ไม่สามารถเชื่อมต่อกับผู้ให้บริการ"</string>

@@ -1070,4 +1070,7 @@
 	<string name="yellowpage_navigation_search_result_service_error">ไม่สามารถใช้งานบริการปัจจุบัน</string>
 	<string name="yellowpage_navigation_search_result_unknown_error">ข้อผิดพลาดไม่รู้จัก!</string>
 	<string name="yellowpage_navigation_menu_order">รายการสั่งซื้อ</string>
+	<string name="sim_contact_existing">รายชื่อมีอยู่แล้ว</string>
+	<string name="sim_contact_invalid">รายชื่อซิมการ์ดไม่ถูกต้อง</string>
+	<string name="sim_error_not_ready">กำลังโหลดรายชื่อซิมการ์ด…</string>
 </resources>

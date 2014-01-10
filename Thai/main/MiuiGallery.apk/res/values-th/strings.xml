@@ -65,7 +65,6 @@
     <string name="filllight_polymorphism">photoeditor_effect_filllight</string>
     <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
     <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
-    <string name="hue_polymorphism">photoeditor_effect_hue</string>
     <string name="saturation_polymorphism">photoeditor_effect_saturation</string>
     <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
     <string name="fisheye_polymorphism">photoeditor_effect_fisheye</string>
@@ -466,4 +465,5 @@
 	<string name="internal_sd_card_hm">ความจำเครื่อง</string>
 	<string name="item_not_sync">รายการนี้ยังไม่ได้ซิงค์ไปยังคลาวด์และไม่สามาารถดาวน์โหลดได้</string>
 	<string name="move">ย้าย</string>
+	<string name="rename_failed_duplicated_name">ไฟล์ชื่อนี้มีอยุ่แล้ว</string>
 </resources>

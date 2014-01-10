@@ -3062,4 +3062,10 @@ PIN อาจไม่ถูกต้อง"</string>
 	<string name="perm_root_manage_empty">ไม่มีแอปอนุญาต ROOT</string>
 	<string name="quick_scan_done_title">สแกนเสร็จสิ้น!</string>
 	<string name="dirac_mode_general">ทั่วไป</string>
+	<string name="last_check_date_today">"สแกนล่าสุด: วันนี้ "</string>
+	<string name="last_check_date_yesterday">"สแกนล่าสุด: เมื่อวาน "</string>
+	<string name="virus_scan_is_cloud_scanning">กำลังสแกนคลาวด์…</string>
+	<string name="virus_scan_last_scan_today">"สแกนล่าสุด: วันนี้ "</string>
+	<string name="virus_scan_last_scan_yesterday">"สแกนล่าสุด: เมื่อวาน "</string>
+	<string name="virus_scan_unknown_virus_name">ไม่รู้จัก</string>
 </resources>

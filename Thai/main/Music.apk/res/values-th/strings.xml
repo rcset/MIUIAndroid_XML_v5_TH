@@ -289,7 +289,7 @@
 	<string name="choose_stream_quality">เลือกคุณภาพสตรีม</string>
 	<string name="disconnect">ตัดการเชื่อมต่อ</string>
 	<string name="download_completed">ดาวน์โหลดแล้ว</string>
-	<string name="find_ktv">Discover KTV</string>
+	<string name="find_ktv">ค้นหา KTV</string>
 	<string name="high_quality">คุณภาพสูง</string>
 	<string name="i_know">ตกลง</string>
 	<string name="ktv_alert_message">"แตะโทรศัพท์เพื่อเพิ่มเพลงบนหน้าจอหลักของ KTV เพื่อแสดงรหัส QR"</string>
@@ -323,14 +323,14 @@
 	<string name="vip_recommend_exchange">ใช้รหัสของขวัญ</string>
 	<string name="vip_recommend_main_title">คุณภาพ CD ไม่จำกัด (320 kbps)</string>
 	<string name="vip_recommend_sub_title">5 RMB ต่อเดือนเท่านั้น</string>
-	<string name="vip_recommend_summary">สตรีมหรือดาวน์โหลดศิลปินชื่อชอบทั้งหมดจาก Baidu ที่ 320 kbps</string>
-	<string name="vip_recommend_title">เพลงคุณภาพสูงกว่า</string>
+	<string name="vip_recommend_summary">สตรีมหรือดาวน์โหลดศิลปินชื่นชอบทั้งหมดจาก Baidu 320 kbps</string>
+	<string name="vip_recommend_title">เพลงคุณภาพสูง</string>
 	<string name="where_is_barcode">"โค้ด QR?"</string>
 	<string name="data_usage_warning">แจ้งเตือนข้อมูลใช้งาน!</string>
 	<string name="data_usage_warning_summary">ใช้บริการข้อมูลมือถือเพื่อฟังเพลงคุณภาพสูงจะเพิ่มข้อมูลการใช้งาน</string>
 	<string name="enabled">เปิดใช้งานแล้ว</string>
 	<string name="expired">หมดอายุแล้ว</string>
-	<string name="higher_quality_music">เพลงคุณภาพสูง</string>
+	<string name="higher_quality_music">คุณภาพสูง</string>
 	<string name="higher_quality_music_summary">ฟังและดาวน์โหลดเพลงคุณภาพสูง</string>
 	<string name="menu_higher_quality_music">เพลงคุณภาพสูง (รายเดือน)</string>
 	<string name="music_quality">คุณภาพเพลง</string>

@@ -36,4 +36,6 @@
     <string name="voice_search_hint_title">ลองพูด:</string>
     <string name="voice_search_hint_quotation_start">“</string>
     <string name="voice_search_hint_quotation_end">”</string>
+	<string name="search_in_app_store">ค้นหาในมาร์เก็ต</string>
+	<string name="search_in_web">ค้นหาในเว็บ</string>
 </resources>

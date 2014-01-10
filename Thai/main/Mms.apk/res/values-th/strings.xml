@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="conversation_style">แบบฟองอากาศ</string>
-    <string name="prefDefault_ringtone_repeat">1</string>
     <string name="app_label">ข้อความ</string>
     <string name="new_message">ข้อความใหม่</string>
     <string name="menu_compose_new">เขียน</string>
@@ -105,9 +104,6 @@
     <string name="pref_title_sms_delete">ข้อความตัวอักษรสูงสุด</string>
     <string name="pref_title_mms_delete">ข้อความมัลติมีเดียสูงสุด</string>
     <string name="pref_messages_to_save">กำหนดจำนวนข้อความเพื่อบันทึก</string>
-    <string name="prefDefault_vibrateWhen">ไม่มี</string>
-    <string name="prefDefault_vibrate_true">เสมอ</string>
-    <string name="prefDefault_vibrate_false">ไม่มี</string>
     <string name="pref_title_mms_auto_retrieval">เรียกอัตโนมัติ</string>
     <string name="pref_summary_mms_auto_retrieval">เรียกดูข้อความอัตโนมัติ</string>
     <string name="pref_title_mms_retrieval_during_roaming">เรียกอัตโนมัติขณะโรมมิ่ง</string>
