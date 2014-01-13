@@ -348,12 +348,12 @@
         <item>เพลง</item>
         <item>อีเมล</item>
     </string-array>
--  <string-array name="battery_indicator_style_entries">
+    <string-array name="battery_indicator_style_entries">
         <item>กราฟฟิก</item>
         <item>เปอร์เซ็น</item>
         <item>แถบบน</item>
      </string-array>
-	<string-array name="button_light_timeout_entries">
+     <string-array name="button_light_timeout_entries">
         <item>1 วินาที</item>
         <item>2 วินาที</item>
         <item>5 วินาที</item>
@@ -361,12 +361,12 @@
         <item>20 วินาที</item>
         <item>เสมอ</item>
     </string-array>
-	<string-array name="haptic_feedback_level_entries">
+    <string-array name="haptic_feedback_level_entries">
         <item>สูง</item>
         <item>ปานกลาง</item>
         <item>ต่ำ</item>
    </string-array>
-	<string-array name="led_freq_entries">
+   <string-array name="led_freq_entries">
         <item>2 วินาที</item>
         <item>3 วินาที</item>
         <item>4 วินาที</item>
@@ -376,11 +376,11 @@
         <item>8 วินาที</item>
         <item>9 วินาที</item>
     </string-array>
-	<string-array name="multi_sim_entries">
+    <string-array name="multi_sim_entries">
         <item>ซิมการ์ด 1</item>
         <item>ซิมการ์ด 2</item>
     </string-array>
-	<string-array name="multi_sim_entries_voice">
+    <string-array name="multi_sim_entries_voice">
         <item>ซิมการ์ด 1</item>
         <item>ซิมการ์ด 2</item>
         <item>ถามก่อน</item>
