@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>เลื่อนคลาสสิค</item>
+        <item>เลื่อนคลาสสิค (ไม่ทำเลบ)</item>
+        <item>จางหาย</item>
+        <item>เลื่อนลง</item>
+        <item>หน้า</item>
+        <item>เรียงซ้อน</item>
+        <item>หมุน</item>
+        <item>ลูกบาศก์</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>ค่าเริ่มต้นธีม</item>
+        <item>กึ่งกลาง</item>
+        <item>ทางซ้าย</item>
+        <item>ทางขวา</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>ค่าเริ่มต้น</item>
+        <item>คลาสสิค</item>
+    </string-array>
+</resources>

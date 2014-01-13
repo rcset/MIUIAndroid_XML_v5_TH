@@ -15,7 +15,6 @@
     <string name="toast_text_copied">คัดลอกข้อความแล้ว</string>
     <string name="provider_tag">ต้นทางข้อมูล</string>
     <string name="all_numbers">หมายเลขทั้งหมด</string>
-    <string name="correction">การแก้ไข</string>
     <string name="callrecordview_item_newcontact">การติดต่อใหม่</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d นาที %2$d วินาที</string>
     <string name="callrecordview_item_op_time_only_minutes">%d นาที</string>
@@ -58,29 +57,27 @@
     <string name="payment_unknown_status_summary">ตรวจสอบการเชื่อมต่อเครือข่ายและลองอีกครั้ง</string>
     <string name="recharge_input_phone_title">ป้อนหมายเลขโทรศัพท์(ไชน่าโมบายล์ ไชน่ายูนิคอม หรือ ไชน่าเทเลคอม)</string>
     <string name="recharge_select_money_title">กรุณาเลือกจำนวนเงินที่จะทำการเติม</string>
-    <string name="recharge_charge_range">ราคา:¥%1$s-%2$s</string>
-    <string name="recharge_charge_value">ราคา:¥%s</string>
-    <string name="recharge_pay">ทำการเติมเงิน</string>
+    <string name="recharge_charge_range">ราคา:  RMB %1$s-%2$s</string>
+    <string name="recharge_charge_value">ราคา: RMB %s</string>
+    <string name="recharge_pay">เติมเงิน</string>
     <string name="recharge_pay_hint">ให้การสนับสนุนโดย Xiaomi</string>
     <string name="mishop_web_payment_title">จุดชำระเงิน MiStore</string>
     <string name="recharge_pay_hint_license">คำชี้แจงการเติมเงิน</string>
     <string name="recharge_title">การเติมเงิน</string>
-    <string name="recharge_payment_result_ok_title">เติม %s หยวน.</string>
+    <string name="recharge_payment_result_ok_title">เติม RMB %s แล้ว</string>
     <string name="recharge_payment_result_ok_summary">ยืนยันว่ายอดเงินนี้ได้ทำการเติมเข้าระบบแล้ว</string>
     <string name="recharge_payment_result_failed_title">การเติมเงินล้มเหลว</string>
     <string name="recharge_payment_result_failed_summary">โปรดลองอีกครั้ง</string>
     <string name="recharge_payment_result_progress_summary">กำลังตรวจสอบผลการชำระเงิน…</string>
     <string name="recharge_phone_number_error">หมายเลขโทรศัพท์ไม่ถูกต้อง</string>
     <string name="recharge_user_confirm_title">ตกลง</string>
-    <string name="recharge_user_confirm_summary">"คุณจะถูกเรียกเก็บค่า %1$s เป็นจำนวนเงิน %2$s หยวน！
+    <string name="recharge_user_confirm_summary">"คุณจะถูกเรียกเก็บค่าภาษี  RMB %2$s เป็นจำนวนเงิน %1$s
 
-จำนวนเงินรวมทั้งสิ้น: %3$s หยวน"</string>
-    <string name="module_sms_sent">ข้อความถูกส่ง.</string>
+จำนวนเงินรวมทั้งสิ้น: RMB %3$s"</string>
     <string name="sms_send_failed">การส่งข้อความล้มเหลว</string>
     <string name="sms_sending">กำลังส่ง…</string>
     <string name="login_ok">เข้าระบบ</string>
     <string name="login_before_recharging">คุณต้องเข้าระบบก่อนทำการเติมเงิน</string>
-    <string name="unable_send_sms">ไม่สามารถส่งข้อความ</string>
     <string name="sms_disabled_in_privacy_mode">"ไม่สามารถส่งข้อความในโหมดผู้เยี่ยมชม"</string>
     <string name="express_inquiry">การติดตาม</string>
     <string name="express_inquiry_indication">หมายเลขในการติดตาม</string>
@@ -88,7 +85,6 @@
     <string name="express_inquiry_serial_number_prefix">"หมายเลข: "</string>
     <string name="express_inquiry_no_result">ไม่มีข้อมูล</string>
     <string name="express_inquiry_internal_failure">ไม่สามารถให้บริการได้</string>
-    <string name="express_inquiry_data_owner">ให้บริการข้อมูลในการติดตามโดย %s</string>
     <string name="scan">สแกน</string>
     <string name="balance_inquiry_default_sp_name">ผู้ให้บริการ</string>
     <string name="balance_inquiry_send_sms_hint">ส่งข้อความฟรีจะส่งไปสอบถามยอดคงเหลือ</string>
@@ -98,7 +94,7 @@
     <string name="express_inquiry_serial_number_indication">หมายเลขติดตามสินค้า</string>
     <string name="expresss_inquiry_all_logistics">ทั้งหมด</string>
     <string name="expresss_inquiry_frequently_used_logistics">ความถี่ใช้งาน</string>
-    <string name="packages_no_package">ไม่พบแพคเกจทราฟฟิกใช้งานได้</string>
+    <string name="packages_no_package">ไม่มีแพคเกจแนะนำ</string>
     <string name="packages_pay">ซื้อ</string>
     <string name="packages_pay_confirm">ยืนยันการชำระเงิน</string>
     <string name="packages_pay_hint">ส่งข้อความฟรี</string>
@@ -126,8 +122,18 @@
 	<string name="navigation_search_positioning_failed">ค้นหาเมืองล้มเหลว</string>
 	<string name="order_empty_hint">ไม่มีรายการ</string>
 	<string name="order_id">อ้างอิงรายการ: %s</string>
-	<string name="order_merchant_title">รายการของฉัน - %s</string>
+	<string name="order_merchant_title">รายการสั่งซื้อ</string>
 	<string name="order_price">%s</string>
 	<string name="order_status">%s</string>
 	<string name="provider">วิเคราะห์โดย %s</string>
+	<string name="balance_inquiry_send_sms_summmary">ตรวจสอบยอดคงเหลือ</string>
+	<string name="general_cancel_favorite_ok">ลบรายการโปรดแล้ว</string>
+	<string name="general_delete_recent_ok">ลบล่าสุดแล้ว</string>
+	<string name="general_favorite_title">รายการโปรด</string>
+	<string name="general_menu_delete_recent">ลบล่าสุด</string>
+	<string name="general_menu_favorite">รายการโปรด</string>
+	<string name="general_menu_unfavorite">ลบจากรายการโปรด</string>
+	<string name="general_no_yellow_page">รายการว่างเปล่า</string>
+	<string name="general_recent_title">ล่าสุด</string>
+	<string name="general_yellow_page_title">ทั่วไป</string>
 </resources>

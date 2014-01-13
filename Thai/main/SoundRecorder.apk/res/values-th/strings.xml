@@ -26,7 +26,7 @@
     <string name="notification_warning">พื้นที่เก็บข้อมูลเหลือน้อย (น้อยกว่า %d นาที) ...</string>
     <string name="record_list">รายการบันทึกเสียง</string>
     <string name="sd_card_not_available">การ์ดความจำไม่สามารถใช้ได้</string>
-    <string name="call_record">บันทึกเสียงสนทนา ( %d )</string>
+    <string name="call_record">กำลังบันทึกเสียงสนทนา ( %d )</string>
     <string name="fm_record">บันทึกเสียงวิทยุ ( %d )</string>
     <string name="open_file_explorer">เปิดตัวจัดการไฟล์</string>
     <string name="no_file">ไม่มีการบันทึก</string>
@@ -38,7 +38,7 @@
     <string name="dialog_play">เล่น</string>
     <string name="dialog_send">ส่ง</string>
     <string name="dialog_warning">คำเตือน</string>
-    <string name="alert_message_delete_record">คุณต้องการที่จะลบบันทึกที่เลือก?</string>
+    <string name="alert_message_delete_record">ลบที่เลือก?</string>
     <string name="unknown_caller">ไม่ทราบผู้โทร</string>
     <string name="rename">เปลี่ยนชื่อ</string>
     <string name="send_to">ส่งให้</string>
@@ -75,7 +75,7 @@
     <string name="duration_format_hour">%sh</string>
     <string name="duration_format_minute">%sm</string>
     <string name="duration_format_second">%ss</string>
-    <string name="toast_max_record_time">แอป: %1$s เวลาที่บันทึกได้สูงสุด %2$s</string>
+    <string name="toast_max_record_time">%1$s เวลาที่บันทึกได้สูงสุด %2$s</string>
     <string name="message_file_size_error">การบันทึกเสียงถึงระยะเวลามากสุด %s</string>
     <string name="start_recording">เริ่มต้นการบันทึก</string>
     <string name="pause">หยุดชั่วคราว</string>
@@ -84,6 +84,5 @@
     <string name="view_list_of_recordings">ดูการบันทึกเสียง</string>
     <string name="search_for_recordings_in_folders">ค้นหาโฟลเดอร์สำหรับการบันทึกเสียง</string>
     <string name="back">ย้อนกลับ</string>
-    <string name="preference_silent_mode_summary">ตั้งค่าเพื่อเปิดใช้งานการบันทึกเสียงในโหมดเงียบ</string>
 	<string name="error_filename_illegal_char">ชื่อไฟล์มีตัวอักษรที่ไม่ถูกต้อง</string>
 </resources>

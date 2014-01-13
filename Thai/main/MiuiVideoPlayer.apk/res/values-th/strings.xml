@@ -59,4 +59,5 @@
 	<string name="menu_item_disable_audio_enhance">ปิดใช้งานเพิ่มประสิทธิภาพเสียง</string>
 	<string name="menu_item_enable_audio_enhance">เปิดใช้งานเพิ่มประสิทธิภาพเสียง</string>
 	<string name="toast_message_set_misound">ติดตั้ง Miเสียง</string>
+	<string name="episode_prefix">ตอน</string>
 </resources>

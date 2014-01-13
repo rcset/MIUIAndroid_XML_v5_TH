@@ -992,7 +992,7 @@
     <string name="areacode_required_miui">ต้องระบุรหัสท้องถิ่น</string>
     <string name="areacode_required_accept_miui">ตกลง</string>
     <string name="auto_answer_summary_not_enabled">ไม่ได้เปิดใช้งาน</string>
-    <string name="auto_answer_summary_delay">(หน่วงเวลา: %s วินาที)</string>
+    <string name="auto_answer_summary_delay">(ดีเลย์: %s วินาที)</string>
     <string name="auto_answer_delay_entries_delay_10s_miui">10 วินาที</string>
     <string name="auto_answer_delay_entries_delay_3s_miui">3 วินาที</string>
     <string name="auto_answer_delay_entries_delay_5s_miui">5 วินาที</string>

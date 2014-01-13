@@ -15,7 +15,7 @@
   <string name="bankcall_city">เมือง</string>
   <string name="bankcall_credit_card">บัตรเครดิต</string>
   <string name="bankcall_debit_card">บัตรเดบิต</string>
-  <string name="bankcall_denom">ชำระเงิน:</string>
+  <string name="bankcall_denom">จำนวนเงิน:</string>
   <string name="bankcall_denom_number">%1$s หยวน</string>
   <string name="bankcall_error_card">หมายเลขบัญชีไม่ถูกต้อง: กรุณาแก้ไขหมายเลขบัญชี</string>
   <string name="bankcall_error_card_info">ข้อมูลบัญชีไม่ถูกต้อง: กรุณาแก้ไขข้อมูลบัญชีของคุณ</string>
@@ -39,7 +39,6 @@
   <string name="btn_net_connection_retry">ลองใหม่</string>
   <string name="btn_next">ถัดไป</string>
   <string name="btn_other_bankcard">ใช้บัตรอื่นๆ</string>
-  <string name="btn_pay_large">ชำระเงิน</string>
   <string name="btn_prev">ย้อนกลับ</string>
   <string name="btn_query">สอบถาม</string>
   <string name="btn_recharge_confirm">ยืนยันการชำระเงิน</string>
@@ -316,7 +315,7 @@
   <string name="msg_denomination_type">Miเครดิต</string>
   <string name="msg_error">เติมเงินล้มเหลว</string>
   <string name="msg_picker_hint_1_1">1.</string>
-  <string name="msg_picker_hint_1_2">การเติมเงินผ่านข้อความจะแพงกว่า: &lt;font color=red&gt;￥%1$d = %2$d Miเครดิต&lt;/font&gt;</string>
+  <string name="msg_picker_hint_1_2">การเติมเงินผ่านข้อความจะแพงกว่า: &lt;font color=red&gt;%1$d หยวน = %2$d Miเครดิต&lt;/font&gt;</string>
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">ผู้ให้บริการเรียกเก็บเงิน ￥%1$s ต่อการเติมเงิน</string>
   <string name="msg_picker_hint_3_1">3.</string>
@@ -333,7 +332,6 @@
   <string name="msg_telecom_picker_hint_2_1">ผู้ให้บริการเครือข่ายของคุณได้รับการติดต่อแล้ว!</string>
   <string name="msg_telecom_picker_hint_2_2">คุณจะได้รับข้อความยืนยันในไม่ช้า</string>
   <string name="msg_telecom_sending">กำลังติดต่อผู้ใช้บริการเครือข่าย…</string>
-  <string name="onemore_click_exit">คลิกอีกครั้งเพื่อออก</string>
   <string name="order_price">%1$s Miเครดิต</string>
   <string name="password_error">รหัสผ่านไม่ถูกต้อง</string>
   <string name="password_hint">ใส่รหัสผ่านบัญชี</string>
@@ -344,9 +342,6 @@
   <string name="paytool_error_msp">%1$s ล้มเหลว</string>
   <string name="paytool_msp_not_installed">ไม่ได้ติดตั้ง %1$s ปลั๊กอินความปลอดภัยโทรศัพท์ ติดตั้งเดี๋ยวนี้?</string>
   <string name="paytool_tenpay">Tenpay</string>
-  <string name="prepaid_china_mobile">China Mobile</string>
-  <string name="prepaid_china_telcom">China Telecom</string>
-  <string name="prepaid_china_unicom">China Unicom</string>
   <string name="prepaid_edit_limit">หลัก</string>
   <string name="prepaid_error_card_length">หมายเลขบัตรหรือรหัสผ่านไม่ถูกต้อง</string>
   <string name="prepaid_error_card_number">หมายเลขบัตรไม่ถูกต้อง</string>
@@ -377,7 +372,6 @@
   <string name="progress_prepaid_creating">กำลังสร้างการสั่งซื้อ…</string>
   <string name="progress_querying">กำลังประมวลผล…</string>
   <string name="progress_submit_hint">การเติมเงินจะเข้าไปยังบัญชีของคุณภายใน 3 นาที</string>
-  <string name="progress_submit_pay_summary">กำลังชำระเงิน %1$s Miเครดิต</string>
   <string name="progress_submit_recharge_summary">กำลังเติมเงิน: %1$s Miเครดิต</string>
   <string name="progress_submit_title">คำขอถูกส่งแล้ว</string>
   <string name="progress_success_pay_summary">ชำระเงินเสร็จสิ้น! :)</string>
@@ -420,12 +414,11 @@
   <string name="title_giftcard">โปรโมชั่น</string>
   <string name="title_lockpattern">จำเป็นรูปแบบล็อก</string>
   <string name="title_mili_center">Miเครดิต</string>
-  <string name="title_myaccount">บัญชี Mi: %s</string>
+  <string name="title_myaccount">บัญชี: %s</string>
   <string name="title_nopassword">"ไม่จำเป็นต้องใช้สำหรับชำระเงินเล็กน้อย"</string>
   <string name="title_nopassword_dialog">ขีดจำกัดรายวัน</string>
   <string name="title_password">รหัสผ่าน</string>
   <string name="title_password_threshold">ขีดจำกัดรายวัน = %1$s หยวน</string>
-  <string name="title_pay">ชำระเงินด้วย Miเครดิต</string>
   <string name="title_pay_record">บันทึกการชำระเงิน</string>
   <string name="title_recharge">เติมเงิน Miเครดิต</string>
   <string name="title_recharge_record">บันทึกการเติมเงิน</string>
@@ -434,7 +427,6 @@
   <string name="voucher_edit_hint">รหัส</string>
   <string name="voucher_edit_limit">หลัก</string>
   <string name="voucher_error_password">รหัสบัตรกำนัลไม่ถูกต้อง!</string>
-  <string name="voucher_error_password_empty">ไม่มีรหัส</string>
   <string name="voucher_input_password_prompt">ใส่รหัส</string>
    <string name="button_confirm">ยืนยัน</string>
   <string name="button_next">ถัดไป</string>
@@ -461,4 +453,5 @@
   <string name="scan_prompt_password">สแกน %1$s รหัสผ่านบัตรเติมเงิน</string>
   <string name="scan_prompt_voucher">สแกนรหัส Miเครดิต</string>
   <string name="balance_no_giftcard_payment">%1$s Miเครดิต (ไม่สามารถใช้บัตรของขวัญ Miเครดิต สำหรับรายการนี้ได้)</string>
+  <string name="password_forget">ลืมรหัสผ่าน?</string>
 </resources>

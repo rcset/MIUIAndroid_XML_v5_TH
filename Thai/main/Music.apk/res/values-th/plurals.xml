@@ -87,4 +87,12 @@
 	<plurals name="Nvip_expired_remind">
 		<item quantity="other">การเข้าถึงเพลงคุณภาพสูงกำลังจะหมดอายุ (เหลืออีก %d วัน)</item>
 	</plurals>
+    <plurals name="Nsearch_results">
+        <item quantity="other">%d ผลค้นหา</item>
+        <item quantity="one">%d ผลค้นหา</item>
+    </plurals>
+	<plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d เพลงถูกลบจากเพลย์ลิส</item>
+        <item quantity="one">1 เพลงถูกลบจากเพลย์ลิส</item>
+	</plurals>
 </resources>

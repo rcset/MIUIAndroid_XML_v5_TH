@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_messages">
+        <item quantity="other">ย้ายข้อความ</item>
+        <item quantity="one">ย้ายข้อความ</item>
+    </plurals>
+    <plurals name="notification_new_one_account_fmt">
+        <item quantity="other">%1$d ไม่ได้อ่าน (%2$s)</item>
+        <item quantity="one">%1$d ไม่ได้อ่าน (%2$s)</item>
+        <item quantity="few">%1$d ไม่ได้อ่าน (%2$s)</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <item quantity="other">in %d บัญชี</item>
+        <item quantity="few">in %d บัญชี</item>
+    </plurals>
+    <plurals name="number_of_accounts">
+        <item quantity="other">%1$d บัญชี</item>
+        <item quantity="one">%1$d บัญชี</item>
+    </plurals>
+    <plurals name="picker_combined_view_account_count">
+        <item quantity="other">%d บัญชี</item>
+        <item quantity="one">%d บัญชี</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d ถูกเลือก</item>
+        <item quantity="one">%d ถูกเลือก</item>
+    </plurals>
+    <plurals name="message_view_show_attachments_action">
+        <item quantity="other">แนบไฟล์ %1$d</item>
+        <item quantity="one">แนบไฟล์ %1$d</item>
+    </plurals>
+    <plurals name="message_delete_confirm">
+        <item quantity="other">ลบข้อความ?</item>
+        <item quantity="one">ลบข้อความ?</item>
+    </plurals>
+    <plurals name="message_deleted_toast">
+        <item quantity="other">ลบข้อความแล้ว</item>
+        <item quantity="one">ลบข้อความแล้ว</item>
+    </plurals>
+    <plurals name="message_moved_toast">
+        <item quantity="other">%1$d ข้อความย้ายไปยัง %2$s</item>
+        <item quantity="one">%1$d ข้อความย้ายไปยัง %2$s</item>
+    </plurals>
+    <plurals name="gal_completed_fmt">
+        <item quantity="other">%1$d ผลลัพธ์จาก %2$s</item>
+        <item quantity="one">%1$d ผลลัพธ์จาก %2$s</item>
+    </plurals>
+</resources>

@@ -50,7 +50,7 @@
     <string name="micloud_click_email">คลิกที่ลิงค์ในอีเมลเพื่อเปิดใช้งานบัญชีของคุณ Xiaomi"</string>
     <string name="completed">เสร็จ"</string>
     <string name="header_data_and_synchronization">ข้อมูลและการซิงค์"</string>
-    <string name="title_reg">ลงทะเบียนบัญชี Xiaomi"</string>
+    <string name="title_reg">ลงทะเบียน"</string>
     <string name="micloud_account_label">บัญชี: %1$s"</string>
     <string name="email_already_be_used">ที่อยู่อีเมลนี้ถูกใช้แล้ว"</string>
     <string name="error_no_sms_service">บริการ SMS ไม่สามารถใช้ได้"</string>
@@ -64,7 +64,7 @@
     <string name="error_dup_phone">โทรศัพท์ได้รับการจดทะเบียน"</string>
     <string name="error_server">เซิร์ฟเวอร์ผิดพลาด"</string>
     <string name="error_sim_not_ready">ซิมยังไม่พร้อม"</string>
-    <string name="error_unknown">ข้อผิดพลาดที่ไม่รู้จัก: %1$s"</string>
+    <string name="error_unknown">ข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="error_invalid_dev_id">อุปกรณ์ระบุ ID ไม่ถูกต้อง"</string>
     <string name="quick_login_title">กรุณาป้อนรหัสผ่านของคุณเพื่อตรวจสอบความถูกต้อง"</string>
     <string name="account_name">บัญชี: %1$s"</string>
@@ -250,7 +250,7 @@
     <string name="cloud_messaging">การส่งข้อความ Miคลาวด์"</string>
     <string name="xiaomi_cloud_service">Miคลาวด์"</string>
     <string name="current_account">บัญชีปัจจุบัน"</string>
-    <string name="my_xiaomi_account">บัญชี Xiaomi ปัจจุบันของฉัน"</string>
+    <string name="my_xiaomi_account">บัญชี Xiaomi</string>
     <string name="micloud_intro_01_part_01">ประหยัดค่าใช้จ่ายในการส่ง SMS"</string>
     <string name="micloud_intro_01_part_02">MIUI ช่วยให้คุณส่งข้อความคลาวด์ฟรีผ่านทางเครือข่าย"</string>
     <string name="micloud_intro_02_part_01">ไม่จำเป็นต้องทำอะไร"</string>
@@ -366,4 +366,5 @@
 	<string name="micloud_warn_low_title">พื้นที่จัดเก็บต่ำ!</string>
 	<string name="micloud_web_discription_01">เข้าระบบที่ http://i.xiaomi.com</string>
 	<string name="micloud_web_discription_02">เพื่อจัดเก็บและเข้าถึงไฟล์ของคุณจากทุกที่</string>
+	<string name="title_voucher">เติมเงินด้วยบัตรสมนาคุณ Miเครดิต</string>
 </resources>

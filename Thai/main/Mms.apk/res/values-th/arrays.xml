@@ -85,4 +85,25 @@
         <item>เฉพาะเมื่อปิดเสียง</item>
         <item>ไม่ต้องเลย</item>
     </string-array>
+	<string-array name="contact_entries">
+        <item>ชื่อ</item>
+        <item>ชื่อเล่น</item>
+        <item>เบอร์โทร</item>
+        <item>อีเมล</item>
+        <item>องค์กร</item>
+        <item>IM</item>
+        <item>เบอร์โทรSIP</item>
+        <item>วันเกิด</item>
+        <item>เว็บไซต์</item>
+        <item>ที่อยู่</item>
+        <item>โน๊ต</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>เวลารับ</item>
+        <item>เวลาส่ง</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>ด้วยข้อความ</item>
+        <item>ด้วยข้อความคลาวด์</item>
+    </string-array>
 </resources>
