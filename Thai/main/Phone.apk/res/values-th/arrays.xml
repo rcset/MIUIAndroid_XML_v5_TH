@@ -12,6 +12,7 @@
     <string-array name="cdma_system_select_choices">
         <item>เครือข่ายบ้านเท่านั้น</item>
         <item>อัตโนมัติ</item>
+    </string-array>
     <string-array name="tty_mode_entries">
         <item>ปิด TTY</item>
         <item>TTY เต็ม</item>
