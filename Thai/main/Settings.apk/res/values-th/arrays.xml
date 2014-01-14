@@ -475,7 +475,8 @@
         <item>ถามเมื่อเชื่อมต่อ</item>
         <item>ชาร์จเท่านั้น</item>
         <item>เม้าท์การ์ดความจำ</item>
-	<string-array name="user_content_ratings_entries">
+    </string-array>
+    <string-array name="user_content_ratings_entries">
         <item>ขึ้นไป</item>
         <item>มนุษย์</item>
         <item>ยุคหิน</item>
