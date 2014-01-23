@@ -71,4 +71,7 @@
     <string name="app_downloads">%s ดาวน์โหลด</string>
 	<string name="xunlei_brand">ขับเคลื่อนโดย Xunlei</string>
 	<string name="xunlei_brand_url">http://mobile.xunlei.com</string>
+	<string name="turn_off_xunlei_message">อาจจะทำให้ความเร็วในการดาวน์โหลดลดลง</string>
+	<string name="turn_off_xunlei_title">ปิดใช้งานเครื่องมือดาวน์โหลด Xunlei</string>
+	<string name="xunlei_switch">เครื่องมือดาวน์โหลด Xunlei</string>
 </resources>

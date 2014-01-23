@@ -1075,4 +1075,7 @@
 	<string name="resource_apply_trial">ลองใหม่ตอนนี้</string>
 	<string name="resource_download_trial">ทดลองใช้</string>
 	<string name="resource_on_trial">กำลังลองใหม่: %1$s</string>
+	<string name="callrecordview_menu_batch_delete">ลบ</string>
+	<string name="delete_call_log_selected_title">ลบบันทึกการโทรที่เลือก?</string>
+	<string name="toast_finish_delete_selected_call_log">ลบบันทึกการโทรที่เลือกแล้ว</string>
 </resources>

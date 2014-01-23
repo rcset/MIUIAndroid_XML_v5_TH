@@ -186,7 +186,6 @@
     <string name="eq_preset_hint">กรุณาใส่ชื่อรูปแบบเสียง</string>
     <string name="eq_preset_rename">เปลี่ยนชื่อ</string>
     <string name="eq_preset_select">เลือกรูปแบบเสียง</string>
-    <string name="eq_rb">อาร์ &amp; บี</string>
     <string name="eq_rock">ร็อค</string>
     <string name="no_effect">ไม่มีเอฟเฟค</string>
     <string name="equalizer_delete">ลบ</string>
