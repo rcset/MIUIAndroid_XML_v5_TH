@@ -57,4 +57,36 @@
         <item quantity="zero">%1$d รายการที่เลือก</item>
         <item quantity="one">%1$d รายการที่เลือก</item>
     </plurals>
+	<plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d รายการชื่นชอบ</item>
+        <item quantity="one">%1$d รายการชื่นชอบ</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">%1$d รายชื่อล่าสุด</item>
+        <item quantity="one">1 รายชื่อล่าสุด</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$d รายชื่อ</item>
+        <item quantity="one">%1$d รายชื่อ</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$d หมายเลข</item>
+        <item quantity="one">%1$d หมายเลข</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$d รายชื่ออีเมล</item>
+        <item quantity="one">1 รายชื่ออีเมล</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$d รายการชื่นชอบ</item>
+        <item quantity="one">%1$d รายการชื่นชอบ</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">%1$d รายชื่อล่าสุด</item>
+        <item quantity="one">%1$d รายชื่อล่าสุด</item>
+    </plurals>
+	    <plurals name="device_import_done_toast">
+        <item quantity="other">%1$d นำเข้ารายชื่อแล้ว</item>
+        <item quantity="one">%1$d นำเข้ารายชื่อแล้ว</item>
+    </plurals>
 </resources>

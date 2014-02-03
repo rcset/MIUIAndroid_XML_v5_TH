@@ -122,4 +122,6 @@
   <string name="act_weather_cycle_link_china">เครือข่ายพยากรณ์อากาศจีน</string>
   <string name="menu_add">เพิ่มเมือง</string>
   <string name="menu_more">รายละเอียด</string>
+  <string name="share_button_text">แบ่งปัน</string>
+  <string name="share_choice_titile">แบ่งปันข้อมูลพยากรณ์อากาศ</string>
 </resources>

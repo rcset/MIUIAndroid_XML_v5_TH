@@ -1078,4 +1078,5 @@
 	<string name="callrecordview_menu_batch_delete">ลบ</string>
 	<string name="delete_call_log_selected_title">ลบบันทึกการโทรที่เลือก?</string>
 	<string name="toast_finish_delete_selected_call_log">ลบบันทึกการโทรที่เลือกแล้ว</string>
+	<string name="yellowpage_navigation_send_to_desktop_succeeded">เพิ่มไปยังหน้าจอหลัก</string>
 </resources>
