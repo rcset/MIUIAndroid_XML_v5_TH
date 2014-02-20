@@ -98,7 +98,7 @@
     <string name="lunar_yue" />
     <string name="lunar_zheng" />
     <string name="memory_clear_nothing_result">หน่วยความจำว่างเปล่า</string>
-    <string name="memory_clear_result">ว่าง %1$s | ใช้ได้อีก %2$s</string>
+    <string name="memory_clear_result">ว่าง %1$s | ใช้ได้ %2$s</string>
     <string name="miui_copyright_title">ลิขสิทธิ์</string>
     <string name="miui_mibi_license_title">ข้อตกลงการใช้งาน Miเครดิต</string>
     <string name="miui_privacy_policy_title">นโยบายความเป็นส่วนตัว</string>
@@ -143,7 +143,7 @@
     <string name="screen_button_notification_title">ปุ่มหน้าจอปิดใช้งาน</string>
     <string name="screen_on_proximity_sensor_hint">เคล็ดลับ: กดปุ่มเปิด/ปิดเครื่องค้างไว้ เพื่อออกจากโหมดป้องกันการใช้งานแบบไม่ตั้งใจ ตั้งค่าใน - ตั้งค่าหน้าจอเพื่อปิดใช้งาน</string>
     <string name="screen_on_proximity_sensor_summary">ขณะนี้อยู่ในโหมดป้องกันการใช้งานแบบไม่ตั้งใจ การทำงานของโทรศัพท์จะถูกป้องกัน!</string>
-    <string name="screen_on_proximity_sensor_title">ป้องการการใช้งานแบบไม่ตั้งใจ</string>
+    <string name="screen_on_proximity_sensor_title">ป้องกันการใช้งานแบบไม่ตั้งใจ</string>
     <string name="sd_not_available">การ์ดความจำพร้อมถอดออก?</string>
     <string name="sd_not_available_low_internal_storage">การ์ดความจำไม่ได้ถูกเชื่อมต่อหรือไม่พร้อมใช้งาน ความจำเครื่องมีพื้นที่เหลือน้อย</string>
     <string name="sd_not_available_saved_to_internal_storage">บันทึกไปยังความจำเครื่อง</string>
@@ -157,7 +157,7 @@
     <string name="slight_cold" />
     <string name="slight_heat" />
     <string name="solar_calendar" />
-    <string name="speaker">Speaker</string>
+    <string name="speaker">ลำโพง</string>
     <string name="spring_begins" />
     <string name="stopping_the_heat" />
     <string name="summer_begins" />
@@ -237,7 +237,7 @@
     <string name="return_to_me_message">กรุณาย้อนกลับถ้าหาย</string>
     <string name="unlock_string">ตกลง</string>
     <string name="open_wifi_settings">เปิดการเชื่อมต่อเครือข่าย</string>
-    <string name="lock_screen_date">"yyyy/MM/dd 
+    <string name="lock_screen_date">"dd/MM/yyyy 
  EEEE"</string>
     <string name="unlockscreen_low_battery">เสียบสายชาร์จของคุณ</string>
     <string name="send">ส่ง</string>

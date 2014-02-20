@@ -1142,7 +1142,7 @@
     <string name="enable_sim_pin_miui">เปิดใช้งาน PIN ของซิม</string>
     <string name="enable_telocation_title_miui">แสดงตำแหน่ง</string>
     <string name="enforce_proximity_summary_miui">โทรศัพท์จะทำการล็อกอัตโนมัติเมื่อใส่กระเป๋า</string>
-    <string name="enforce_proximity_title_miui">ป้องการการโทรเมื่ออยู่ในกระเป๋า</string>
+    <string name="enforce_proximity_title_miui">ป้องกันการโทรเมื่ออยู่ในกระเป๋า</string>
     <string name="enter_pin2_text_miui">PIN2</string>
     <string name="fdn_change_pin_sum_miui">เปลี่ยน PIN เพื่อเข้าใช้ เลขหมายจำกัดการโทร</string>
     <string name="fdn_disabled_miui">เลขหมายจำกัดการโทร ปิดใช้งาน</string>
@@ -1224,7 +1224,7 @@
     <string name="pin2_locked_message_miui">ลองใหม่: PIN2 ไม่ถูกต้อง</string>
     <string name="pin2_lock_warning_miui">"PIN2 จะถูกล็อกหลังจากพบข้อผิดพลาดอื่นๆอีก"</string>
     <string name="pin_attempts_miui">%d ยังคงพยายามอยู่</string>
-    <string name="pin_changed_miui">SIM PIN เปลี่ยนแล้ว</string>
+    <string name="pin_changed_miui">PIN ซิมการ์ดเปลี่ยนแล้ว</string>
     <string name="pin_lock_warning_miui">"โทรศัพท์ของคุณจะถูกล็อกอัตโนมัติหลังจากพบข้อผิดพลาดอื่นๆอีก"</string>
     <string name="pin_progress_change_pin2_miui">กำลังเปลี่ยน PIN2…</string>
     <string name="pin_progress_change_pin_miui">กำลังเปลี่ยน PIN…</string>
