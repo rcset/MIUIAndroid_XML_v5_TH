@@ -1051,13 +1051,13 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="dndm_dlg_remove_vip">ลบจากรายการข้อยกเว้น?</string>
     <string name="dndm_menu_add_vip_custom">เพิ่มข้อยกเว้น</string>
     <string name="dndm_mute_all">เงียบเสียงโทรศัพท์และข้อความ</string>
-    <string name="dndm_notification">โหมดห้ามรบกวนทำงานแล้ว</string>
+    <string name="dndm_notification">โหมดห้ามรบกวน</string>
     <string name="dndm_open">ใช้งานโหมดห้ามรบกวน</string>
     <string name="dndm_repeated_call_setting_title">โทรซ้ำ</string>
     <string name="dndm_repeated_call_summary_3min">หากโทรเข้าอีกครั้งภายใน 3 นาที โทรศัพท์จะดังขึ้น</string>
     <string name="dndm_repeated_call_summary_none">เงียบเสียงโทรซ้ำจากหมายเลขเดียวกัน</string>
     <string name="dndm_special_call_setting_group">ข้อยกเว้น</string>
-    <string name="dndm_summary">เมื่อโหมดห้ามรบกวนถูกใช้งาน สายโทรศัพท์และการแจ้งเตือนจะถูกล็อกและเงียบเสียง</string>
+    <string name="dndm_summary">เมื่อโหมดห้ามรบกวนถูกใช้งาน สายโทรศัพท์และการแจ้งเตือนจะถูกเงียบเสียง</string>
     <string name="dndm_vip_call_button_title">อนุญาตสายโทรศัพท์จากข้อยกเว้น</string>
     <string name="dndm_vip_call_setting_title">การตั้งค่าข้อยกเว้น</string>
     <string name="dndm_vip_call_summary_contact">รายชื่อทั้งหมด</string>
