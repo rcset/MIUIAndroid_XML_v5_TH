@@ -49,7 +49,7 @@
     <string name="operation_delete_confirm_message_folder">ข้อมูลโฟลเดอร์ทั้งหมดจะถูกลบ
 </string>
     <string name="delete_folder">ลบโฟลเดอร์นี้?</string>
-    <string name="delete_folders">ลบ %1$d?</string>
+    <string name="delete_folders">ลบ %1$d โฟลเดอร์?</string>
     <string name="delete_file">ลบไฟล์นี้?</string>
     <string name="delete_files">ลบ %1$d ไฟล์?</string>
     <string name="delete_files_and_folders">ลบ %1$d ไฟล์และ %2$d โฟลเดอร์?</string>
@@ -150,7 +150,7 @@
     <string name="trash_box_message1">ลบไฟล์ที่ไม่จำเป็นออกเพื่อเพิ่มพื้นที่ว่าง</string>
     <string name="trash_box_message2">ทำความสะอาดถังรีไซเคิล เพื่อเพิ่มพื้นที่ว่าง</string>
     <string name="close">ปิด</string>
-    <string name="space_info">Miไดร์ฟ: %1$s เหลือ %2$s จากทั้งหมด</string>
+    <string name="space_info">Miไดร์ฟ:  เหลือ %1$s จาก %2$s</string>
     <string name="trash_box_capacity">ถังรีไซเคิล %1$s</string>
     <string name="data_capacity">ข้อมูล %1$s</string>
     <string name="send_to_midrive">Miไดร์ฟ</string>
@@ -158,15 +158,15 @@
     <string name="send_to_midrive_failed_message">ไม่สนับสนุนไฟล์ประเภทนี้</string>
     <string name="operation_compress">บีบอัด</string>
     <string name="compress_title">บีบอัด</string>
-    <string name="compress_message">บีบอัดไปที่ ...</string>
+    <string name="compress_message">บีบอัดไปที่</string>
     <string name="compress_fail">การบีบอัดล้มเหลว: มีไฟล์ที่มีชื่อเดียวกันอยู่แล้ว</string>
     <string name="operation_compressing">กำลังบีบอัด ...</string>
-    <string name="operation_decompressing">กำลังขยาย ...</string>
+    <string name="operation_decompressing">กำลังแตกไฟล์</string>
     <string name="decompress_success">การขยายเสร็จแล้ว</string>
     <string name="decompress_fail">การขยายล้มเหลว: เก็บเสียหายหรือไฟล์ที่มีชื่อเดียวกันที่มีอยู่แล้ว</string>
-    <string name="decompress_to_here">ขยายที่นี่;</string>
-    <string name="decompress_to">ขยายไปที่ ...</string>
-    <string name="decompress_confirm">ขยาย</string>
+    <string name="decompress_to_here">แตกไฟล์</string>
+    <string name="decompress_to">แตกไฟล์ไปที่</string>
+    <string name="decompress_confirm">แตกไฟล์</string>
     <string name="decompress_cancel">ยกเลิก</string>
     <string name="kuaipan_prompt">ข้อสังเกตุ</string>
     <string name="kuaipan_prompt_message">
@@ -239,7 +239,7 @@
     <string name="binded_accout_description">บัญชี Xiaomi ของคุณได้รับการซิงค์กับ Miไดร์ฟ ตอนนี้คุณสามารถใช้บัญชี Xiaomi ของคุณในการเข้าถึงข้อมูลที่คุณเก็บไว้ใน Miไดร์ฟ</string>
     <string name="file_cleanup">ล้างไฟล์</string>
     <string name="scanning_on_going">กำลังสแกน ...</string>
-    <string name="scanning" formatted="false">กำลังสแกน %d แอป … (รวม %d แอป)</string>
+    <string name="scanning" formatted="false">กำลังสแกน %d แอป … (ทั้งหมด %d แอป)</string>
     <string name="sys_size_title">ที่จัดเก็บข้อมูลรวม</string>
     <string name="sys_size">ที่จัดเก็บข้อมูลรวม %1$s</string>
     <string name="application_size_label">แอปพลิเคชัน</string>
@@ -253,9 +253,9 @@
     <string name="header_text_scanned">เสร็จสิ้นการสแกน</string>
     <string name="header_text_cleaning">กำลังทำความสะอาด ...</string>
     <string name="header_text_cleaned">ลบไฟล์ขยะแล้ว</string>
-    <string name="waiting_for_cleaning">รอสักครู่ ...</string>
+    <string name="waiting_for_cleaning">กรุณารอสักครู่ ...</string>
     <string name="item_name">โฟลเดอร์ไม่มีชื่อ</string>
-    <string name="waiting_for_scanning">รอสักครู่ ...</string>
+    <string name="waiting_for_scanning">กรุณารอสักครู่ ...</string>
     <string name="scanned">การสแกนเสร็จแล้ว</string>
     <string name="cleaning">กำลังทำความสะอาด ...</string>
     <string name="cleaned">ทำความสะอาดเสร็จสิ้น</string>
